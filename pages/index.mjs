@@ -6,6 +6,7 @@ import WebLink from 'components/web-link'
 import PageLink from 'components/page-link'
 import Link from 'next/link'
 import Bg from 'components/bg.js'
+import DownIcon from 'components/icons/down.js'
 
 const HomePage = () => {
   const app = useApp()
@@ -44,18 +45,21 @@ const HomePage = () => {
           </h2>
         </div>
         <div className="w-64 flex flex-col gap-8">
+          <div>
+          <DownIcon className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20 animate-bounce w-full m-auto"/>
           <Link href="/start">
             <button className="btn btn-primary btn-lg w-full">
               Start learning
             </button>
           </Link>
+          </div>
           <Link href="/about">
             <button className="btn btn-lg w-full btn-outline btn-neutral">
               About this site
             </button>
           </Link>
         </div>
-        <p className="text-base text-center font-black text-xl lg:text-2x xl:text-4xl">
+        <p className="text-base text-center font-black text-xl lg:text-2x xl:text-4xl mb-8">
           How hard can it be?
           <span className="block text-sm opacity-50 lg:text-xl xl:text-2xl">( famous last words )</span>
         </p>

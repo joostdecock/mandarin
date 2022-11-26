@@ -1,7 +1,7 @@
 const WebLink = ({ href, txt }) => (
   <a href={href} className={`
-    text-lg font-bold text-secondary
-    hover:text-secondary-focus hover:underline`}
+    text-lg text-secondary underline
+    hover:text-secondary-focus`}
   title={txt}>{txt}</a>
 )
 

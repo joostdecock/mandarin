@@ -6,7 +6,6 @@ import MenuIcon from 'components/icons/menu.js'
 import SearchIcon from 'components/icons/search.js'
 import { WordMark } from 'components/wordmark.js'
 
-
 const Header = ({ app, setSearch }) => {
   const [prevScrollPos, setPrevScrollPos] = useState(0)
   const [show, setShow] = useState(true)
@@ -63,8 +62,9 @@ const Header = ({ app, setSearch }) => {
               onClick={() => setSearch(true)}
               className="btn btn-sm btn-ghost hover:text-secondary-focus"
             >
-              <SearchIcon />
+              <SearchIcon className="w-8 h-8"/>
             </button>
+            <ThemePicker app={app} />
           </div>
           <div className="hidden lg:flex flex-row items-center">
             <button

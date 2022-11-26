@@ -6,7 +6,7 @@ module.exports = {
 
   'base-100': colors.neutral['900'],
   'base-200': colors.neutral['700'],
-  'base-300': colors.neutral['600'],
+  'base-300': colors.neutral['500'],
   'base-content': colors.neutral['300'],
 
   primary: colors.violet['600'],
