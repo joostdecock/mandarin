@@ -8,7 +8,7 @@ export const Menu = () => (
     <ul className="list list-inside list-disc leading-11 text-lg">
       <li><PageLink href="/" txt="Home page"/></li>
       <li><PageLink href="/_about" txt="About this website"/></li>
-      <li><PageLink href="/_help" txt="Help"/></li>
+      <li><PageLink href="/_help" txt="Help & Support"/></li>
     </ul>
     <h2>Practice random words</h2>
     <Link href={`/开始`}>

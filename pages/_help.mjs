@@ -48,6 +48,13 @@ const HelpPage = () => {
     <Page app={app} title="Welcome to mandarin.joost.at" layout={Layout}>
       <div className="max-w-xl p-4 lg:mt-24 m-auto">
         <h1>Help and Support</h1>
+        <h2>Did you find a mistake?</h2>
+        <p className="text-lg">
+          If you see something that needs improvement, <WebLink 
+          href="https://github.com/joostdecock/mandarin" 
+          txt="the source code of this website is available on Github" />.
+          Pull requests welcome!
+        </p>
         <h2>Help with the website</h2>
         <p>
           The main portion of this website are pages that let you train words.
@@ -81,8 +88,7 @@ const HelpPage = () => {
         <h2>Help with learning Chinese</h2>
         <p>
           Apart from the material on this website, I cannot help you with that. 
-        </p>
-        <p>
+          <br/>
           However I can recommend excellent tutors with whom I have first-hand experience:
         </p>
         <Tutors />

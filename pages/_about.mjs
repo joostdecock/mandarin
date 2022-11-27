@@ -62,7 +62,6 @@ const AboutPage = () => {
           txt="the source code of this website is available on Github" />.
           Pull requests welcome!
         </p>
-        
       
       </div> 
     </Page>
