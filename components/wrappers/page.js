@@ -12,14 +12,20 @@ import Modal from 'components/modal'
 const PageWrapper = ({
   title = 'FIXME: No title set',
   noSearch = false,
+  onSwipedLeft = false,
+  onSwipedRight = false,
   app = false,
   layout = Docs,
   crumbs = false,
   children = [],
 }) => {
   const swipeHandlers = useSwipeable({
-    onSwipedLeft: () => (app.primaryMenu ? app.setPrimaryMenu(false) : null),
-    onSwipedRight: () => (app.primaryMenu ? null : app.setPrimaryMenu(true)),
+    onSwipedLeft: onSwipedLeft
+      ? onSwipedLeft
+      : () => (app.primaryMenu ? app.setPrimaryMenu(false) : null),
+    onSwipedRight: onSwipedRight
+      ? onSwipedRight
+      : () => (app.primaryMenu ? null : app.setPrimaryMenu(true)),
     trackMouse: true,
   })
 

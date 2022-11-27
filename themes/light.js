@@ -15,7 +15,7 @@ module.exports = {
 
   secondary: colors.violet['400'],
   'secondary-focus': colors.violet['700'],
-  'secondary-content': colors.violet['200'],
+  'secondary-content': colors.violet['50'],
 
   accent: colors.yellow['300'],
   'accent-focus': colors.pink['300'],

@@ -62,7 +62,7 @@ const Header = ({ app, setSearch }) => {
               onClick={() => setSearch(true)}
               className="btn btn-sm btn-ghost hover:text-secondary-focus"
             >
-              <SearchIcon className="w-8 h-8"/>
+              <SearchIcon />
             </button>
             <ThemePicker app={app} />
           </div>

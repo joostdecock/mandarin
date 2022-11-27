@@ -55,11 +55,14 @@ const HomePage = () => {
             </button>
           </Link>
           </div>
-          <Link href="/_about">
-            <button className="btn btn-lg w-full btn-outline btn-neutral">
+          <div>
+            <Link href="/_about" className="btn w-full btn-link btn-neutral text-base-content">
               About this site
-            </button>
-          </Link>
+            </Link>
+            <Link href="/_help" className="btn w-full btn-link btn-neutral text-base-content">
+                Help & Support
+            </Link>
+          </div>
         </div>
         <p className="text-base text-center font-black text-xl lg:text-2x xl:text-4xl mb-8">
           How hard can it be?

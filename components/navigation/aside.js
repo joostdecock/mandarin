@@ -4,11 +4,17 @@ import PageLink from 'components/page-link'
 
 export const Menu = () => (
   <>
+    <h2>Help & Info</h2>
+    <ul className="list list-inside list-disc leading-11 text-lg">
+      <li><PageLink href="/" txt="Home page"/></li>
+      <li><PageLink href="/_about" txt="About this website"/></li>
+      <li><PageLink href="/_help" txt="Help"/></li>
+    </ul>
     <h2>Practice random words</h2>
     <Link href={`/开始`}>
       <button className="btn btn-secondary w-full my-4">Start here</button>
     </Link> 
-    <h2>Per category</h2>
+    <h2>Words per category</h2>
     <ul className="list list-inside list-disc leading-11 text-lg">
     {Object.keys(categories).map(cat => (
       <li key={cat}>
