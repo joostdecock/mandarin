@@ -51,6 +51,11 @@ to sleep:
     - go to bed
   memo: TODO
 
+to start:
+  cn: 开始
+  py: Kāishǐ
+  memo: TODO
+
 to watch: 
   cn: 观
   py: guān
@@ -60,8 +65,3 @@ to watch:
   memo: | 
     We've got party guy swinging his tie around, together with the symbol for see. 
     It's a sight to watch, that's for sure.
-
-to work:
-  cn: 工
-  py: gōng
-  memo: This looks like a steel I-beam (aka H-beam). You don't carry those around for fun. This is work.

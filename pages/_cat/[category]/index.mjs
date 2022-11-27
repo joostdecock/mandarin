@@ -47,7 +47,7 @@ const CategoryPage = (props) => {
   const app = useApp()
   return (
     <Page app={app} title="Welcome to mandarin.joost.at" layout={Layout}>
-      <div className="max-w-xl py-8 flex flex-col items-center justify-center px-4 gap-4 m-auto">
+      <div className="max-w-xl py-8 flex flex-col items-center justify-center px-4 gap-4 m-auto pt-4 lg:pt-24">
         <h1 className="text-center text-5xl capitalize">
           <span className="block text-xl opacity-50">Category:</span>
           {props.category}

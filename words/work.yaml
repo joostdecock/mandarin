@@ -11,10 +11,10 @@ department:
   py: xì
   memo: TODO
 
-start:
-  cn: 开始
-  py: Kāishǐ
-  memo: TODO
+work:
+  cn: 工
+  py: gōng
+  memo: This looks like a steel I-beam (aka H-beam). You don't carry those around for fun. This is work.
 
 yaun:
   cn: 元

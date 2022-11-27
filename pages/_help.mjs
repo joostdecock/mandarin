@@ -59,6 +59,8 @@ const HelpPage = () => {
           <p>Use this when you are confident you know the word.</p>
           <h4><em>Swipe right</em> reveals the notes and translation</h4>
           <p>Use this is when are not sure you know the word.</p>
+          <h4><em>Tab the title</em> to hear the pronounciation</h4>
+          <p>Note that this will play an audio clip.</p>
         </div>
         <div className="hidden lg:block">
           <ol className="list list-inside list-decimal text-xl">
@@ -69,6 +71,10 @@ const HelpPage = () => {
             <li>
               <b>The <code className="border px-2 py-1 bg-base-200 rounded-lg">Show notes</code> button reveals the notes and translation</b>
               <span className='block text-base-300 text-sm pt-1 pb-3'>Use this when you are not sure you know the word.</span>
+            </li>
+            <li>
+              <b>Click on the main word/title to hear the pronounciation</b>
+              <span className='block text-base-300 text-sm pt-1 pb-3'>Note that this will play an audio clip.</span>
             </li>
           </ol>
         </div>

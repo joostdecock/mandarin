@@ -14,6 +14,11 @@ export const Menu = () => (
     <Link href={`/开始`}>
       <button className="btn btn-secondary w-full my-4">Start here</button>
     </Link> 
+    <h2>Content</h2>
+    <ul className="list list-inside list-disc leading-11 text-lg">
+      <li><PageLink href="/_list" txt="All words"/></li>
+      <li><PageLink href="/_cat" txt="Categories"/></li>
+    </ul>
     <h2>Words per category</h2>
     <ul className="list list-inside list-disc leading-11 text-lg">
     {Object.keys(categories).map(cat => (

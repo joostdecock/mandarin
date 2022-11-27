@@ -44,7 +44,8 @@
     "rehype-sanitize": "^5.0.1",
     "rehype-slug": "^5.0.1",
     "rehype-stringify": "^9.0.2",
-    "remark-gfm": "^3.0.1"
+    "remark-gfm": "^3.0.1",
+    "use-sound": "^4.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",

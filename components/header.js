@@ -50,12 +50,20 @@ const Header = ({ app, setSearch }) => {
             >
               {app.primaryMenu ? <CloseIcon /> : <MenuIcon />}
             </button>
-            <div className="hidden lg:block">
-              <WordMark className="text-gray-50"/>
+            <div className="hidden lg:flex flex-row gap-4 items-center">
+              <Link href="/_list">
+                <button className="btn btn-ghost">All words</button>
+              </Link>
+              <Link href="/_cat">
+                <button className="btn btn-ghost">Categories</button>
+              </Link>
+              <Link href="/_about">
+                <button className="btn btn-ghost">About this site</button>
+              </Link>
+              <Link href="/_help">
+                <button className="btn btn-ghost">Help &amp; Support</button>
+              </Link>
             </div>
-          </div>
-          <div className="flex flex-row items-center lg:hidden">
-            <WordMark className="text-gray-50"/>
           </div>
           <div className="flex flex-row items-center lg:hidden pr-2">
             <button

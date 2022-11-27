@@ -11,6 +11,7 @@ import { asSlug } from 'scripts/utils.mjs'
 import Link from 'next/link'
 import NextIcon from 'components/icons/next.js'
 import { useRouter } from 'next/router'
+import PlayButton from 'components/audio.mjs'
 
 const TranslationButton = ({ target, word }) => (
   <Link href={asSlug(word[target])}>
@@ -49,7 +50,10 @@ const WordPage = (props) => {
   return (
     <Page app={app} title="Welcome to mandarin.joost.at" layout={Layout} onSwipedLeft={nextWord} onSwipedRight={revealMemo}>
       <div className="max-w-xl h-screen flex flex-col items-center justify-center px-4 gap-4 m-auto">
-        <h1 className="text-center text-7xl">{props[props.type]}
+        <h1 className="text-center text-7xl">
+          <PlayButton word={props.cn}>
+            {props[props.type]}
+          </PlayButton>
         {show && (
           <div className="flex flex-row gap-4 items-center mt-2">
             <Link className="block text-sm text-secondary underline" href={asSlug(props.py)}>{props.py}</Link>
@@ -65,9 +69,9 @@ const WordPage = (props) => {
         >{show ? 'Hide' : 'Show'} memo
         </button>
         <button 
-          className="btn btn-secondary btn-wide btn-lg mt-8 lg:flex flex-row justify-between btn-outline border-2 hidden"
+          className="btn btn-secondary btn-wide btn-lg mt-8 lg:block btn-outline border-2 hidden"
           onClick={nextWord}
-        ><NextIcon /> next  <NextIcon /></button>
+        >next</button>
       </div> 
     </Page>
   )
