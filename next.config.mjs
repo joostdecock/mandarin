@@ -6,6 +6,11 @@ let config = {
   eslint: { ignoreDuringBuilds: true },
   pageExtensions: ['mjs'],
   webpack: (config, options) => {
+    // Fixes npm packages that depend on node modules
+    if (!options.isServer) {
+      config.resolve.fallback.fs = false
+      config.resolve.fallback.path = false
+    }
 
     // YAML support
     config.module.rules.push({
@@ -17,7 +22,8 @@ let config = {
     config.resolve.alias.site = path.resolve(`.`)
     config.resolve.alias.components = path.resolve(`./components/`)
     config.resolve.alias.hooks = path.resolve(`./hooks/`)
-    config.resolve.alias.words = path.resolve(`./words/`)
+    config.resolve.alias.scripts = path.resolve(`./scripts/`)
+    config.resolve.alias.prebuild = path.resolve(`./prebuild/`)
 
     return config
   },

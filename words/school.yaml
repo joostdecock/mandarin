@@ -1,0 +1,21 @@
+student:
+  cn: 学生
+  py: xuéshēng
+  memo: TODO
+
+teacher:
+  cn: 老师
+  py: lǎoshī
+  memo: | 
+    Two characters.
+
+    老 (old) is a bit too zoomed-in, but we see a bit of a wheelchair wheel here along with some 
+    wheelchair frame and that brake-part of the wheelchair that you can block the wheel with. 
+    Anyway, wheelchair = old
+
+    师 (division), and if that that second line from the left is not creating a division across 
+    this character, then I don't know what is.
+
+    Not really sure why old division is teachers, but teachers are typically old and they do enjoy 
+    dividing your day into boring sessions of them droning on.
+

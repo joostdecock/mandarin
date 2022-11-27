@@ -1,0 +1,18 @@
+bed:
+  cn: 床
+  py: chuáng
+  also:
+    - couch
+  memo: Granted, it's upside-down (China you know) but this is clearly a couch (with a book).
+
+clock:
+  cn: 钟
+  py: zhōng
+  memo: TODO
+
+book:
+  cn: 书
+  py: shū
+  memo: |
+    Looks like two books stacked on top of each other. 
+    Also a bit like a letter B, if that helps.

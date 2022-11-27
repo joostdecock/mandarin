@@ -1,0 +1,22 @@
+cloud:
+  cn: 云
+  py: yùn
+  memo: TODO
+
+day:
+  cn: 日
+  py: rì
+  also:
+    - sun
+  memo: TODO
+
+mountain:
+  cn: 山
+  py: shān
+  memo: TODO
+
+star:
+  cn: 星
+  py: xīng
+  memo: TODO
+

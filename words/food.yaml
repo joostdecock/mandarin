@@ -1,0 +1,53 @@
+dish:
+  cn: 菜
+  py: cài
+  also:
+    - type of food
+  memo: This is clearly some sort of hot plate with a dish on top that seems to involve meat skewers.
+
+eat:
+  cn: 吃
+  py: chī
+  memo: |
+    We see a person's legs here. 
+    They are seated on their knees under one of them low tables, and we can see their arm reaching out, 
+    chopsticks in their hand, grabbing some of that rectangular thing on the left which might be tofu perhaps? 
+    In any case, they are eating.
+
+egg:
+  cn: 鸡蛋
+  py: jīdàn
+  memo: |
+    Two characters. 
+
+    鸡 (chicken) has the party guy here dancing the funky chicken. 
+    You can see because the right part looks a bit like an S.
+    
+    蛋 (egg) is a bit abstract but bear with me.
+    We've got the air chamber at the top, the yoke at the bottom and then there's 
+    the eggwhite sort of swimming around that and it's attached to the shell at the top. 
+    The yoke is trying to break out of the shell because I guess this egg was fertilized 
+    and that yoke is now a chick.
+
+fire: 
+  cn: 火
+  py: huǒ
+  memo: Looks like  twigs/tinder and flames shooting from those twigs.
+
+heat:
+  cn: 热
+  py: rè
+  memo: TODO
+
+hotpot:
+  cn: 火锅
+  py: Huǒguō
+  memo: (*fire character* + *pot character*) = hotpot
+
+pot:
+  cn: 锅
+  py: guō
+  memo: | 
+    Looks like a person with a ribbon in their hair standing at a table. 
+    Under the table are twigs (like in the fire symbol) and there's a pot on top of the table/fire.
+

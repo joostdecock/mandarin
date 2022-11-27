@@ -1,0 +1,67 @@
+to call:
+  cn: 叫
+  py: jiào
+  also:
+    - to be called
+    - to shout
+    - to order
+    - to ask
+  memo: |
+    That looks like a person operating one of those mechanical morse code switches. 
+    Because that's how they used to make calls.
+
+to climb a mountain:
+  cn: 爬山
+  py: pá shān
+  memo: Climb a mountain
+
+to come out:
+  cn: 出
+  py: chū
+  also:
+    - get out
+  memo: | 
+    When people tell you come out, they might follow it up with 
+    *with your hands in the air* and that's what's going on here.
+
+to like:
+  cn: 喜欢
+  py: xǐhuān
+  memo: (*happiness character* + *joyous character*) = like.
+
+to raise:
+  cn: 起
+  py: qĭ
+  memo: TODO
+
+to rest:
+  cn: 休息
+  py: xiūxi
+  memo: TODO
+
+to see:
+  cn: 见
+  py: jiàn
+  memo: Tell me that does not look like the scope of a gun. Like, the thing you see through. 
+
+to sleep:
+  cn: 睡觉
+  py: shuìjiào
+  also: 
+    - go to bed
+  memo: TODO
+
+to watch: 
+  cn: 观
+  py: guān
+  also:
+    - look
+    - sight
+  memo: | 
+    We've got party guy swinging his tie around, together with the symbol for see. 
+    It's a sight to watch, that's for sure.
+
+to work:
+  cn: 工
+  py: gōng
+  memo: This looks like a steel I-beam (aka H-beam). You don't carry those around for fun. This is work.

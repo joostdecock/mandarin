@@ -1,0 +1,29 @@
+grandfather:
+  cn: 爷爷
+  py: yéyé
+  memo: TODO
+
+grandmother:
+  cn: 奶奶
+  py: nǎinai
+  memo: | 
+    The character from *good* on the left, but now ATM on the right (as for mama) but 
+    rather a counter of a bank because back in grandma's days, there were no ATMs.
+
+mama: 
+  cn: 妈妈
+  py: māmā
+  memo: | 
+    The left part of this sign is also used in the symbol for *good*.
+    The right looks like an ATM machine. 
+    Because you know mama is your best ATM. 
+
+papa:
+  cn: 爸爸
+  py: bàba
+  memo: | 
+     First up, this is the same symbol twice. 
+     Each has 2 hammers and an iron that's upside-down. 
+     It's upside-down becase ironing is mama's job. 
+     Fixing the iron with a hammer though, totally papa's job.
+

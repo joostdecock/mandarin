@@ -7,9 +7,11 @@ import PageLink from 'components/page-link'
 import Link from 'next/link'
 import Bg from 'components/bg.js'
 import DownIcon from 'components/icons/down.js'
+import words from 'prebuild/words.mjs'
 
 const HomePage = () => {
   const app = useApp()
+
   return (
     <Page app={app} title="Welcome to mandarin.joost.at" layout={Layout}>
       <Head>
@@ -47,13 +49,13 @@ const HomePage = () => {
         <div className="w-64 flex flex-col gap-8">
           <div>
           <DownIcon className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20 animate-bounce w-full m-auto"/>
-          <Link href="/start">
+          <Link href="/_start">
             <button className="btn btn-primary btn-lg w-full">
               Start learning
             </button>
           </Link>
           </div>
-          <Link href="/about">
+          <Link href="/_about">
             <button className="btn btn-lg w-full btn-outline btn-neutral">
               About this site
             </button>

@@ -11,14 +11,11 @@
     "url": "https://github.com/joostdecock/mandarin/issues"
   },
   "scripts": {
-    "dev": "node --experimental-json-modules ./node_modules/.bin/next dev -p 8000",
+    "dev": "node ./node_modules/.bin/next dev -p 8000",
     "develop": "next dev -p 3002",
-    "prebuild": "node --experimental-json-modules ./prebuild/index.mjs",
-    "build": "node --experimental-json-modules ./node_modules/.bin/next build",
-    "cibuild": "yarn prebuild && node --experimental-json-modules ./node_modules/.bin/next build && node scripts/algolia.mjs",
-    "start": "yarn prebuild && node --experimental-json-modules ./node_modules/.bin/next dev -p 8000",
-    "lint": "next lint",
-    "serve": "pm2 start npm --name 'mandarin' -- run start"
+    "prebuild": "node ./scripts/prebuild.mjs",
+    "build": "node ./node_modules/.bin/next build",
+    "lint": "next lint"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.1",
@@ -42,6 +39,7 @@
     "react-markdown": "^8.0.3",
     "react-swipeable": "^7.0.0",
     "react-timeago": "^7.1.0",
+    "recursive-readdir": "^2.2.3",
     "rehype-autolink-headings": "^6.1.1",
     "rehype-sanitize": "^5.0.1",
     "rehype-slug": "^5.0.1",

@@ -1,0 +1,91 @@
+good: 
+  cn: 好
+  py: hăo
+  memo: | 
+    This is a guy wielding one of those long pizza scoopers to put pizza in the oven.
+    And all pizza is good.
+
+goodbye:
+  cn: 再见
+  py: zàijiàn
+  memo: TODO
+
+me:
+  cn: 我
+  py: wǒ
+  also: 
+    - I
+  memo: TODO
+
+name (of someone/thing):
+  cn: 名字
+  py: míng zi
+  memo: |
+    Two characters.
+    
+    名 (name) is a person with a cute hairstyle wearing a commically oversized name tag to put their name on.
+    字 (character/word), in Chinese we try to cram as much as possible in a single character/word.
+    Here you see a character being made, with the press to cram all that info in shown at the top.
+
+    This is pretty meta, but it's saying *this is the name character*, in other words: the name of.
+
+nevermind: 
+  cn: 没关系
+  py: méiguānxì
+  memo: | 
+    Three characters. 
+  
+    没 (no), you know this one
+    关 (close) is the fire symbol with two lids on top of it to **close** the fire (as in, put it out)
+    系 (tie (verb)); somebody is tied down on a bed here. 
+    It's not my thing, but hey, don't kink-shame. To each their own.
+
+    So no-close-tie means, no need to tie this up all neatly, nevermind.
+
+person:
+  cn: 人
+  py: rén
+  memo: Like two legs of a person walking.
+
+sorry:
+  cn: 对不起
+  py: duìbùqǐ
+  memo: | 
+    Three characters here. 
+
+    对 (right), see that little piece falling down?
+    That's because this character dislocated its shoulder from padding itself on the back for being so right. 
+    Party guy is also waving his tie around to celebrate.
+
+    不 (not). You know this one
+    起 (rise) shows a radiator and cold air getting sucked in and then rising as it warms up. 
+    Not sure what the upside-down 2 is about.
+
+    Saying - *You are right, do not rise your temper, I'm sorry*. 
+
+thanks:
+  cn: 谢谢
+  py: xièxiè
+  memo: TODO
+
+you:
+  cn: 你
+  py: nĭ
+  memo: TODO
+
+you (formal):
+  cn: 您
+  py: nín
+  notes: Typically used when addressing old people.
+  memo: TODO
+
+you're welcome: 
+  cn: 别客气
+  py: bié kèqì
+  memo: | 
+    Three characters here; 
+    别 (do not) is a guy facing not one but two walls. Clearly do not.
+    客 (guest) is a bed with under a roof with some fancy drapes over it. Clearly a hotel, so guest.
+    气 (gas/energy) or how else do you draw a fart?
+    Guest and energy together mean polite. 
+    Do not polite or do not guest energy is saying, No need to be so polite, you're welcome!*

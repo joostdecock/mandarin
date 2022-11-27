@@ -1,0 +1,45 @@
+also:
+  cn: 也
+  py: yě
+  memo: | 
+    Left - Hey, I look like a wonky `t` character.
+    Right - <small>Hey, I **also** look like a wonky `t` character</small>.
+    **Also** sounds like Ye, like that american artist who is **also** racist by the way.
+
+is:
+  cn: 是
+  py: shi
+  also:
+    - are
+    - to be
+  memo: TODO
+
+no:
+  cn: 没
+  py: méi
+  also: 
+    - not
+  memo: | 
+    That's a smith's anvil (and hammer on the left) with a bucket of water dunked all over it. 
+    That is a big NO NO. The smith will not be happy if you dunk water on his anvil.
+
+not:
+  cn: 不
+  py: bù
+  memo: |
+    You've got an array point upwards saying, this way. 
+    And then there's just a wall there saying: Nope, **not** this way. 
+    Poor arrow smashed so hard into that wall one of its arms broke off. 
+    This is **not** the way to go, clearly.
+
+what:
+  cn: 什么
+  py: shén me
+  also: 
+    - who
+  memo: TODO
+
+who:
+  cn: 谁
+  py: shéi
+  memo: TODO

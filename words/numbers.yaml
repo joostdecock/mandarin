@@ -1,0 +1,82 @@
+0: 
+  cn: 零
+  py: líng
+  memo: |
+    Zero is weird, and so is this character. 
+    We've got a table with a bench that for some weird reason sits on top of a 
+    small house that has a PI symbol in it, which is a handy reminder that this
+    is about mathematics. Still, it makes **zero** sense.
+
+1: 
+  cn: 一
+  py: yī
+  memo: Like the roman numeral, but on its side. I hope you can remember at least this one.
+
+2: 
+  cn: 二
+  py: èr
+  memo: Like the roman numeral, but on its side. Also - like one, but twice, because 1 + 1 = 2
+
+3: 
+  cn: 三
+  py: sān
+  memo: Like the roman numeral, but on it's side. Three layers, like and Oreo cookie.
+
+4:
+  cn: 四
+  py: sì
+  memo: This is a PI symbol in a room stuck to the ceiling. And if you `ceil(PI)` you get four, that's a fact.
+
+5:
+  cn: 五
+  py: wǔ
+  memo: |
+    If you squint, there's a 5 in there. Just ignore the left part. 
+    Also, this is the three character with two extra lines, so five.
+
+6: 
+  cn: 六
+  py: liù
+  memo: I don't want to be *that guy* but six sounds like sex and if this is not a person spread eagle to get railed, I don't know what is.
+
+7: 
+  cn: 七
+  py: qī
+  memo: This is just an upside-down 7. Which makes sense since it's in China so it would be upside-down.
+
+8: 
+  cn: 八
+  py: bā
+  memo: |
+    You know how an 8 on its side looks like boobs? 
+    If this is not cleavage we're looking at here, then I guess I'm weird. 
+    But that's how I remember it.
+
+9: 
+  cn: 九
+  py: jiǔ
+  memo: |
+    I find this one hard to explain, but my trick is that there's a bit of a J shape in there. 
+    So maybe that means that in China I could be a 9?
+
+10:
+  cn: 十
+  py: shí
+  memo: |
+    Not sure why it's a plus symbol. 
+    But it makes sense that for 10 you'd want something strong and symetric. 
+    Something confident that says *I'm a ten* so I guess this is it.
+
+100:
+  cn: 百
+  py: bǎi
+  memo: |
+    At one point you're going to have so much that you need to put that in a little box 
+    with a carrying handle. That box holds 100 of whatever.
+
+1000:
+  cn: 千
+  py: qiān
+  memo: |
+    I don't know exactly why that one extra line to the symbol for 10
+    raises it to the third power, but I don't make the rules. 

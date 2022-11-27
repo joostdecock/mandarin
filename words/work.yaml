@@ -1,0 +1,24 @@
+correct:
+  cn: 对
+  py: duì
+  memo: |
+    See that little piece falling down? 
+    That's because this character dislocated its shoulder from padding itself on the back for being so correct. 
+    Party guy is also waving his tie around to celebrate.
+
+department:
+  cn: 系
+  py: xì
+  memo: TODO
+
+start:
+  cn: 开始
+  py: Kāishǐ
+  memo: TODO
+
+yaun:
+  cn: 元
+  py: yuán
+  also:
+    - currency unit
+  memo: TODO

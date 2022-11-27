@@ -1,3 +1,25 @@
+import categories from 'prebuild/categories.mjs'
+import Link from 'next/link'
+import PageLink from 'components/page-link'
+
+export const Menu = () => (
+  <>
+    <h2>Practice random words</h2>
+    <Link href={`/开始`}>
+      <button className="btn btn-secondary w-full my-4">Start here</button>
+    </Link> 
+    <h2>Per category</h2>
+    <ul className="list list-inside list-disc leading-11 text-lg">
+    {Object.keys(categories).map(cat => (
+      <li key={cat}>
+        <PageLink href={`/_cat/${cat}`} txt={cat} className="capitalize txt-lg"/>
+        <span className="text-sm text-base-300"> ({categories[cat].length} words)</span>
+      </li>
+    ))}
+    </ul>
+  </>
+)
+
 const Aside = ({ app, slug, mobileOnly = false, before = [], after = [] }) => (
   <aside
     className={`
@@ -14,10 +36,7 @@ const Aside = ({ app, slug, mobileOnly = false, before = [], after = [] }) => (
     w-full
   `}
   >
-    <div>
-      {before}
-      {after}
-    </div>
+    <div><Menu /></div>
   </aside>
 )
 

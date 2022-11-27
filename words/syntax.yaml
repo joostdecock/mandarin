@@ -1,0 +1,10 @@
+Question particle for yes/no questions:
+  cn: 吗
+  py: ma
+  memo: Person looking at the ATM with the suspense of *will it work or not?* (yes/no answer).
+
+Plural suffix for person:
+  cn: 们
+  py: mén
+  memo: Two people under the shower. No clothes, not nothing. Just people.
+

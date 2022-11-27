@@ -1,0 +1,16 @@
+bear:
+  cn: 熊
+  py: xióng
+  memo: TODO
+
+panda:
+  cn: 熊猫
+  py: xióng māo
+  memo: TODO
+
+sheep:
+  cn: 羊
+  py: yáng
+  also:
+    - goat
+  memo: TODO
