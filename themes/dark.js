@@ -13,9 +13,9 @@ module.exports = {
   'primary-focus': colors.violet['600'],
   'primary-content': colors.yellow['200'],
 
-  secondary: colors.pink['200'],
+  secondary: colors.pink['400'],
   'secondary-focus': colors.pink['400'],
-  'secondary-content': colors.pink['50'],
+  'secondary-content': colors.neutral['900'],
 
   accent: colors.pink['500'],
   'accent-focus': colors.pink['400'],
