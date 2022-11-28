@@ -12,7 +12,7 @@ const tutors = {
   jing: {
     url: 'https://preply.com/en/tutor/1545267',
     about: [
-      'Jing is patient, knowledgeable, has perfect English and is fun to hang out with.',
+      'Jing is patient, knowledgeable, has great English and is fun to hang out with.',
       'If you prefer to learn from a friend, Jing is the tutor for you.',
     ]
   },
