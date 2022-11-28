@@ -1,6 +1,7 @@
 refrigirator:
   cn: 冰箱
   py: bīngxiāng
+  set: 1
   memo: | 
     冰 means ice and 箱 means box. So pretty obvious if you know those two. 
     Ice is essentially the symbol for water but all cracked up because it's now frozen. 

@@ -1,11 +1,17 @@
 student:
   cn: 学生
   py: xuéshēng
-  memo: TODO
+  set: 1
+  memo: |
+    On the left we see an adorable schoolgirl with cute little bows in her hair.
+    But it's not a good day for her because she was called to the blackboard by the teacher.
+    Clearly every <b>student's</b> worst nightmare.
+    Also, individually, these characters are <em>study</em> and <em>pregnancy</em> so I guess that makes sense?
 
 teacher:
   cn: 老师
   py: lǎoshī
+  set: 1
   memo: | 
     Two characters.
 

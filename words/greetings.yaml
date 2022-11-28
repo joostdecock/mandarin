@@ -1,6 +1,13 @@
+again:
+  cn: 再
+  py: zài
+  set: 1
+  memo: This is clearly a drone about to take off <b>again</b>.
+
 good: 
   cn: 好
   py: hăo
+  set: 1
   memo: | 
     This is a guy wielding one of those long pizza scoopers to put pizza in the oven.
     And all pizza is good.
@@ -8,18 +15,23 @@ good:
 goodbye:
   cn: 再见
   py: zàijiàn
-  memo: TODO
+  set: 1
+  memo: The <a href="/再">again</a> character plus the <a href="/见">see</a> character = <b>goodbye</b>
 
 me:
   cn: 我
   py: wǒ
   also: 
     - I
-  memo: TODO
+  set: 1
+  memo: |
+    You got to love yourself, you know. 
+    So here we have a guy on the right who is high-fiving their own reflection in the mirror on the left.
 
 name (of someone/thing):
   cn: 名字
   py: míng zi
+  set: 1
   memo: |
     Two characters.
     
@@ -32,6 +44,7 @@ name (of someone/thing):
 nevermind: 
   cn: 没关系
   py: méiguānxì
+  set: 1
   memo: | 
     Three characters. 
   
@@ -45,11 +58,13 @@ nevermind:
 person:
   cn: 人
   py: rén
+  set: 1
   memo: Like two legs of a person walking.
 
 sorry:
   cn: 对不起
   py: duìbùqǐ
+  set: 1
   memo: | 
     Three characters here. 
 
@@ -66,22 +81,36 @@ sorry:
 thanks:
   cn: 谢谢
   py: xièxiè
-  memo: TODO
+  set: 1
+  memo: |
+    You see two people standing at the water cooler. The person on the left nods there head to say <b>thanks</b>.
+    Note that one of these symbols is <em>thank-you</em> as an adjective (like a thank-you card).
+    Together they are proper <b>thanks</b>.
 
 you:
   cn: 你
   py: nĭ
-  memo: TODO
+  set: 1
+  memo: |
+    If you squint your eyes, you can see yourself on the shower here.
+    You should check your ego, because it's good to be humble.
+    That's what there's a <a href="/小">small</a> character inside <b>you</b>.
 
 you (formal):
   cn: 您
   py: nín
   notes: Typically used when addressing old people.
-  memo: TODO
+  set: 1
+  memo: |
+    If you remember the character for <a href="/你">you</a> it's essentially a small you under the shower.
+    This is the more formal version, typically reserved for the elderly.
+    That's why there's a little stool in the shower, because they are so short.
+    Also, do you know how many senior citizens slip in the shower and break their hip? That's why we have that stool there.
 
 you're welcome: 
   cn: 别客气
   py: bié kèqì
+  set: 1
   memo: | 
     Three characters here; 
     别 (do not) is a guy facing not one but two walls. Clearly do not.

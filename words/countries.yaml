@@ -1,6 +1,7 @@
 Belgium:
   cn: 比利時
   py: Bĭlìshí
+  set: 1
   memo: | 
     Three characters here; 
 
@@ -15,11 +16,16 @@ Belgium:
 China:
   cn: 中国
   py: zhōng guó
-  memo: TODO
+  set: 1
+  memo: |
+    That flag symbol on the left means like, in the middle.
+    The symbol on the right is country.
+    So this is <em>the country in the middle</em> which makes sense because everybody looks at the world by placing themselves in the middle.
 
 USA:
   cn: 美国
   py: měi guó
+  set: 1
   memo: |
     Two characters.
     美 (nice) looks kinda nice with those lines nicely aligned.

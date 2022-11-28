@@ -1,22 +1,37 @@
 cloud:
   cn: 云
   py: yùn
-  memo: TODO
+  set: 1
+  memo: |
+    Just think <b>clould</b> computing. 
+    It looks simple enough from above, like a nice platform to build on.
+    And then below the surface is all this complexity and that's clearly a hammer that's going to hit you where it hurts.
 
 day:
   cn: 日
   py: rì
   also:
     - sun
-  memo: TODO
+  set: 1
+  memo: |
+    This is like a little calendar. And one of those boxes is a <b>day</b>.
+    And yes, perhaps it would have made more sense to use only one square.
+    But remember, that was already taken for <a href="/口">mouth</a>.
 
 mountain:
   cn: 山
   py: shān
-  memo: TODO
+  set: 1
+  memo: |
+    It's rock solid. It's got a nice peak in the middle.
+    It's hard to climb with those steep sides. There's deep crevices you can fall into.
+    Clearly, this is a <b>mountain</b>. 
 
 star:
   cn: 星
   py: xīng
-  memo: TODO
+  set: 1
+  memo: |
+    This looks like a robot. And you know as well as I do that the days of celebrities are numbered.
+    Soon enough, all stars will be robots. You know it makes sense.
 

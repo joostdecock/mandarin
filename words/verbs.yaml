@@ -1,6 +1,7 @@
 to call:
   cn: 叫
   py: jiào
+  set: 1
   also:
     - to be called
     - to shout
@@ -13,6 +14,7 @@ to call:
 to climb a mountain:
   cn: 爬山
   py: pá shān
+  set: 1
   memo: Climb a mountain
 
 to come out:
@@ -20,6 +22,7 @@ to come out:
   py: chū
   also:
     - get out
+  set: 1
   memo: | 
     When people tell you come out, they might follow it up with 
     *with your hands in the air* and that's what's going on here.
@@ -27,26 +30,31 @@ to come out:
 to like:
   cn: 喜欢
   py: xǐhuān
+  set: 1
   memo: (*happiness character* + *joyous character*) = like.
 
 to raise:
   cn: 起
   py: qĭ
+  set: 1
   memo: TODO
 
 to rest:
   cn: 休息
   py: xiūxi
+  set: 1
   memo: TODO
 
 to see:
   cn: 见
   py: jiàn
+  set: 1
   memo: Tell me that does not look like the scope of a gun. Like, the thing you see through. 
 
 to sleep:
   cn: 睡觉
   py: shuìjiào
+  set: 1
   also: 
     - go to bed
   memo: TODO
@@ -54,11 +62,13 @@ to sleep:
 to start:
   cn: 开始
   py: Kāishǐ
+  set: 1
   memo: TODO
 
 to watch: 
   cn: 观
   py: guān
+  set: 1
   also:
     - look
     - sight

@@ -1,16 +1,29 @@
 bear:
   cn: 熊
   py: xióng
-  memo: TODO
+  set: 1
+  memo: This looks a bit like a bear footprint, with those 4 claws at the bottom.
 
 panda:
   cn: 熊猫
   py: xióng māo
-  memo: TODO
+  set: 1
+  memo: |
+    You know how Panda's are endangered and everybody is always looking at them because they are cute?
+    Well, on the left you have the symbol for bear.
+    <small>(notice the 4 claws at the left, it's essentially a footprint)</small>
+    On the right, we have a cage with lights above, and some tourist looking at it.
+    <small>(You can see it's a tourist because they are wearing a sombrero hat)</small>
 
 sheep:
   cn: 羊
   py: yáng
   also:
     - goat
-  memo: TODO
+  set: 1
+  memo: |
+    You know how sheep look massive, but they're really not that big because it's all that wool?
+    Well, this symbols captures that. You have the vertical line in the middle which is the sheep.
+    And those horizontal lines are all the wool. Which is why there's no line at the bottom because the wool doesn't grow on the legs.
+    Also, those are the eyes at the top. Obviously.
+

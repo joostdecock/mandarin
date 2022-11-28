@@ -45,3 +45,8 @@
 .btn-error {
   color: var(--btn-error-content);
 }
+
+.mdx a {
+  color:var(--s);
+  text-decoration: underline;
+}

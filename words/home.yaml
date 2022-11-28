@@ -1,6 +1,7 @@
 bed:
   cn: 床
   py: chuáng
+  set: 1
   also:
     - couch
   memo: Granted, it's upside-down (China you know) but this is clearly a couch (with a book).
@@ -8,11 +9,18 @@ bed:
 clock:
   cn: 钟
   py: zhōng
-  memo: TODO
+  also:
+    - bell
+  set: 1
+  memo: |
+    This is clock but also bell. 
+    I can't help but notice that little hammer on the left that's going to start moving back and forth as your alarm goes off.
+    It will push that little lever on the left against the thing on the right that probably has a good ring to it.
 
 book:
   cn: 书
   py: shū
+  set: 1
   memo: |
     Looks like two books stacked on top of each other. 
     Also a bit like a letter B, if that helps.

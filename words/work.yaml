@@ -1,6 +1,7 @@
 correct:
   cn: 对
   py: duì
+  set: 1
   memo: |
     See that little piece falling down? 
     That's because this character dislocated its shoulder from padding itself on the back for being so correct. 
@@ -9,16 +10,19 @@ correct:
 department:
   cn: 系
   py: xì
+  set: 1
   memo: TODO
 
 work:
   cn: 工
   py: gōng
+  set: 1
   memo: This looks like a steel I-beam (aka H-beam). You don't carry those around for fun. This is work.
 
 yaun:
   cn: 元
   py: yuán
+  set: 1
   also:
     - currency unit
   memo: TODO

@@ -1,6 +1,7 @@
 airport:
   cn: 机场
   py: jī chǎng
+  set: 1
   memo: | 
     Two characters.
     

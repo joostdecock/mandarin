@@ -1,7 +1,11 @@
 grandfather:
   cn: 爷爷
   py: yéyé
-  memo: TODO
+  memo: |
+    These double identical characters are common in family names because they are designed for babies. 
+    Things like mama and papa are easy to say. And so is yéyé.
+    You can see it's a male because the two hammers at the top mean manly business.
+    You can tell it's the grandfather because the entire things sits on a pedestal, and you know how respect for the elderly is a thing in China.
 
 grandmother:
   cn: 奶奶

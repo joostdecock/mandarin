@@ -55,14 +55,18 @@ const WordPage = (props) => {
             {props[props.type]}
           </PlayButton>
         {show && (
-          <div className="flex flex-row gap-4 items-center mt-2">
-            <Link className="block text-sm text-secondary underline" href={asSlug(props.py)}>{props.py}</Link>
-            <span className="px-2 text-sm">|</span>
-            <Link className="block text-sm text-secondary underline" href={asSlug(props.en)}>{props.en}</Link>
+          <div className="flex flex-row gap-8 items-center mt-2 justify-center">
+            {props.type !== 'cn' && <Link className="block text-4xl text-secondary underline" href={props.cn}>{props.cn}</Link>}
+            {props.type !== 'py' && <Link className="block text-4xl text-secondary underline" href={asSlug(props.py)}>{props.py}</Link>}
+            {props.type !== 'en' && <Link className="block text-4xl text-secondary underline" href={asSlug(props.en)}>{props.en}</Link>}
           </div>
         )}
         </h1>
-        {show && <p className="text-lg text-center">{props.memo}</p>}
+        {show && (
+          <div className="text-lg text-center mdx">
+            {props.memo.split("\n").map((line, i) => <span key={i} className="block" dangerouslySetInnerHTML={{__html: line}} />)}
+          </div>
+        )}
         <button 
           onClick={() => setShow(!show)}
           className="btn btn-secondary btn-link hidden lg:block"

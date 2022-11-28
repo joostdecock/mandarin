@@ -1,9 +1,19 @@
+foot:
+  cn: 足
+  py: zú
+  set: 1
+  memo: TODO
+
 hand:
   cn: 手
   py: shǒu
-  memo: TODO
+  set: 1
+  memo: |
+    I guess this looks a bit like the way a small child would draw a hand? 
+    Personally, I find it looks more like a cross-section of a cuff link, which is also close to the hand.
 
 mouth:
   cn: 口
   py: kǒu
+  set: 1
   memo: Look at that mouth (of our robot overlord). 

@@ -1,6 +1,7 @@
 coffee:
   cn: 咖啡
   py: kāfēi
+  set: 1
   memo: |
     This is *a lot* to just say coffee. 
     Which goes to show tea is the more popular drink in China. 
@@ -13,6 +14,7 @@ coffee:
 cola:
   cn: 可乐
   py: kělè
+  set: 1
   memo: |
     So this is clearly an imported thing, because what we see here on the left is some american dude
     (notice the large squarish head) in his car at the McDonalds drive-tru ordering a large cola.
@@ -23,6 +25,7 @@ cola:
 drink:
   cn: 喝
   py: hē
+  set: 1
   memo: | 
     There's a wall on the left, and then a liquor cabinet and a table. 
     We see a figure slumped under the table who is sitting on his behind because 
@@ -31,6 +34,7 @@ drink:
 tea:
   cn: 茶
   py: há
+  set: 1
   memo: | 
     I mean look at it.
     It's clearly some adorable little tea-shop with one of them Chinese curved rooftops and little lanterns hanging over it.
@@ -40,6 +44,7 @@ tea:
 water:
   cn: 水
   py: shuǐ
+  set: 1
   memo: | 
     This a combination of watery things. 
     In the middle is the bendy straw, also featured in 可乐.

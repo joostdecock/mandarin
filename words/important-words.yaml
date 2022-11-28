@@ -1,6 +1,7 @@
 also:
   cn: 也
   py: yě
+  set: 1
   memo: | 
     Left - Hey, I look like a wonky `t` character.
     Right - <small>Hey, I **also** look like a wonky `t` character</small>.
@@ -9,14 +10,19 @@ also:
 is:
   cn: 是
   py: shi
+  set: 1
   also:
     - are
     - to be
-  memo: TODO
+  memo: |
+    Why is that box levitating over that table?
+    Is it magic? Is it not subject to gravity?
+    Or has it simply transcended into a state where it just <b>is</b> and these questions <b>are</b> foolish. Just let it <b>be</b>.
 
 no:
   cn: 没
   py: méi
+  set: 1
   also: 
     - not
   memo: | 
@@ -26,6 +32,7 @@ no:
 not:
   cn: 不
   py: bù
+  set: 1
   memo: |
     You've got an array point upwards saying, this way. 
     And then there's just a wall there saying: Nope, **not** this way. 
@@ -35,11 +42,18 @@ not:
 what:
   cn: 什么
   py: shén me
+  set: 1
   also: 
     - who
-  memo: TODO
+  memo: |
+    We've got some big dude in the middle here who as standing between two poles or something.
+    And he's pushed one of them over while saying <b>WHAT!?</b> because he just can't believe this.
 
 who:
   cn: 谁
   py: shéi
-  memo: TODO
+  set: 1
+  memo: |
+    On the left is somebody trying to figure out <b>who</b> that person on the right is.
+    But that person on the right is behind one of them screens after which you go to get dressed you know?
+    So this really says <b>who</b> is behind that screen?
