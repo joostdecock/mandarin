@@ -42,8 +42,8 @@ const Header = ({ app, setSearch }) => {
       drop-shadow-xl
     `}
     >
-      <div className="m-auto" style={{ maxWidth: '1800px' }}>
-        <div className="px-0 lg:px-2 flex flex-row gap-2 justify-between text-neutral-content">
+      <div className="m-auto max-w-6xl">
+        <div className="p-0 flex flex-row gap-2 justify-between text-neutral-content">
           <div className="flex flex-row items-center">
             <button
               className={`

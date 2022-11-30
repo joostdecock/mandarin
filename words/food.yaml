@@ -46,7 +46,7 @@ heat:
 
 hotpot:
   cn: 火锅
-  py: Huǒguō
+  py: huǒguō
   set: 1
   memo: <a href="/火">fire character</a> plus <a href="/锅">pot character</a> = <b>hotpot</b>
 
