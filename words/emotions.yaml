@@ -1,6 +1,7 @@
 joyous:
   cn: 欢
   py: huān
+  set: 1
   memo: | 
     One the right is some dude holding a chair over his head, 
     the left person is swinging what I assume is their necktie around. 
@@ -9,6 +10,7 @@ joyous:
 happiness:
   cn: 喜
   py: xǐ
+  set: 1
   memo: |
     We've got a little bench, in front of a small table, with a bowl of food on it.
     There's one of them ceiling fans overhead to provide a cool breeze while enjoying this lovely meal.

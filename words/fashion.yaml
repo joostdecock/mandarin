@@ -1,7 +1,7 @@
 wristwatch:
   cn: 手表
   py: shǒu biǎo
-  set: 1
+  set: 2
   memo: |
     On the left is <a href="/手">the symbol for hand</a>, so that's a great hint.
     On the right we see a complicated mechanism with a one of them wound-up knobs at the top. In other words, a (wrist) watch.
