@@ -27,6 +27,18 @@ mountain:
     It's hard to climb with those steep sides. There's deep crevices you can fall into.
     Clearly, this is a <b>mountain</b>. 
 
+quiet:
+  cn: 静
+  py: jìng
+  set: 1
+  also:
+    - still
+    - calm
+    - not moving
+  memo: |
+    I like to think of this as the bottom-left part of the character representing a head.
+    While the rest of the character are like big noise-cancelling headphones to keep things <b>quiet</b>
+
 star:
   cn: 星
   py: xīng
@@ -34,4 +46,3 @@ star:
   memo: |
     This looks like a robot. And you know as well as I do that the days of celebrities are numbered.
     Soon enough, all stars will be robots. You know it makes sense.
-
