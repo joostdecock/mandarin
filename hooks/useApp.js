@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import set from 'lodash.set'
 // Stores state in local storage
 import useLocalStorage from 'hooks/useLocalStorage.js'
 import useTheme from 'hooks/useTheme'

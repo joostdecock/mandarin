@@ -1,8 +1,6 @@
 import path from 'path'
-import withBundleAnalyzer from '@next/bundle-analyzer'
 
-// Not using const here because we might overwrite below
-let config = {
+export default {
   eslint: { ignoreDuringBuilds: true },
   pageExtensions: ['mjs'],
   webpack: (config, options) => {
@@ -28,9 +26,3 @@ let config = {
     return config
   },
 }
-
-// To run the bundle analyzer, run:
-// ANALYZE=true yarn build
-if (process.env.ANALYZE) config = withBundleAnalyzer(config)(config)
-
-export default config
