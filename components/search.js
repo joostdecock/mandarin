@@ -18,12 +18,12 @@ const Hits = (props) => {
   // When we hit enter in the text field, we want to navigate to the result
   // which means we must make the result links available in the input somehow
   // so let's stuff them in a data attribute
-  const links = props.hits.map((hit) => hit.page)
+  const links = props.hits.map((hit) => `/`+hit.cn)
   props.input.current.setAttribute('data-links', JSON.stringify(links))
 
   return props.hits.map((hit, index) => (
     <Hit
-      key={hit.page}
+      key={hit.cn}
       {...props}
       hit={hit}
       index={index}
@@ -66,34 +66,19 @@ const Hit = (props) => (
       ${props.index === props.active ? 'bg-secondary bg-opacity-30' : 'bg-base-300 bg-opacity-10'}
     `}
   >
-    <Link href={props.hit.page}>
-      <a href={props.hit.page} className="flex flex-row justify-between gap-2">
-        <span className="text-base sm:text-xl font-bold leading-5">
-          {props.hit._highlightResult?.title ? (
-            <CustomHighlight hit={props.hit} attribute="title" />
-          ) : (
-            props.hit.title
-          )}
-        </span>
-        <span className="text-xs pt-0.5 sm:text-base sm:pt-1 font-bold uppercase">
-          {props.hit.page.split('/')[1]}
-        </span>
-      </a>
+    <Link href={props.hit.cn} className="flex flex-row justify-between gap-2">
+      <span className="text-base sm:text-xl font-bold leading-5">
+        <CustomHighlight hit={props.hit} attribute="cn" />
+        <span className="px-4 opacity-50 font-normal">|</span>
+        <CustomHighlight hit={props.hit} attribute="py" />
+        <span className="px-4 opacity-50 font-normal">|</span>
+        {props.hit._highlightResult?.en ? (
+          <CustomHighlight hit={props.hit} attribute="en" />
+        ) : (
+          props.hit.en
+        )}
+      </span>
     </Link>
-    {props.hit._snippetResult?.body && (
-      <Link href={props.hit.page}>
-        <a href={props.hit.page} className="text-sm sm:text-base block py-1">
-          <CustomHighlight hit={props.hit} attribute="body" snippet />
-        </a>
-      </Link>
-    )}
-    {props.hit?._highlightResult?.page && (
-      <Link href={props.hit.page}>
-        <a href={props.hit.page} className="text-xs sm:text-sm block opacity-70">
-          <CustomHighlight hit={props.hit} attribute="page" />
-        </a>
-      </Link>
-    )}
   </div>
 )
 
