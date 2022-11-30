@@ -27,6 +27,17 @@ to come out:
     When people tell you come out, they might follow it up with 
     *with your hands in the air* and that's what's going on here.
 
+to have:
+  cn: 有
+  py: yǒu
+  set: 1
+  also:
+    - there is
+    - there are
+    - to exist
+    - to be
+  memo: What's show here is a roof over your head. Which is a nice thing to <b>have</b>.
+
 to like:
   cn: 喜欢
   py: xǐhuān

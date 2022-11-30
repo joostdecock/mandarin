@@ -1,0 +1,26 @@
+age:
+  cn: 年龄
+  py: nián líng
+  set: 1
+  memo: |
+    This is the symbol for year plus another symbol that looks to be a bunch of picture frames.
+    So year-pictures means <b>age</b>. At least that's how I remember it.
+
+year:
+  cn: 年
+  py: nián
+  set: 1
+  memo: |
+    I try to remember this as a big push pin that goes through a book.
+    Why? Because the new year is always a big event in a calendar (book).
+    I'm not saying it makes sense. It's just the best I have.
+
+years:
+  cn: 岁
+  py: suì
+  set: 1
+  also:
+    - measure word for years
+  memo: |
+    At the bottom you see sort of a meter or dial, like on scales. Except it's for <b>years</b>.
+    At the top, there's candles like you put on a birthday cake it indicate the <b>years</b>.

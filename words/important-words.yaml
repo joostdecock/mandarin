@@ -39,6 +39,21 @@ not:
     Poor arrow smashed so hard into that wall one of its arms broke off. 
     This is **not** the way to go, clearly.
 
+this:
+  cn: 今
+  py: jīn
+  set: 1
+  also:
+    - today
+    - current
+    - present
+    - modern
+    - now
+  memo: |
+    So I am not a fan of boats or camping. 
+    What you see here is a aboat with a little tent behind it.
+    So my reaction would be <b>this</b> is your idea of fun?
+
 what:
   cn: 什么
   py: shén me

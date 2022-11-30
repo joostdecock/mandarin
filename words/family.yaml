@@ -1,6 +1,26 @@
+daughter:
+  cn: 女儿
+  py: nǚ'ér
+  set: 1
+  memo: |
+    This is the <a href="/女">women</a> character plus the <a href="/儿">son</a> character.
+    That a <b>daughter</b> is essentially a <em>women son</em> is a kinda sad but I don't make the rules.
+
+family:
+  cn: 家
+  py: jiā
+  set: 1
+  also:
+    - home
+  memo: |
+    A big and a small person are shielding under the same umbrella.
+    Since it's a grown-up and a child, this is not a couple.
+    This is a parent and child, in other words a <b>family</b>.
+
 grandfather:
   cn: 爷爷
   py: yéyé
+  set: 1
   memo: |
     These double identical characters are common in family names because they are designed for babies. 
     Things like mama and papa are easy to say. And so is yéyé.
@@ -10,6 +30,7 @@ grandfather:
 grandmother:
   cn: 奶奶
   py: nǎinai
+  set: 1
   memo: | 
     The character from *good* on the left, but now ATM on the right (as for mama) but 
     rather a counter of a bank because back in grandma's days, there were no ATMs.
@@ -17,6 +38,7 @@ grandmother:
 mama: 
   cn: 妈妈
   py: māmā
+  set: 1
   memo: | 
     The left part of this sign is also used in the symbol for *good*.
     The right looks like an ATM machine. 
@@ -25,9 +47,26 @@ mama:
 papa:
   cn: 爸爸
   py: bàba
+  set: 1
   memo: | 
      First up, this is the same symbol twice. 
      Each has 2 hammers and an iron that's upside-down. 
      It's upside-down becase ironing is mama's job. 
      Fixing the iron with a hammer though, totally papa's job.
+
+son:
+  cn: 儿
+  py: ér
+  set: 1
+  memo: |
+    Standing with your legs apart is such a male thing to do. Essentially menspreading.
+    This is <b>son</b> which you can tell by the skinny legs. Not fully grown yet.
+
+woman:
+  cn: 女
+  py: nǚ
+  set: 1
+  also:
+    - the female sex
+  memo: With those long legs and narrow waist, this is clearly a <b>woman</b>
 
