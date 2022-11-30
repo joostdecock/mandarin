@@ -18,6 +18,7 @@ export const Menu = () => (
     <ul className="list list-inside list-disc leading-11 text-lg">
       <li><PageLink href="/_list" txt="All words"/></li>
       <li><PageLink href="/_cat" txt="Categories"/></li>
+      <li><PageLink href="/_set" txt="Sets"/></li>
     </ul>
     <h2>Words per category</h2>
     <ul className="list list-inside list-disc leading-11 text-lg">

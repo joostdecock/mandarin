@@ -49,16 +49,19 @@ export const prebuildWords = async () => {
   const slugs = []
   const mandarin = []
   const categories = {}
+  const sets = {}
   const imports = {}
 
   for (const file of list) {
     const category = file.split('/').pop().slice(0, -5)
     categories[category] = []
     for (const [key, info] of Object.entries(yaml.load(fs.readFileSync(file)))) {
+      if (typeof sets[info.set] === 'undefined') sets[info.set] = []
       info.en = key
       info.cat = category
       pages.push(info)
       categories[category].push(info)
+      sets[info.set].push(info)
       // English
       imports[info.en] = { ...info, slug: asSlug(info.en), type: 'en' }
       slugs.push('/'+asSlug(info.en))
@@ -91,6 +94,10 @@ export const prebuildWords = async () => {
   fs.writeFileSync(
     path.resolve('prebuild', `categories.mjs`),
     `export default ${JSON.stringify(categories)}`
+  )
+  fs.writeFileSync(
+    path.resolve('prebuild', `sets.mjs`),
+    `export default ${JSON.stringify(sets)}`
   )
   for (const [key, data] of Object.entries(imports)) {
     fs.writeFileSync(

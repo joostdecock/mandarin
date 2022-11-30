@@ -2,29 +2,29 @@ import Page from 'components/wrappers/page.js'
 import useApp from 'hooks/useApp.js'
 import Layout from 'components/layouts/bare'
 import WordList from 'components/wordlist.js'
-import categories from 'prebuild/categories.mjs'
+import sets from 'prebuild/sets.mjs'
 
-const CategoryPage = (props) => {
+const SetPage = (props) => {
 
   const app = useApp()
   return (
     <Page app={app} title="Welcome to mandarin.joost.at" layout={Layout}>
       <div className="max-w-xl py-8 flex flex-col items-center justify-center px-4 gap-4 m-auto pt-4 lg:pt-24">
         <h1 className="text-center text-5xl capitalize">
-          <span className="block text-xl opacity-50">Category:</span>
-          {props.category}
-          <span className="block text-sm opacity-50">[ {categories[props.category].length} entries ]</span>
+          <span className="block text-xl opacity-50">Set:</span>
+          {props.set}
+          <span className="block text-sm opacity-50">[ {sets[props.set].length} entries ]</span>
         </h1>
         <WordList 
-          words={categories[props.category]} 
-          prefix={`/_cat/${props.category}/`}
+          words={sets[props.set]} 
+          prefix={`/_set/${props.set}/`}
         />
       </div> 
     </Page>
   )
 }
 
-export default CategoryPage
+export default SetPage
 
 
 /*
@@ -47,7 +47,7 @@ export async function getStaticProps({ params }) {
  */
 export async function getStaticPaths() { 
   return { 
-    paths: Object.keys(categories).map(cat => `/_cat/${cat}`),
+    paths: Object.keys(sets).map(set => `/_set/${set}`),
     fallback: false 
   }
 }
