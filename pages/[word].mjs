@@ -5,7 +5,7 @@ import Head from 'next/head'
 import Layout from 'components/layouts/bare'
 import PageLink from 'components/page-link'
 import paths from 'prebuild/slugs.mjs'
-import mandarin from 'prebuild/mandarin.mjs'
+import words from 'prebuild/words.mjs'
 import jsonLoader from 'scripts/loader.mjs'
 import { asSlug } from 'scripts/utils.mjs'
 import Link from 'next/link'
@@ -21,10 +21,12 @@ const TranslationButton = ({ target, word }) => (
   </Link>
 )
 
+const en = Object.keys(words)
+
 const getNext = (current) => {
-  const next = mandarin[Math.floor(Math.random()*mandarin.length)]
+  const next = en[Math.floor(Math.random()*en.length)]
   if (next === current) return getNext(current)
-  else return next
+  else return words[en[next]]
 }
 
 const WordPage = (props) => {
@@ -40,17 +42,17 @@ const WordPage = (props) => {
 
   const nextWord = () => {
     if (show) setShow(false)
-    else router.push(`/`+getNext(props.slug))
+    const next = getNext(props.slug)
+    router.push(`/`+asSlug(next[props.type]))
   }
 
   const revealMemo = () => setShow(true)
-  
 
   const app = useApp()
   return (
     <Page app={app} title="Welcome to mandarin.joost.at" layout={Layout} onSwipedLeft={nextWord} onSwipedRight={revealMemo}>
       <div className="max-w-xl h-screen flex flex-col items-center justify-center px-4 gap-4 m-auto">
-        <h1 className="text-center text-7xl">
+        <h1 className="text-center text-7xl break-all">
           <PlayButton word={props.cn}>
             {props[props.type]}
           </PlayButton>
