@@ -19,7 +19,7 @@ family:
 
 grandfather:
   cn: 爷爷
-  py: yéyé
+  py: yéye
   set: 1
   memo: |
     These double identical characters are common in family names because they are designed for babies. 
@@ -37,7 +37,7 @@ grandmother:
 
 mama: 
   cn: 妈妈
-  py: māmā
+  py: māma
   set: 1
   memo: | 
     The left part of this sign is also used in the symbol for *good*.
