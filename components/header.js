@@ -6,6 +6,12 @@ import MenuIcon from 'components/icons/menu.js'
 import SearchIcon from 'components/icons/search.js'
 import { WordMark } from 'components/wordmark.js'
 
+const NavBtn = ({ href, txt }) => (
+  <Link href={href}>
+    <button className="btn btn-ghost rounded-none">{txt}</button>
+  </Link>
+)
+
 const Header = ({ app, setSearch }) => {
   const [prevScrollPos, setPrevScrollPos] = useState(0)
   const [show, setShow] = useState(true)
@@ -37,13 +43,13 @@ const Header = ({ app, setSearch }) => {
     `}
     >
       <div className="m-auto" style={{ maxWidth: '1800px' }}>
-        <div className="p-2 flex flex-row gap-2 justify-between text-neutral-content">
+        <div className="px-0 lg:px-2 flex flex-row gap-2 justify-between text-neutral-content">
           <div className="flex flex-row items-center">
             <button
               className={`
-                  btn btn-sm btn-ghost
+                  btn btn-ghost
                   text-neutral-content bg-transparent
-                  hover:text-secondary-focus
+                  rounded-none
                   lg:hidden
                 `}
               onClick={app.togglePrimaryMenu}
@@ -51,24 +57,16 @@ const Header = ({ app, setSearch }) => {
               {app.primaryMenu ? <CloseIcon /> : <MenuIcon />}
             </button>
             <div className="hidden lg:flex flex-row gap-4 items-center">
-              <Link href="/_list">
-                <button className="btn btn-ghost">All words</button>
-              </Link>
-              <Link href="/_cat">
-                <button className="btn btn-ghost">Categories</button>
-              </Link>
-              <Link href="/_about">
-                <button className="btn btn-ghost">About this site</button>
-              </Link>
-              <Link href="/_help">
-                <button className="btn btn-ghost">Help &amp; Support</button>
-              </Link>
+              <NavBtn href="/_list" txt="All words" />
+              <NavBtn href="/_cat" txt="Categories" />
+              <NavBtn href="/_about" txt="About this site" />
+              <NavBtn href="/_help" txt="Help &amp; Support" />
             </div>
           </div>
-          <div className="flex flex-row items-center lg:hidden pr-2">
+          <div className="flex flex-row items-center lg:hidden">
             <button
               onClick={() => setSearch(true)}
-              className="btn btn-sm btn-ghost hover:text-secondary-focus"
+              className="btn btn-ghost rounded-none"
             >
               <SearchIcon />
             </button>
@@ -81,8 +79,7 @@ const Header = ({ app, setSearch }) => {
                 hidden lg:flex
                 flex-row gap-4
                 justify-between
-                hover:text-secondary-focus
-                hover:bg-transparent
+                rounded-none
               `}
               onClick={() => setSearch(true)}
             >
