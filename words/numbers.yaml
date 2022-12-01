@@ -93,3 +93,9 @@
   memo: |
     I don't know exactly why that one extra line to the symbol for 10
     raises it to the third power, but I don't make the rules. 
+
+two:
+  cn: 梁
+  py: liáng
+  set: 1
+  memo: TODO - Two when used not as a number but an indicator of quantity (two vs 2) Only exists for 2.

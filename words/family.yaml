@@ -17,6 +17,12 @@ family:
     Since it's a grown-up and a child, this is not a couple.
     This is a parent and child, in other words a <b>family</b>.
 
+friend:
+  cn: 朋友
+  py: péngyǒu
+  set: 1
+  memo: TODO
+
 grandfather:
   cn: 爷爷
   py: yéye
@@ -34,6 +40,12 @@ grandmother:
   memo: | 
     The character from *good* on the left, but now ATM on the right (as for mama) but 
     rather a counter of a bank because back in grandma's days, there were no ATMs.
+
+individual:
+  cn: 个
+  py: gè
+  set: 1
+  memo: General classifier for an individual. Just one person with a hat on.
 
 mama: 
   cn: 妈妈
