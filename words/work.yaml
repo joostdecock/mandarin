@@ -13,6 +13,12 @@ department:
   set: 1
   memo: TODO
 
+mobile phone:
+  cn: 手机
+  py: shǒu jī
+  set: 2
+  memo: TODO
+
 work:
   cn: 工
   py: gōng

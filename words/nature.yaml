@@ -18,6 +18,12 @@ day:
     And yes, perhaps it would have made more sense to use only one square.
     But remember, that was already taken for <a href="/口">mouth</a>.
 
+flower:
+  cn: 花
+  py: huā
+  set: 2
+  memo: TODO
+
 mountain:
   cn: 山
   py: shān
@@ -38,6 +44,12 @@ quiet:
   memo: |
     I like to think of this as the bottom-left part of the character representing a head.
     While the rest of the character are like big noise-cancelling headphones to keep things <b>quiet</b>
+
+rose:
+  cn: 玫瑰花
+  py: méi guī huā
+  set: 2
+  memo: TODO
 
 star:
   cn: 星
