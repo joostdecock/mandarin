@@ -1,5 +1,29 @@
+common:
+  cn: 普通
+  py: pǔ tōng
+  set: 2
+  also:
+    - ordinary
+    - general
+    - average
+  memo: Word for general + <a href="/通">classifier</a> is still general/common/ordinary
+
+general:
+  cn: 普
+  py: pǔ
+  set: 2
+  also:
+    - popular
+    - everywhere
+    - universal
+  memo: |
+    An IKEA dresser under a lamp. This is super <b>popular</b> and you find this <b>everywhere</b>.
+    It's the <b>general</b> vibe I get from this.
+
 small:
   cn: 小
   py: xiǎo
   set: 1
   memo: This looks like a periscope peaking out through a <b>small</b> opening.
+
+

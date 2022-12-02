@@ -61,7 +61,11 @@ which:
   cn: 哪
   py: nǎ
   set: 1
-  memo: TODO
+  memo: |
+    This is two times the same sort of shape.
+    On the left, it's more squarish, with spikes.
+    On the right, it's round and smooth, almost like breasts.
+    <b>which</b> would you choose? And why is it the one on the right?
 
 who:
   cn: 谁

@@ -11,13 +11,14 @@ department:
   cn: 系
   py: xì
   set: 1
-  memo: TODO
+  memo: |
+    A pile of documents stacked way too high in an unorderly fashion that sort of crushes the character for small at the bottom? This is clearly a <b>department</b> in a big bureaucracy.
 
 mobile phone:
   cn: 手机
   py: shǒu jī
   set: 2
-  memo: TODO
+  memo: Hand (left) and machine (right). Hand machine. Mobile phone. Makes sense.
 
 work:
   cn: 工
@@ -31,4 +32,6 @@ yaun:
   set: 1
   also:
     - currency unit
-  memo: TODO
+  memo: |
+    You've seen this symbol on financial news outlets, no? 
+    The double line is typical for currency signs.

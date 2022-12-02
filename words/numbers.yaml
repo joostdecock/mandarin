@@ -98,4 +98,23 @@ two:
   cn: 梁
   py: liáng
   set: 1
-  memo: TODO - Two when used not as a number but an indicator of quantity (two vs 2) Only exists for 2.
+  memo: |
+    This looks like a bunch of people dancing on a table.
+    Which sometimes happens at a wedding, which is the union between <b>two</b> people.
+    Yes, I know poly-weddings are possible, but I'm just trying to remember stuff here. 
+
+many:
+  cn: 多
+  py: duō
+  set: 2
+  also: 
+    - much
+    - often
+    - a lot of
+    - numerous
+    - more
+    - in excess
+    - how (to what extent)
+  memo: |
+    Sounds like duo, which is what we see here.
+    Also the general quantity vibes matches well with the repetition on display.

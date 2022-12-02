@@ -12,19 +12,25 @@ how big:
   set: 2
   also:
     - How old are you (for children only)
-  memo: TODO
+  memo: You know the character for big, and the first one is <a href="/多">many/much/often/how</a>
 
 morning:
   cn: 上午
   py: shàngwǔ
   set: 1
-  memo: TODO
+  memo: |
+    These are simple characters because we're not fully awake yet.
+    On the left, we see a bed. On the right one of those french press cofee makers.
+    Clearly, this is <b>morning</b>.
 
 this year:
   cn: 今年
   py: jīnnián
   set: 1
-  memo: TODO
+  memo: |
+    On the left, we see an upside down agenda/calendar on a table.
+    On the right, somebody is pinned to a bed because they went out late last night.
+    Sounds like it was new year's even, and <b>this year</b> is of to a rough start.
 
 year:
   cn: 年

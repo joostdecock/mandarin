@@ -22,7 +22,7 @@ flower:
   cn: 花
   py: huā
   set: 2
-  memo: TODO
+  memo: Perhaps the watering system mounted above it can remind you that this is a <b>flower</b>
 
 mountain:
   cn: 山
@@ -49,7 +49,11 @@ rose:
   cn: 玫瑰花
   py: méiguī huā
   set: 2
-  memo: TODO
+  memo: |
+    玫 means jade
+    瑰 means extraordinary or semi-precious stone
+    花 means flower
+    So this is a precious extraordinary flower which a rose is.
 
 star:
   cn: 星

@@ -1,10 +1,25 @@
-Question particle for yes/no questions:
+classifier for an activity:
+  cn: 通
+  py: tōng 
+  set: 2
+  also:
+    - to got through
+    - to know well
+    - (suffix) expert
+    - to connect
+    - to communicate
+    - open
+    - to clear
+    - classifier for letters, telephone calls, and so on
+  memo: I guess in a way if the left part is a face then it looks a bit like a tongue. And then that's way too much to put on tongue which might help with the classifier part?
+
+question particle for yes/no questions:
   cn: 吗
   py: ma
   set: 1
   memo: Person looking at the ATM with the suspense of *will it work or not?* (yes/no answer).
 
-Plural suffix for person:
+plural suffix for person:
   cn: 们
   py: men
   set: 1

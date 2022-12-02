@@ -1,11 +1,34 @@
 airport:
   cn: 机场
   py: jī chǎng
-  set: 1
+  set: 2
   memo: | 
     Two characters.
     场 (machine) has a symbol of a diode on the left, and some sort of funnel situation on the right. 
     Not sure what this machine does though.
     场 (field) where you can practically see the tractor tracks in this field
     Machine field is a pretty great name for airport.
+
+language:
+  cn: 话
+  py: huà
+  set: 2
+  also:
+    - dialect
+    - spoken words
+    - speech
+    - talk
+    - words
+    - conversation
+  memo: |
+    On the left we see a person trying very hard to study the books on the desk on the right.
+    They are learning a <b>langauge</b> and that language is probably Chinese.
+
+mandarin:
+  cn: 普通话
+  py: pǔtōnghuà
+  set: 1
+  memo: |
+    The word for <a href="/普通">common</b> and the word for <a href="/话">language</a>.
+    Together they may <b>mandarin</b> because that's the one language we care about.
 

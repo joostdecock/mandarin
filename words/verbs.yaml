@@ -48,13 +48,17 @@ to raise:
   cn: 起
   py: qĭ
   set: 1
-  memo: TODO
+  memo: |
+    This is cold air coming in from the right, and as it is heated by the radiator on the left, it rises.
+    So that's how you can <b>raise</b> air upwards. By heating it.
 
 to rest:
   cn: 休息
   py: xiūxi
   set: 1
-  memo: TODO
+  memo: |
+    There's two people on the left here, and on the right we have a bath tub and one of those nice towel radiators to keep things warm and cosy so you can take a <b>rest</b> in your bath.
+
 
 to see:
   cn: 见
@@ -68,13 +72,18 @@ to sleep:
   set: 1
   also: 
     - go to bed
-  memo: TODO
+  memo: |
+    On the right, we have the symbol for see (the eye) that is getting covered.
+    That in itself tells you this is <b>sleep</b> but on the left, there's also a pocketspring as you'd find in a mattress.
 
 to start:
   cn: 开始
   py: kāishǐ
   set: 1
-  memo: TODO
+  also:
+    - to begin
+  memo: |
+    Before we <b>start</b>, we must have pie (on the left) and only then can we start hammering things (on the right)
 
 to watch: 
   cn: 观

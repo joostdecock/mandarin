@@ -21,7 +21,9 @@ friend:
   cn: 朋友
   py: péngyǒu
   set: 1
-  memo: TODO
+  memo: |
+    Two people (on the left) and when one is down, the other is shielding them (on the right).
+    Clearly these are what is looks like to have a <b>friend</b>
 
 grandfather:
   cn: 爷爷
