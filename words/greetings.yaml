@@ -43,7 +43,7 @@ name (of someone/thing):
 
 nevermind: 
   cn: 没关系
-  py: méiguānxì
+  py: méiguānxi
   set: 1
   memo: | 
     Three characters. 
@@ -80,7 +80,7 @@ sorry:
 
 thanks:
   cn: 谢谢
-  py: xièxiè
+  py: xièxie
   set: 1
   memo: |
     You see two people standing at the water cooler. The person on the left nods there head to say <b>thanks</b>.
@@ -109,7 +109,7 @@ you (formal):
 
 you're welcome: 
   cn: 别客气
-  py: bié kèqì
+  py: bié kèqi
   set: 1
   memo: | 
     Three characters here; 
