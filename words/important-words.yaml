@@ -40,19 +40,12 @@ not:
     This is **not** the way to go, clearly.
 
 this:
-  cn: 今
-  py: jīn
+  cn: 这
+  py: zhè
   set: 1
   also:
-    - today
-    - current
-    - present
-    - modern
-    - now
-  memo: |
-    So I am not a fan of boats or camping. 
-    What you see here is a aboat with a little tent behind it.
-    So my reaction would be <b>this</b> is your idea of fun?
+    - these
+  memo: This big X marks the spot and says <b>this</b>
 
 what:
   cn: 什么
