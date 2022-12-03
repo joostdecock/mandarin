@@ -99,7 +99,5 @@ to watch:
 to speak: 
   cn: 说
   py: shuō
-  set: 1
-  also:
-    - to speak
-  memo: | 
+  set: 2
+  memo: 
