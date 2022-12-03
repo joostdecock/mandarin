@@ -95,3 +95,11 @@ to watch:
   memo: | 
     We've got party guy swinging his tie around, together with the symbol for see. 
     It's a sight to watch, that's for sure.
+
+to speak: 
+  cn: 说
+  py: shuō
+  set: 1
+  also:
+    - to speak
+  memo: | 
