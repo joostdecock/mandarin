@@ -186,7 +186,6 @@ const Search = (props) => {
     setActive((act) => act + 1)
   })
   useHotkeys('down', () => {
-    console.log('enter', active)
   })
 
   const stateProps = {

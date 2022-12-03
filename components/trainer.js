@@ -16,7 +16,6 @@ const TranslationButton = ({ target, word }) => (
 )
 
 function showThis(type, lang, cnpy=false) {
-  console.log({cnpy})
   if (type !== lang) return true
   if (cnpy && ['cn', 'py'].includes(lang)) return true
   return false
@@ -51,7 +50,6 @@ const WordTrainer = ({
   const revealMemo = () => setShow(true)
   const modes = { en, cn, py }
   const app = useApp()
-  console.log(app.settings)
 
   return (
     <Page 
