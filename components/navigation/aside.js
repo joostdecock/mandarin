@@ -1,4 +1,3 @@
-import categories from 'prebuild/categories.mjs'
 import Link from 'next/link'
 import PageLink from 'components/page-link'
 
@@ -10,25 +9,20 @@ export const Menu = () => (
       <li><PageLink href="/_about" txt="About this website"/></li>
       <li><PageLink href="/_help" txt="Help & Support"/></li>
     </ul>
-    <h2>Practice random words</h2>
-    <Link href={`/开始`}>
-      <button className="btn btn-secondary w-full my-4">Start here</button>
-    </Link> 
+    <h2>Make it yours</h2>
+    <ul className="list list-inside list-disc leading-11 text-lg">
+      <li><PageLink href="/_settings" txt="Settings"/></li>
+    </ul>
     <h2>Content</h2>
     <ul className="list list-inside list-disc leading-11 text-lg">
       <li><PageLink href="/_list" txt="All words"/></li>
       <li><PageLink href="/_cat" txt="Categories"/></li>
       <li><PageLink href="/_set" txt="Sets"/></li>
     </ul>
-    <h2>Words per category</h2>
-    <ul className="list list-inside list-disc leading-11 text-lg">
-    {Object.keys(categories).map(cat => (
-      <li key={cat}>
-        <PageLink href={`/_cat/${cat}`} txt={cat} className="capitalize txt-lg"/>
-        <span className="text-sm text-base-300"> ({categories[cat].length} words)</span>
-      </li>
-    ))}
-    </ul>
+    <h2>Practice random words</h2>
+    <Link href={`/开始`}>
+      <button className="btn btn-secondary w-full my-4">Start here</button>
+    </Link> 
   </>
 )
 

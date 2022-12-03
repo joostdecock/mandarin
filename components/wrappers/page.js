@@ -5,8 +5,6 @@ import { useHotkeys } from 'react-hotkeys-hook'
 // Layouts components
 import LayoutWrapper from 'components/wrappers/layout'
 import Docs from 'components/layouts/docs'
-// Modal
-import Modal from 'components/modal'
 
 /* This component should wrap all page content */
 const PageWrapper = ({
@@ -64,7 +62,6 @@ const PageWrapper = ({
       <LayoutWrapper {...childProps}>
         {Layout ? <Layout {...childProps}>{children}</Layout> : children}
       </LayoutWrapper>
-      {app.popup && <Modal cancel={() => app.setPopup(false)}>{app.popup}</Modal>}
     </div>
   )
 }

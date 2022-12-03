@@ -15,6 +15,13 @@ const TranslationButton = ({ target, word }) => (
   </Link>
 )
 
+function showThis(type, lang, cnpy=false) {
+  console.log({cnpy})
+  if (type !== lang) return true
+  if (cnpy && ['cn', 'py'].includes(lang)) return true
+  return false
+}
+
 const WordTrainer = ({ 
   getNext,
   cn,
@@ -44,6 +51,7 @@ const WordTrainer = ({
   const revealMemo = () => setShow(true)
   const modes = { en, cn, py }
   const app = useApp()
+  console.log(app.settings)
 
   return (
     <Page 
@@ -55,8 +63,10 @@ const WordTrainer = ({
     >
       <div className="max-w-xl h-screen flex flex-col items-center justify-center px-4 gap-4 m-auto">
         <h1 className="text-center text-7xl break-all">
-          <PlayButton word={cn}>
+          <PlayButton word={cn} autoPlay={app.settings?.autoPlay} slug={slug}>
             {modes[type]}
+            {app.settings?.cnpy && type === 'cn' && <span className="block text-4xl opacity-50 pt-2">{py}</span>}
+            {app.settings?.cnpy && type === 'py' && <span className="block text-4xl opacity-50 pt-2">{cn}</span>}
           </PlayButton>
         {show && (
           <div className="flex flex-row gap-8 items-center mt-2 justify-center">

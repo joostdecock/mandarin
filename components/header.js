@@ -4,6 +4,7 @@ import ThemePicker from 'components/theme-picker.js'
 import CloseIcon from 'components/icons/close.js'
 import MenuIcon from 'components/icons/menu.js'
 import SearchIcon from 'components/icons/search.js'
+import SettingsIcon from 'components/icons/settings.js'
 import { WordMark } from 'components/wordmark.js'
 
 const NavBtn = ({ href, txt }) => (
@@ -71,6 +72,9 @@ const Header = ({ app, setSearch }) => {
             >
               <SearchIcon />
             </button>
+            <Link href="/_settings" className="btn btn-ghost rounded-none">
+              <SettingsIcon />
+            </Link>
             <ThemePicker app={app} />
           </div>
           <div className="hidden lg:flex flex-row items-center">
