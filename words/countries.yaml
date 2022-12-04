@@ -22,6 +22,33 @@ China:
     The symbol on the right is country.
     So this is <em>the country in the middle</em> which makes sense because everybody looks at the world by placing themselves in the middle.
 
+France:
+  cn: 法国
+  py: Fǎ guó
+  set: 2
+  memo: That left character looks a bit like the Eifel tower, so kinda perfect
+
+Germany:
+  cn: 德国
+  py: Dé guó
+  set: 2
+  memo: |
+    The left character (Dé) means virtue/goodness/morality/ethics/kindness.
+    Those are the kind of things that come to mind when we think about Germany. 
+    Right? 
+    Right!?
+
+Ireland:
+  cn: 爱尔兰
+  py: Ài ěr lán
+  set: 2
+  memo: |
+    Three characters.
+
+    爱 (to love) Ài 
+    尔 (thus/so) ěr
+    兰 (orchid) lán (often used as a substitute for <em>land</em>)
+
 USA:
   cn: 美国
   py: měi guó

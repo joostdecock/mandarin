@@ -9,6 +9,17 @@ airport:
     场 (field) where you can practically see the tractor tracks in this field
     Machine field is a pretty great name for airport.
 
+chinese language:
+  cn: 汉语
+  py: hànyǔ
+  set: 2
+  also:
+    - mandarin
+  memo: |
+    The left symbol is Han, for the <a href="https://en.wikipedia.org/wiki/Han_dynasty">Han dynasty</a>.
+    The right symbold is <a href="/语">speech</a>.
+    The language of an important Chinese dynasty is obviously, the <b>chinese language</b> or <b>mandarin</b>.
+
 language:
   cn: 话
   py: huà
@@ -32,3 +43,11 @@ mandarin:
     The word for <a href="/普通">common</b> and the word for <a href="/话">language</a>.
     Together they may <b>mandarin</b> because that's the one language we care about.
 
+speech:
+  cn: 语
+  py: yǔ
+  set: 2
+  memo: |
+    This looks almost exactly like the <a href="/话">language</a> character, and it's meaning is very similar.
+    This is <b>dialect</b>, or <b>speech</b>, or also <b>language</b> depending on context.
+    Essentially, this is the same as language, but slightly different. Like a <b>dialect</b>.
