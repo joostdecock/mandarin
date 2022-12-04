@@ -25,7 +25,7 @@ to come out:
   set: 2
   memo: | 
     When people tell you come out, they might follow it up with 
-    *with your hands in the air* and that's what's going on here.
+    <em>with your hands in the air</em> and that's what's going on here.
 
 to have:
   cn: 有
@@ -42,7 +42,7 @@ to like:
   cn: 喜欢
   py: xǐhuān
   set: 1
-  memo: (*happiness character* + *joyous character*) = like.
+  memo: (<em>happiness character</em> + <em>joyous character</em>) = like.
 
 to raise:
   cn: 起
@@ -100,4 +100,4 @@ to speak:
   cn: 说
   py: shuō
   set: 2
-  memo: 
+  memo: This is a person behind a lectern with two microphones. Clearly this person is expected to <b>speak</b>

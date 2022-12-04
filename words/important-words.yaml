@@ -4,8 +4,8 @@ also:
   set: 1
   memo: | 
     Left - Hey, I look like a wonky `t` character.
-    Right - <small>Hey, I **also** look like a wonky `t` character</small>.
-    **Also** sounds like Ye, like that american artist who is **also** racist by the way.
+    Right - <small>Hey, I <b>also</b> look like a wonky `t` character</small>.
+    <b>Also</b> sounds like Ye, like that american artist who is <b>also</b> racist by the way.
 
 is:
   cn: 是
@@ -35,9 +35,9 @@ not:
   set: 1
   memo: |
     You've got an array point upwards saying, this way. 
-    And then there's just a wall there saying: Nope, **not** this way. 
+    And then there's just a wall there saying: Nope, <b>not</b> this way. 
     Poor arrow smashed so hard into that wall one of its arms broke off. 
-    This is **not** the way to go, clearly.
+    This is <b>not</b> the way to go, clearly.
 
 this:
   cn: 这

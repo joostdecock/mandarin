@@ -3,7 +3,7 @@ coffee:
   py: kāfēi
   set: 1
   memo: |
-    This is *a lot* to just say coffee. 
+    This is <em>a lot</em> to just say coffee. 
     Which goes to show tea is the more popular drink in China. 
     Still let us try.
 
@@ -39,7 +39,7 @@ tea:
     I mean look at it.
     It's clearly some adorable little tea-shop with one of them Chinese curved rooftops and little lanterns hanging over it.
     There's a little table with a bench on each side that slid back on your end of the table in a welcoming way.
-    Obviously you'd want to have some **tea** in this adorable little place.
+    Obviously you'd want to have some <b>tea</b> in this adorable little place.
 
 water:
   cn: 水
@@ -51,5 +51,5 @@ water:
     On the left, that's clearly the tip of a boat.
     And on the right, those are waves crashing against that wall that the boat is also tethered to somehow. 
 
-    What I'm saying is - What binds the all together is that they all have to do with **water**.
+    What I'm saying is - What binds the all together is that they all have to do with <b>water</b>.
 

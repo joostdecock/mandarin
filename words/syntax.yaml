@@ -17,7 +17,7 @@ question particle for yes/no questions:
   cn: 吗
   py: ma
   set: 1
-  memo: Person looking at the ATM with the suspense of *will it work or not?* (yes/no answer).
+  memo: Person looking at the ATM with the suspense of <em>will it work or not?</em> (yes/no answer).
 
 plural suffix for person:
   cn: 们

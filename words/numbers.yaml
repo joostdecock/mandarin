@@ -6,7 +6,7 @@
     Zero is weird, and so is this character. 
     We've got a table with a bench that for some weird reason sits on top of a 
     small house that has a PI symbol in it, which is a handy reminder that this
-    is about mathematics. Still, it makes **zero** sense.
+    is about mathematics. Still, it makes <b>zero</b> sense.
 
 1: 
   cn: 一
@@ -30,7 +30,7 @@
   cn: 四
   py: sì
   set: 1
-  memo: This is a PI symbol in a room stuck to the ceiling. And if you `ceil(PI)` you get four, that's a fact.
+  memo: This is a PI symbol in a room stuck to the ceiling. And if you <code>ceil(PI)</code> you get four, that's a fact.
 
 5:
   cn: 五
@@ -44,7 +44,7 @@
   cn: 六
   py: liù
   set: 1
-  memo: I don't want to be *that guy* but six sounds like sex and if this is not a person spread eagle to get railed, I don't know what is.
+  memo: I don't want to be <em>that guy</em> but six sounds like sex and if this is not a person spread eagle to get railed, I don't know what is.
 
 7: 
   cn: 七
@@ -76,7 +76,7 @@
   memo: |
     Not sure why it's a plus symbol. 
     But it makes sense that for 10 you'd want something strong and symetric. 
-    Something confident that says *I'm a ten* so I guess this is it.
+    Something confident that says <em>I'm a ten</em> so I guess this is it.
 
 100:
   cn: 百
