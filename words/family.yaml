@@ -69,12 +69,21 @@ papa:
      Fixing the iron with a hammer though, totally papa's job.
 
 son:
-  cn: 儿
-  py: ér
+  cn: 儿子
+  py: érzi
   set: 1
   memo: |
-    Standing with your legs apart is such a male thing to do. Essentially menspreading.
+    On the left, standing with your legs apart is such a male thing to do. Essentially menspreading.
     This is <b>son</b> which you can tell by the skinny legs. Not fully grown yet.
+    On the right, this character means <em>small thing</em> so that is that.
+
+wife:
+  cn: 老婆
+  py: lǎopó
+  set: 2
+  memo: |
+    That character on the left meand old, as in teacher.
+    The character on the right has the female sign at the bottom and then it seems to be yelling at the top, so I guess this is the ol' <b>wife</b> yelling at her husband.
 
 woman:
   cn: 女
