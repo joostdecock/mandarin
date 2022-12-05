@@ -1,6 +1,6 @@
 Belgium:
   cn: 比利時
-  py: bĭlìshí
+  py: Bĭ lì shí
   set: 2
   memo: | 
     Three characters here; 
@@ -15,7 +15,7 @@ Belgium:
 
 China:
   cn: 中国
-  py: zhōng guó
+  py: Zhōng guó
   set: 1
   memo: |
     That flag symbol on the left means like, in the middle.
@@ -51,7 +51,7 @@ Ireland:
 
 USA:
   cn: 美国
-  py: měi guó
+  py: Měi guó
   set: 1
   memo: |
     Two characters.
