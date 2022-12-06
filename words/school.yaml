@@ -1,3 +1,11 @@
+classmate:
+  cn: 同学
+  py: tóngxué
+  set: 2
+  memo: |
+    This is the <b>same</b> character on the left and the <b>study</b> character on the right.
+    Together, they for <b>classmate</b>.
+
 student:
   cn: 学生
   py: xuéshēng
