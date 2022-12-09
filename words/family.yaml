@@ -12,17 +12,6 @@ daughter:
     This is the <a href="/女">women</a> character plus the <a href="/儿">son</a> character.
     That a <b>daughter</b> is essentially a <em>women son</em> is a kinda sad but I don't make the rules.
 
-family:
-  cn: 家
-  py: jiā
-  set: 1
-  also:
-    - home
-  memo: |
-    A big and a small person are shielding under the same umbrella.
-    Since it's a grown-up and a child, this is not a couple.
-    This is a parent and child, in other words a <b>family</b>.
-
 friend:
   cn: 朋友
   py: péngyǒu
@@ -48,6 +37,17 @@ grandmother:
   memo: | 
     The character from <em>good</em> on the left, but now ATM on the right (as for mama) but 
     rather a counter of a bank because back in grandma's days, there were no ATMs.
+
+home:
+  cn: 家
+  py: jiā
+  set: 1
+  also:
+    - family
+  memo: |
+    A big and a small person are shielding under the same roof.
+    Since it's a grown-up and a child, this is not a couple.
+    This is a parent and child, in other words a <b>family</b> in their <b>home</b>.
 
 individual:
   cn: 个
