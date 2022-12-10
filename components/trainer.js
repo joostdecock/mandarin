@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import useApp from 'hooks/useApp.js'
 import Page from 'components/wrappers/page.js'
 import Layout from 'components/layouts/bare'
@@ -36,15 +36,10 @@ const WordTrainer = ({
   const [ show, setShow ] = useState(false)
   const [ next, setNext ] = useState(false)
 
-  useEffect(() => {
-    setNext(getNext(slug))
-    setShow(false)
-  }, [slug])
-
   const nextWord = () => {
     if (show) setShow(false)
-    const next = getNext(slug)
-    router.push(`/`+asSlug(next[type]))
+    const [next, prefix] = getNext(slug)
+    router.push(prefix+asSlug(next[type]))
   }
 
   const revealMemo = () => setShow(true)

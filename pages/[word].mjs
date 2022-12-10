@@ -8,7 +8,7 @@ const en = Object.keys(words)
 const getNext = (current) => {
   const next = en[Math.floor(Math.random()*en.length)]
   if (next === current) return getNext(current)
-  else return words[en[next]]
+  else return [words[en[next]], '/']
 }
 
 const WordPage = (props) => <WordTrainer getNext={getNext} {...props} />

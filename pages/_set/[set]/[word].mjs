@@ -1,21 +1,22 @@
-import categories from 'prebuild/categories.mjs'
+import sets from 'prebuild/sets.mjs'
 import jsonLoader from 'scripts/loader.mjs'
 import WordTrainer from 'components/trainer.js'
 import { asSlug } from 'site/scripts/utils.mjs'
 
-function getNext(current, cat, type) {
-  const words = {}
-  for (const word of categories[cat]) words[word[type]] = word
+
+const getNext = (current, words, set) => {
   const en = Object.keys(words)
   const next = en[Math.floor(Math.random()*en.length)]
-  if (next === current) return getNext(current, cat, type)
-  else return [words[next], `/_cat/${cat}/`]
+  if (next === current) return getNext(current, words, set)
+  else return [words[next], `/_set/${set}/`]
 }
 
-const WordPage = (props) => <WordTrainer 
-  getNext={(current) => getNext(current, props.cat, props.type)} 
-  {...props} 
-/>
+const WordPage = (props) => {
+  const words = {}
+  for (const word of sets[props.set]) words[word[props.type]] = word
+
+  return <WordTrainer getNext={(current) => getNext(current, words, props.set)} {...props} />
+}
 
 export default WordPage
 
@@ -40,11 +41,11 @@ export async function getStaticProps({ params }) {
  */
 export async function getStaticPaths(all) { 
   const paths = []
-  for (const cat in categories) {
-    for (const word of categories[cat]) {
-      paths.push(`/_cat/${cat}/${word.cn}`)
-      paths.push(`/_cat/${cat}/${asSlug(word.py)}`)
-      paths.push(`/_cat/${cat}/${asSlug(word.en)}`)
+  for (const set in sets) {
+    for (const word of sets[set]) {
+      paths.push(`/_set/${set}/${word.cn}`)
+      paths.push(`/_set/${set}/${asSlug(word.py)}`)
+      paths.push(`/_set/${set}/${asSlug(word.en)}`)
     }
   }
   return { 
