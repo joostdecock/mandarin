@@ -7,6 +7,21 @@ also:
     Right - <small>Hey, I <b>also</b> look like a wonky `t` character</small>.
     <b>Also</b> sounds like Ye, like that american artist who is <b>also</b> racist by the way.
 
+and:
+  cn: 和
+  py: hé
+  set: 2
+  also:
+    - together with
+    - with
+    - sum
+    - union
+    - peace
+    - harmony
+  memo: |
+    On the right there's a wardrobe, on the left there's a bar with a coat hanger on it.
+    These things clearly go together. They form a <b>union</b> of wardrobe <b>and</b> coat hangers.
+
 is:
   cn: 是
   py: shì
@@ -18,6 +33,18 @@ is:
     Why is that box levitating over that table?
     Is it magic? Is it not subject to gravity?
     Or has it simply transcended into a state where it just <b>is</b> and these questions <b>are</b> foolish. Just let it <b>be</b>.
+
+how many:
+  cn: 几
+  py: jǐ
+  set: 2
+  also:
+    - how much
+    - several
+    - a few
+  memo: |
+    This looks a bit like a Pi symbol (π), and the intersection symbol (∩).
+    Both of those are mathematical symbols, and what is mathematics if not the search for the question <b>how many</b>
 
 no:
   cn: 没
