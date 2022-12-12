@@ -9,6 +9,18 @@ airport:
     场 (field) where you can practically see the tractor tracks in this field
     Machine field is a pretty great name for airport.
 
+japan:
+  cn: 日本
+  py: rì běn
+  set: 2
+  memo: TODO
+
+japanese:
+  cn: 日语
+  py: rì yǔ
+  set: 2
+  memo: TODO
+
 chinese language:
   cn: 汉语
   py: hànyǔ
@@ -51,3 +63,12 @@ speech:
     This looks almost exactly like the <a href="/话">language</a> character, and it's meaning is very similar.
     This is <b>dialect</b>, or <b>speech</b>, or also <b>language</b> depending on context.
     Essentially, this is the same as language, but slightly different. Like a <b>dialect</b>.
+
+word:
+  cn: 字
+  py: zì
+  set: 2
+  also:
+    - letter
+    - symbol
+    - character

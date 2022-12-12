@@ -1,3 +1,11 @@
+delicious:
+  cn: 好吃
+  py: hǎo chī
+  set: 2
+  also:
+    - tasty
+  memo: TODO
+
 dish:
   cn: 菜
   py: cài

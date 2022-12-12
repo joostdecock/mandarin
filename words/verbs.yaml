@@ -36,13 +36,23 @@ to have:
     - there are
     - to exist
     - to be
-  memo: What's show here is a roof over your head. Which is a nice thing to <b>have</b>.
+  memo: |
+    What's show here is a roof over your head. Which is a nice thing to <b>have</b>.
+    Note that to negate to have, we use 没, not 不
 
 to like:
   cn: 喜欢
   py: xǐhuān
   set: 1
   memo: (<em>happiness character</em> + <em>joyous character</em>) = like.
+
+to make:
+  cn: 做
+  py: zuò
+  set: 2
+  also:
+    - to do
+  memo: TODO
 
 to raise:
   cn: 起
@@ -51,6 +61,12 @@ to raise:
   memo: |
     This is cold air coming in from the right, and as it is heated by the radiator on the left, it rises.
     So that's how you can <b>raise</b> air upwards. By heating it.
+
+to read:
+  cn: 读
+  py: dú
+  set: 2
+  memo: TODO
 
 to rest:
   cn: 休息
@@ -76,6 +92,12 @@ to sleep:
     On the right, we have the symbol for see (the eye) that is getting covered.
     That in itself tells you this is <b>sleep</b> but on the left, there's also a pocketspring as you'd find in a mattress.
 
+to speak: 
+  cn: 说
+  py: shuō
+  set: 2
+  memo: This is a person behind a lectern with two microphones. Clearly this person is expected to <b>speak</b>
+
 to start:
   cn: 开始
   py: kāishǐ
@@ -96,8 +118,9 @@ to watch:
     We've got party guy swinging his tie around, together with the symbol for see. 
     It's a sight to watch, that's for sure.
 
-to speak: 
-  cn: 说
-  py: shuō
+to write:
+  cn: 写
+  py: xiě
   set: 2
-  memo: This is a person behind a lectern with two microphones. Clearly this person is expected to <b>speak</b>
+  memo: TODO
+

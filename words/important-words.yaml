@@ -22,6 +22,33 @@ and:
     On the right there's a wardrobe, on the left there's a bar with a coat hanger on it.
     These things clearly go together. They form a <b>union</b> of wardrobe <b>and</b> coat hangers.
 
+can:
+  cn: 会
+  py: huì
+  set: 2
+  also:
+    - will
+    - to be possible
+    - to meet
+    - group
+  memo: TODO
+
+can (numeric):
+  cn: 能
+  py: néng
+  set: 2
+  also:
+    - ability
+  memo: | 
+    Like a quantified version of can. I can do 20 pushups
+    TODO
+
+how:
+  cn: 怎么
+  py: zěnme
+  set: 2
+  memo: TODO
+
 is:
   cn: 是
   py: shì
@@ -55,6 +82,13 @@ no:
   memo: | 
     That's a smith's anvil (and hammer on the left) with a bucket of water dunked all over it. 
     That is a big NO NO. The smith will not be happy if you dunk water on his anvil.
+
+no (alt):
+  cn: 不是
+  py: bùshì
+  set: 2
+  memo: | 
+    The character for <b>No</b> plus <b>is</b> mean <b>no</b> in a slightly different sense.
 
 not:
   cn: 不
@@ -102,3 +136,10 @@ who:
     On the left is somebody trying to figure out <b>who</b> that person on the right is.
     But that person on the right is behind one of them screens after which you go to get dressed you know?
     So this really says <b>who</b> is behind that screen?
+
+yes:
+  cn: 是的
+  py: shì de
+  set: 2
+  memo: |
+    The symbol for <a href="/是">is</a> plus possesive 的 makes it is's or affirmative somehow
