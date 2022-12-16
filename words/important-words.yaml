@@ -85,7 +85,7 @@ no:
 
 no (alt):
   cn: 不是
-  py: bùshì
+  py: búshì
   set: 2
   memo: | 
     The character for <b>No</b> plus <b>is</b> mean <b>no</b> in a slightly different sense.
@@ -112,8 +112,6 @@ what:
   cn: 什么
   py: shén me
   set: 1
-  also: 
-    - who
   memo: |
     We've got some big dude in the middle here who as standing between two poles or something.
     And he's pushed one of them over while saying <b>WHAT!?</b> because he just can't believe this.
