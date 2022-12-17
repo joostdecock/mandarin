@@ -2,7 +2,9 @@ brother:
   cn: 兄弟
   py: xiōngdì
   set: 2
-  memo: TODO
+  memo: |
+    This is <a href="/兄">older brother</a> + <a href="/弟">younger brother</a>
+    So just <b>brother</b> as the age indicators cancel each other out.
 
 daughter:
   cn: 女儿
@@ -64,6 +66,14 @@ mama:
     The right looks like an ATM machine. 
     Because you know mama is your best ATM. 
 
+older brother:
+  cn: 兄
+  py: xiōng
+  set: 2
+  memo: |
+    This is the symbol for <a href="/儿">son</a> carrying a big box.
+    So clearly this is the older brother. That box is heavy after all.
+
 papa:
   cn: 爸爸
   py: bàba
@@ -74,13 +84,19 @@ papa:
      It's upside-down becase ironing is mama's job. 
      Fixing the iron with a hammer though, totally papa's job.
 
+son (base character):
+  cn: 儿
+  py: ér
+  set: 2
+  memo: Standing with your legs apart is such a male thing to do. Essentially menspreading.
+
 son:
   cn: 儿子
   py: érzi
   set: 1
   memo: |
     On the left, standing with your legs apart is such a male thing to do. Essentially menspreading.
-    This is <b>son</b> which you can tell by the skinny legs. Not fully grown yet.
+    This is <a href="/儿">son</a> which you can tell by the skinny legs. Not fully grown yet.
     On the right, this character means <em>small thing</em> so that is that.
 
 wife:
@@ -99,3 +115,13 @@ woman:
     - the female sex
   memo: With those long legs and narrow waist, this is clearly a <b>woman</b>
 
+younger brother:
+  cn: 弟 
+  py: dì
+  set: 2
+  also:
+    - junior male
+  memo: |
+    Look at him, walking around with arms and legs sort of all over the place.
+    It's the typical thing when the body has a growth spurt but they muscles are legging behind and so they are sort of having trouble controlling their own body.
+    Obviously, <b>younger brother</b>

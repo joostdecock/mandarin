@@ -13,13 +13,22 @@ japan:
   cn: 日本
   py: rì běn
   set: 2
-  memo: TODO
+  memo: |
+    <a href="/日">sun<a> + <a href="/本">source</a> and now you know why <b>Japan</b> is called <em>the land of the rising sun</em>.
 
 japanese:
   cn: 日语
   py: rì yǔ
   set: 2
-  memo: TODO
+  memo: |
+    <a href="/日">sun<a> + <a href="/本">language</a> is <b>Japanese</b>, aka the language of <em>the land of the rising sun</em>.
+
+chinese:
+  cn: 中文
+  py: zhōngwén
+  set: 2
+  memo: |
+    <a href="/中">middle</a> + <a href="/文">language</a> is of course <b>chinese</b>
 
 chinese language:
   cn: 汉语
@@ -46,6 +55,19 @@ language:
   memo: |
     On the left we see a person trying very hard to study the books on the desk on the right.
     They are learning a <b>langauge</b> and that language is probably Chinese.
+
+language (2):
+  cn: 文
+  py: wén
+  set: 2
+  also: 
+    - culture
+    - writing
+    - formal
+    - literary
+    - gentle
+  memo: |
+    Some dude weightlifting sends a strong message. To do that, you use <b>language</b>.
 
 mandarin:
   cn: 普通话

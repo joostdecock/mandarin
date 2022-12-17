@@ -13,15 +13,35 @@ classifier for an activity:
     - classifier for letters, telephone calls, and so on
   memo: I guess in a way if the left part is a face then it looks a bit like a tongue. And then that's way too much to put on tongue which might help with the classifier part?
 
-question particle for yes/no questions:
-  cn: 吗
-  py: ma
-  set: 1
-  memo: Person looking at the ATM with the suspense of <em>will it work or not?</em> (yes/no answer).
+measure word for books:
+  cn: 本
+  py: běn
+  set: 2
+  also:
+    - origin
+    - source
+    - this
+    - the current
+    - root
+    - foundation
+    - basis
+    - originally
+  memo: |
+    First of all, this looks like a scale so that's a good fit for a measure word.
+    It's also origin/source and you can sort of see it as something welling up from under the surface.
+    Finally, there's also a bit of book shape in there. 
+    Does that help?
 
 plural suffix for person:
   cn: 们
   py: men
   set: 1
   memo: Two people under the shower. No clothes, not nothing. Just people.
+
+question particle for yes/no questions:
+  cn: 吗
+  py: ma
+  set: 1
+  memo: Person looking at the ATM with the suspense of <em>will it work or not?</em> (yes/no answer).
+
 

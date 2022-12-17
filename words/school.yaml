@@ -6,6 +6,15 @@ classmate:
     This is the <b>same</b> character on the left and the <b>study</b> character on the right.
     Together, they for <b>classmate</b>.
 
+school:
+  cn: 学校
+  py: xuéxiào
+  set: 2
+  memo: |
+    We have the <a href="学">stufy</a> character on the left.
+    On the right is person tied to a wall in some sort of torture chamber.
+    And what is school if not torture.
+
 student:
   cn: 学生
   py: xuéshēng

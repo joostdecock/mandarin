@@ -4,7 +4,9 @@ delicious:
   set: 2
   also:
     - tasty
-  memo: TODO
+  memo: |
+    <a href="/好">good</a> + <a href="/吃">to eat</a> = <b>delicious</b>
+    You know it makes sense
 
 dish:
   cn: 菜

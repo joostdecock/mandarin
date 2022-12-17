@@ -31,7 +31,9 @@ can:
     - to be possible
     - to meet
     - group
-  memo: TODO
+  memo: |
+    This is the symbol for <a href="/云">cloud</a> with a roof added on top of it.
+    And if there is one thing that says <em>I <b>can</b></em> it's building a roof on top of clouds.
 
 can (numeric):
   cn: 能
@@ -39,15 +41,21 @@ can (numeric):
   set: 2
   also:
     - ability
+    - to be able to
   memo: | 
     Like a quantified version of can. I can do 20 pushups
-    TODO
+    There's two <a href="/七">7</a> symbols on the right, which indicates somebody is keeping count of how many pushups you <b>can</b> do.
 
 how:
   cn: 怎么
   py: zěnme
   set: 2
-  memo: TODO
+  also:
+    - what
+    - why
+  memo: |
+    That character on the right (the ramp) does not exists on it's own, but it does tell you this is one of those important words.
+    In this case, <b>how</b> which is very much <b>how</b> I feel about drawing that character on the left; <b>How</b>?
 
 is:
   cn: 是

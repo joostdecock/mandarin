@@ -1,3 +1,87 @@
+monday:
+  cn: 星期一
+  py: xīng qī yī
+  set: 2
+  memo: <a href="/星期">day of the week</a> + <a href="/一">number 1</a> = <b>monday</b>
+
+tuesday: 
+  cn: 星期二
+  py: xīng qī èr
+  set: 2
+  memo: <a href="/星期">day of the week</a> + <a href="/二">number 2</a> = <b>tuesday</b>
+
+wednesday: 
+  cn: 星期三
+  py: xīng qī sān
+  set: 2
+  memo: <a href="/星期">day of the week</a> + <a href="/三">number 3</a> = <b>wednesday</b>
+
+thursday: 
+  cn: 星期四
+  py: xīng qī sì 
+  set: 2
+  memo: <a href="/星期">day of the week</a> + <a href="/四">number 4</a> = <b>thursday</b>
+
+friday: 
+  cn: 星期五
+  py: xīng qī wǔ
+  set: 2
+  memo: <a href="/星期">day of the week</a> + <a href="/五">number 5</a> = <b>friday</b>
+
+saturday: 
+  cn: 星期六
+  py: xīng qī liù
+  set: 2
+  memo: <a href="/星期">day of the week</a> + <a href="/六">number 6</a> = <b>saturday</b>
+
+sunday: 
+  cn: 星期日
+  py: xīng qī rì
+  set: 2
+  memo: <a href="/星期">day of the week</a> + <a href="/日">sun</a> = <b>sunday</b>
+
+monday (2):
+  cn: 周一
+  py: zhōu yī
+  set: 2
+  memo: <a href="/周">week</a> + <a href="/一">number 1</a> = <b>monday</b>
+
+tuesday (2): 
+  cn: 周二
+  py: zhōu èr
+  set: 2
+  memo: <a href="/周">week</a> + <a href="/二">number 2</a> = <b>tuesday</b>
+
+wednesday (2): 
+  cn: 周三
+  py: zhōu sān
+  set: 2
+  memo: <a href="/周">week</a> + <a href="/三">number 3</a> = <b>wednesday</b>
+
+thursday (2): 
+  cn: 周四
+  py: zhōu sì 
+  set: 2
+  memo: <a href="/周">week</a> + <a href="/四">number 4</a> = <b>thursday</b>
+
+friday (2): 
+  cn: 周五
+  py: zhōu wǔ
+  set: 2
+  memo: <a href="/周">week</a> + <a href="/五">number 5</a> = <b>friday</b>
+
+saturday (2): 
+  cn: 周六
+  py: zhōu liù
+  set: 2
+  memo: <a href="/周">week</a> + <a href="/六">number 6</a> = <b>saturday</b>
+
+sunday (2): 
+  cn: 周日
+  py: zhōu rì
+  set: 2
+  memo: <a href="/周">week</a> + <a href="/日">sun</a> = <b>sunday</b>
+
 age:
   cn: 年龄
   py: nián líng
@@ -6,6 +90,31 @@ age:
     This is the symbol for year plus another symbol that looks to be a bunch of picture frames.
     So year-pictures means <b>age</b>. At least that's how I remember it.
 
+a period of time:
+  cn: 期
+  py: qī
+  set: 2
+  also:
+    - phase
+    - stage
+    - time
+    - period
+    - to hope
+  memo: |
+    A month symbol on the right which looks like a calendar.
+    On the left, more calendar with a box drawn around <b>a period of time</b>
+
+day:
+  cn: 天
+  py: tiān
+  set: 2
+  also:
+    - sky
+    - heaven
+  memo: |
+    Looks a bit like a tower pointing to the <b>sky</b> or <b>heaven</b>
+    Perhaps one <b>day</b> you'll get to the top of that tower.
+
 how big:
   cn: 多大
   py: duōdà
@@ -13,6 +122,15 @@ how big:
   also:
     - How old are you (for children only)
   memo: You know the character for big, and the first one is <a href="/多">many/much/often/how</a>
+
+month:
+  cn: 月
+  py: yuè
+  set: 2
+  also:
+    - moon
+    - monthly
+  memo: This is clearly a calendar page showing one <b>month</b>
 
 morning:
   cn: 上午
@@ -23,6 +141,17 @@ morning:
     On the left, we see a bed. On the right one of those french press cofee makers.
     Clearly, this is <b>morning</b>.
 
+next:
+  cn: 明
+  py: míng 
+  set: 2
+  also:
+    - bright
+    - clear (in meaning)
+    - to understand
+    - public or open
+    - wise
+
 this year:
   cn: 今年
   py: jīnnián
@@ -31,6 +160,44 @@ this year:
     On the left, we see an upside down agenda/calendar on a table.
     On the right, somebody is pinned to a bed because they went out late last night.
     Sounds like it was new year's even, and <b>this year</b> is of to a rough start.
+
+tomorrow:
+  cn: 明天
+  py: míngtiān
+  set: 2
+  memo: |
+    <a href="/明">>next</a> + <a href="天">day</a> = <b>tomorrow</b>
+    `
+week:
+  cn: 星期
+  py: xīngqí
+  set: 2
+  also:
+    - day of the week
+    - sunday
+  memo: |
+    <a href="/星">star</a> + <a href="/期">a perdiod of time</a> = <b>week</b>
+    Which makes sense because these days, celebrities/stars become famous and then cancelled in the span of about a week.
+
+week (2):
+  cn: 周
+  py: zhōu
+  set: 2
+  also:
+    - circle
+    - to circle
+    - circumference
+    - lap
+    - cycle
+    - complete
+    - all
+    - all over
+    - thorough
+    - to help financially
+  memo: |
+    This is an alternative form of week where the meaning is crammed in a single character.
+    Essentially, this symbol means <b>cycle</b> (among other things) so it makes sense to also use it for week.
+    If you squint, this looks like a completed check box. As this also means <b>complete</b> that could help.
 
 year:
   cn: 年
@@ -51,3 +218,11 @@ years:
   memo: |
     At the bottom you see sort of a meter or dial, like on scales. Except it's for <b>years</b>.
     At the top, there's candles like you put on a birthday cake it indicate the <b>years</b>.
+
+yesterday:
+  cn: 昨天
+  py: zuótiān
+  set: 2
+  memo: |
+    On the right we have <a href="/天">day</a> which is a nice reminder this has something to do with days.
+    The left thing makes it <b>yesterday</b>. It looks a bit like it's waving goodbye and moving to the left with those drag lines.

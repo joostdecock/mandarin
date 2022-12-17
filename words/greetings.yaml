@@ -4,6 +4,13 @@ again:
   set: 1
   memo: This is clearly a drone about to take off <b>again</b>.
 
+excuse me(, may I ask... ?):
+  cn: 请问
+  py: qǐngwèn
+  set: 2
+  memo: |
+    <a href="/请">to ask</a> + another <a href="/问">to ask</a> means <b>excuse me, may I ask ... ?</b> which makes sense since you're asking whether you can ask somehting so two asks.
+
 good: 
   cn: 好
   py: hăo

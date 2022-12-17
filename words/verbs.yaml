@@ -1,3 +1,29 @@
+to ask (1):
+  cn: 请
+  py: qǐng
+  set: 2
+  also:
+    - to invite
+    - please (do something)
+    - to treat (to a dinner etc)
+    - to request
+  memo: |
+    The <em>i</em> shape reminds me of those symbols that indicate this is a place where tourists can get information.
+    So it's <b>to ask</b> there's a tourist on the left asking things to whomever is behind the counter on the right.
+
+to ask (2):
+  cn: 问
+  py: wèn
+  set: 2
+  also:
+    - question
+    - problem
+    - issue
+    - topic
+  memo: |
+    This is clearly a QR-code which is what you use if you have questions <b>to ask</b>.
+    I mean, it will take you to a website with more info at least.
+
 to call:
   cn: 叫
   py: jiào
@@ -27,6 +53,21 @@ to come out:
     When people tell you come out, they might follow it up with 
     <em>with your hands in the air</em> and that's what's going on here.
 
+to go:
+  cn: 去
+  py: qù
+  set: 2
+  also:
+    - to go to (a place)
+    - to send
+    - to remove
+    - to get rid of
+    - to reduce
+    - to be apart from in space or time
+  memo: |
+    The <a href="/云">cloud</a> character with an extra line means <b>to go</b>.
+    The only think that can draw a line on top a cloud is an airplane. And they are always going places.
+
 to have:
   cn: 有
   py: yǒu
@@ -46,13 +87,54 @@ to like:
   set: 1
   memo: (<em>happiness character</em> + <em>joyous character</em>) = like.
 
+to look:
+  cn: 看
+  py: kàn
+  set: 2
+  also:
+    - to see
+    - to look at
+    - to read
+    - to watch
+    - to visit
+    - to call on
+    - to consider
+    - to regard as
+    - to look after
+    - to treat (an illness)
+    - to depend on
+    - to feel (that)
+    - (after verb) to give it a try
+    - Watch out! (when in danger)
+  memo: |
+    This looks like a tree falling down on a house. So <b>Watch out!</b>
+    But also just <b>to look</b> and a bunch of variants.
+
 to make:
   cn: 做
   py: zuò
   set: 2
   also:
     - to do
-  memo: TODO
+    - to produce
+    - to write
+    - to compose
+    - to act as
+    - to engage in
+    - to hold (a party)
+    - to be
+    - to become
+    - to function (in some capacity)
+    - to serve as
+    - to be used for
+    - to form (a bond)
+    - to pretend
+    - to feign
+    - to act a part
+    - to put on an appearance
+  memo: |
+    There's a lot going on with this verb. A bit like the French <em>faire</em>.
+    I try to see a guy fixing a shower, <b>to make</b> it work again.
 
 to raise:
   cn: 起
@@ -66,7 +148,11 @@ to read:
   cn: 读
   py: dú
   set: 2
-  memo: TODO
+  also:
+    - to study
+    - reading
+  memo: |
+    There's a person looking down at a pile of papers here as this is <b>to read</b>.
 
 to rest:
   cn: 休息
@@ -122,5 +208,7 @@ to write:
   cn: 写
   py: xiě
   set: 2
-  memo: TODO
+  memo: |
+    Nobody writes anymore, but this is clearly paper snaking out of a printer.
+    Because that is what we use <b>to write</b> these days.
 

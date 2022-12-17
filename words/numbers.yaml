@@ -94,6 +94,22 @@
     I don't know exactly why that one extra line to the symbol for 10
     raises it to the third power, but I don't make the rules. 
 
+ordinal number:
+  cn: 号
+  py: hào
+  set: 2
+  also:
+    - day of a month
+    - mark
+    - sign
+    - size
+    - classifier to indicate number of people
+    - roar
+    - cry
+  memo: |
+    This looks a bit like those displays at the cash register showing you the <b>number</b> or price.
+    You can also see the paper for the receipt feeding through the printer at the bottom.
+
 two:
   cn: 梁
   py: liáng
