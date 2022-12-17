@@ -14,7 +14,7 @@ import { asSlug } from './utils.mjs'
  *
  *  Exported because it's also used by the Algolia index script
  */
-export const getYamlFileList = async (folder) => {
+const getFileList = async (folder) => {
   let allFiles
   try {
     allFiles = await rdir(folder)
@@ -42,7 +42,12 @@ export const prebuildWords = async () => {
   const yamlRoot = path.resolve('words')
 
   // Get list of filenames
-  const list = await getYamlFileList(yamlRoot)
+  const list = await getFileList(yamlRoot)
+
+  // Setup mp3 root path
+  const mp3Root = path.resolve('public/audio')
+  // Get list of audio files
+  const mp3s = (await getFileList(mp3Root)).map(fullPath => path.basename(fullPath))
 
   // Create list of pages
   const pages = []
@@ -77,6 +82,8 @@ export const prebuildWords = async () => {
           imports[alt] = { ...info, slug: asSlug(alt), type: 'en', alt: info.en }
         }
       }
+      // Check that MP3 is present
+      if (!mp3s.includes(info.cn+'.mp3')) console.log(`Missing audio for ${info.cn}`)
     }
   }
   fs.writeFileSync(
