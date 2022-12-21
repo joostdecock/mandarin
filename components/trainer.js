@@ -72,6 +72,14 @@ const WordTrainer = ({
         {show && (
           <div className="text-lg text-center mdx">
             {memo.split("\n").map((line, i) => <span key={i} className="block" dangerouslySetInnerHTML={{__html: line}} />)}
+            {also && (
+              <>
+                <span className="mt-3 block font-bold">Also:</span>
+                <ul>
+                {also.map(alt => <li key={alt}>{alt}</li>)}
+                </ul>
+              </>
+            )}
           </div>
         )}
         <button 
