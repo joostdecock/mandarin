@@ -1,6 +1,7 @@
 bright:
   cn: 亮
   py: liàng 
+  set: 2
   also:
     - clear
     - resonant
