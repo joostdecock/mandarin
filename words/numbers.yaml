@@ -94,12 +94,12 @@
     I don't know exactly why that one extra line to the symbol for 10
     raises it to the third power, but I don't make the rules. 
 
-ordinal number:
+day of a month:
   cn: 号
   py: hào
   set: 2
   also:
-    - day of a month
+    - ordinal number
     - mark
     - sign
     - size

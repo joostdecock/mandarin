@@ -16,3 +16,9 @@ happiness:
     There's one of them ceiling fans overhead to provide a cool breeze while enjoying this lovely meal.
     Obviously, this is a happy moment, so happiness.
 
+to feel happy:
+  cn: 开心
+  py: kāi xīn
+  set: 2
+  memo: |
+    Symbol for <a href="/开">to open</a> plus symbol for <a href="/心">heart</a> = <b>to feel happy</b> and personally I feel happy about that.

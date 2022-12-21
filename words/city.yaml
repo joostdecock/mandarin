@@ -1,0 +1,9 @@
+building:
+  cn: 馆
+  py: guǎn
+  set: 2
+  also: 
+    - shop
+  memo: |
+    This looks like a bunch of housing units stacked on top of each other with a roof over them.
+    And on the left I guess we see a construction crane. This is a <b>building</b>.

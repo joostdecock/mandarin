@@ -48,6 +48,20 @@ fire:
   set: 1
   memo: Looks like  twigs/tinder and flames shooting from those twigs.
 
+food:
+  cn: 饭
+  py: fàn
+  set: 2
+  also:
+    - cuisine
+    - cooked rice
+    - meal
+  memo: |
+    On the right it looks like one of those things to rest chop sticks on.
+    On the left is something half-eaten.
+    In the middle is a drinking straw perhaps.
+    Let's just say it's <b>food</b>
+
 heat:
   cn: 热
   py: rè
@@ -68,3 +82,8 @@ pot:
     Looks like a person with a ribbon in their hair standing at a table. 
     Under the table are twigs (like in the fire symbol) and there's a pot on top of the table/fire.
 
+restaurant: 
+  cn: 饭馆
+  py: fàn guǎn
+  set: 2
+  memo: Symbol for <a href="/饭">food</a> plus symbol for <a href="/馆">building</a> = <b>restaurant</b> 

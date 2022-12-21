@@ -14,6 +14,17 @@ hand:
     I guess this looks a bit like the way a small child would draw a hand? 
     Personally, I find it looks more like a cross-section of a cuff link, which is also close to the hand.
 
+heart:
+  cn: 心
+  py: xīn 
+  set: 2
+  also:
+    - center
+    - core
+  memo: |
+    I guess if you're really bad at drawing a heart, and then it falls over so that it's somewhat broken and upside down?
+    Also, mirrored J shape which for me looks like I'm looking inwards, into my <b>heart</b>.
+
 mouth:
   cn: 口
   py: kǒu

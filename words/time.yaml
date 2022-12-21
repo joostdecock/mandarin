@@ -104,6 +104,17 @@ a period of time:
     A month symbol on the right which looks like a calendar.
     On the left, more calendar with a box drawn around <b>a period of time</b>
 
+current:
+  cn: 今
+  py: jīn
+  set: 2
+  also:
+    - today
+    - modern
+    - present
+    - now
+    - this
+
 day:
   cn: 天
   py: tiān
@@ -160,6 +171,20 @@ this year:
     On the left, we see an upside down agenda/calendar on a table.
     On the right, somebody is pinned to a bed because they went out late last night.
     Sounds like it was new year's even, and <b>this year</b> is of to a rough start.
+
+today:
+  cn: 今天
+  py: jīn tiān
+  set: 2
+  memo: |
+    Symbol for <a href="/今">current</a> plus symbol for <a href="/天">day</a> = <b>today</b>
+
+today (2):
+  cn: 今日
+  py: jīn rì
+  set: 2
+  memo: |
+    Symbol for <a href="/今">current</a> plus symbol for <a href="/日">sun</a> = <b>today</b>
 
 tomorrow:
   cn: 明天

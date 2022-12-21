@@ -81,6 +81,14 @@ to have:
     What's show here is a roof over your head. Which is a nice thing to <b>have</b>.
     Note that to negate to have, we use 没, not 不
 
+to learn:
+  cn: 学
+  py: xué
+  also:
+    - to study
+  set: 2
+  memo: Looks a bit like a student, and is used in many study related words.
+
 to like:
   cn: 喜欢
   py: xǐhuān
@@ -135,6 +143,31 @@ to make:
   memo: |
     There's a lot going on with this verb. A bit like the French <em>faire</em>.
     I try to see a guy fixing a shower, <b>to make</b> it work again.
+
+to open:
+  cn: 开
+  py: kāi 
+  set: 2
+  also:
+    - to start
+    - to turn on
+    - to boil
+    - to operate
+  memo: |
+    I guess this looks a bit like a top down view of a cardboard box that is <b>open</b>
+    Or like one of them chunky buttons you press to <b>start</b> something.
+    Or like one of the knobs on a stove that you <b>turn on</b> when you want <b>to boil</b> something.
+
+to practice:
+  cn: 习  
+  py: xí
+  set: 2
+  also:
+    - to study
+    - habit
+  memo: |
+    You would need <b>to practice</b> to make a square from these lines.
+    Not often used on its own, typically goes with another word.
 
 to raise:
   cn: 起
@@ -192,6 +225,15 @@ to start:
     - to begin
   memo: |
     Before we <b>start</b>, we must have pie (on the left) and only then can we start hammering things (on the right)
+
+to study:
+  cn: 学习
+  py: xué xí
+  also:
+    - to learn
+  set: 2
+  memo: |
+    Symbol for <a href="/学">to learn</a> plus symbol for <a href="/习">habit</a> = <b>to study</b>
 
 to watch: 
   cn: 观

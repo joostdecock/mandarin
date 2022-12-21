@@ -1,3 +1,15 @@
+bright:
+  cn: 亮
+  py: liàng 
+  also:
+    - clear
+    - resonant
+    - to shine
+    - to show
+    - to reveal
+  memo: |
+    This is a person posing with one of those graduation flat heads on. Clearly a <b>bright</b> person.
+
 common:
   cn: 普通
   py: pǔ tōng
@@ -7,6 +19,16 @@ common:
     - general
     - average
   memo: Word for general + <a href="/通">classifier</a> is still general/common/ordinary
+
+elegant:
+  cn: 漂
+  py: piào 
+  set: 2
+  also:
+    - polished
+  memo: |
+    At the bottom we have the symbol for small, but there's a lot going on on top of it.
+    So it's small but on top of that there's all sorts of intricate stuff. So <b>elegant</b>.
 
 general:
   cn: 普
@@ -19,6 +41,14 @@ general:
   memo: |
     An IKEA dresser under a lamp. This is super <b>popular</b> and you find this <b>everywhere</b>.
     It's the <b>general</b> vibe I get from this.
+
+pretty:
+  cn:  漂亮
+  py: piào liang
+  also:
+    - beautiful
+  set: 2
+  memo: Symbol for <a href="/漂">elegant</a> plus symbol for <a href="/亮">bright</a> = <b>pretty</b> or <b>beautiful</b>.
 
 small:
   cn: 小
