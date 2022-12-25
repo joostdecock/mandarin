@@ -1,3 +1,20 @@
+butt:
+  cn: 屁股 
+  py: pì gu
+  set: 2
+  also:
+    - bottom
+    - back part
+  memo: TODO
+
+fart:
+  cn: 屁
+  py: pì
+  set: 2
+  memo: TODO
+  also:
+    - nonsense
+
 foot:
   cn: 足
   py: zú
@@ -30,3 +47,16 @@ mouth:
   py: kǒu
   set: 1
   memo: Look at that mouth (of our robot overlord). 
+
+part:
+  cn: 股
+  py: gǔ
+  set: 2
+  memo: TODO
+  also:
+    - share
+    - portion
+    - thigh
+    - whiff
+    - classifier for smells & electric current
+

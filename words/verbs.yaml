@@ -194,6 +194,14 @@ to rest:
   memo: |
     There's two people on the left here, and on the right we have a bath tub and one of those nice towel radiators to keep things warm and cosy so you can take a <b>rest</b> in your bath.
 
+to roast:
+  cn: 烤
+  py: kǎo
+  set: 2
+  memo: TODO
+  also:
+    - to bake
+    - to broil
 
 to see:
   cn: 见

@@ -4,6 +4,12 @@ bear:
   set: 1
   memo: This looks a bit like a bear footprint, with those 4 claws at the bottom.
 
+dog:
+  cn: 狗
+  py: gǒu
+  set: 2
+  memo: TODO
+  
 panda:
   cn: 熊猫
   py: xióng māo

@@ -1,3 +1,19 @@
+bowl:
+  cn: 杯
+  py: bēi
+  set: 2
+  memo: TODO
+  also:
+    - trophy cup
+
+cup:
+  cn: 杯子
+  py: bēi zi
+  set: 2
+  memo: TODO
+  also:
+    - glass
+
 delicious:
   cn: 好吃
   py: hǎo chī
@@ -87,3 +103,9 @@ restaurant:
   py: fàn guǎn
   set: 2
   memo: Symbol for <a href="/饭">food</a> plus symbol for <a href="/馆">building</a> = <b>restaurant</b> 
+
+roast duck:
+  cn: 烤鸭
+  py: kǎo yā
+  set: 2
+  memo: TODO

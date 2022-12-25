@@ -108,6 +108,15 @@ not:
     Poor arrow smashed so hard into that wall one of its arms broke off. 
     This is <b>not</b> the way to go, clearly.
 
+that:
+  cn: 那
+  py: nà
+  set: 2
+  memo: TODO
+  also:
+    - those
+    - then (in that case)
+
 this:
   cn: 这
   py: zhè

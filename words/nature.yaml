@@ -18,6 +18,14 @@ day:
     And yes, perhaps it would have made more sense to use only one square.
     But remember, that was already taken for <a href="/口">mouth</a>.
 
+duck:
+  cn: 鸭
+  py: yā
+  set: 2
+  memo: TODO
+  also:
+    - male sex worker (slang)
+
 flower:
   cn: 花
   py: huā
@@ -44,6 +52,12 @@ quiet:
   memo: |
     I like to think of this as the bottom-left part of the character representing a head.
     While the rest of the character are like big noise-cancelling headphones to keep things <b>quiet</b>
+
+rain:
+  cn: 雨
+  py: yǔ
+  set: 2
+  memo: TODO
 
 rose:
   cn: 玫瑰花
