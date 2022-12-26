@@ -1,0 +1,26 @@
+black:
+  cn: 黑
+  py: hēi
+  set: 2
+  memo: TODO
+  also:
+    - dark
+    - sinister
+    - secret
+    - shady
+    - illegal
+    - to hide (sth) away
+    - to vilify
+    - (loanword) to hack (computing)
+
+red:
+  cn: 红
+  py: hóng
+  set: 2
+  memo: TODO
+  also:
+    - popular
+    - revolutionary
+    - bonus
+
+

@@ -42,6 +42,12 @@ heart:
     I guess if you're really bad at drawing a heart, and then it falls over so that it's somewhat broken and upside down?
     Also, mirrored J shape which for me looks like I'm looking inwards, into my <b>heart</b>.
 
+male:
+  cn: 男
+  py: nán
+  set: 2
+  memo: TODO
+
 mouth:
   cn: 口
   py: kǒu
@@ -59,4 +65,13 @@ part:
     - thigh
     - whiff
     - classifier for smells & electric current
+
+woman:
+  cn: 女
+  py: nǚ
+  set: 1
+  also:
+    - the female sex
+  memo: With those long legs and narrow waist, this is clearly a <b>woman</b>
+
 

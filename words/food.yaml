@@ -98,6 +98,12 @@ pot:
     Looks like a person with a ribbon in their hair standing at a table. 
     Under the table are twigs (like in the fire symbol) and there's a pot on top of the table/fire.
 
+red wine: 
+  cn: 红葡萄酒
+  py: hóng pú tao jiǔ
+  memo: TODO
+  set: 2
+
 restaurant: 
   cn: 饭馆
   py: fàn guǎn
@@ -109,3 +115,4 @@ roast duck:
   py: kǎo yā
   set: 2
   memo: TODO
+
