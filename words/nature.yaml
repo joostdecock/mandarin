@@ -59,16 +59,6 @@ rain:
   set: 2
   memo: TODO
 
-rose:
-  cn: 玫瑰花
-  py: méiguī huā
-  set: 2
-  memo: |
-    玫 means jade
-    瑰 means extraordinary or semi-precious stone
-    花 means flower
-    So this is a precious extraordinary flower which a rose is.
-
 star:
   cn: 星
   py: xīng
