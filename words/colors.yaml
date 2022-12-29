@@ -2,7 +2,11 @@ black:
   cn: 黑
   py: hēi
   set: 2
-  memo: TODO
+  memo: |
+    I am a big fan of black, and I'm also a big fan of this character.
+    Look at it. It's got heat (it's hot) but it's also got the most adorable face.
+    It's like it's instantly captures my heart, much like <b>black</b> does.
+    It's also the loan word for <b>hack</b> so really I feel this character is the best.
   also:
     - dark
     - sinister
@@ -17,7 +21,10 @@ red:
   cn: 红
   py: hóng
   set: 2
-  memo: TODO
+  memo: |
+    That's the work character on the right, and a bunch of layers being cut through on the left.
+    I guess if you're a surgeon cutting things is work. And when you do, they bleed <b>red</b>.
+    Being a <b>revolutionary</b> surgeon also makes you <b>popular</b> so that's a <b>bonus</b>.
   also:
     - popular
     - revolutionary

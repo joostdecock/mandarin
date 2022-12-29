@@ -62,6 +62,21 @@ nevermind:
 
     So no-close-tie means, no need to tie this up all neatly, nevermind.
 
+perhaps:
+  cn: 可能
+  py: kě néng
+  set: 2
+  memo: |
+    You know the left from <a href="/可乐">cola</a>.
+    The rigth means ability, and together they form <b>perhaps, possible, probable, maybe</b> and so on.
+  also:
+    - might (happen)
+    - possible
+    - probable
+    - possibility
+    - probability
+    - maybe
+
 person:
   cn: 人
   py: rén

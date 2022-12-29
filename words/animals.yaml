@@ -8,8 +8,17 @@ dog:
   cn: 狗
   py: gǒu
   set: 2
-  memo: TODO
+  memo: A guy in a sombrero hat is slumped against the wall sleeping while his <b>dog</b> stands guard
   
+duck:
+  cn: 鸭
+  py: yā
+  set: 2
+  memo: |
+    A duck is also a <b>male sex worker</b> (slang) and if that's not a paddle to pleasantly whip the customer on the right with, then I don't know what is.
+  also:
+    - male sex worker (slang)
+
 panda:
   cn: 熊猫
   py: xióng māo

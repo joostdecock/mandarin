@@ -1,8 +1,21 @@
+alcoholic beverage:
+  cn: 酒
+  py: jiǔ
+  set: 2
+  memo: Clearly a cork on a bottle of <b>liquor</b> or another <b>alcoholic beverage</b>
+  also:
+    - liquor
+    - spirits
+    - wine (rice wine)
+
 bowl:
   cn: 杯
   py: bēi
   set: 2
-  memo: TODO
+  memo: |
+    I think it's helps to keep in mind this is not just <b>cup</b> but also <b>trophy cup</b>
+    Because the only time you ever see those is lines up next to each other, just as these are.
+    They are different shapes but that's how it typically is.
   also:
     - trophy cup
 
@@ -10,7 +23,9 @@ cup:
   cn: 杯子
   py: bēi zi
   set: 2
-  memo: TODO
+  memo: |
+    This is the <a href="/杯">trophy cup</a> character together with the <a href="/子">son</b> character.
+    Makes sense that a baby trophy cup is just a <b>cup</b> or <b>glass</b>
   also:
     - glass
 
@@ -101,7 +116,11 @@ pot:
 red wine: 
   cn: 红葡萄酒
   py: hóng pú tao jiǔ
-  memo: TODO
+  memo: |
+    Character for <a href="/红">red</a> 
+    Character for <a href="/葡萄">grape</a>
+    Character for <a href="/酒">alcoholic beverage</a>
+    Together they make <b>red (grape) wine</b>
   set: 2
 
 restaurant: 
@@ -114,5 +133,7 @@ roast duck:
   cn: 烤鸭
   py: kǎo yā
   set: 2
-  memo: TODO
+  memo: |
+    On the left we have a squished fire + old symbol. And an old fire (embers) is where you <b>roast</b> things on.
+    On the right we have the character for <a href="/鸭">duck</a>
 

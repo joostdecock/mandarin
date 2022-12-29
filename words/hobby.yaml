@@ -1,7 +1,0 @@
-movie:
-  cn: 电影
-  py: diàn yǐng
-  set: 2
-  memo: TODO
-  also:
-    - film

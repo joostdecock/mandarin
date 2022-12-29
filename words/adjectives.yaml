@@ -1,3 +1,13 @@
+adjacent:
+  cn: 邻
+  py: lín
+  set: 2
+  memo: |
+    Boobs on the right and whatever is going on on the left is <b>adjacent</b> to them which is always gpod
+  also:
+    - close to
+    - neighbor
+
 bright:
   cn: 亮
   py: liàng 

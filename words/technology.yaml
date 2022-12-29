@@ -1,0 +1,32 @@
+electric:
+  cn: 电
+  py: diàn
+  set: 2
+  memo: |
+    This is used for all things tech. It's a J in front of a computer screen so for me this makes a lot of sense.
+  also:
+    - electricity
+    - electrical
+
+movie:
+  cn: 电影
+  py: diàn yǐng
+  set: 2
+  memo: |
+    Character for <a href="/影">picture, film</a> plus character for <a href="/电">electric<a> is <b>movie</b>
+  also:
+    - film
+
+picture:
+  cn: 影
+  py: yǐng
+  set: 2
+  memo:
+  also:
+    - image
+    - film
+    - movie
+    - photograph
+    - reflection
+    - shadow
+    - trace

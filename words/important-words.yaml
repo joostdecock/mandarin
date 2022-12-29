@@ -112,7 +112,9 @@ that:
   cn: 那
   py: nà
   set: 2
-  memo: TODO
+  memo: |
+    This is obviously an important word, so boobs on the right, and the character for month somewhat flying through time on the left.
+    I don't know if <b>that</b> makes it very clear, but <b>those</b> are the facts.
   also:
     - those
     - then (in that case)

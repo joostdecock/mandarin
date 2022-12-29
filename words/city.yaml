@@ -7,3 +7,12 @@ building:
   memo: |
     This looks like a bunch of housing units stacked on top of each other with a roof over them.
     And on the left I guess we see a construction crane. This is a <b>building</b>.
+
+neighbor:
+  cn: 邻居
+  py: lín jū
+  set: 2
+  memo: |
+    Character for <a href="/邻">adjacent</a> plus character for <a href="/居">to reside</a> = <b>neighbor</b>
+  also:
+    - next door

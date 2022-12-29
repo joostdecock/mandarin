@@ -187,6 +187,22 @@ to read:
   memo: |
     There's a person looking down at a pile of papers here as this is <b>to read</b>.
 
+to reside:
+  cn: 居
+  py: jū
+  set: 2
+  memo: |
+    Some sort of thick roof over one's head. Then a bed below it.
+    This is where you <b>reside</b>. Also qualifier for beds because that makes sense.
+  also:
+    - to be (in a position)
+    - to store up
+    - to be at a standstill
+    - residence
+    - house
+    - restaurant
+    - classifier for bedrooms
+
 to rest:
   cn: 休息
   py: xiūxi
@@ -198,7 +214,9 @@ to roast:
   cn: 烤
   py: kǎo
   set: 2
-  memo: TODO
+  memo: |
+    This is a squished fire symbol with what looks like the old symbol. So old fire or embers.
+    That is indeed what you <b>roast</b> things on.
   also:
     - to bake
     - to broil

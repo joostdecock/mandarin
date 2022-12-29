@@ -18,14 +18,6 @@ day:
     And yes, perhaps it would have made more sense to use only one square.
     But remember, that was already taken for <a href="/口">mouth</a>.
 
-duck:
-  cn: 鸭
-  py: yā
-  set: 2
-  memo: TODO
-  also:
-    - male sex worker (slang)
-
 flower:
   cn: 花
   py: huā
@@ -57,7 +49,7 @@ rain:
   cn: 雨
   py: yǔ
   set: 2
-  memo: TODO
+  memo: Actual raindrops in this thing. Should be easy.
 
 star:
   cn: 星

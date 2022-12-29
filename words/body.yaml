@@ -5,13 +5,15 @@ butt:
   also:
     - bottom
     - back part
-  memo: TODO
+  memo: |
+    The character for <a href="/屁">fart</a> plus the character for <a href="/股">part</a> (so butt-part) make <b>fart</b>.
+    Here's why Chinese is the greatest language ever. 
 
 fart:
   cn: 屁
   py: pì
   set: 2
-  memo: TODO
+  memo: This <b>fart</b> (also <b>nonsense</b>) hangs like a cloud over those two poor noses.
   also:
     - nonsense
 
@@ -46,7 +48,9 @@ male:
   cn: 男
   py: nán
   set: 2
-  memo: TODO
+  memo: |
+    Not certain whether this is a car grill, a fly swatter, or one a hose running out of a basement window to pump it dry.
+    But what I do know is that all of those describe things <b>male</b> people are concerned with.
 
 mouth:
   cn: 口
@@ -58,7 +62,9 @@ part:
   cn: 股
   py: gǔ
   set: 2
-  memo: TODO
+  memo: |
+    We've got no on the right and then something that looks like a squished month opn the left.
+    So I guess we can remember that no, it's not month. It's only a <b>part</b> of it.
   also:
     - share
     - portion
