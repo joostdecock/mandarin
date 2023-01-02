@@ -156,6 +156,7 @@ next:
   cn: 明
   py: míng 
   set: 2
+  memo: These symbols look like the month symbol and we've moved from the one on the left to the <b>next</b> on the right
   also:
     - bright
     - clear (in meaning)
