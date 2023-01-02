@@ -82,6 +82,8 @@ export const prebuildWords = async () => {
           imports[alt] = { ...info, slug: asSlug(alt), type: 'en', alt: info.en }
         }
       }
+      // Check that memo
+      if (!info.memo) console.log(`Missing memo for ${key}`)
       // Check that MP3 is present
       if (!mp3s.includes(info.cn+'.mp3')) console.log(`Missing audio for ${info.cn}`)
     }
