@@ -61,6 +61,7 @@ const Header = ({ app, setSearch }) => {
               <NavBtn href="/_list" txt="All words" />
               <NavBtn href="/_cat" txt="Categories" />
               <NavBtn href="/_set" txt="Sets" />
+              <NavBtn href="/_settings" txt="Settings" />
               <NavBtn href="/_about" txt="About this site" />
               <NavBtn href="/_help" txt="Help &amp; Support" />
             </div>
