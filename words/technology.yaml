@@ -21,7 +21,10 @@ picture:
   cn: 影
   py: yǐng
   set: 2
-  memo:
+  memo: |
+    At the bottom is the symbol for small. And a <b>picture</b> is typically smaller then the real thing.
+    At the top is what could be a camera flash.
+    On the right, we see some sort of lens flare action because this is also <b>movie</b> or <b>reflection</b>
   also:
     - image
     - film
