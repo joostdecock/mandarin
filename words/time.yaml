@@ -108,6 +108,9 @@ current:
   cn: 今
   py: jīn
   set: 2
+  memo: |
+    It looks a bit like a mailbox, which holds the newspaper with the <b>current</b> events of <b>today</b>.
+    In other words, what's happening <b>now</b> in the <b>present</b>.
   also:
     - today
     - modern
