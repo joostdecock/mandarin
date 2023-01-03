@@ -8,6 +8,16 @@ building:
     This looks like a bunch of housing units stacked on top of each other with a roof over them.
     And on the left I guess we see a construction crane. This is a <b>building</b>.
 
+merchant:
+  cn: 商
+  py: shāng
+  set: 2
+  memo: I mean look at him, that's obviously a guy with coveralls selling fish or something
+  also: 
+    - commerce
+    - dealer
+    - to consult
+
 neighbor:
   cn: 邻居
   py: lín jū
@@ -16,3 +26,13 @@ neighbor:
     Character for <a href="/邻">adjacent</a> plus character for <a href="/居">to reside</a> = <b>neighbor</b>
   also:
     - next door
+
+shop:
+  cn: 商店
+  py: shāng diàn
+  set: 2
+  memo: |
+    The right character is <b>shop</b> on its own. 
+    The left is <a href="/商">merchant</a> because a <b>shop</b> without somebody running it is not help to us.
+  also:
+    - store

@@ -82,6 +82,14 @@ sunday (2):
   set: 2
   memo: <a href="/周">week</a> + <a href="/日">sun</a> = <b>sunday</b>
 
+afternoon:
+  cn: 下午
+  py: xià wǔ
+  set: 2
+  memo: |
+    The character on the right looks like a simpler version of <a href="/年">year</a> and in general always has to do with time.
+    The character on the left is <a href="/下">later</a> but also <em>second of two parts</em> so the second half of the day, or <b>afternoon</b>
+
 age:
   cn: 年龄
   py: nián líng
@@ -136,6 +144,25 @@ how big:
   also:
     - How old are you (for children only)
   memo: You know the character for big, and the first one is <a href="/多">many/much/often/how</a>
+
+later:
+  cn: 下
+  py: xià
+  set: 2
+  memo: |
+    This sort of large pin is often seen in things with time (like year).
+    In this case, the extra line indicates that the time is divided and this is about the <b>later</b> part
+  also: 
+    - down
+    - downwards
+    - below
+    - lower
+    - next (week etc)
+    - second (of two parts)
+    - to decline
+    - to go down
+    - to arrive at (a decision/conclusion)
+    - measure word for frequency of an action
 
 month:
   cn: 月

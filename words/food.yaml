@@ -19,6 +19,14 @@ bowl:
   also:
     - trophy cup
 
+bread:
+  cn: 面包
+  py: miàn bāo
+  set: 2
+  memo: |
+    This is the character for <a href="/面">flour</a> plus the character for <a href="/包">package or bundle</a>.
+    And that's essentially what <b>bread</b> is. A bundle of flour.
+
 cup:
   cn: 杯子
   py: bēi zi
@@ -78,6 +86,24 @@ fire:
   py: huǒ
   set: 1
   memo: Looks like  twigs/tinder and flames shooting from those twigs.
+
+flour:
+  cn: 面
+  py: miàn 
+  set: 2
+  memo: |
+    Looks like a little package ready to deliver that holds noodles.
+    And I guess that <b>noodles</b> are the same as <b>flour</b> in Chinese, base ingredients.
+    It's also used for all soft foods, and has a second meaning as face or side, surface.
+    In the end, I guess we just have to remember this one.
+  also:
+    - noodles
+    - soft (for food that isnot crunchy)
+    - spineless
+    - face
+    - side
+    - surface
+    - top
 
 food:
   cn: 饭

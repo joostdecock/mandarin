@@ -24,6 +24,16 @@ to ask (2):
     This is clearly a QR-code which is what you use if you have questions <b>to ask</b>.
     I mean, it will take you to a website with more info at least.
 
+to buy:
+  cn: 买
+  py: mǎi
+  set: 2
+  memo: |
+    This looks like a guy running away after they stole something.
+    Which is not needed when you <b>buy</b> things properly.
+  also:
+    - to purchase
+
 to call:
   cn: 叫
   py: jiào
@@ -271,6 +281,25 @@ to watch:
   memo: | 
     We've got party guy swinging his tie around, together with the symbol for see. 
     It's a sight to watch, that's for sure.
+
+to wrap:
+  cn: 包
+  py: bāo 
+  set: 2
+  memo: This is essentially a small box being (badly) wrapped. So perfect character.
+  also:
+    - to cover
+    - to hold
+    - to include
+    - to take charge of
+    - to contract
+    - package
+    - wrapper
+    - container
+    - bag
+    - to hold or embrace
+    - bundle
+    - packet
 
 to write:
   cn: 写
