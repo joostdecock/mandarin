@@ -271,6 +271,20 @@ to study:
   memo: |
     Symbol for <a href="/学">to learn</a> plus symbol for <a href="/习">habit</a> = <b>to study</b>
 
+to think:
+  cn: 想
+  py: xiǎng
+  set: 2
+  memo: |
+    A coathanger, a radiator and a bath tub.
+    This is where one goes <b>to think</b> if one is Tom Ford.
+  also:
+    - to believe
+    - to suppose
+    - to wish
+    - to want
+    - to miss (sb or sth)
+
 to watch: 
   cn: 观
   py: guān
