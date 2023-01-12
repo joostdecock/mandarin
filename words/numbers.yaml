@@ -173,6 +173,17 @@ money:
     - coin
   memo: Person window shopping, thingking about how much <b>money</b> to spend
 
+two (only for two exists such a thing):
+  cn: 两
+  tone: 3
+  py: liǎng
+  set: 2
+  also:
+    - both
+    - some
+    - a few
+  memo: There's two in this package
+
 very (adverb of degree):
   cn: 很
   tone: 3
