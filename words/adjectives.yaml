@@ -1,5 +1,6 @@
 adjacent:
   cn: 邻
+  tone: 2
   py: lín
   set: 2
   memo: |
@@ -10,6 +11,7 @@ adjacent:
 
 bright:
   cn: 亮
+  tone: 4
   py: liàng 
   set: 2
   also:
@@ -23,6 +25,7 @@ bright:
 
 common:
   cn: 普通
+  tone: 31
   py: pǔ tōng
   set: 2
   also:
@@ -33,6 +36,7 @@ common:
 
 elegant:
   cn: 漂
+  tone: 4
   py: piào 
   set: 2
   also:
@@ -43,6 +47,7 @@ elegant:
 
 general:
   cn: 普
+  tone: 3
   py: pǔ
   set: 2
   also:
@@ -55,6 +60,7 @@ general:
 
 pretty:
   cn:  漂亮
+  tone: 40
   py: piào liang
   also:
     - beautiful
@@ -63,6 +69,7 @@ pretty:
 
 small:
   cn: 小
+  tone: 3
   py: xiǎo
   set: 1
   memo: This looks like a periscope peaking out through a <b>small</b> opening.

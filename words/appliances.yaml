@@ -1,5 +1,6 @@
 refrigirator:
   cn: 冰箱
+  tone: 11
   py: bīngxiāng
   set: 2
   memo: | 

@@ -26,6 +26,7 @@ const WordTrainer = ({
   cn,
   en,
   py,
+  tone,
   type,
   memo,
   also,
@@ -39,7 +40,10 @@ const WordTrainer = ({
   const nextWord = () => {
     if (show) setShow(false)
     const [next, prefix] = getNext(slug)
-    router.push(prefix+asSlug(next[type]))
+    const to = (type === 'cn')
+      ? next.cn+next.tone
+      : next[type]
+    router.push(prefix+asSlug(to))
   }
 
   const revealMemo = () => setShow(true)
@@ -58,12 +62,13 @@ const WordTrainer = ({
         <h1 className="text-center text-7xl break-all">
           <PlayButton word={cn} autoPlay={app.settings?.autoPlay} slug={slug}>
             {modes[type]}
+            {type === 'cn' && <span className="block text-base opacity-50">{[...''+tone].map(ch => ch).join(' ')}</span>}
             {app.settings?.cnpy && type === 'cn' && <span className="block text-4xl opacity-50 pt-2">{py}</span>}
             {app.settings?.cnpy && type === 'py' && <span className="block text-4xl opacity-50 pt-2">{cn}</span>}
           </PlayButton>
         {show && (
           <div className="flex flex-row gap-8 items-center mt-2 justify-center">
-            {type !== 'cn' && <Link className="block text-4xl text-secondary underline" href={cn}>{cn}</Link>}
+            {type !== 'cn' && <Link className="block text-4xl text-secondary underline" href={cn+tone}>{cn}</Link>}
             {type !== 'py' && <Link className="block text-4xl text-secondary underline" href={asSlug(py)}>{py}</Link>}
             {type !== 'en' && <Link className="block text-4xl text-secondary underline" href={asSlug(en)}>{en}</Link>}
           </div>

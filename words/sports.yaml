@@ -1,11 +1,13 @@
 ball:
   cn: 毬
+  tone: 2
   py: qiú
   set: 1
   memo: I feel they could have made this easier, but I guess it could look like a ball rack with those shelves on the left.
 
 soccer:
   cn: 足球
+  tone: 22
   py: zúqiú
   set: 2
   memo: Word for <a href="/足">foot</a> plus word for <a href="/毬">ball</a> = <b>football</b> or <b>soccer</b>|

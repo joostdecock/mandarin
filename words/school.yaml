@@ -1,5 +1,6 @@
 classmate:
   cn: 同学
+  tone: 22
   py: tóngxué
   set: 2
   memo: |
@@ -8,6 +9,7 @@ classmate:
 
 school:
   cn: 学校
+  tone: 24
   py: xuéxiào
   set: 2
   memo: |
@@ -17,6 +19,7 @@ school:
 
 student:
   cn: 学生
+  tone: 21
   py: xuéshēng
   set: 1
   memo: |
@@ -27,6 +30,7 @@ student:
 
 teacher:
   cn: 老师
+  tone: 31
   py: lǎoshī
   set: 1
   memo: | 

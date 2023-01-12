@@ -1,5 +1,6 @@
 coffee:
   cn: 咖啡
+  tone: 11
   py: kāfēi
   set: 1
   memo: |
@@ -13,6 +14,7 @@ coffee:
 
 cola:
   cn: 可乐
+  tone: 34
   py: kělè
   set: 1
   memo: |
@@ -24,6 +26,7 @@ cola:
 
 drink:
   cn: 喝
+  tone: 1
   py: hē
   set: 1
   memo: | 
@@ -33,6 +36,7 @@ drink:
 
 tea:
   cn: 茶
+  tone: 2
   py: chá
   set: 1
   memo: | 
@@ -43,6 +47,7 @@ tea:
 
 water:
   cn: 水
+  tone: 3
   py: shuǐ
   set: 1
   memo: | 

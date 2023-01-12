@@ -1,5 +1,6 @@
 joyous:
   cn: 欢
+  tone: 1
   py: huān
   set: 1
   memo: | 
@@ -9,6 +10,7 @@ joyous:
 
 happiness:
   cn: 喜
+  tone: 3
   py: xǐ
   set: 1
   memo: |
@@ -18,6 +20,7 @@ happiness:
 
 to feel happy:
   cn: 开心
+  tone: 11
   py: kāi xīn
   set: 2
   memo: |

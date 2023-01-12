@@ -1,5 +1,6 @@
 brother:
   cn: 兄弟
+  tone: 14
   py: xiōngdì
   set: 2
   memo: |
@@ -8,6 +9,7 @@ brother:
 
 daughter:
   cn: 女儿
+  tone: 32
   py: nǚ'ér
   set: 1
   memo: |
@@ -16,6 +18,7 @@ daughter:
 
 friend:
   cn: 朋友
+  tone: 23
   py: péngyǒu
   set: 1
   memo: |
@@ -24,6 +27,7 @@ friend:
 
 grandfather:
   cn: 爷爷
+  tone: 20
   py: yéye
   set: 1
   memo: |
@@ -34,6 +38,7 @@ grandfather:
 
 grandmother:
   cn: 奶奶
+  tone: 30
   py: nǎinai
   set: 1
   memo: | 
@@ -42,6 +47,7 @@ grandmother:
 
 home:
   cn: 家
+  tone: 1
   py: jiā
   set: 1
   also:
@@ -53,12 +59,14 @@ home:
 
 individual:
   cn: 个
+  tone: 4
   py: gè
   set: 1
   memo: General classifier for an individual. Just one person with a hat on.
 
 mama: 
   cn: 妈妈
+  tone: 10
   py: māma
   set: 1
   memo: | 
@@ -68,6 +76,7 @@ mama:
 
 older brother:
   cn: 兄
+  tone: 1
   py: xiōng
   set: 2
   memo: |
@@ -76,6 +85,7 @@ older brother:
 
 papa:
   cn: 爸爸
+  tone: 40
   py: bàba
   set: 1
   memo: | 
@@ -86,12 +96,14 @@ papa:
 
 son (base character):
   cn: 儿
+  tone: 2
   py: ér
   set: 2
   memo: Standing with your legs apart is such a male thing to do. Essentially menspreading.
 
 son:
   cn: 儿子
+  tone: 20
   py: érzi
   set: 1
   memo: |
@@ -102,6 +114,7 @@ son:
 wife:
   cn: 老婆
   py: lǎopó
+  tone: 32
   set: 2
   memo: |
     That character on the left meand old, as in teacher.
@@ -109,6 +122,7 @@ wife:
 
 younger brother:
   cn: 弟 
+  tone: 4
   py: dì
   set: 2
   also:

@@ -1,5 +1,6 @@
 butt:
   cn: 屁股 
+  tone: 40
   py: pì gu
   set: 2
   also:
@@ -11,6 +12,7 @@ butt:
 
 fart:
   cn: 屁
+  tone: 4
   py: pì
   set: 2
   memo: This <b>fart</b> (also <b>nonsense</b>) hangs like a cloud over those two poor noses.
@@ -19,6 +21,7 @@ fart:
 
 foot:
   cn: 足
+  tone: 2
   py: zú
   set: 1
   memo: |
@@ -27,6 +30,7 @@ foot:
 
 hand:
   cn: 手
+  tone: 1
   py: shǒu
   set: 1
   memo: |
@@ -35,6 +39,7 @@ hand:
 
 heart:
   cn: 心
+  tone: 1
   py: xīn 
   set: 2
   also:
@@ -46,6 +51,7 @@ heart:
 
 male:
   cn: 男
+  tone: 2
   py: nán
   set: 2
   memo: |
@@ -54,12 +60,14 @@ male:
 
 mouth:
   cn: 口
+  tone: 3
   py: kǒu
   set: 1
   memo: Look at that mouth (of our robot overlord). 
 
 part:
   cn: 股
+  tone: 3
   py: gǔ
   set: 2
   memo: |
@@ -74,6 +82,7 @@ part:
 
 woman:
   cn: 女
+  tone: 3
   py: nǚ
   set: 1
   also:

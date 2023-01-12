@@ -1,5 +1,6 @@
 also:
   cn: 也
+  tone: 3
   py: yě
   set: 1
   memo: | 
@@ -9,6 +10,7 @@ also:
 
 and:
   cn: 和
+  tone: 2
   py: hé
   set: 2
   also:
@@ -24,6 +26,7 @@ and:
 
 can:
   cn: 会
+  tone: 4
   py: huì
   set: 2
   also:
@@ -37,6 +40,7 @@ can:
 
 can (numeric):
   cn: 能
+  tone: 2
   py: néng
   set: 2
   also:
@@ -48,6 +52,7 @@ can (numeric):
 
 how:
   cn: 怎么
+  tone: 30
   py: zěnme
   set: 2
   also:
@@ -59,6 +64,7 @@ how:
 
 is:
   cn: 是
+  tone: 4
   py: shì
   set: 1
   also:
@@ -71,6 +77,7 @@ is:
 
 how many:
   cn: 几
+  tone: 3
   py: jǐ
   set: 2
   also:
@@ -83,6 +90,7 @@ how many:
 
 no:
   cn: 没
+  tone: 2
   py: méi
   set: 1
   also: 
@@ -95,6 +103,7 @@ no:
 
 no (alt):
   cn: 不是
+  tone: 24
   py: búshì
   set: 2
   memo: | 
@@ -102,6 +111,7 @@ no (alt):
 
 not:
   cn: 不
+  tone: 4
   py: bù
   set: 1
   memo: |
@@ -113,6 +123,7 @@ not:
 
 that:
   cn: 那
+  tone: 4
   py: nà
   set: 2
   memo: |
@@ -124,6 +135,7 @@ that:
 
 this:
   cn: 这
+  tone: 4
   py: zhè
   set: 1
   also:
@@ -132,6 +144,7 @@ this:
 
 what:
   cn: 什么
+  tone: 20
   py: shén me
   set: 1
   memo: |
@@ -140,6 +153,7 @@ what:
 
 which:
   cn: 哪
+  tone: 3
   py: nǎ
   set: 1
   memo: |
@@ -150,6 +164,7 @@ which:
 
 who:
   cn: 谁
+  tone: 2
   py: shéi
   set: 1
   memo: |
@@ -159,6 +174,7 @@ who:
 
 yes:
   cn: 是的
+  tone: 40
   py: shì de
   set: 2
   memo: |

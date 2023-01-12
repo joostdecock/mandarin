@@ -1,5 +1,6 @@
 cloud:
   cn: 云
+  tone: 2
   py: yún
   set: 1
   memo: |
@@ -9,6 +10,7 @@ cloud:
 
 day:
   cn: 日
+  tone: 4
   py: rì
   also:
     - sun
@@ -20,12 +22,14 @@ day:
 
 flower:
   cn: 花
+  tone: 1
   py: huā
   set: 2
   memo: Perhaps the watering system mounted above it can remind you that this is a <b>flower</b>
 
 mountain:
   cn: 山
+  tone: 1
   py: shān
   set: 1
   memo: |
@@ -35,6 +39,7 @@ mountain:
 
 quiet:
   cn: 静
+  tone: 4
   py: jìng
   set: 1
   also:
@@ -47,12 +52,14 @@ quiet:
 
 rain:
   cn: 雨
+  tone: 3
   py: yǔ
   set: 2
   memo: Actual raindrops in this thing. Should be easy.
 
 star:
   cn: 星
+  tone: 1
   py: xīng
   set: 1
   memo: |

@@ -1,5 +1,6 @@
 Belgium:
   cn: 比利時
+  tone: 342
   py: Bĭ lì shí
   set: 2
   memo: | 
@@ -15,6 +16,7 @@ Belgium:
 
 China:
   cn: 中国
+  tone: 12
   py: Zhōng guó
   set: 1
   memo: |
@@ -24,12 +26,14 @@ China:
 
 France:
   cn: 法国
+  tone: 32
   py: Fǎ guó
   set: 2
   memo: That left character looks a bit like the Eifel tower, so kinda perfect
 
 Germany:
   cn: 德国
+  tone: 22
   py: Dé guó
   set: 2
   memo: |
@@ -40,6 +44,7 @@ Germany:
 
 Ireland:
   cn: 爱尔兰
+  tone: 432
   py: Ài ěr lán
   set: 2
   memo: |
@@ -51,6 +56,7 @@ Ireland:
 
 USA:
   cn: 美国
+  tone: 32
   py: Měi guó
   set: 1
   memo: |

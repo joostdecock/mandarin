@@ -1,5 +1,6 @@
 alcoholic beverage:
   cn: 酒
+  tone: 3
   py: jiǔ
   set: 2
   memo: Clearly a cork on a bottle of <b>liquor</b> or another <b>alcoholic beverage</b>
@@ -10,6 +11,7 @@ alcoholic beverage:
 
 bowl:
   cn: 杯
+  tone: 1
   py: bēi
   set: 2
   memo: |
@@ -18,17 +20,30 @@ bowl:
     They are different shapes but that's how it typically is.
   also:
     - trophy cup
+    - measure word for cups of something (like coffee)
 
 bread:
   cn: 面包
+  tone: 41
   py: miàn bāo
   set: 2
   memo: |
     This is the character for <a href="/面">flour</a> plus the character for <a href="/包">package or bundle</a>.
     And that's essentially what <b>bread</b> is. A bundle of flour.
 
+(cooked) rice:
+  cn: 米饭
+  tone: 34
+  py: mǐ fàn
+  set: 2
+  memo: |
+    On the right is the symbol for <a href="/饭">food</a>
+    On the right is something that looks like the symbol for <a href="/火">fire</a>
+    Since rice is the default meal in China, and fire cooks it, this is <b>cooked rice</b> (as in, the dish, not the raw material)
+
 cup:
   cn: 杯子
+  tone: 10
   py: bēi zi
   set: 2
   memo: |
@@ -39,6 +54,7 @@ cup:
 
 delicious:
   cn: 好吃
+  tone: 31
   py: hǎo chī
   set: 2
   also:
@@ -49,6 +65,7 @@ delicious:
 
 dish:
   cn: 菜
+  tone: 4
   py: cài
   also:
     - type of food
@@ -57,6 +74,7 @@ dish:
 
 eat:
   cn: 吃
+  tone: 1
   py: chī
   set: 1
   memo: |
@@ -67,6 +85,7 @@ eat:
 
 egg:
   cn: 鸡蛋
+  tone: 14
   py: jīdàn
   set: 1
   memo: |
@@ -83,12 +102,14 @@ egg:
 
 fire: 
   cn: 火
+  tone: 3
   py: huǒ
   set: 1
   memo: Looks like  twigs/tinder and flames shooting from those twigs.
 
 flour:
   cn: 面
+  tone: 4
   py: miàn 
   set: 2
   memo: |
@@ -107,11 +128,11 @@ flour:
 
 food:
   cn: 饭
+  tone: 4
   py: fàn
   set: 2
   also:
     - cuisine
-    - cooked rice
     - meal
   memo: |
     On the right it looks like one of those things to rest chop sticks on.
@@ -121,18 +142,21 @@ food:
 
 heat:
   cn: 热
+  tone: 4
   py: rè
   set: 1
   memo: We see a grill here with a couple of meat skewers on it. So <b>heat</b>.
 
 hotpot:
   cn: 火锅
+  tone: 31
   py: huǒguō
   set: 1
   memo: <a href="/火">fire character</a> plus <a href="/锅">pot character</a> = <b>hotpot</b>
 
 pot:
   cn: 锅
+  tone: 1
   py: guō
   set: 1
   memo: | 
@@ -141,6 +165,7 @@ pot:
 
 red wine: 
   cn: 红葡萄酒
+  tone: 2203
   py: hóng pú tao jiǔ
   memo: |
     Character for <a href="/红">red</a> 
@@ -151,12 +176,14 @@ red wine:
 
 restaurant: 
   cn: 饭馆
+  tone: 43
   py: fàn guǎn
   set: 2
   memo: Symbol for <a href="/饭">food</a> plus symbol for <a href="/馆">building</a> = <b>restaurant</b> 
 
 roast duck:
   cn: 烤鸭
+  tone: 31
   py: kǎo yā
   set: 2
   memo: |

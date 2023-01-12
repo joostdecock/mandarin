@@ -1,5 +1,6 @@
 black:
   cn: 黑
+  tone: 1
   py: hēi
   set: 2
   memo: |
@@ -19,6 +20,7 @@ black:
 
 red:
   cn: 红
+  tone: 2
   py: hóng
   set: 2
   memo: |

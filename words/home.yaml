@@ -1,5 +1,6 @@
 bed:
   cn: 床
+  tone: 2
   py: chuáng
   set: 1
   also:
@@ -8,6 +9,7 @@ bed:
 
 clock:
   cn: 钟
+  tone: 1
   py: zhōng
   also:
     - bell
@@ -19,6 +21,7 @@ clock:
 
 book:
   cn: 书
+  tone: 1
   py: shū
   set: 1
   memo: |

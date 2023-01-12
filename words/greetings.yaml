@@ -1,11 +1,13 @@
 again:
   cn: 再
+  tone: 4
   py: zài
   set: 1
   memo: This is clearly a drone about to take off <b>again</b>.
 
 excuse me(, may I ask... ?):
   cn: 请问
+  tone: 34
   py: qǐngwèn
   set: 2
   memo: |
@@ -13,6 +15,7 @@ excuse me(, may I ask... ?):
 
 good: 
   cn: 好
+  tone: 3
   py: hăo
   set: 1
   memo: | 
@@ -21,6 +24,7 @@ good:
 
 goodbye:
   cn: 再见
+  tone: 44
   py: zàijiàn
   set: 1
   memo: The <a href="/再">again</a> character plus the <a href="/见">see</a> character = <b>goodbye</b>
@@ -28,6 +32,7 @@ goodbye:
 me:
   cn: 我
   py: wǒ
+  tone: 3
   also: 
     - I
   set: 1
@@ -37,6 +42,7 @@ me:
 
 name (of someone/thing):
   cn: 名字
+  tone: 20
   py: míng zi
   set: 1
   memo: |
@@ -50,6 +56,7 @@ name (of someone/thing):
 
 nevermind: 
   cn: 没关系
+  tone: 210
   py: méiguānxi
   set: 1
   memo: | 
@@ -64,6 +71,7 @@ nevermind:
 
 perhaps:
   cn: 可能
+  tone: 32
   py: kě néng
   set: 2
   memo: |
@@ -79,12 +87,14 @@ perhaps:
 
 person:
   cn: 人
+  tone: 2
   py: rén
   set: 1
   memo: Like two legs of a person walking.
 
 sorry:
   cn: 对不起
+  tone: 443
   py: duìbùqǐ
   set: 1
   memo: | 
@@ -102,6 +112,7 @@ sorry:
 
 thanks:
   cn: 谢谢
+  tone: 40
   py: xièxie
   set: 1
   memo: |
@@ -111,6 +122,7 @@ thanks:
 
 you:
   cn: 你
+  tone: 3
   py: nĭ
   set: 1
   memo: |
@@ -120,6 +132,7 @@ you:
 
 you (formal):
   cn: 您
+  tone: 2
   py: nín
   notes: Typically used when addressing old people.
   set: 1
@@ -131,6 +144,7 @@ you (formal):
 
 you're welcome: 
   cn: 别客气
+  tone: 24
   py: bié kèqi
   set: 1
   memo: | 

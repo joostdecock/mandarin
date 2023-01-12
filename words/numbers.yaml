@@ -1,5 +1,6 @@
 0: 
   cn: 零
+  tone: 2
   py: líng
   set: 1
   memo: |
@@ -10,30 +11,35 @@
 
 1: 
   cn: 一
+  tone: 1
   py: yī
   set: 1
   memo: Like the roman numeral, but on its side. I hope you can remember at least this one.
 
 2: 
   cn: 二
+  tone: 4
   py: èr
   set: 1
   memo: Like the roman numeral, but on its side. Also - like one, but twice, because 1 + 1 = 2
 
 3: 
   cn: 三
+  tone: 1
   py: sān
   set: 1
   memo: Like the roman numeral, but on it's side. Three layers, like and Oreo cookie.
 
 4:
   cn: 四
+  tone: 4
   py: sì
   set: 1
   memo: This is a PI symbol in a room stuck to the ceiling. And if you <code>ceil(PI)</code> you get four, that's a fact.
 
 5:
   cn: 五
+  tone: 3
   py: wǔ
   set: 1
   memo: |
@@ -42,18 +48,21 @@
 
 6: 
   cn: 六
+  tone: 4
   py: liù
   set: 1
   memo: I don't want to be <em>that guy</em> but six sounds like sex and if this is not a person spread eagle to get railed, I don't know what is.
 
 7: 
   cn: 七
+  tone: 1
   py: qī
   set: 1
   memo: This is just an upside-down 7. Which makes sense since it's in China so it would be upside-down.
 
 8: 
   cn: 八
+  tone: 1
   py: bā
   set: 1
   memo: |
@@ -63,6 +72,7 @@
 
 9: 
   cn: 九
+  tone: 3
   py: jiǔ
   set: 1
   memo: |
@@ -71,6 +81,7 @@
 
 10:
   cn: 十
+  tone: 2
   py: shí
   set: 1
   memo: |
@@ -80,6 +91,7 @@
 
 100:
   cn: 百
+  tone: 3
   py: bǎi
   set: 1
   memo: |
@@ -88,14 +100,29 @@
 
 1000:
   cn: 千
+  tone: 1
   py: qiān
   set: 1
   memo: |
     I don't know exactly why that one extra line to the symbol for 10
     raises it to the third power, but I don't make the rules. 
 
+chunk:
+  cn: 块
+  tone: 4
+  py: kuài
+  set: 2
+  also:
+    - lump (of earth)
+    - piece
+    - measure word for pieces of cloth, caje soap
+    - measure word for money
+  memo:
+    - You can sort of thing as the left part being the corner <b>chunk</b> that was broken of of the right part
+
 day of a month:
   cn: 号
+  tone: 4
   py: hào
   set: 2
   also:
@@ -112,6 +139,7 @@ day of a month:
 
 two:
   cn: 梁
+  tone: 2
   py: liáng
   set: 1
   memo: |
@@ -121,6 +149,7 @@ two:
 
 many:
   cn: 多
+  tone: 1
   py: duō
   set: 2
   also: 
@@ -135,8 +164,18 @@ many:
     Sounds like duo, which is what we see here.
     Also the general quantity vibes matches well with the repetition on display.
 
+money:
+  cn: 钱
+  tone: 2
+  py: qián
+  set: 2
+  also:
+    - coin
+  memo: Person window shopping, thingking about how much <b>money</b> to spend
+
 very (adverb of degree):
   cn: 很
+  tone: 3
   py: hěn
   set: 2
   also:

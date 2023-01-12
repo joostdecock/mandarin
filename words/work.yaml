@@ -1,5 +1,6 @@
 correct:
   cn: 对
+  tone: 4
   py: duì
   set: 1
   memo: |
@@ -9,6 +10,7 @@ correct:
 
 department:
   cn: 系
+  tone: 4
   py: xì
   set: 1
   memo: |
@@ -16,18 +18,21 @@ department:
 
 mobile phone:
   cn: 手机
+  tone: 31
   py: shǒu jī
   set: 2
   memo: Hand (left) and machine (right). Hand machine. Mobile phone. Makes sense.
 
 work:
   cn: 工
+  tone: 1
   py: gōng
   set: 1
   memo: This looks like a steel I-beam (aka H-beam). You don't carry those around for fun. This is work.
 
 yaun:
   cn: 元
+  tone: 2
   py: yuán
   set: 1
   also:

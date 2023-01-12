@@ -1,5 +1,6 @@
 electric:
   cn: 电
+  tone: 4
   py: diàn
   set: 2
   memo: |
@@ -10,6 +11,7 @@ electric:
 
 movie:
   cn: 电影
+  tone: 43
   py: diàn yǐng
   set: 2
   memo: |
@@ -19,6 +21,7 @@ movie:
 
 picture:
   cn: 影
+  tone: 3
   py: yǐng
   set: 2
   memo: |

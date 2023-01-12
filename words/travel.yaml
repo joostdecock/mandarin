@@ -1,5 +1,6 @@
 airport:
   cn: 机场
+  tone: 13
   py: jī chǎng
   set: 2
   memo: | 
@@ -11,6 +12,7 @@ airport:
 
 japan:
   cn: 日本
+  tone: 43
   py: rì běn
   set: 2
   memo: |
@@ -18,6 +20,7 @@ japan:
 
 japanese:
   cn: 日语
+  tone: 43
   py: rì yǔ
   set: 2
   memo: |
@@ -25,6 +28,7 @@ japanese:
 
 chinese:
   cn: 中文
+  tone: 12
   py: zhōngwén
   set: 2
   memo: |
@@ -32,6 +36,7 @@ chinese:
 
 chinese language:
   cn: 汉语
+  tone: 43
   py: hànyǔ
   set: 2
   also:
@@ -43,6 +48,7 @@ chinese language:
 
 language:
   cn: 话
+  tone: 4
   py: huà
   set: 2
   also:
@@ -58,6 +64,7 @@ language:
 
 language (2):
   cn: 文
+  tone: 2
   py: wén
   set: 2
   also: 
@@ -71,6 +78,7 @@ language (2):
 
 mandarin:
   cn: 普通话
+  tone: 314
   py: pǔtōnghuà
   set: 1
   memo: |
@@ -79,6 +87,7 @@ mandarin:
 
 speech:
   cn: 语
+  tone: 3
   py: yǔ
   set: 2
   memo: |
@@ -88,6 +97,7 @@ speech:
 
 word:
   cn: 字
+  tone: 4
   py: zì
   set: 2
   memo: |

@@ -1,5 +1,6 @@
 driver:
   cn: 司机
+  tone: 11
   py: sījī
   set: 1
   memo: |

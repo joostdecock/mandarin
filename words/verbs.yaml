@@ -1,5 +1,6 @@
 to ask (1):
   cn: 请
+  tone: 3
   py: qǐng
   set: 2
   also:
@@ -13,6 +14,7 @@ to ask (1):
 
 to ask (2):
   cn: 问
+  tone: 4
   py: wèn
   set: 2
   also:
@@ -26,6 +28,7 @@ to ask (2):
 
 to buy:
   cn: 买
+  tone: 3
   py: mǎi
   set: 2
   memo: |
@@ -36,6 +39,7 @@ to buy:
 
 to call:
   cn: 叫
+  tone: 4
   py: jiào
   set: 1
   also:
@@ -49,12 +53,14 @@ to call:
 
 to climb a mountain:
   cn: 爬山
+  tone: 21
   py: pá shān
   set: 2
   memo: Climb a mountain
 
 to come out:
   cn: 出
+  tone: 1
   py: chū
   also:
     - get out
@@ -65,6 +71,7 @@ to come out:
 
 to go:
   cn: 去
+  tone: 4
   py: qù
   set: 2
   also:
@@ -80,6 +87,7 @@ to go:
 
 to have:
   cn: 有
+  tone: 3
   py: yǒu
   set: 1
   also:
@@ -93,6 +101,7 @@ to have:
 
 to learn:
   cn: 学
+  tone: 2
   py: xué
   also:
     - to study
@@ -101,12 +110,14 @@ to learn:
 
 to like:
   cn: 喜欢
+  tone: 31
   py: xǐhuān
   set: 1
   memo: (<em>happiness character</em> + <em>joyous character</em>) = like.
 
 to look:
   cn: 看
+  tone: 4
   py: kàn
   set: 2
   also:
@@ -130,6 +141,7 @@ to look:
 
 to make:
   cn: 做
+  tone: 4
   py: zuò
   set: 2
   also:
@@ -156,6 +168,7 @@ to make:
 
 to open:
   cn: 开
+  tone: 1
   py: kāi 
   set: 2
   also:
@@ -170,6 +183,7 @@ to open:
 
 to practice:
   cn: 习  
+  tone: 2
   py: xí
   set: 2
   also:
@@ -181,6 +195,7 @@ to practice:
 
 to raise:
   cn: 起
+  tone: 3
   py: qĭ
   set: 1
   memo: |
@@ -189,6 +204,7 @@ to raise:
 
 to read:
   cn: 读
+  tone: 2
   py: dú
   set: 2
   also:
@@ -199,6 +215,7 @@ to read:
 
 to reside:
   cn: 居
+  tone: 1
   py: jū
   set: 2
   memo: |
@@ -215,6 +232,7 @@ to reside:
 
 to rest:
   cn: 休息
+  tone: 1
   py: xiūxi
   set: 1
   memo: |
@@ -222,6 +240,7 @@ to rest:
 
 to roast:
   cn: 烤
+  tone: 3
   py: kǎo
   set: 2
   memo: |
@@ -233,12 +252,14 @@ to roast:
 
 to see:
   cn: 见
+  tone: 4
   py: jiàn
   set: 1
   memo: Tell me that does not look like the scope of a gun. Like, the thing you see through. 
 
 to sleep:
   cn: 睡觉
+  tone: 44
   py: shuìjiào
   set: 1
   also: 
@@ -249,12 +270,14 @@ to sleep:
 
 to speak: 
   cn: 说
+  tone: 1
   py: shuō
   set: 2
   memo: This is a person behind a lectern with two microphones. Clearly this person is expected to <b>speak</b>
 
 to start:
   cn: 开始
+  tone: 13
   py: kāishǐ
   set: 1
   also:
@@ -264,6 +287,7 @@ to start:
 
 to study:
   cn: 学习
+  tone: 22
   py: xué xí
   also:
     - to learn
@@ -273,6 +297,7 @@ to study:
 
 to think:
   cn: 想
+  tone: 3
   py: xiǎng
   set: 2
   memo: |
@@ -287,6 +312,7 @@ to think:
 
 to watch: 
   cn: 观
+  tone: 1
   py: guān
   set: 1
   also:
@@ -298,6 +324,7 @@ to watch:
 
 to wrap:
   cn: 包
+  tone: 1
   py: bāo 
   set: 2
   memo: This is essentially a small box being (badly) wrapped. So perfect character.
@@ -317,6 +344,7 @@ to wrap:
 
 to write:
   cn: 写
+  tone: 3
   py: xiě
   set: 2
   memo: |

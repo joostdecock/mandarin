@@ -1,5 +1,6 @@
 wristwatch:
   cn: 手表
+  tone: 33
   py: shǒu biǎo
   set: 2
   memo: |

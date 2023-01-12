@@ -71,9 +71,9 @@ export const prebuildWords = async () => {
       imports[info.en] = { ...info, slug: asSlug(info.en), type: 'en' }
       slugs.push('/'+asSlug(info.en))
       // Chinese
-      imports[info.cn] = { ...info, slug: asSlug(info.cn), type: 'cn' }
-      slugs.push('/'+asSlug(info.cn))
-      mandarin.push(asSlug(info.cn))
+      imports[info.cn+info.tone] = { ...info, slug: asSlug(info.cn+info.tone), type: 'cn' }
+      slugs.push('/'+asSlug(info.cn+info.tone))
+      mandarin.push(asSlug(info.cn+info.tone))
       // Pinyin
       imports[info.py] = { ...info, slug: asSlug(info.py), type: 'py' }
       slugs.push('/'+asSlug(info.py))
@@ -82,9 +82,11 @@ export const prebuildWords = async () => {
           imports[alt] = { ...info, slug: asSlug(alt), type: 'en', alt: info.en }
         }
       }
-      // Check that memo
+      // Check for memo
       if (!info.memo) console.log(`Missing memo for ${key}`)
-      // Check that MP3 is present
+      // Check for tone
+      if (typeof info.tone === 'undefined') console.log(`Missing tone for ${key}`)
+      // Check for MP3 
       if (!mp3s.includes(info.cn+'.mp3')) console.log(`Missing audio for ${info.cn}`)
     }
   }

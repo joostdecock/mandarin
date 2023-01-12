@@ -1,89 +1,104 @@
 monday:
   cn: 星期一
+  tone: 111
   py: xīng qī yī
   set: 2
   memo: <a href="/星期">day of the week</a> + <a href="/一">number 1</a> = <b>monday</b>
 
 tuesday: 
   cn: 星期二
+  tone: 114
   py: xīng qī èr
   set: 2
   memo: <a href="/星期">day of the week</a> + <a href="/二">number 2</a> = <b>tuesday</b>
 
 wednesday: 
   cn: 星期三
+  tone: 111
   py: xīng qī sān
   set: 2
   memo: <a href="/星期">day of the week</a> + <a href="/三">number 3</a> = <b>wednesday</b>
 
 thursday: 
   cn: 星期四
+  tone: 114
   py: xīng qī sì 
   set: 2
   memo: <a href="/星期">day of the week</a> + <a href="/四">number 4</a> = <b>thursday</b>
 
 friday: 
   cn: 星期五
+  tone: 113
   py: xīng qī wǔ
   set: 2
   memo: <a href="/星期">day of the week</a> + <a href="/五">number 5</a> = <b>friday</b>
 
 saturday: 
   cn: 星期六
+  tone: 114
   py: xīng qī liù
   set: 2
   memo: <a href="/星期">day of the week</a> + <a href="/六">number 6</a> = <b>saturday</b>
 
 sunday: 
   cn: 星期日
+  tone: 114
   py: xīng qī rì
   set: 2
   memo: <a href="/星期">day of the week</a> + <a href="/日">sun</a> = <b>sunday</b>
 
 monday (2):
   cn: 周一
+  tone: 11
   py: zhōu yī
   set: 2
   memo: <a href="/周">week</a> + <a href="/一">number 1</a> = <b>monday</b>
 
 tuesday (2): 
   cn: 周二
+  tone: 13
   py: zhōu èr
   set: 2
   memo: <a href="/周">week</a> + <a href="/二">number 2</a> = <b>tuesday</b>
 
 wednesday (2): 
   cn: 周三
+  tone: 11
   py: zhōu sān
   set: 2
   memo: <a href="/周">week</a> + <a href="/三">number 3</a> = <b>wednesday</b>
 
 thursday (2): 
   cn: 周四
+  tone: 14
   py: zhōu sì 
   set: 2
   memo: <a href="/周">week</a> + <a href="/四">number 4</a> = <b>thursday</b>
 
 friday (2): 
   cn: 周五
+  tone: 13
   py: zhōu wǔ
   set: 2
   memo: <a href="/周">week</a> + <a href="/五">number 5</a> = <b>friday</b>
 
 saturday (2): 
   cn: 周六
+  tone: 14
   py: zhōu liù
   set: 2
   memo: <a href="/周">week</a> + <a href="/六">number 6</a> = <b>saturday</b>
 
 sunday (2): 
   cn: 周日
+  tone: 14
   py: zhōu rì
   set: 2
   memo: <a href="/周">week</a> + <a href="/日">sun</a> = <b>sunday</b>
 
 afternoon:
   cn: 下午
+  tone: 13
   py: xià wǔ
   set: 2
   memo: |
@@ -92,6 +107,7 @@ afternoon:
 
 age:
   cn: 年龄
+  tone: 22
   py: nián líng
   set: 1
   memo: |
@@ -100,6 +116,7 @@ age:
 
 a period of time:
   cn: 期
+  tone: 1
   py: qī
   set: 2
   also:
@@ -114,6 +131,7 @@ a period of time:
 
 current:
   cn: 今
+  tone: 1
   py: jīn
   set: 2
   memo: |
@@ -128,6 +146,7 @@ current:
 
 day:
   cn: 天
+  tone: 1
   py: tiān
   set: 2
   also:
@@ -139,6 +158,7 @@ day:
 
 how big:
   cn: 多大
+  tone: 14
   py: duōdà
   set: 2
   also:
@@ -147,6 +167,7 @@ how big:
 
 later:
   cn: 下
+  tone: 4
   py: xià
   set: 2
   memo: |
@@ -166,6 +187,7 @@ later:
 
 month:
   cn: 月
+  tone: 4
   py: yuè
   set: 2
   also:
@@ -175,6 +197,7 @@ month:
 
 morning:
   cn: 上午
+  tone: 43
   py: shàngwǔ
   set: 1
   memo: |
@@ -184,6 +207,7 @@ morning:
 
 next:
   cn: 明
+  tone: 2
   py: míng 
   set: 2
   memo: These symbols look like the month symbol and we've moved from the one on the left to the <b>next</b> on the right
@@ -196,6 +220,7 @@ next:
 
 this year:
   cn: 今年
+  tone: 12
   py: jīnnián
   set: 1
   memo: |
@@ -205,6 +230,7 @@ this year:
 
 today:
   cn: 今天
+  tone: 11
   py: jīn tiān
   set: 2
   memo: |
@@ -212,6 +238,7 @@ today:
 
 today (2):
   cn: 今日
+  tone: 14
   py: jīn rì
   set: 2
   memo: |
@@ -219,6 +246,7 @@ today (2):
 
 tomorrow:
   cn: 明天
+  tone: 21
   py: míngtiān
   set: 2
   memo: |
@@ -226,6 +254,7 @@ tomorrow:
     `
 week:
   cn: 星期
+  tone: 12
   py: xīngqí
   set: 2
   also:
@@ -237,6 +266,7 @@ week:
 
 week (2):
   cn: 周
+  tone: 1
   py: zhōu
   set: 2
   also:
@@ -257,6 +287,7 @@ week (2):
 
 year:
   cn: 年
+  tone: 2
   py: nián
   set: 1
   memo: |
@@ -266,6 +297,7 @@ year:
 
 years:
   cn: 岁
+  tone: 4
   py: suì
   set: 1
   also:
@@ -277,6 +309,7 @@ years:
 
 yesterday:
   cn: 昨天
+  tone: 21
   py: zuótiān
   set: 2
   memo: |

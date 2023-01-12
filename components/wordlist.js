@@ -71,7 +71,7 @@ const WordList = ({ words, prefix='/' }) => {
     {list.map((word, i) => (
       <tr key={word}>
         <td>{i+1}</td>
-        <td><PageLink href={prefix+word.cn} txt={word.cn} className="capitalize txt-lg"/></td>
+        <td><PageLink href={prefix+word.cn+word.tone} txt={word.cn} className="capitalize txt-lg"/></td>
         <td><PageLink href={prefix+asSlug(word.py)} txt={word.py} /></td>
         <td><PageLink href={prefix+asSlug(word.en)} txt={word.en} /></td>
         <td>{word.set}</td>

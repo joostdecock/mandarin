@@ -1,17 +1,20 @@
 bear:
   cn: 熊
+  tone: 2
   py: xióng
   set: 1
   memo: This looks a bit like a bear footprint, with those 4 claws at the bottom.
 
 dog:
   cn: 狗
+  tone: 3
   py: gǒu
   set: 2
   memo: A guy in a sombrero hat is slumped against the wall sleeping while his <b>dog</b> stands guard
   
 duck:
   cn: 鸭
+  tone: 1
   py: yā
   set: 2
   memo: |
@@ -21,6 +24,7 @@ duck:
 
 panda:
   cn: 熊猫
+  tone: 21
   py: xióng māo
   set: 1
   memo: |
@@ -32,6 +36,7 @@ panda:
 
 sheep:
   cn: 羊
+  tone: 2
   py: yáng
   also:
     - goat
