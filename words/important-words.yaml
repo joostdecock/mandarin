@@ -133,6 +133,14 @@ that:
     - those
     - then (in that case)
 
+there:
+  cn: 那儿
+  tone: 40
+  py: nà r
+  memo: |
+    This is the <a href="/那4">that</a> character + that suffix that does not mean much on its own.
+    Together they make <b>there</b> (fourth tone).
+
 this:
   cn: 这
   tone: 4
@@ -150,6 +158,14 @@ what:
   memo: |
     We've got some big dude in the middle here who as standing between two poles or something.
     And he's pushed one of them over while saying <b>WHAT!?</b> because he just can't believe this.
+
+where:
+  cn: 哪儿
+  tone: 30
+  py: nǎ r
+  memo: |
+    This is the <a href="/哪">which</a> character + that suffix that does not mean much on its own.
+    Together they make <b>where</b> (third tone).
 
 which:
   cn: 哪

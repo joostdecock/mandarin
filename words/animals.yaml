@@ -5,6 +5,13 @@ bear:
   set: 1
   memo: This looks a bit like a bear footprint, with those 4 claws at the bottom.
 
+cat:
+  cn: 猫
+  tone: 1
+  py: māo
+  set: 2
+  memo: A guy in a sombrero hat is slumped against the wall sleeping while his <b>cat</b> sits behind the window
+
 dog:
   cn: 狗
   tone: 3
@@ -21,6 +28,18 @@ duck:
     A duck is also a <b>male sex worker</b> (slang) and if that's not a paddle to pleasantly whip the customer on the right with, then I don't know what is.
   also:
     - male sex worker (slang)
+
+measure word for animals:
+  cn: 只
+  tone: 1
+  py: zhī
+  set: 2
+  memo: |
+    Looks like <a href="/口3">口</a> which is mouth of measure word for things with a mouth 
+    Here it's seen on a train because we've got a bunch of animals, since it's a measure word
+  also:
+    - measure word for some utensils
+    - one of a pair
 
 panda:
   cn: 熊猫
