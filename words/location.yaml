@@ -1,0 +1,23 @@
+above:
+  cn: 上面
+  tone: 40
+  py: shàng mian
+  set: 2
+  memo: |
+    The right character is <a href="/面4">面</a> which means side/face/surface (but also flour/noodles).
+    The left character means on top, and so together they are <b>above</b> or <b>on top of</b>
+    The left character is easy to remember if you take the horizontal line as the base, everything is on top of it (compare with below)
+
+below:
+  cn: 下面
+  tone: 40
+  py: xià miàn
+  also:
+    - under
+    - next
+    - the following
+  memo: 
+    The right character is <a href="/面4">面</a> which means side/face/surface (but also flour/noodles).
+    The left character means down, and so together they are <b>below</b> or <b>under</b>
+    The left character is easy to remember if you take the horizontal line as the base, everything is below it (compare with above)
+

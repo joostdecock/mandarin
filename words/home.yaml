@@ -7,6 +7,15 @@ bed:
     - couch
   memo: Granted, it's upside-down (China you know) but this is clearly a couch (with a book).
 
+chair:
+  cn: 椅子
+  tone: 30
+  py: yǐ zi
+  set: 2
+  memo: |
+    It looks a bit like a little person standing on a chair.
+    And then there's the <em>子</em> suffix for reasons that I don't fully understand.
+
 clock:
   cn: 钟
   tone: 1
