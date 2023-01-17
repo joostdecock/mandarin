@@ -42,7 +42,7 @@ export async function getStaticPaths(all) {
   const paths = []
   for (const cat in categories) {
     for (const word of categories[cat]) {
-      paths.push(`/_cat/${cat}/${word.cn}`)
+      paths.push(`/_cat/${cat}/${word.cn}${word.tone}`)
       paths.push(`/_cat/${cat}/${asSlug(word.py)}`)
       paths.push(`/_cat/${cat}/${asSlug(word.en)}`)
     }
