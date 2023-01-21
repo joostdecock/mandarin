@@ -9,6 +9,18 @@ building:
     This looks like a bunch of housing units stacked on top of each other with a roof over them.
     And on the left I guess we see a construction crane. This is a <b>building</b>.
 
+courtyard:
+  cn: 院
+  tone: 4
+  py: yuàn
+  also:
+    - institution
+  set: 2
+  memo: |
+    This first very well into a square, which is fitting for a <b>courtyard</b>.
+    I guess we see a picnic table, and one of those segmented bins for recycling on the left.
+    This also means <b>institution</b> but I'm not sure what to make of that.
+
 merchant:
   cn: 商
   tone: 1

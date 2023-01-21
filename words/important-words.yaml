@@ -8,6 +8,21 @@ also:
     Right - <small>Hey, I <b>also</b> look like a wonky `t` character</small>.
     <b>Also</b> sounds like Ye, like that american artist who is <b>also</b> racist by the way.
 
+always:
+  cn: 常
+  tone: 2
+  py: cháng
+  set: 2
+  also:
+    - ever
+    - often
+    - frequently
+    - common
+    - general
+    - constant
+  memo: |
+    For some reason, this person is <b>always</b> wearing a hat.
+
 and:
   cn: 和
   tone: 2
@@ -149,6 +164,18 @@ this:
   also:
     - these
   memo: This big X marks the spot and says <b>this</b>
+
+very:
+  cn: 非常
+  tone: 12
+  py: fēi cháng
+  set: 2
+  also:
+    - very much
+    - unusual
+    - extraordinary
+  memo: |
+    Character for <a href="/非1">to not be</a> plus character for <a href="常2">always</a> makes for <b>unusual</b>, <b>extraordinary</b>, or just <b>very (much)</b>
 
 what:
   cn: 什么

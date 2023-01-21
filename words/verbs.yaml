@@ -26,6 +26,22 @@ to ask (2):
     This is clearly a QR-code which is what you use if you have questions <b>to ask</b>.
     I mean, it will take you to a website with more info at least.
 
+to be born:
+  cn: 生
+  tone: 1
+  py: shēng
+  set: 2
+  also:
+    - to give birth
+    - life
+    - to grow
+    - raw
+    - uncooked
+    - student
+  memo: |
+    Like a full spool of thread that has the beginning stuck to it with some tape.
+    This is a new thing <b>being born</b> in its <b>raw</b> state, ready to <b>grow</b>
+
 to buy:
   cn: 买
   tone: 3
@@ -68,6 +84,21 @@ to come out:
   memo: | 
     When people tell you come out, they might follow it up with 
     <em>with your hands in the air</em> and that's what's going on here.
+
+to do:
+  cn: 作
+  tone: 4
+  py: zuò
+  set: 2
+  also:
+    - to grow
+    - to write or compose
+    - to pretend
+    - to regard as
+    - to feel
+    - writings or works
+  memo: |
+    The right part of this looks like a side of a house, and then on the left there's a person who is there <b>to do</b> something.
 
 to go:
   cn: 去
@@ -177,6 +208,22 @@ to make:
   memo: |
     There's a lot going on with this verb. A bit like the French <em>faire</em>.
     I try to see a guy fixing a shower, <b>to make</b> it work again.
+
+to not be:
+  cn: 非
+  tone: 1
+  py: fēi
+  set: 2
+  also:
+    - not
+    - wrong
+    - incorrect
+    - non-
+    - un-
+    - in-
+    - to blame
+  memo: |
+    This looks like <em>lintbebouwing</em> which is <b>wrong</b>
 
 to open:
   cn: 开
@@ -333,6 +380,19 @@ to watch:
   memo: | 
     We've got party guy swinging his tie around, together with the symbol for see. 
     It's a sight to watch, that's for sure.
+
+to work: 
+  cn: 工作
+  py: gōng zuò
+  tone: 14
+  set: 2
+  also:
+    - to operate (a machine)
+    - work
+    - job
+    - task
+  memo: |
+    Character for <a href="/工1">work</a> plus character for <a href="/作4">to do<a> makes <b>to work</b>
 
 to wrap:
   cn: 包

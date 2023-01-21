@@ -1,0 +1,28 @@
+doctor:
+  cn: 医生
+  tone: 11
+  py: yī shēng
+  set: 2
+  memo:
+    Character for <a href="医1">medical</a> plus character for <a href="生1">life or activity</a> makes <b>doctor</b>
+
+hospital:
+  cn: 医院
+  tone: 14
+  py: yī yuàn
+  set: 2
+  memo: |
+    Character for <a href="医1">medical</a> plus character for <a href="院4">courtyard or institution</a> makes <b>hostpital</b>
+
+medical:
+  cn: 医
+  tone: 1
+  py: yī
+  set: 2
+  also:
+    - medicine
+    - doctor
+    - to cure
+    - to treat
+  memo: |
+    Person isolated in a room, much like you'd expect from a person with a <b>medical</b> condition.
