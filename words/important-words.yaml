@@ -151,6 +151,7 @@ that:
 there:
   cn: 那儿
   tone: 40
+  set: 2
   py: nà r
   memo: |
     This is the <a href="/那4">that</a> character + that suffix that does not mean much on its own.
@@ -190,6 +191,7 @@ where:
   cn: 哪儿
   tone: 30
   py: nǎ r
+  set: 2
   memo: |
     This is the <a href="/哪">which</a> character + that suffix that does not mean much on its own.
     Together they make <b>where</b> (third tone).
