@@ -7,6 +7,7 @@ import set from 'lodash.set'
 const defaultSettings = {
   autoPlay: false,
   cnpy: false,
+  cntone: true,
   lists: {}
 }
 
