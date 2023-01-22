@@ -42,10 +42,11 @@ const indexWordList = async () => {
     .saveObjects(words.map(word => ({
       en: word.en,
       cn: word.cn,
+      tone: word.tone,
       py: word.py,
       also: word.also || [],
       memo: word.memo,
-      objectID: word.cn
+      objectID: word.cn+word.tone
     })))
     .then(() => null)
     .catch((err) => console.log(err))

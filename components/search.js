@@ -18,7 +18,7 @@ const Hits = (props) => {
   // When we hit enter in the text field, we want to navigate to the result
   // which means we must make the result links available in the input somehow
   // so let's stuff them in a data attribute
-  const links = props.hits.map((hit) => `/`+hit.cn)
+  const links = props.hits.map((hit) => `/`+hit.cn+hit.tone)
   props.input.current.setAttribute('data-links', JSON.stringify(links))
 
   return props.hits.map((hit, index) => (
@@ -66,7 +66,7 @@ const Hit = (props) => (
       ${props.index === props.active ? 'bg-secondary bg-opacity-30' : 'bg-base-300 bg-opacity-10'}
     `}
   >
-    <Link href={props.hit.cn} className="flex flex-row justify-between gap-2">
+    <Link href={props.hit.cn+props.hit.tone} className="flex flex-row justify-between gap-2">
       <span className="text-base sm:text-xl font-bold leading-5">
         <CustomHighlight hit={props.hit} attribute="cn" />
         <span className="px-4 opacity-50 font-normal">|</span>
