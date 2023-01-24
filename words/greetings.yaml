@@ -92,6 +92,18 @@ person:
   set: 1
   memo: Like two legs of a person walking.
 
+please:
+  cn: 请
+  tone: 3
+  py: qǐng
+  set: 2
+  also:
+    - to invite
+    - to treat (to a dinner etc)
+    - to request
+  memo: |
+    This looks like a person carrying way too many things, so they are asking if you can <b>please</b> give them a hand.
+
 sorry:
   cn: 对不起
   tone: 443
