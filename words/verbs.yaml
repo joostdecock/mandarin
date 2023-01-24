@@ -1,11 +1,10 @@
-to ask (1):
+please (1):
   cn: 请
   tone: 3
   py: qǐng
   set: 2
   also:
     - to invite
-    - please (do something)
     - to treat (to a dinner etc)
     - to request
   memo: |
@@ -310,9 +309,9 @@ to roast:
     - to broil
 
 to see:
-  cn: 见
+  cn: 看见
   tone: 4
-  py: jiàn
+  py: kànjiàn
   set: 1
   memo: Tell me that does not look like the scope of a gun. Like, the thing you see through. 
 
