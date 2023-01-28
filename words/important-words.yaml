@@ -90,7 +90,7 @@ is:
     Is it magic? Is it not subject to gravity?
     Or has it simply transcended into a state where it just <b>is</b> and these questions <b>are</b> foolish. Just let it <b>be</b>.
 
-how many:
+how many (under 11):
   cn: 几
   tone: 3
   py: jǐ
@@ -102,6 +102,20 @@ how many:
   memo: |
     This looks a bit like a Pi symbol (π), and the intersection symbol (∩).
     Both of those are mathematical symbols, and what is mathematics if not the search for the question <b>how many</b>
+
+how many (over 10):
+  cn: 多少
+  tone: 10
+  py: duō shao
+  set: 2
+  also:
+    - how much
+    - which (number)
+    - as much as
+  memo: |
+    The duō part is the perfect symbol because it represents a duo
+    The shao part is more tricky. It's the symbol for small with an extra line under it.
+    Let's say the extra line indicates it is not small, as this is used to enquire about higher amounts than 10.
 
 no:
   cn: 没
