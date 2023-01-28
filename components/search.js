@@ -20,7 +20,6 @@ const Hits = (props) => {
   // so let's stuff them in a data attribute
   const links = props.hits.map((hit) => `/`+hit.cn+hit.tone)
   props.input.current.setAttribute('data-links', JSON.stringify(links))
-
   return props.hits.map((hit, index) => (
     <Hit
       key={hit.cn}
