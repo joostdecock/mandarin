@@ -10,14 +10,14 @@ above:
 
 back:
   cn: 后
-  set: 2
+  set: 3
   tone: 4
   py: hòu
   memo: This is the <b>back</b> of a party tent, you can see the big generator which would never be at the front.
 
 behind:
   cn: 后面
-  set: 2
+  set: 3
   tone: 40
   py: hòu mian
   memo: This is the character for <a href="/后4">back</a> plis the location suffix
@@ -40,7 +40,7 @@ front:
   cn: 前
   tone: 2
   py: qián
-  set: 2
+  set: 3
   also:
     - forward
     - ahead
@@ -57,7 +57,7 @@ in front:
   cn: 前面
   tone: 24
   py: qián miàn
-  set: 2
+  set: 3
   also: 
     - ahead
     - preceding
