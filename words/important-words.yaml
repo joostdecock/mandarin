@@ -65,6 +65,13 @@ can (numeric):
     Like a quantified version of can. I can do 20 pushups
     There's two <a href="/七">7</a> symbols on the right, which indicates somebody is keeping count of how many pushups you <b>can</b> do.
 
+here:
+  cn: 这儿
+  tone: 40
+  set: 2
+  py: zhè r
+  memo: Character for this, plus that suffix that does so much
+
 how:
   cn: 怎么
   tone: 30

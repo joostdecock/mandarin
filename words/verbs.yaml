@@ -12,6 +12,19 @@ to ask (2):
     This is clearly a QR-code which is what you use if you have questions <b>to ask</b>.
     I mean, it will take you to a website with more info at least.
 
+to ask (3):
+  cn: 请
+  tone: 3
+  set: 2
+  py: qǐng
+  also:
+    - to invite
+    - please (do something)
+    - to treat (to a meal or something)
+    - to request
+  memo: |
+    This is the character of the Qing dynasty, with a character on the left that bows their head and says <b>please</b>
+
 to be born:
   cn: 生
   tone: 1

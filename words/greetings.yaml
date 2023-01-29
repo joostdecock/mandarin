@@ -155,13 +155,13 @@ you (formal):
     Also, do you know how many senior citizens slip in the shower and break their hip? That's why we have that stool there.
 
 you're welcome: 
-  cn: 别客气
-  tone: 24
-  py: bié kèqi
+  cn: 不客气
+  tone: 440
+  py: bù kè qi
   set: 1
   memo: | 
     Three characters here; 
-    别 (do not) is a guy facing not one but two walls. Clearly do not.
+    不 (not) is one we know well.
     客 (guest) is a bed with under a roof with some fancy drapes over it. Clearly a hotel, so guest.
     气 (gas/energy) or how else do you draw a fart?
     Guest and energy together mean polite. 

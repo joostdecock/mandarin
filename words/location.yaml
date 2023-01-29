@@ -8,6 +8,20 @@ above:
     The left character means on top, and so together they are <b>above</b> or <b>on top of</b>
     The left character is easy to remember if you take the horizontal line as the base, everything is on top of it (compare with below)
 
+back:
+  cn: 后
+  set: 2
+  tone: 4
+  py: hòu
+  memo: This is the <b>back</b> of a party tent, you can see the big generator which would never be at the front.
+
+behind:
+  cn: 后面
+  set: 2
+  tone: 40
+  py: hòu mian
+  memo: This is the character for <a href="/后4">back</a> plis the location suffix
+
 below:
   cn: 下面
   tone: 40
