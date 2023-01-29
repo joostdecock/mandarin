@@ -22,3 +22,31 @@ below:
     The left character means down, and so together they are <b>below</b> or <b>under</b>
     The left character is easy to remember if you take the horizontal line as the base, everything is below it (compare with above)
 
+front:
+  cn: 前
+  tone: 2
+  py: qián
+  set: 2
+  also:
+    - forward
+    - ahead
+    - first
+    - top (followed by a number)
+    - future
+    - ago
+    - before
+    - former
+    - formerly
+  memo: This is the <b>front</b> of a screen
+
+in front:
+  cn: 前面
+  tone: 24
+  py: qián miàn
+  set: 2
+  also: 
+    - ahead
+    - preceding
+    - above
+  memo: |
+    This is the character for <a href="/前2">front</a> followed by the suffix that is used for all locations. So <b>in front</b> or <b>ahead</b>

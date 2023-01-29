@@ -1,3 +1,10 @@
+computer:
+  cn: 电脑 
+  py: diàn nǎo
+  set: 2
+  tone: 43
+  memo: The symbol for electric plus what looks like a tower desktop next to a desk with a lamp above it is obviously <b>computer</b>
+
 electric:
   cn: 电
   tone: 4

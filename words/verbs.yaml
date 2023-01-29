@@ -211,6 +211,18 @@ to not be:
   memo: |
     This looks like <em>lintbebouwing</em> which is <b>wrong</b>
 
+to not have:
+  cn: 没有
+  tone: 23
+  py: méi yǒu
+  set: 2
+  also:
+    - to not be
+    - doesn't exist
+    - haven't
+    - hasn't
+  memo: The character for to have, with the character for not
+
 to open:
   cn: 开
   tone: 1
@@ -300,6 +312,8 @@ to see:
   tone: 4
   py: kànjiàn
   set: 1
+  also:
+    - to catch sight of
   memo: Tell me that does not look like the scope of a gun. Like, the thing you see through. 
 
 to sleep:

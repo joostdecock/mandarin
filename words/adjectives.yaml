@@ -58,6 +58,19 @@ general:
     An IKEA dresser under a lamp. This is super <b>popular</b> and you find this <b>everywhere</b>.
     It's the <b>general</b> vibe I get from this.
 
+inside:
+  cn: 里
+  tone: 3
+  py: lǐ
+  set: 2
+  also: 
+    - lining
+    - interior
+    - interval
+  memo: |
+    This looks like a hood ornament on a fancy car.
+    That hood ornament goes on the hood, and it tells you what's <b>inside</b> the hood (or at least the brand of the <b>internal</b> combustion engine)
+
 pretty:
   cn:  漂亮
   tone: 40
