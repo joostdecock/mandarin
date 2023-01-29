@@ -329,6 +329,16 @@ to see:
     - to catch sight of
   memo: Tell me that does not look like the scope of a gun. Like, the thing you see through. 
 
+to sit:
+  cn: 坐
+  set: 3
+  tone: 4
+  py: zuò
+  also:
+    - to take a seat
+    - to take (a train, ...)
+    - to bear fruit
+  memo: Looks like a bench with two people sitting on it
 to sleep:
   cn: 睡觉
   tone: 44

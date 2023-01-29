@@ -29,6 +29,25 @@ goodbye:
   set: 1
   memo: The <a href="/再">again</a> character plus the <a href="/见">see</a> character = <b>goodbye</b>
 
+idea:
+  cn: 意思
+  set: 3
+  tone: 40
+  py: yì si
+  also:
+    - opinion
+    - meaning
+    - wish
+    - desire
+    - interest
+    - fun
+    - token of appreciation or affection
+    - to give as a small token
+    - to do something as a gesture of goodwill
+  memo: |
+    On the left is a cluttered version, on the right is a more clean version.
+    It seems someone had the <b>idea</b> to simplify this.
+
 me:
   cn: 我
   py: wǒ
@@ -131,6 +150,18 @@ thanks:
     You see two people standing at the water cooler. The person on the left nods there head to say <b>thanks</b>.
     Note that one of these symbols is <em>thank-you</em> as an adjective (like a thank-you card).
     Together they are proper <b>thanks</b>.
+
+to be sorry (common apologetic phrase):
+  cn: 不好意思
+  set: 3
+  tone: 4340
+  py: bù hǎo yì si
+  also:
+    - to feel embarassed
+    - to find it embarassing
+    - to be sorry (for invonveniencing someone)
+  memo: |
+    This is not + good + idea. So people are apologetic about it.
 
 you:
   cn: 你
