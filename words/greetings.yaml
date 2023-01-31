@@ -29,14 +29,14 @@ goodbye:
   set: 1
   memo: The <a href="/再">again</a> character plus the <a href="/见">see</a> character = <b>goodbye</b>
 
-idea:
+meaning:
   cn: 意思
   set: 3
   tone: 40
   py: yì si
   also:
     - opinion
-    - meaning
+    - idea
     - wish
     - desire
     - interest
@@ -123,7 +123,7 @@ please:
   memo: |
     This looks like a person carrying way too many things, so they are asking if you can <b>please</b> give them a hand.
 
-sorry:
+to be sorry:
   cn: 对不起
   tone: 443
   py: duìbùqǐ
@@ -151,7 +151,7 @@ thanks:
     Note that one of these symbols is <em>thank-you</em> as an adjective (like a thank-you card).
     Together they are proper <b>thanks</b>.
 
-to be sorry (common apologetic phrase):
+excuse me (common apologetic phrase):
   cn: 不好意思
   set: 3
   tone: 4340
@@ -173,7 +173,7 @@ you:
     You should check your ego, because it's good to be humble.
     That's what there's a <a href="/小">small</a> character inside <b>you</b>.
 
-you (formal):
+you (respectful/formal):
   cn: 您
   tone: 2
   py: nín
@@ -188,7 +188,7 @@ you (formal):
 you're welcome: 
   cn: 不客气
   tone: 440
-  py: bù kè qi
+  py: bú kè qi
   set: 1
   memo: | 
     Three characters here; 
