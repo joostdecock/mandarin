@@ -185,6 +185,26 @@ later:
     - to arrive at (a decision/conclusion)
     - measure word for frequency of an action
 
+minute:
+  cn: 分
+  set: 3
+  tone: 1
+  py: fēn
+  also:
+    - to divide
+    - to separate
+    - to distribute
+    - to allocate
+    - to distinguish (good and bad)
+    - part or subdivision
+    - fraction
+    - one tenth (of certain units)
+    - unit of length equivalent to 0.33 cm
+    - a point (in sports or games)
+    - 0.01 yuan (unit of money)
+  memo: |
+    I think it's best to think about fraction, and see that there's two lines over two lines here, as in a fraction.
+
 month:
   cn: 月
   tone: 4
@@ -217,6 +237,54 @@ next:
     - to understand
     - public or open
     - wise
+
+noon:
+  cn: 中午
+  set: 3
+  tone: 13
+  py: zhōng wǔ
+  also:
+    - midday
+  memo: We've got the middle character here on the left, plus what does remind us of the various time characters. So noon or midday it is.
+
+now: 
+  cn: 现在
+  set: 3
+  tone: 44
+  py: xiàn zài
+  also:
+    - at present
+    - at the moment
+    - modern
+    - current
+    - nowadays
+  memo: |
+    The character on the left looks further away somehow as it's the future approaching.
+    That's because this is now.
+
+o'clock:
+  cn: 点
+  tone: 3
+  set: 3
+  py: diǎn
+  also:
+    - point
+    - dot
+    - drop
+    - speck
+    - point (in space or time)
+    - to draw a dot
+    - to check on a list
+    - to choose
+    - to order (food in a restaurant)
+    - to touch briefly
+    - to hint
+    - to light
+    - to ignite
+    - to pour a liquid drop by drop
+    - dot stroke in Chinese characters
+    - classifier for items
+  memo: We're going to have to agree that this looks like a point, dot, or speck.
 
 this year:
   cn: 今年

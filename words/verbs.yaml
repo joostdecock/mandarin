@@ -24,6 +24,21 @@ please:
   memo: |
     This is the character of the Qing dynasty, with a character on the left that bows their head and says <b>please</b>
 
+to attend class:
+  cn: 上课
+  tone: 44
+  set: 3
+  py: shàng kè
+  also:
+    - to go to class
+    - to attend class
+    - to go to teach a class
+    - to start class
+  memo: |
+    The character on the left signifies the start part, we can see the starting line and then we're moving forward.
+    The character on the right looks like a teacher standing at a whiteboard.
+    So together, to attend class.
+
 to be born:
   cn: 生
   tone: 1
@@ -83,6 +98,15 @@ to come out:
     When people tell you come out, they might follow it up with 
     <em>with your hands in the air</em> and that's what's going on here.
 
+to cook:
+  cn: 做饭
+  set: 3
+  tone: 44
+  py: zuò fàn
+  also:
+    - To prepare a meal
+  memo: To make + meal = to cook
+
 to do:
   cn: 作
   tone: 4
@@ -97,6 +121,28 @@ to do:
     - writings or works
   memo: |
     The right part of this looks like a side of a house, and then on the left there's a person who is there <b>to do</b> something.
+
+to eat:
+  cn: 吃饭
+  set: 3
+  tone: 14
+  also:
+    - to have a meal
+    - to make a living
+  memo: eat + meail = to eat a meal
+
+to finish class:
+  cn: 下课
+  py: xià kè
+  set: 3
+  also:
+    - to get out of class
+  memo: |
+    How could I ever stop regretting how I ended up speaking these words.
+
+    That left character represents the end of things. We see the finish line and we're heading to it.
+    The right part is a teacher at a whiteboard. So to finish class.
+    
 
 to go:
   cn: 去

@@ -9,6 +9,33 @@ alcoholic beverage:
     - spirits
     - wine (rice wine)
 
+aromatic:
+  cn: 香
+  py: xiāng
+  tone: 1
+  set: 3
+  also: 
+    - fragrant
+    - sweet smelling
+    - savory
+    - appetizing
+    - (to eat) with relish
+    - (of sleep) sound
+    - perfume
+    - spice
+    - incense
+  memo: Does that look like an elabotate perfume bottle, or is it me?
+
+banana:
+  cn: 香蕉
+  py: xiāng jiāo
+  tone: 11
+  set: 3
+  memo: |
+    The left character is <a href="/香1">sweet smelling</a>.
+    The one on the right is banana on its own too.
+    It doesn't really look like a banana, more like a box of bananas with some more on the ground
+
 bowl:
   cn: 杯
   tone: 1
