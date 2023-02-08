@@ -126,6 +126,7 @@ to eat:
   cn: 吃饭
   set: 3
   tone: 14
+  py: chī fàn
   also:
     - to have a meal
     - to make a living
@@ -134,6 +135,7 @@ to eat:
 to finish class:
   cn: 下课
   py: xià kè
+  tone: 44
   set: 3
   also:
     - to get out of class

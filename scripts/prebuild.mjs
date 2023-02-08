@@ -71,10 +71,12 @@ export const prebuildWords = async () => {
       imports[info.en] = { ...info, slug: asSlug(info.en), type: 'en' }
       slugs.push('/'+asSlug(info.en))
       // Chinese
+      if (!info.cn) console.log(info)
       imports[info.cn+info.tone] = { ...info, slug: asSlug(info.cn+info.tone), type: 'cn' }
       slugs.push('/'+asSlug(info.cn+info.tone))
       mandarin.push(asSlug(info.cn+info.tone))
       // Pinyin
+      if (!info.py) console.log(info)
       imports[info.py] = { ...info, slug: asSlug(info.py), type: 'py' }
       slugs.push('/'+asSlug(info.py))
       if (info.also) {
