@@ -296,6 +296,17 @@ this year:
     On the right, somebody is pinned to a bed because they went out late last night.
     Sounds like it was new year's even, and <b>this year</b> is of to a rough start.
 
+time:
+  cn: 时候
+  py: shí hou
+  tone: 20
+  set: 3
+  also:
+    - length of time
+    - moment
+    - period
+  memo: FIXME
+
 today:
   cn: 今天
   tone: 11
@@ -352,6 +363,18 @@ week (2):
     This is an alternative form of week where the meaning is crammed in a single character.
     Essentially, this symbol means <b>cycle</b> (among other things) so it makes sense to also use it for week.
     If you squint, this looks like a completed check box. As this also means <b>complete</b> that could help.
+
+when:
+  cn: 什么时候
+  py: shén me shí hou
+  set: 3
+  tone: 2020
+  also:
+    - at what time
+  memo: |
+    什么 is what
+    时候 is time/period/moment
+    what time = <b>when</b>
 
 year:
   cn: 年

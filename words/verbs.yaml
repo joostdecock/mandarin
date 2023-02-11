@@ -204,6 +204,21 @@ to like:
   set: 1
   memo: (<em>happiness character</em> + <em>joyous character</em>) = like.
 
+to live:
+  cn: 住
+  py: zhù
+  tone: 4
+  set: 3
+  also: 
+    - to stay
+    - to dwell
+    - to reside
+    - to stop
+    - suffic to indicate firmness, steadiness, or coming to a halt
+  memo: |
+    Looks like a bobbin winder that has that automatic stop lever on the left.
+    So either people <b>live</b> for sewing, or it's about how this will <b>stop</b> so the thread will <b>stay</b> within the bobbin outer edge.
+
 to look:
   cn: 看
   tone: 4
@@ -329,6 +344,23 @@ to read:
     - reading
   memo: |
     There's a person looking down at a pile of papers here as this is <b>to read</b>.
+
+to return:
+  cn: 回
+  py: huí
+  tone: 2
+  set: 3
+  also:
+    - to circle
+    - to go back
+    - to turn around
+    - to revovle
+    - time
+    - classifier for acts of a play
+    - section or chapter of a classic book
+  memo: |
+    This looks like a bog button to push that opens the escape hatch.
+    Which is exactly what <b>return</b> does in a (code) method. It immeadiatly exits.
 
 to reside:
   cn: 居

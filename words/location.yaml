@@ -13,6 +13,12 @@ back:
   set: 3
   tone: 4
   py: hòu
+  also:
+    - behind
+    - rear
+    - afterwards
+    - after
+    - later
   memo: This is the <b>back</b> of a party tent, you can see the big generator which would never be at the front.
 
 behind:
