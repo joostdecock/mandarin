@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import useApp from 'hooks/useApp.js'
 import Page from 'components/wrappers/page.js'
 import Layout from 'components/layouts/bare'
@@ -21,6 +21,8 @@ function showThis(type, lang, cnpy=false) {
   return false
 }
 
+const Q = 10
+
 const WordTrainer = ({ 
   getNext,
   cn,
@@ -36,10 +38,26 @@ const WordTrainer = ({
   const router = useRouter()
   const [ show, setShow ] = useState(false)
   const [ next, setNext ] = useState(false)
+  const [ upcoming, setUpcoming ] = useState([])
+
+  useEffect(() => {
+    const getReady = async () => {
+      if (upcoming.length < Q) {
+        const newUpcoming = [...upcoming.slice(1)]
+        while (newUpcoming.length < Q) {
+          const newWord = await getNext(slug)
+          newUpcoming.push(newWord)
+        }
+        setUpcoming(newUpcoming)
+      }
+    }
+    getReady()
+  }, [ slug ])
 
   const nextWord = () => {
     if (show) setShow(false)
-    const [next, prefix] = getNext(slug)
+    const [next, prefix] = upcoming[0] //getNext(slug)
+    setUpcoming(upcoming.slice(1))
     const to = (type === 'cn')
       ? next.cn+next.tone
       : next[type]
