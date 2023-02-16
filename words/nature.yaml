@@ -8,6 +8,13 @@ cloud:
     It looks simple enough from above, like a nice platform to build on.
     And then below the surface is all this complexity and that's clearly a hammer that's going to hit you where it hurts.
 
+cold:
+  cn: 冷
+  py: lěng
+  tone: 3
+  set: 3
+  memo: Somebody under a blanket curled up in a ball trying not to be <b>cold</b>
+
 day:
   cn: 日
   tone: 4
@@ -65,3 +72,10 @@ star:
   memo: |
     This looks like a robot. And you know as well as I do that the days of celebrities are numbered.
     Soon enough, all stars will be robots. You know it makes sense.
+
+to rain:
+  cn: 下雨
+  py: xià yǔ
+  tone: 43
+  set: 3
+  memo: On the left is the charcacter for <b>downwards</b> and on the right is <b>rain</b>
