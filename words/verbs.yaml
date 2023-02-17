@@ -87,6 +87,21 @@ to climb a mountain:
   set: 2
   memo: Climb a mountain
 
+to come:
+  cn: 来
+  py: lái
+  set: 3
+  tone: 2
+  also:
+    - to arrive
+    - to come round
+    - ever since
+    - next
+  memo: |
+    There's a person lying on their back, legs wide open.
+    Another person is on top of them, with their arms propping up their upper body.
+    The person on top is about <b>to come</b>.
+
 to come out:
   cn: 出
   tone: 1

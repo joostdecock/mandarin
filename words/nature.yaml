@@ -1,3 +1,19 @@
+air:
+  cn: 气
+  py: qì
+  tone: 4
+  set: 3
+  also:
+    - gas
+    - smell
+    - to make angry
+    - weather
+    - to annoy
+    - to get angry
+    - vital energy
+    - qi
+  memo: This not only clearly looks like <b>air</b>, <b>qi</b> is also used in English to mean <b>vital energy</b>
+
 cloud:
   cn: 云
   tone: 2
@@ -73,9 +89,31 @@ star:
     This looks like a robot. And you know as well as I do that the days of celebrities are numbered.
     Soon enough, all stars will be robots. You know it makes sense.
 
+sky:
+  cn: 天
+  py: tiān
+  set: 3
+  tone: 1
+  also:
+    - heaven
+    - day
+  memo: |
+    This used to mean <em>top of the head</em> and if you know that this character makes sense.
+    Nowadays it means <b>sky</b> or <b>heaven</b> and also <b>day</b> as in, not night.
+
 to rain:
   cn: 下雨
   py: xià yǔ
   tone: 43
   set: 3
   memo: On the left is the charcacter for <b>downwards</b> and on the right is <b>rain</b>
+
+weather:
+  cn: 天气
+  py: tiān qì
+  set: 3
+  tone: 14
+  memo: |
+    The left character is <a href="/天1">sky</a> and the right is <a href="/气4">air</a>.
+    sky + air = weather
+

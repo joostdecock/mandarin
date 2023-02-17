@@ -59,6 +59,19 @@ me:
     You got to love yourself, you know. 
     So here we have a guy on the right who is high-fiving their own reflection in the mirror on the left.
 
+miss:
+  cn: 小姐
+  py: xiǎo jie
+  set: 3
+  tone: 30
+  also:
+    - young lady
+    - prostitute (slang)
+  memo: |
+    On the left is the character for <b>small</b>
+    On the right iwe recognize the symbol for <b>female</b>
+    Small + female = <b>miss</b> or <b>young lady</b>
+
 name (of someone/thing):
   cn: 名字
   tone: 20
