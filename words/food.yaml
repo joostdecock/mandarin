@@ -58,6 +58,17 @@ bread:
     This is the character for <a href="/面">flour</a> plus the character for <a href="/包">package or bundle</a>.
     And that's essentially what <b>bread</b> is. A bundle of flour.
 
+cake:
+  cn: 饼
+  py: bǐng
+  tone: 3
+  set: 3
+  also:
+    - round flat cake
+    - cookie
+    - pastry
+  memo: This obviously somebody checking the over to see how their <b>cake</b>, <b>cookies</b>, or <b>patry</b> is going.
+
 (cooked) rice:
   cn: 米饭
   tone: 34
@@ -200,6 +211,15 @@ hotpot:
   set: 1
   memo: <a href="/火">fire character</a> plus <a href="/锅">pot character</a> = <b>hotpot</b>
 
+pancake:
+  cn: 煎饼
+  py: jiān bǐng
+  tone: 10
+  set: 3
+  memo: |
+    The left character is <a href="/煎1">to pan fry"</a>
+    The right character is <a href="饼0">(round flat) cake, cookie, or pastry</a>
+    Together, they make pan + cake, or <b>pancake</b>
 pot:
   cn: 锅
   tone: 1
@@ -247,4 +267,15 @@ spicy:
     The thing on the left looks a bit like a spice mill.
     The thing on the right arguably also looks a bit like a spice mill.
     Two difference spice mills = spicy
+
+to pan fry:
+  cn: 煎
+  py: jiān
+  tone: 1
+  set: 3
+  also:
+    - to sauté
+  memo: |
+    We see a grill here with an extraction fan above it, clearly a kictchen setup.
+    There is a pan on the left, and things are being fried in it.
 
