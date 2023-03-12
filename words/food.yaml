@@ -99,6 +99,18 @@ dish:
   set: 1
   memo: This is clearly some sort of hot plate with a dish on top that seems to involve meat skewers.
 
+dumpling:
+  cn: 饺子
+  py: jiǎo zi
+  tone: 30
+  set: 3
+  also:
+    - pot-sticker (type of dumpling)
+  memo: |
+    In the character on the left, we recognize the <em>person-tied-to-a-torture-rack</em> from <a href="/学校24">学校 or school</a>.
+    This time around, the left part is different. Instead of some authority figure standing on the left, there's more like a friend figure standing there.
+    And we realize this person is not tied up, they are instead waving two knives around as they are having loads of fun chopping vegetables to make <b>dumplings</b>.
+
 eat:
   cn: 吃
   tone: 1
@@ -167,6 +179,13 @@ food:
     In the middle is a drinking straw perhaps.
     Let's just say it's <b>food</b>
 
+fruit:
+  cn: 水果
+  py: shuǐ guǒ
+  tone: 33
+  set: 3
+  memor: This is water + fruit. So fruit as a generic term.
+
 heat:
   cn: 热
   tone: 4
@@ -216,4 +235,16 @@ roast duck:
   memo: |
     On the left we have a squished fire + old symbol. And an old fire (embers) is where you <b>roast</b> things on.
     On the right we have the character for <a href="/鸭">duck</a>
+
+spicy:
+  cn: 辣
+  py: là
+  tone: 4
+  set: 3
+  also:
+    - pungent
+  memo: |
+    The thing on the left looks a bit like a spice mill.
+    The thing on the right arguably also looks a bit like a spice mill.
+    Two difference spice mills = spicy
 

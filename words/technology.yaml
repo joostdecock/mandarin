@@ -43,3 +43,15 @@ picture:
     - reflection
     - shadow
     - trace
+
+television:
+  cn: 电视 
+  py: diàn shì
+  tone: 44
+  set: 3
+  also:
+    - TV
+  memo: |
+    On the left, we have the symbol on the left for everything <a href="/电4">electric</a>
+    On the right we have a character that includes a small version of <a href="/观1">to watch</a>
+    So something electric and watching it = television

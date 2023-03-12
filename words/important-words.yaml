@@ -65,6 +65,18 @@ can (numeric):
     Like a quantified version of can. I can do 20 pushups
     There's two <a href="/七">7</a> symbols on the right, which indicates somebody is keeping count of how many pushups you <b>can</b> do.
 
+extremely:
+  cn: 太
+  py: tài
+  tone: 3
+  set: 3
+  also:
+    - highest
+    - greatest
+    - too (much)
+    - very
+  memo: Like a guy with an <b>extremely</b> large penis
+
 here:
   cn: 这儿
   tone: 40

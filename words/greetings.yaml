@@ -29,6 +29,13 @@ goodbye:
   set: 1
   memo: The <a href="/再">again</a> character plus the <a href="/见">see</a> character = <b>goodbye</b>
 
+hello (telephone):
+  cn: 喂
+  py: wèi
+  tone: 3
+  set: 3
+  memo: There's a table, a window, and a person picking up the phone saying <b>hellow</b>
+
 meaning:
   cn: 意思
   set: 3

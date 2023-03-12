@@ -1,3 +1,16 @@
+body:
+  cn: 身体
+  py: shēn tǐ
+  tone: 13
+  set: 3
+  also:
+    - the body
+    - one's health
+    - in person
+  memo: |
+    On the right is a lady under the shower.
+    On the left, someone is feeding a camera through a vent to have a look at her <b>body</b>
+
 butt:
   cn: 屁股 
   tone: 40

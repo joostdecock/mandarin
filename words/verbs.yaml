@@ -177,6 +177,16 @@ to go:
     The <a href="/云">cloud</a> character with an extra line means <b>to go</b>.
     The only think that can draw a line on top a cloud is an airplane. And they are always going places.
 
+to go out:
+  cn: 出去
+  py: chū qù
+  tone: 14
+  set: 3
+  memo: |
+    On the left we have <a href="/出1">to come out</a>
+    On the right we have <a href="/去4">to go</a>
+    Together them make <b>to go out</b>
+
 to have:
   cn: 有
   tone: 3
@@ -190,6 +200,33 @@ to have:
   memo: |
     What's show here is a roof over your head. Which is a nice thing to <b>have</b>.
     Note that to negate to have, we use 没, not 不
+
+to hit:
+  cn: 打
+  py: dǎ
+  set: 3
+  tone: 3
+  also:
+    - to beat
+    - to strike
+    - to break
+    - to type
+    - to mix up
+    - to build
+    - to fight
+    - to fetch
+    - to make
+    - to tie up
+    - to issue
+    - to shoot
+    - to calculate
+    - to play (a game)
+    - since
+    - from
+  memo: |
+    The left looks like on of those training dummies with sticks for arms that you see in a movie montage of the action here training.
+    The right looks like a punching bag hanging from the ceiling.
+    Both of these are used <b>to hit</b> or <b>to strike</b>
 
 to hope:
   cn: 希望
@@ -284,6 +321,16 @@ to make:
   memo: |
     There's a lot going on with this verb. A bit like the French <em>faire</em>.
     I try to see a guy fixing a shower, <b>to make</b> it work again.
+
+to make a telephone call:
+  cn: 打电话
+  py: dǎ diàn huà
+  tone: 344
+  set: 3
+  memo: |
+    The last two characters mean <a href="/电话44">telephone</a>
+    The left character means <a href="打3">to hit</a>
+    So this is just as in <b>hit the phones</b> which is a turn of phrase in English too.
 
 to not be:
   cn: 非
@@ -433,6 +480,7 @@ to sit:
     - to take (a train, ...)
     - to bear fruit
   memo: Looks like a bench with two people sitting on it
+
 to sleep:
   cn: 睡觉
   tone: 44
@@ -510,7 +558,7 @@ to work:
     - task
   memo: |
     Character for <a href="/工1">work</a> plus character for <a href="/作4">to do<a> makes <b>to work</b>
-
+                
 to wrap:
   cn: 包
   tone: 1
@@ -539,4 +587,3 @@ to write:
   memo: |
     Nobody writes anymore, but this is clearly paper snaking out of a printer.
     Because that is what we use <b>to write</b> these days.
-

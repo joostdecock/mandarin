@@ -34,6 +34,20 @@ measure word for books:
     Finally, there's also a bit of book shape in there. 
     Does that help?
 
+modal particle indicating suggestion of proposal:
+  cn: 吧
+  py: ba
+  tone: 0
+  set: 3
+  also:
+    - ...right?
+    - ...OK?
+    - ...I presume
+  memo: |
+    This looks like a padlock on the right (it's upside-down, because China is on the other side of the world, obviously).
+    There's this squarish looking dude on the left just wants confirmation before locking this thing in place.
+    Like, you want me to lock this, <b>...right?</b>
+
 plural suffix for person:
   cn: 们
   tone: 0
@@ -48,4 +62,35 @@ question particle for yes/no questions:
   set: 1
   memo: Person looking at the ATM with the suspense of <em>will it work or not?</em> (yes/no answer).
 
+some:
+  cn: 些
+  py: xiē
+  tone: 1
+  set: 3
+  also:
+    - a few
+    - several
+    - measure word for a small amount or number but greater than 1
+  memo: How many lines are there? A <b>few</b> or <b>some</b> but does it really matter?
 
+to/for:
+  cn: 给
+  py: gěi
+  tone: 3
+  also:
+    - to
+    - for
+    - for the benefit of
+    - to give
+    - to allow
+    - to do something (for someone)
+    - sentence intensifier
+    - equivalent of 被
+    - equivalent of 把
+  memo: |
+    On the left we've got what looks to be side side of a Xmas tree.
+    On the right we've got a crib and either a roof over it or more trees.
+    This is, weirdly enough, some sort of nativity scene.
+    So I think the reasoning here is that the person in this crib came <b>to</b> earth to die <b>for</b> our sins.
+    Or at least <b>to give</b> and <b>to allow</b> us to do better <b>for the benenit of</b> all of us.
+    I'm not saying I believe it, but that's what I see.
