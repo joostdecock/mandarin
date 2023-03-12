@@ -60,7 +60,14 @@ export const prebuildWords = async () => {
   for (const file of list) {
     const category = file.split('/').pop().slice(0, -5)
     categories[category] = []
-    for (const [key, info] of Object.entries(yaml.load(fs.readFileSync(file)))) {
+    let words
+    try {
+      words =yaml.load(fs.readFileSync(file))
+    }
+    catch (err) {
+      console.log(`Unable to parse ${file}:`, err)
+    }
+    for (const [key, info] of Object.entries(words)) {
       if (typeof sets[info.set] === 'undefined') sets[info.set] = []
       info.en = key
       info.cat = category
