@@ -34,6 +34,19 @@ measure word for books:
     Finally, there's also a bit of book shape in there. 
     Does that help?
 
+measure word for clothes:
+  cn: 件
+  py: jiàn
+  tone: 4
+  set: 3
+  also:
+    - item
+    - component
+  memo: |
+    This evoques of a wardrobe under a slated roof.
+    The right part is also somewhat resembling an empty bobbin for a sewing machine.
+    Both combined hopefully remind us that this is a measure word for an <b>item</b> of clothing.
+
 modal particle indicating suggestion of proposal:
   cn: 吧
   py: ba

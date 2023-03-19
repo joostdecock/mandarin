@@ -1,3 +1,13 @@
+clothes:
+  cn: 衣服
+  py: yī fu
+  tone: 10
+  set: 3
+  memo: |
+    On the left we see what looks like a pattern part, with notches and darts and a welt pocket.
+    On the right, we hav a coat hanger or display cabinet for <b>clothes</b>
+
+
 wristwatch:
   cn: 手表
   tone: 33

@@ -9,6 +9,16 @@ alcoholic beverage:
     - spirits
     - wine (rice wine)
 
+apple:
+  cn: 苹果
+  py: píng guǒ
+  tone: 23
+  set: 3
+  memo: |
+    The left part (ping) sounds like Tim, of Time Apple fame, and just means <b>apple</b>
+    It looks a bit like one of them apple corers, so that is how you can remember it.
+    The right part is fruit. It looks like a fly swatter swooping down on a counter, probably because of fruit flies.
+
 aromatic:
   cn: 香
   py: xiāng

@@ -169,6 +169,18 @@ not:
     This is <b>not</b> the way to go, clearly.
     How it works: Every other verb apart from 有 is negated with 不. It is pretty much equivalent to “not” or “don't” in English.
 
+stuff:
+  cn: 东西
+  py: dōng xi
+  tone: 10
+  set: 3
+  also:
+    - thing
+    - person
+  memo: |
+    This literally means east (on the left) and west (on the right).
+    So I am seeing this as this general undescriptive <em>could be anything from east to west</em> or just <b>stuff</b>
+
 that:
   cn: 那
   tone: 4

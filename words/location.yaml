@@ -42,6 +42,18 @@ below:
     The left character means down, and so together they are <b>below</b> or <b>under</b>
     The left character is easy to remember if you take the horizontal line as the base, everything is below it (compare with above)
 
+east:
+  cn: 东 
+  py: dōng
+  tone: 1
+  set: 3
+  also:
+    - host (sitting on east side of guest)
+    - landlord
+  memo: |
+    Unlike the west, which is essentially just a simplified alcolhol symbol, the east is intricate.
+    It has small in it, but also shelters that small with some solid protection above it.
+
 front:
   cn: 前
   tone: 2
@@ -70,3 +82,31 @@ in front:
     - above
   memo: |
     This is the character for <a href="/前2">front</a> followed by the suffix that is used for all locations. So <b>in front</b> or <b>ahead</b>
+
+north:
+  cn: 北
+  py: běi
+  tone: 3
+  set: 3
+  memo: |
+    Bei is easy enough to remember thanks to Beijing being the capital in the North.
+    As for the character, it's mostly made up of straight lines which is how things then to cristalize when frozen, which is way more common in the <b>North</b>
+
+south:
+  cn: 南
+  py: nán
+  tone: 2
+  set: 3
+  memo: |
+    Looks like a bundle (or box) with a sheep in it.
+    We all know sheep are mostly a thing from New Zealand, which is <b>South</b> of pretty much everything.
+
+west:
+  cn: 西
+  py: Xī
+  tone: 1
+  set: 3
+  also:
+    - Abbreviation for Spain
+    - Spanish
+  memo: It looks just like an alcoholic beverage, but it's even simpler and dumbed down because, you know, the <b>west</b>
