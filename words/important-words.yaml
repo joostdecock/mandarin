@@ -39,6 +39,20 @@ and:
     On the right there's a wardrobe, on the left there's a bar with a coat hanger on it.
     These things clearly go together. They form a <b>union</b> of wardrobe <b>and</b> coat hangers.
 
+both:
+  cn: 都
+  py: dōu
+  set: 3
+  tone: 1
+  also:
+    - all
+    - entirely
+    - already
+    - (not) at all
+    - event (used for emphasis)
+  memo: |
+    On the right, it looks (a bit) like two boobs. Don't you want to admire <b>both</b> of them <b>entirely</b>?
+
 can:
   cn: 会
   tone: 4
@@ -201,6 +215,15 @@ there:
   memo: |
     This is the <a href="/那4">that</a> character + that suffix that does not mean much on its own.
     Together they make <b>there</b> (fourth tone).
+
+these:
+  cn: 这些
+  py: zhè xiē
+  set: 3
+  tone: 41
+  memo: |
+    The left character is <b>this</b> and the right is a measure word for a small amount or number, but more than one.
+    We can see that there's 2 groups of each 2 similar shapes, so I guess that makes sense.
 
 this:
   cn: 这

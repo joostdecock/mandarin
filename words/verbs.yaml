@@ -102,6 +102,14 @@ to come:
     Another person is on top of them, with their arms propping up their upper body.
     The person on top is about <b>to come</b>.
 
+to come back:
+  cn: 回来 
+  py: huí lai
+  set: 3
+  tone: 20
+  memo: |
+    To <a href="/回2">return</a> + to <a href="/来2">come</a> = to <b>come back</b>
+
 to come out:
   cn: 出
   tone: 1
@@ -370,6 +378,7 @@ to open:
     - to turn on
     - to boil
     - to operate
+    - to drive (a car)
   memo: |
     I guess this looks a bit like a top down view of a cardboard box that is <b>open</b>
     Or like one of them chunky buttons you press to <b>start</b> something.

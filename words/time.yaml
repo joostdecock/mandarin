@@ -205,6 +205,16 @@ minute:
   memo: |
     I think it's best to think about fraction, and see that there's two lines over two lines here, as in a fraction.
 
+minutes:
+  cn: 分钟
+  py: fēn zhōng
+  set: 3
+  tone: 11
+  memo: |
+    This is minute(s) only in the sense of a block of time. Like, I'll be back in 15 minutes.
+    When we say what time it is, we simply use fēn/分 for minutes.
+
+
 month:
   cn: 月
   tone: 4

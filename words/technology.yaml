@@ -1,3 +1,15 @@
+car:
+  cn: 车
+  py: chē
+  set: 3
+  tone: 1
+  also:
+    - vehicle
+    - machine
+    - to shape with a lathe
+  memo: |
+    If we consider these two horizontal lines to be the road, then this suddenly looks like one of those simple sketches you make after a <b>car</b> accident
+
 computer:
   cn: 电脑 
   py: diàn nǎo

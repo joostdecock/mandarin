@@ -79,6 +79,18 @@ miss:
     On the right iwe recognize the symbol for <b>female</b>
     Small + female = <b>miss</b> or <b>young lady</b>
 
+mister:
+  cn: 先生
+  py: xiān sheng
+  set: 3
+  tone: 10
+  also:
+    - Mr.
+    - Sir
+  memo: |
+    Two characters here, on the left we have <b>first</b> and on the right <b>to be born</b>
+    So first-born = mister which should make this easy to remember because what the heck?
+
 name (of someone/thing):
   cn: 名字
   tone: 20
