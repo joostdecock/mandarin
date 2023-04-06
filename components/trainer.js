@@ -24,6 +24,15 @@ function showThis(type, lang, cnpy=false) {
 
 const Q = 10
 
+const TrafficLights = ({ source, picks }) => (
+  <div>
+    <span className="block text-center text-sm">{picks}</span>
+    <span className={`rounded-full w-4 h-4 bg-success inline-block m-1 ${source === 'more' ? '' : 'opacity-30'}`}></span>
+    <span className={`rounded-full w-4 h-4 bg-warning inline-block m-1 ${source === 'random' ? '' : 'opacity-30'}`}></span>
+    <span className={`rounded-full w-4 h-4 bg-error inline-block m-1 ${source === 'less' ? '' : 'opacity-30'}`}></span>
+  </div>
+)
+
 const WordTrainer = ({ 
   getNext,
   cn,
@@ -41,27 +50,32 @@ const WordTrainer = ({
   const [ show, setShow ] = useState(false)
   const [ next, setNext ] = useState(false)
   const [ upcoming, setUpcoming ] = useState([])
+  const [ source, setSource ] = useState('random')
+  const [ swiped, setSwiped ] = useState(false)
 
   useEffect(() => {
     const getReady = async () => {
       if (upcoming.length < Q) {
         const newUpcoming = [...upcoming.slice(1)]
         while (newUpcoming.length < Q) {
-          const newWord = await getNext(slug)
+          const newWord = await getNext(slug, app)
           newUpcoming.push(newWord)
         }
         setUpcoming(newUpcoming)
       }
     }
     getReady()
+    app.addPick()
     setLoading(false)
   }, [ slug ])
 
   // Swipe left triggers this
-  const nextWord = () => {
+  const nextWord = (dir=false) => {
+    if (dir) setSwiped(dir)
+    else setSwiped(false)
     setLoading(true)
     if (show) setShow(false)
-    const [next, prefix] = upcoming[0] //getNext(slug)
+    const [next, prefix] = upcoming[0] 
     setUpcoming(upcoming.slice(1))
     const to = (type === 'cn')
       ? next.cn+next.tone
@@ -73,10 +87,15 @@ const WordTrainer = ({
   const revealMemo = () => setShow(true)
 
   // Swipe down triggers this
-  const showLessOften = () => {
+  const swipeDownHandler = () => {
+    app.showLessOften(en)
+    nextWord('down')
   }
+
   // Swipe up triggers this
-  const showMoreOften = () => {
+  const swipeUpHandler = () => {
+    app.showMoreOften(en)
+    nextWord('up')
   }
 
   const modes = { en, cn, py }
@@ -89,11 +108,16 @@ const WordTrainer = ({
       layout={Layout} 
       onSwipedLeft={nextWord} 
       onSwipedRight={revealMemo}
+      onSwipedDown={swipeDownHandler}
+      onSwipedUp={swipeUpHandler}
+      less={app.less}
+      more={app.more}
     >
       <div className="max-w-xl h-screen flex flex-col items-center justify-center px-4 gap-4 m-auto">
+        {loading ? null : <TrafficLights source={source} picks={app.picks}/>}
         <h1 className="text-center text-7xl break-all">
           {loading
-            ? <Spinner className="w-24 h-24" />
+            ? <Spinner className={`w-24 h-24 ${swiped === 'up' ? 'text-success' : ''} ${swiped === 'down' ? 'text-error' : ''} `} />
             : (
               <>
                 <PlayButton word={cn} autoPlay={app.settings?.autoPlay} slug={slug}>

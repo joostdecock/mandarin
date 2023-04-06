@@ -12,6 +12,8 @@ const PageWrapper = ({
   noSearch = false,
   onSwipedLeft = false,
   onSwipedRight = false,
+  onSwipedUp = false,
+  onSwipedDown = false,
   app = false,
   layout = Docs,
   crumbs = false,
@@ -24,6 +26,8 @@ const PageWrapper = ({
     onSwipedRight: onSwipedRight
       ? onSwipedRight
       : () => (app.primaryMenu ? null : app.setPrimaryMenu(true)),
+    onSwipedUp: onSwipedUp ? onSwipedUp : () => null,
+    onSwipedDown: onSwipedDown ? onSwipedDown : () => null,
     trackMouse: true,
   })
 

@@ -3,12 +3,31 @@ import words from 'prebuild/words.mjs'
 import jsonLoader from 'scripts/loader.mjs'
 import WordTrainer from 'components/trainer.js'
 
-const en = Object.keys(words)
+const en = {}
+for (const i in words) en[words[i].en] = words[i]
 
-const getNext = (current) => {
-  const next = en[Math.floor(Math.random()*en.length)]
-  if (next === current) return getNext(current)
-  else return [words[en[next]], '/']
+const pickRandomNext = (app) => {
+  let list = 'random'
+  const lists = {
+    random: Object.keys(en),
+    less: app.lessOften || [],
+    more: app.moreOften || [],
+  }
+  
+  const rand = Math.random()*100
+  if (rand < app.settings.more) list = 'more'
+  else if (rand < (parseInt(app.settings.more) + parseInt(app.settings.less))) list = 'less'
+
+  const key = Math.floor(Math.random()*lists[list].length)
+
+  return key
+    ? { ...en[lists[list][key]], source: list }
+    : pickRandomNext(app)
+} 
+const getNext = (current, app) => {
+  const next = pickRandomNext(app)
+  if (next === current) return getNext(current, app)
+  else return [ next, '/']
 }
 
 const WordPage = (props) => <WordTrainer getNext={getNext} {...props} />
