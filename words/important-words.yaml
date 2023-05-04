@@ -91,6 +91,41 @@ extremely:
     - very
   memo: Like a guy with an <b>extremely</b> large penis
 
+each:
+  cn: 每
+  py: měi
+  tone: 3
+  set: 3
+  also:
+    - every
+  memo: |
+    Looks a bit like a conveyor belt where **each** item is the same
+
+from:
+  cn: 从
+  py: cóng
+  tone: 2
+  set: 3
+  also:
+    - via
+    - passing through
+    - through (a gap)
+    - past
+    - ever (when followed by negative = never)
+    - to comply with
+    - to obey
+    - to join
+    - to engage in
+    - adopting some mode of action or attitude
+    - follower
+    - retainer
+    - accessory
+    - accomplice
+    - related by common paternal grandfater or earlier ancestor
+  memo: |
+    This is an important character with several meanings. Might just have to memorize this one.
+    But, you have two very simimlar shapes here, so one comes (congs?) **from** the other.
+
 here:
   cn: 这儿
   tone: 40
@@ -122,6 +157,18 @@ is:
     Why is that box levitating over that table?
     Is it magic? Is it not subject to gravity?
     Or has it simply transcended into a state where it just <b>is</b> and these questions <b>are</b> foolish. Just let it <b>be</b>.
+
+how about:
+  cn: 怎么样 
+  py: zěn me yàng
+  set: 3
+  tone: 304
+  also:
+    - how?
+    - how about?
+    - how was it?
+    - how are things?
+  memo: How + shape = How are things?
 
 how many (under 11):
   cn: 几
@@ -182,6 +229,25 @@ not:
     Poor arrow smashed so hard into that wall one of its arms broke off. 
     This is <b>not</b> the way to go, clearly.
     How it works: Every other verb apart from 有 is negated with 不. It is pretty much equivalent to “not” or “don't” in English.
+
+still:
+  cn: 还
+  py: hái
+  set: 3
+  tone: 2
+  also:
+    - still in progress
+    - still more
+    - yet
+    - even more
+    - in addition
+    - fairly
+    - passably (good)
+    - as early as
+    - even
+    - also
+    - else
+  memo: It's like 'not' is being carried because the verdict is **still in progress**.
 
 stuff:
   cn: 东西
@@ -284,6 +350,22 @@ who:
     On the left is somebody trying to figure out <b>who</b> that person on the right is.
     But that person on the right is behind one of them screens after which you go to get dressed you know?
     So this really says <b>who</b> is behind that screen?
+
+with:
+  cn: 跟
+  py: gēn 
+  set: 3
+  tone: 1
+  also:
+    - heel
+    - to follow closely
+    - to go with
+    - to marry (a woman)
+    - compared with
+    - to 
+    - towards
+    - and (when joining two nouns)
+  memo: This little flag is with the other flag and follows it closely.
 
 yes:
   cn: 是的

@@ -18,6 +18,28 @@ black:
     - to vilify
     - (loanword) to hack (computing)
 
+black (the color):
+  cn: 黑色
+  py: hēi sè
+  tone: 14
+  set: 3
+  memo: |
+    Black + Color = the color black, or black
+
+color: 
+  cn: 色 
+  py: sè
+  tone: 4
+  set: 3
+  also:
+    - look
+    - appearance
+    - sex
+  memo: |
+    Do not confuse this with the upside-down 'ba'. This is **color**.
+    It's also look/appearance/sex so obviously not 爸爸 related.
+    Maybe you can see a pair for (very) funky sunglasses in this?
+
 red:
   cn: 红
   tone: 2

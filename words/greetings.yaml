@@ -35,6 +35,19 @@ hello (telephone):
   tone: 3
   set: 3
   memo: There's a table, a window, and a person picking up the phone saying <b>hellow</b>
+how have you been:
+  cn: 你最近怎么样
+  py: nǐ zuì jìn zěn me yàng
+  set: 3
+  tone: 344304
+  memo: You + recently + how are things = How have you been?
+
+long time no see:
+  cn: 好久不见
+  py: hǎo jiǔ bu jiàn
+  tone: 3304
+  set: 3
+  memo: good (long) time no see = long time no see
 
 meaning:
   cn: 意思

@@ -21,6 +21,31 @@ courtyard:
     I guess we see a picnic table, and one of those segmented bins for recycling on the left.
     This also means <b>institution</b> but I'm not sure what to make of that.
 
+direction:
+  cn: 道
+  py: dào
+  tone: 4
+  set: 3
+  also:
+    - way
+    - road
+    - path
+    - principle
+    - truth
+    - morality
+    - reason
+    - skill
+    - method
+    - to say
+    - to speak
+    - to talk
+    - classifier for long things (rivers, cracks, etc)
+    - classifier for barriers (wall, doors, etc)
+    - classifier for questions (in an exam)
+    - classifier for commands, courses in a meal, steps in a process
+  memo: |
+    This is the **way**. So if you can somehow see a Mandalorian helmet in this, you're good.
+
 merchant:
   cn: 商
   tone: 1

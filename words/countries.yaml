@@ -24,6 +24,22 @@ China:
     The symbol on the right is country.
     So this is <em>the country in the middle</em> which makes sense because everybody looks at the world by placing themselves in the middle.
 
+continent:
+  cn: 洲
+  py: zhōu
+  tone: 1
+  set: 3
+  also:
+    - island in a river
+  memo: Looks a bit like a road marking and lanes mergin. Continental is a tire brand so perhaps that's a good way to remember this?
+
+Europe:
+  cn: 欧洲
+  py: Ōu zhōu
+  tone: 11
+  set: 3
+  memo: Symbol for Europe + symbol for continent = Europe
+
 France:
   cn: 法国
   tone: 32

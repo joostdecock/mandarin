@@ -16,12 +16,42 @@ department:
   memo: |
     A pile of documents stacked way too high in an unorderly fashion that sort of crushes the character for small at the bottom? This is clearly a <b>department</b> in a big bureaucracy.
 
+euro:
+  cn: 欧元
+  py: Ōu yuán
+  tone: 12
+  memo: This character for Europe + the character for currency = Euro
+
 mobile phone:
   cn: 手机
   tone: 31
   py: shǒu jī
   set: 2
   memo: Hand (left) and machine (right). Hand machine. Mobile phone. Makes sense.
+
+problem:
+  cn: 问题 
+  py: wèn tí
+  set: 3
+  tone: 42
+  also:
+    - question
+    - issue
+    - topic
+  memo: To ask + topic = question
+
+topic:
+  cn: 题 
+  py: tí
+  set: 3
+  tone: 2
+  also:
+    - problem for discussion
+    - exam question
+    - subject
+    - to inscribe
+    - to mention
+  memo: Whatever the topic is, this person is standing there awkward to address it.
 
 work:
   cn: 工

@@ -87,4 +87,14 @@ small:
   set: 1
   memo: This looks like a periscope peaking out through a <b>small</b> opening.
 
+tall:
+  cn: 高
+  py: gāo 
+  set: 3
+  tone: 1
+  also:
+    - high
+    - above average
+    - loud
+  memo: This person is so **tall** their head almost touches the ceiling fan
 

@@ -12,6 +12,15 @@ to ask (2):
     This is clearly a QR-code which is what you use if you have questions <b>to ask</b>.
     I mean, it will take you to a website with more info at least.
 
+to be aware:
+  cn: 知
+  py: zhī
+  set: 3
+  tone: 1
+  also:
+    - to know
+  memo: Person standing in front of a mirror. They are **aware** of themselves. They **know** who they are looking at.
+
 please:
   cn: 请
   tone: 3
@@ -23,6 +32,22 @@ please:
     - to request
   memo: |
     This is the character of the Qing dynasty, with a character on the left that bows their head and says <b>please</b>
+
+to arrive:
+  cn: 到
+  py: dào
+  set: 3
+  tone: 4
+  also:
+    - to (a place)
+    - until (a time)
+    - up to
+    - go to
+    - to go
+    - verb sidecar that indicates the completion or result of an action
+  memo: |
+    This looks like one of those huge barriers you see at the (dead) end of a train track.
+    So a train can only go **up to** that barier, at which point is has **arrived**
 
 to attend class:
   cn: 上课
@@ -168,6 +193,24 @@ to finish class:
     That left character represents the end of things. We see the finish line and we're heading to it.
     The right part is a teacher at a whiteboard. So to finish class.
     
+to forget:
+  cn: 忘
+  py: wàng 
+  set: 3
+  tone: 4
+  also:
+    - to overlook
+    - to neglect
+  memo: Looks somebody is making soup and **forgot** to add salt
+
+to get out of bed:
+  cn: 起床
+  py: qǐ chuáng
+  set: 3
+  tone: 32
+  also:
+    - to get up
+  memo: To get up + bed = To get out of bed
 
 to go:
   cn: 去
@@ -247,6 +290,14 @@ to hope:
   memo: |
     The left looks a bit like shooting star, which when you see one you can <b>wish for</b> things.
     The right has a squished work at the bottom, a month at the right, and so perhaps it represents the <b>hope</b> that there's more <b>to desire</b> than just work all the time.
+
+to know:
+  cn: 知道
+  py: zhī dào
+  set: 3
+  tone: 14
+  memo: |
+    to be aware + truth = To know
 
 to learn:
   cn: 学
@@ -401,6 +452,20 @@ to raise:
   tone: 3
   py: qĭ
   set: 1
+  also:
+    - to rise
+    - to get up
+    - to set out
+    - to start
+    - to appear
+    - to launch
+    - to initiate (action)
+    - to draft
+    - to establish
+    - to get (from a counter or warehouse)
+    - verb suffix for to start
+    - (before place or time) starting from
+    - measure word for unpredictable events, case, instance, batch, group
   memo: |
     This is cold air coming in from the right, and as it is heated by the radiator on the left, it rises.
     So that's how you can <b>raise</b> air upwards. By heating it.
@@ -458,6 +523,46 @@ to rest:
   memo: |
     There's two people on the left here, and on the right we have a bath tub and one of those nice towel radiators to keep things warm and cosy so you can take a <b>rest</b> in your bath.
 
+to ride (a bike or animal):
+  cn: 骑
+  py: qí
+  set: 3
+  tone: 2
+  also:
+    - to sit astride
+    - measure word for saddle-horses
+  memo: |
+    It's hard to see a bicylcle in this. but a horse? 
+    Isn't that a small person a horse that's going towards the left?
+
+to ride:
+  cn: 乘
+  py: chéng
+  set: 3
+  tone: 2
+  also:
+    - to mount
+    - to make use of
+    - to avail oneself of
+    - to take advantage of
+    - to multiple
+  memo: |
+    Looks a little bit like a motercycle. Or a bike, although ironically that's a differnet word.
+
+to rise:
+  cn: 兴
+  py: xīng 
+  set: 3
+  tone: 1
+  also:
+    - to flourish
+    - to become popular
+    - to start
+    - to encourage
+    - to get up
+  memo: |
+    Looks a bit like a chair and the person is so quick **to get up** that you see only those action lines.
+
 to roast:
   cn: 烤
   tone: 3
@@ -469,6 +574,25 @@ to roast:
   also:
     - to bake
     - to broil
+
+to run:
+  cn: 走
+  py: zǒu 
+  set: 3
+  tone: 3
+  also:
+    - to walk
+    - to go
+    - to move (vehicle)
+    - to visit
+    - to leave
+    - to go away
+    - to die (not literally)
+    - from
+    - through
+    - away (in verbs like, move away)
+    - to change (shape/form/meaning)
+  memo: This looks a lot like foot but instead of the big toe there's a hood ornament indicating the open rout
 
 to see:
   cn: 看见
@@ -542,6 +666,33 @@ to think:
     - to wish
     - to want
     - to miss (sb or sth)
+
+to walk:
+  cn: 走路 
+  py: zǒu lù
+  set: 3
+  tone: 34
+  also:
+    - to go on foot
+  memo: To walk + road = to go on foot, or to walk
+
+to want:
+  cn: 要
+  py: yào
+  set: 3
+  tone: 4
+  also:
+    - important
+    - vital
+    - to ask for
+    - will
+    - going to
+    - may
+    - must
+    - probably
+    - if
+  memo: |
+    Looks like one of the ski-cabins on a rail. Which is the last thing I **want**
 
 to watch: 
   cn: 观

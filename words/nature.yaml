@@ -89,6 +89,20 @@ star:
     This looks like a robot. And you know as well as I do that the days of celebrities are numbered.
     Soon enough, all stars will be robots. You know it makes sense.
 
+straw:
+  cn: 草
+  py: cǎo
+  tone: 3
+  set: 3
+  also:
+    - grass
+    - manuscript
+    - draft 
+    - careless
+    - rough
+  memo: |
+    Looks a bit like those bales of straw that get pressed into cubes but a machine
+
 sky:
   cn: 天
   py: tiān

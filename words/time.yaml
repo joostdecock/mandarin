@@ -156,6 +156,45 @@ day:
     Looks a bit like a tower pointing to the <b>sky</b> or <b>heaven</b>
     Perhaps one <b>day</b> you'll get to the top of that tower.
 
+day after tomorrow:
+  cn: 后天 
+  py: hòu tiān
+  tone: 41
+  set: 3
+  also:
+    - post-natal
+    - a posteriori
+    - acquired (not innate)
+  memo: Behind + Day = Day after tomorrow
+
+day of the month:
+  cn: 号
+  py: hào
+  tone: 4
+  set: 3
+  also:
+    - ordinal number
+    - mark
+    - sign
+    - business establishment
+    - size
+    - ship suffix
+    - horn (instrument)
+    - bugle call
+    - assumed name
+    - to take a pulse
+    - classidier for number of people
+
+evening:
+  cn: 晚上
+  py: wǎn shang
+  tone: 30
+  set: 3
+  also:
+    - night
+    - late
+  memo: Character for late + character for on top = evening
+
 how big:
   cn: 多大
   tone: 14
@@ -165,6 +204,18 @@ how big:
     - How old are you (for children only)
   memo: You know the character for big, and the first one is <a href="/多">many/much/often/how</a>
 
+late:
+  cn: 晚
+  py: wǎn
+  tone: 3
+  set: 3
+  also:
+    - evening
+    - night
+  memo: |
+    This person's eyes are all big (probably from drugs to stay away) their hair is a mess and they're leaning against a wall because it's too late in the night
+
+    
 later:
   cn: 下
   tone: 4
@@ -295,6 +346,20 @@ o'clock:
     - dot stroke in Chinese characters
     - classifier for items
   memo: We're going to have to agree that this looks like a point, dot, or speck.
+
+recent:
+  cn: 最近
+  py: zuì jìn
+  set: 3
+  tone: 44
+  also:
+    - recently
+    - these days
+    - latest
+    - soon
+    - nearest (of locations)
+    - shortest (of routes)
+  memo: Most + near/close to = recently
 
 this year:
   cn: 今年

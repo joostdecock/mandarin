@@ -12,6 +12,15 @@ cat:
   set: 2
   memo: A guy in a sombrero hat is slumped against the wall sleeping while his <b>cat</b> sits behind the window
 
+crow:
+  cn: 乌 
+  py: wū
+  set: 3
+  tone: 1
+  also:
+    - black
+  memo: Does it look a bit like a bird looking to the right? Or is that just me?
+
 dog:
   cn: 狗
   tone: 3

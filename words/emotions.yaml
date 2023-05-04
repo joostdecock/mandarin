@@ -1,12 +1,13 @@
-joyous:
-  cn: 欢
-  tone: 1
-  py: huān
-  set: 1
-  memo: | 
-    One the right is some dude holding a chair over his head, 
-    the left person is swinging what I assume is their necktie around. 
-    Obviously this is a pretty wild party, and there's a lot of joy here.
+feeling:
+  cn: 情
+  py: qíng
+  tone: 2
+  set: 3
+  also:
+    - emotion
+    - passion
+    - situation
+  memo: Looks like a person feeling up another thing to check how it's feeling
 
 happiness:
   cn: 喜
@@ -17,6 +18,37 @@ happiness:
     We've got a little bench, in front of a small table, with a bowl of food on it.
     There's one of them ceiling fans overhead to provide a cool breeze while enjoying this lovely meal.
     Obviously, this is a happy moment, so happiness.
+
+happy:
+  cn: 高兴 
+  py: gāo xìng
+  set: 3
+  tone: 14
+  also:
+    - glad
+    - willing (to do something)
+    - in a cheerful mood
+  memo: High + to Rise = Happy (for some reason). I guess being tall is underrated.
+
+joyous:
+  cn: 欢
+  tone: 1
+  py: huān
+  set: 1
+  memo: | 
+    One the right is some dude holding a chair over his head, 
+    the left person is swinging what I assume is their necktie around. 
+    Obviously this is a pretty wild party, and there's a lot of joy here.
+
+mood:
+  cn: 心情 
+  py: xīn qíng
+  set: 3
+  tone: 12
+  also:
+    - frame of mind
+  memo: |
+    Heart + Feeling = Mood
 
 to feel happy:
   cn: 开心

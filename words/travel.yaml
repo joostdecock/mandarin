@@ -85,6 +85,19 @@ mandarin:
     The word for <a href="/普通">common</b> and the word for <a href="/话">language</a>.
     Together they may <b>mandarin</b> because that's the one language we care about.
 
+road:
+  cn: 路
+  py: lù 
+  set: 3
+  tone: 4
+  also: 
+    - journey
+    - route
+    - line (bus etc)
+    - sort
+    - kind
+  memo: Looks like a kid with a kite and a suitcase, going on a journey
+
 speech:
   cn: 语
   tone: 3
@@ -94,6 +107,13 @@ speech:
     This looks almost exactly like the <a href="/话">language</a> character, and it's meaning is very similar.
     This is <b>dialect</b>, or <b>speech</b>, or also <b>language</b> depending on context.
     Essentially, this is the same as language, but slightly different. Like a <b>dialect</b>.
+
+to catch a plane:
+  cn: 坐飞机
+  py: zuò fēi jī
+  tone: 411
+  set: 3
+  memo: To take a seat + airplane = to take/catch a plane
 
 word:
   cn: 字

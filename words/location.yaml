@@ -54,6 +54,21 @@ east:
     Unlike the west, which is essentially just a simplified alcolhol symbol, the east is intricate.
     It has small in it, but also shelters that small with some solid protection above it.
 
+far:
+  cn: 远 
+  py: yuǎn 
+  set: 3
+  tone: 3
+  also:
+    - distant
+    - remote
+    - by far (in comparison)
+    - much (lower etc)
+  memo: |
+    It looks like the character for money.
+    It sounds like the character for money.
+    It is **Far** because that money is used for trade. Not locally.
+
 front:
   cn: 前
   tone: 2
@@ -83,6 +98,16 @@ in front:
   memo: |
     This is the character for <a href="/前2">front</a> followed by the suffix that is used for all locations. So <b>in front</b> or <b>ahead</b>
 
+left side:
+  cn: 左边 
+  py: zuǒ bian
+  set: 3
+  tone: 30
+  also:
+    - left
+    - to the left (of)
+  memo: East + Side = Left
+
 north:
   cn: 北
   py: běi
@@ -91,6 +116,16 @@ north:
   memo: |
     Bei is easy enough to remember thanks to Beijing being the capital in the North.
     As for the character, it's mostly made up of straight lines which is how things then to cristalize when frozen, which is way more common in the <b>North</b>
+
+right side: 
+  cn: 右边 
+  py: yòu bian
+  set: 3
+  tone: 40
+  also:
+    - rigth
+    - to the right (of)
+  memo: West + Side = Left
 
 south:
   cn: 南
