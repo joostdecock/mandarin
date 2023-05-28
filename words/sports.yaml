@@ -11,3 +11,20 @@ soccer:
   py: zúqiú
   set: 2
   memo: Word for <a href="/足">foot</a> plus word for <a href="/毬">ball</a> = <b>football</b> or <b>soccer</b>|
+
+to kick:
+  cn: 踢
+  py: tī
+  tone: 1
+  set: 3
+  also:
+    - to play (soccer)
+  memo: fixme
+
+to play soccer:
+  cn: 踢足球
+  py: tī zú qiú
+  tone: 122
+  set: 3
+  memo: fixme
+

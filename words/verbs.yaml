@@ -204,6 +204,20 @@ to eat:
     - to make a living
   memo: eat + meail = to eat a meal
 
+to exercise:
+  cn: 运动
+  py: yùn dòng
+  tone: 44
+  set: 3
+  also:
+    - to move
+    - sports
+    - exercise
+    - motion
+    - movement
+    - campaign
+  memo: fixme
+
 to explain:
   cn: 讲
   py: jiǎng

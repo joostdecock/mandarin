@@ -424,7 +424,7 @@ this year:
     On the right, somebody is pinned to a bed because they went out late last night.
     Sounds like it was new year's even, and <b>this year</b> is of to a rough start.
 
-time:
+time (1):
   cn: 时
   py: shí
   tone: 2
@@ -434,6 +434,15 @@ time:
     - when
     - hour
     - season
+    - period
+  memo: fixme
+
+time (2):
+  cn: 时间
+  py: shí jiān
+  tone: 21
+  set: 3
+  also:
     - period
   memo: fixme
 
