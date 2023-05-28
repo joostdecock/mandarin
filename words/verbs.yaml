@@ -800,19 +800,13 @@ to teach:
   memo: fixme
 
 to think:
-  cn: 想
-  tone: 3
-  py: xiǎng
-  set: 2
-  memo: |
-    A coathanger, a radiator and a bath tub.
-    This is where one goes <b>to think</b> if one is Tom Ford.
+  cn: 觉得
+  py: jué de
+  tone: 20
+  set: 3
   also:
-    - to believe
-    - to suppose
-    - to wish
-    - to want
-    - to miss (sb or sth)
+    - to feel
+  memo: fixme
 
 to transform:
   cn: 变
@@ -835,7 +829,7 @@ to walk:
     - to go on foot
   memo: To walk + road = to go on foot, or to walk
 
-to want:
+to want (1):
   cn: 要
   py: yào
   set: 3
@@ -852,6 +846,21 @@ to want:
     - if
   memo: |
     Looks like one of the ski-cabins on a rail. Which is the last thing I **want**
+
+to want (2):
+  cn: 想
+  tone: 3
+  py: xiǎng
+  set: 2
+  memo: |
+    A coathanger, a radiator and a bath tub.
+    This is where one goes <b>to think</b> if one is Tom Ford.
+  also:
+    - to believe
+    - to suppose
+    - to wish
+    - to think
+    - to miss (sb or sth)
 
 to watch: 
   cn: 观

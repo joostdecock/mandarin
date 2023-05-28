@@ -222,6 +222,15 @@ money:
     - coin
   memo: Person window shopping, thingking about how much <b>money</b> to spend
 
+most:
+  cn: 最
+  py: zuì
+  tone: 4
+  set: 3
+  also:
+    - the most
+  memo: fixme
+
 not few:
   cn: 不少
   py: bù shǎo
