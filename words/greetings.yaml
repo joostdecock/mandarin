@@ -168,6 +168,16 @@ please:
   memo: |
     This looks like a person carrying way too many things, so they are asking if you can <b>please</b> give them a hand.
 
+story: 
+  cn: 故事
+  py: gù shi
+  tone: 40
+  set: 3
+  also:
+    - narrative
+    - tale
+  memo: instance + matter/thing = story
+
 to be sorry:
   cn: 对不起
   tone: 443

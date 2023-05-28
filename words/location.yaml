@@ -42,6 +42,19 @@ below:
     The left character means down, and so together they are <b>below</b> or <b>under</b>
     The left character is easy to remember if you take the horizontal line as the base, everything is below it (compare with above)
 
+between:
+  cn: 间
+  py: jiān
+  tone: 1
+  set: 3
+  also: 
+    - among
+    - within a definite time or space
+    - room
+    - classifier for rooms
+    - section of a room or lateral space between two pairs of pillars
+  memo: fixme
+
 east:
   cn: 东 
   py: dōng

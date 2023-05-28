@@ -9,6 +9,23 @@ adjacent:
     - close to
     - neighbor
 
+bewildering:
+  cn: 怪 
+  py: guài
+  tone: 4
+  set: 3
+  also:
+    - odd
+    - strange
+    - uncanny
+    - devil
+    - monster
+    - to wonder at
+    - to blame
+    - quite
+    - rather
+  memo: Person tied up about to be impaled. It's all rather bewildering.
+
 bright:
   cn: 亮
   tone: 4
@@ -71,6 +88,26 @@ inside:
     This looks like a hood ornament on a fancy car.
     That hood ornament goes on the hood, and it tells you what's <b>inside</b> the hood (or at least the brand of the <b>internal</b> combustion engine)
 
+new:
+  cn: 新
+  py: xīn
+  tone: 1
+  set: 3
+  also: 
+    - newly
+  memo: fixme
+
+odd:
+  cn: 奇怪
+  py: qí guài
+  tone: 24
+  set: 3
+  also:
+    - strange
+    - to marvel
+    - to be baffled
+  memo: strange + strange again = also strange
+
 pretty:
   cn:  漂亮
   tone: 40
@@ -86,6 +123,19 @@ small:
   py: xiǎo
   set: 1
   memo: This looks like a periscope peaking out through a <b>small</b> opening.
+
+strange:
+  cn: 奇
+  py: qí
+  tone: 2
+  set: 3
+  also:
+    - odd
+    - weird
+    - wonderful
+    - surprisingly
+    - unusually
+  memo: Looks a bit like a driver looking out their window while a small person stands on their roof which is <b>odd</b> to say the least.
 
 tall:
   cn: 高

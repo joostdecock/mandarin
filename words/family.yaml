@@ -16,6 +16,13 @@ daughter:
     This is the <a href="/女">women</a> character plus the <a href="/儿">son</a> character.
     That a <b>daughter</b> is essentially a <em>women son</em> is a kinda sad but I don't make the rules.
 
+dad and mom:
+  cn: 爸妈
+  py: bà mā
+  tone: 41
+  set: 3
+  memo: This is just short for 爸爸 & 妈妈
+
 friend:
   cn: 朋友
   tone: 23

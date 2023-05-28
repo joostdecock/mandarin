@@ -1,3 +1,15 @@
+company:
+  cn: 公司
+  py: gōng sī
+  tone: 11
+  set: 3
+  also:
+    - business
+    - firm
+    - corporation
+    - incorporated
+  memo: fixme
+
 correct:
   cn: 对
   tone: 4
@@ -22,6 +34,36 @@ euro:
   tone: 12
   memo: This character for Europe + the character for currency = Euro
 
+instance:
+  cn: 故
+  py: gù
+  tone: 4
+  set: 3
+  also:
+    - happening
+    - reason
+    - cause
+    - intentional
+    - former
+    - old
+    - friend
+    - therefore
+    - hence
+    - (of people) to die dead
+  memo: The ol' cross certainly evokes feelings of dead which raises questions about the reason or cause of this instance.
+
+matter:
+  cn: 事 
+  py: shì
+  tone: 4
+  set: 3
+  also:
+    - thing
+    - item
+    - work
+    - affair
+  memo: Looks a bit like a stack things held together with a big pin. It's an <b>item</b> of <b>work</b> I guess
+
 mobile phone:
   cn: 手机
   tone: 31
@@ -39,6 +81,34 @@ problem:
     - issue
     - topic
   memo: To ask + topic = question
+
+public:
+  cn: 公
+  py: gōng
+  tone: 1
+  set: 3
+  also: 
+    - collectively owned
+    - common
+    - international (e.g. high seas, metric system, calendar)
+    - make public
+    - fair
+    - just
+    - Duke, highest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]
+    - honorable (gentlemen)
+    - father-in-law
+    - male (animal)
+  memo: fixme
+
+to manage:
+  cn: 司
+  py: sī
+  tone: 1
+  set: 3
+  also:
+    - to take charge of
+    - department (under a ministery)
+  memo: fixme
 
 topic:
   cn: 题 

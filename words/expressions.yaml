@@ -1,8 +1,56 @@
+again:
+  cn: 又
+  py: yòu
+  tone: 4
+  set: 3
+  also:
+    - once again
+    - also
+    - both ... and ...
+    - and yet
+    - anyway (used for emphasis)
+  memo: Looks like the lid on this pot came loose <b>again</b>
+
+asking for confirmation:
+  cn: 对吗
+  py: duì ma
+  tone: 40
+  set: 3
+  memo: correct + question word = right?
+
+because:
+  cn:  因为
+  py: yīn wèi
+  tone: 14
+  set: 3
+  also:
+    - cause
+    - reason
+  memo: This person is being kept in a box. Why? <b>Because</b>
+
+nice to meet you:
+  cn: 认识你很高兴
+  py: rèn shi nǐ hěn gāo xìng
+  tone: 403314
+  set: 3
+  memo: to meet + you + very + happy = nice to meet you
+
 so so:
   cn: 还可以  
   py: hái kě yǐ
+  tone: 233
   set: 3
   memo: Still not bad / still pretty good = so so
+
+the first time:
+  cn: 第一次
+  py: dì yī cì
+  tone: 414
+  set: 3
+  also:
+    - fist
+    - number one
+  memo: fixme
 
 too expensive:
   cn: 太贵了
@@ -10,3 +58,21 @@ too expensive:
   set: 3
   tone: 440
   memo: Greatest/Highest + Expensive + Intensifier = Too expensive!
+
+vast crowd:
+  cn: 人山人海 
+  py: rén shān rén hǎi
+  tone: 2123
+  set: 3
+  also:
+    - multitude
+  memo: people mountain, people sea = many many people
+
+why:
+  cn: 为什么
+  py: wèi shén me
+  tone: 420
+  set: 3
+  also: 
+    - for what reason
+  memo: for + what = for what, or why

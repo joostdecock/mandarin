@@ -1,3 +1,12 @@
+cerebrum:
+  cn: 大脑
+  py: dà nǎo
+  tone: 43
+  set: 3
+  also:
+    - brain
+  memo: big + brain = cerebrum (the biggest part of the brain) but also just brain
+
 body:
   cn: 身体
   py: shēn tǐ
@@ -10,6 +19,17 @@ body:
   memo: |
     On the right is a lady under the shower.
     On the left, someone is feeding a camera through a vent to have a look at her <b>body</b>
+
+brain: 
+  cn: 脑
+  py: nǎo
+  tone: 3
+  set: 3
+  also:
+    - mind
+    - head
+    - essence
+  memo: Best I can think of is this looks a bit like a nearly-headless knight who's helmet is hanging down their side. The X marks the head.
 
 butt:
   cn: 屁股 
@@ -78,6 +98,14 @@ mouth:
   set: 1
   memo: Look at that mouth (of our robot overlord). 
 
+oneself:
+  cn: 自己
+  py: zì jǐ
+  tone: 43
+  set: 3
+  memo: self + self = oneself
+
+
 part:
   cn: 股
   tone: 3
@@ -92,6 +120,32 @@ part:
     - thigh
     - whiff
     - classifier for smells & electric current
+
+
+self (1): 
+  cn: 自
+  py: zì
+  tone: 4
+  set: 3
+  also:
+    - oneself
+    - from
+    - since
+    - naturally
+    - surely
+  memo: This naturally contains oneself. Which is why there's a snorkel on the top so the self can breathe.
+
+self (2): 
+  cn: 己
+  py: jǐ
+  tone: 3
+  set: 3
+  also:
+    - oneself
+    - sixth in order
+    - hexa
+  memo: It looks like a 5 but its meaning is more related to 6. 5 was my number. 6 is satan's number. I am named after them, so <b>self</b>
+
 
 woman:
   cn: 女

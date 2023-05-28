@@ -1,5 +1,30 @@
+calm:
+  cn: 安
+  py: ān
+  tone: 1
+  set: 3
+  also:
+    - content
+    - still
+    - quiet
+    - safe
+    - secure
+    - in good health
+    - to find a place for
+    - to install
+    - to fix
+    - to fit
+    - to bring (a charge against someone)
+    - to pacify
+    - to harbor
+    - security
+    - safety
+    - peace
+    - ampere
+  memo: Looks like a girl symbol, so a chick, under one of them heating lamps. So it sits still and quiet
+
 feeling:
-  cn: 情
+  cn: 情 
   py: qíng
   tone: 2
   set: 3
@@ -43,12 +68,23 @@ joyous:
 mood:
   cn: 心情 
   py: xīn qíng
-  set: 3
   tone: 12
   also:
     - frame of mind
-  memo: |
-    Heart + Feeling = Mood
+  memo: Symbol for heart + symbol for feeling = mood
+
+special: 
+  cn: 特 
+  py: tè
+  tone: 4
+  set: 3
+  also:
+    - unique
+    - distinguished
+    - especially
+    - unusual
+    - very
+  memo: This is an <b>unusual</b> character
 
 to feel happy:
   cn: 开心

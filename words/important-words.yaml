@@ -145,6 +145,26 @@ how:
     That character on the right (the ramp) does not exists on it's own, but it does tell you this is one of those important words.
     In this case, <b>how</b> which is very much <b>how</b> I feel about drawing that character on the left; <b>How</b>?
 
+however:
+  cn: 可是
+  py: kě shì
+  tone: 34
+  set: 3
+  also:
+    - but
+    - (used for emphasis) indeed
+  memo: fixme
+
+if:
+  cn: 如果
+  py: rú guǒ
+  tone: 23
+  set: 3
+  also:
+    - in case
+    - in the event that
+  memo: fixme
+  
 is:
   cn: 是
   tone: 4

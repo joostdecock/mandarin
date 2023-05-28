@@ -96,6 +96,28 @@ sunday (2):
   set: 2
   memo: <a href="/周">week</a> + <a href="/日">sun</a> = <b>sunday</b>
 
+a moment ago:
+  cn: 才
+  py: zài
+  tone: 4
+  set: 3
+  also:
+    - just now
+    - not until
+    - (followed by a numerical clause) only
+  memo: fixme
+
+after:
+  cn: 然后
+  py: rán hòu
+  tone: 24
+  set: 3
+  also:
+    - then (afterwards)
+    - after that
+    - afterwards
+  memo: fixme
+
 afternoon:
   cn: 下午
   tone: 13
@@ -184,6 +206,7 @@ day of the month:
     - assumed name
     - to take a pulse
     - classidier for number of people
+  memo: fixme
 
 evening:
   cn: 晚上
@@ -195,6 +218,13 @@ evening:
     - late
   memo: Character for late + character for on top = evening
 
+hour:
+  cn: 小时 
+  py: xiǎo shí
+  tone: 32
+  set: 3
+  memo: small + period = hour
+
 how big:
   cn: 多大
   tone: 14
@@ -203,6 +233,18 @@ how big:
   also:
     - How old are you (for children only)
   memo: You know the character for big, and the first one is <a href="/多">many/much/often/how</a>
+
+(in the) past:
+  cn: 过去 
+  py: guò qù
+  tone: 44
+  set: 3
+  also:
+    - former
+    - previous
+    - to go over
+    - to pass by
+  memo: to pass time + to go = in the past
 
 late:
   cn: 晚
@@ -347,6 +389,17 @@ o'clock:
     - classifier for items
   memo: We're going to have to agree that this looks like a point, dot, or speck.
 
+period:
+  cn: 时候
+  py: shí hou
+  tone: 20
+  set: 3
+  also:
+    - length of time
+    - moment
+    - period
+  memo: FIXME
+
 recent:
   cn: 最近
   py: zuì jìn
@@ -372,15 +425,17 @@ this year:
     Sounds like it was new year's even, and <b>this year</b> is of to a rough start.
 
 time:
-  cn: 时候
-  py: shí hou
-  tone: 20
+  cn: 时
+  py: shí
+  tone: 2
   set: 3
   also:
-    - length of time
-    - moment
+    - o'clock
+    - when
+    - hour
+    - season
     - period
-  memo: FIXME
+  memo: fixme
 
 today:
   cn: 今天
@@ -418,7 +473,7 @@ week:
     <a href="/星">star</a> + <a href="/期">a perdiod of time</a> = <b>week</b>
     Which makes sense because these days, celebrities/stars become famous and then cancelled in the span of about a week.
 
-week (2):
+weekday:
   cn: 周
   tone: 1
   py: zhōu
@@ -438,6 +493,13 @@ week (2):
     This is an alternative form of week where the meaning is crammed in a single character.
     Essentially, this symbol means <b>cycle</b> (among other things) so it makes sense to also use it for week.
     If you squint, this looks like a completed check box. As this also means <b>complete</b> that could help.
+
+weekend:
+  cn: 周末
+  py: zhōu mò
+  tone: 14
+  set: 3
+  memo: fixme
 
 when:
   cn: 什么时候

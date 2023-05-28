@@ -9,6 +9,12 @@ airport:
     Not sure what this machine does though.
     场 (field) where you can practically see the tractor tracks in this field
     Machine field is a pretty great name for airport.
+europe:
+  cn: 欧洲
+  py: Ōu zhōu
+  tone: 11
+  set: 3
+  memo: fixme
 
 japan:
   cn: 日本

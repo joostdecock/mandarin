@@ -56,6 +56,15 @@ picture:
     - shadow
     - trace
 
+photograph:
+  cn: 照片
+  py: zhào piàn
+  tone: 44
+  set: 3
+  also:
+    - picture
+  memo: to reflect + slice = picture. Makes sense
+
 television:
   cn: 电视 
   py: diàn shì

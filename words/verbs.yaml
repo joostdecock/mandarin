@@ -1,3 +1,12 @@
+to answer:
+  cn: 答
+  py: dā
+  tone: 1
+  set: 3
+  also:
+    - to agree
+  memo: This sort of funnel shape seems to imply that we'll all end up on the same page. So we agree.
+
 to ask (2):
   cn: 问
   tone: 4
@@ -155,6 +164,21 @@ to cook:
     - To prepare a meal
   memo: To make + meal = to cook
 
+to cross:
+  cn: 过
+  py: guò
+  tone: 4
+  set: 3
+  also:
+    - to go over
+    - to pass (time)
+    - to celebrate (a holiday)
+    - to live
+    - to get along
+    - excessively
+    - too-
+  memo: fixme
+
 to do:
   cn: 作
   tone: 4
@@ -179,6 +203,21 @@ to eat:
     - to have a meal
     - to make a living
   memo: eat + meail = to eat a meal
+
+to explain:
+  cn: 讲
+  py: jiǎng
+  tone: 3
+  set: 3
+  also: 
+    - to speak
+    - to negotiate
+    - to emphasise
+    - to be particular about
+    - as far as something is concerned
+    - speech
+    - lecture
+  memo: Person standing in front of a flipboard explaining something
 
 to finish class:
   cn: 下课
@@ -212,6 +251,17 @@ to get out of bed:
     - to get up
   memo: To get up + bed = To get out of bed
 
+to guard:
+  cn: 卫
+  py: wèi
+  tone: 4
+  set: 3
+  also:
+    - to protect
+    - to defend
+    - health
+  memo: Looks a bit like a very stylized guard with a helmet looking towards the right
+  
 to go:
   cn: 去
   tone: 4
@@ -470,6 +520,26 @@ to raise:
     This is cold air coming in from the right, and as it is heated by the radiator on the left, it rises.
     So that's how you can <b>raise</b> air upwards. By heating it.
 
+to reply: 
+  cn: 回答
+  py: huí dá
+  tone: 22
+  set: 3
+  also:
+    - to answer
+    - the answer
+  memo: to return + answer = to reply or just to answer (or the answer)
+
+to ride (an animal or bike):
+  cn: 骑
+  py: qí
+  tone: 2
+  set: 3
+  also:
+    - to sit astride
+    - measure word for saddle-horses
+  memo: It does look a little bit like a tiny man riding a horse
+
 to read:
   cn: 读
   tone: 2
@@ -632,6 +702,17 @@ to speak:
   set: 2
   memo: This is a person behind a lectern with two microphones. Clearly this person is expected to <b>speak</b>
 
+to spread:
+  cn: 张
+  py: zhāng
+  tone: 1
+  set: 3
+  also:
+    - to open up
+    - sheet of paper
+    - measure word for flat objects, beds, sheet, votes
+  memo: The thing on the left looks a bit like a bed and we're trying to spread a sheet over it
+
 to start:
   cn: 开始
   tone: 13
@@ -642,7 +723,7 @@ to start:
   memo: |
     Before we <b>start</b>, we must have pie (on the left) and only then can we start hammering things (on the right)
 
-to study:
+to study (1):
   cn: 学习
   tone: 22
   py: xué xí
@@ -651,6 +732,46 @@ to study:
   set: 2
   memo: |
     Symbol for <a href="/学">to learn</a> plus symbol for <a href="/习">habit</a> = <b>to study</b>
+
+to study (2):
+  cn: 读
+  py: dú
+  tone: 2
+  set: 3
+  also:
+    - to read
+    - reading of word / pronounciation
+  memo: fixme
+
+to succeed:
+  cn: 成
+  py: chéng
+  tone: 2
+  set: 3
+  also:
+    - to finish
+    - to complete
+    - to accomplish
+    - to become
+    - to turn into
+    - to be all right
+    - OK!
+    - one tenth
+  memo: This is a mash-up between high-fiving and slapping the roof of a car and that's pretty good for <b>to succeed</b>
+
+to take a plane:
+  cn: 坐飞机
+  py: zuò fēi jī
+  tone: 411
+  set: 3
+  memo: to take a seat + plane = to take a plane / to catch a plane
+
+to teach:
+  cn: 教
+  py: jiāo
+  tone: 1
+  set: 3
+  memo: fixme
 
 to think:
   cn: 想
@@ -666,6 +787,18 @@ to think:
     - to wish
     - to want
     - to miss (sb or sth)
+
+to transform:
+  cn: 变
+  py: biàn
+  tone: 4
+  set: 3
+  also:
+    - to change
+    - to become different
+    - to vary
+    - rebellion
+  memo: We see one of them vats you get baptized in against your will and one kid struggling to rebel against this.
 
 to walk:
   cn: 走路 

@@ -37,6 +37,17 @@ clock:
     I can't help but notice that little hammer on the left that's going to start moving back and forth as your alarm goes off.
     It will push that little lever on the left against the thing on the right that probably has a good ring to it.
 
+house:
+  cn: 房
+  py: fáng
+  tone: 2
+  set: 3
+  also:
+    - room
+    - branch of extended family
+    - classifier for family members
+  memo: fixme
+
 table:
   cn: 桌子
   tone: 10
