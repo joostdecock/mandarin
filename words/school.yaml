@@ -45,3 +45,12 @@ teacher:
 
     Not really sure why old division is teachers, but teachers are typically old and they do enjoy 
     dividing your day into boring sessions of them droning on.
+
+university:
+  cn: 大学
+  py: dà xué
+  tone: 42
+  also:
+    - college
+  memo: fixme
+

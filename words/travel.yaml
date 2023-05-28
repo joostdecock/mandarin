@@ -113,6 +113,14 @@ speech:
     This looks almost exactly like the <a href="/话">language</a> character, and it's meaning is very similar.
     This is <b>dialect</b>, or <b>speech</b>, or also <b>language</b> depending on context.
     Essentially, this is the same as language, but slightly different. Like a <b>dialect</b>.
+taxi:
+  cn: 出租车
+  py: chū zū chē
+  tone: 111
+  set: 3
+  also:
+    - rental car (in Taiwan)
+  memo: fixme
 
 to catch a plane:
   cn: 坐飞机

@@ -250,12 +250,21 @@ red wine:
     Together they make <b>red (grape) wine</b>
   set: 2
 
-restaurant: 
+restaurant (1): 
   cn: 饭馆
   tone: 43
   py: fàn guǎn
   set: 2
   memo: Symbol for <a href="/饭">food</a> plus symbol for <a href="/馆">building</a> = <b>restaurant</b> 
+
+restaurant (2):
+  cn: 饭店
+  py: fàn diàn
+  tone: 44
+  set: 3
+  also:
+    - hotel
+  memo: fixme
 
 roast duck:
   cn: 烤鸭

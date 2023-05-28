@@ -1,6 +1,8 @@
 antwerp:
   cn: 安特卫普
   py: Ān tè wèi pǔ
-  set: 3
   tone: 1443
-  memo: City in Belgium
+  set: 3
+  memo: These are just characters that sound like the city name in the local language
+
+

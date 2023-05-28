@@ -302,6 +302,17 @@ to have:
     What's show here is a roof over your head. Which is a nice thing to <b>have</b>.
     Note that to negate to have, we use 没, not 不
 
+to hear (something being said):
+  cn: 听说
+  py: tīng shuō
+  tone: 11
+  set: 3
+  also: 
+    - one hears (that)
+    - hearsay
+    - listening and speaking
+  memo: fixme
+
 to hit:
   cn: 打
   py: dǎ
@@ -519,6 +530,21 @@ to raise:
   memo: |
     This is cold air coming in from the right, and as it is heated by the radiator on the left, it rises.
     So that's how you can <b>raise</b> air upwards. By heating it.
+
+to recognize:
+  cn: 认识
+  py: rèn shi
+  tone: 40
+  set: 3
+  also:
+    - to know
+    - to be familiar with
+    - to get acquainted with sb
+    - knowledge
+    - understanding
+    - awareness
+    - cognition
+  memo: fixme
 
 to reply: 
   cn: 回答

@@ -118,6 +118,17 @@ son:
     This is <a href="/儿">son</a> which you can tell by the skinny legs. Not fully grown yet.
     On the right, this character means <em>small thing</em> so that is that.
 
+together:
+  cn: 一起
+  py: yī qǐ
+  tone: 13
+  set: 3
+  also:
+    - in the same palce
+    - with
+    - altogether (in total)
+  memo: fixme
+
 wife:
   cn: 老婆
   py: lǎopó

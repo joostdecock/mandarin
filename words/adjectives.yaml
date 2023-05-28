@@ -75,6 +75,18 @@ general:
     An IKEA dresser under a lamp. This is super <b>popular</b> and you find this <b>everywhere</b>.
     It's the <b>general</b> vibe I get from this.
 
+good-looking: 
+  cn: 好看
+  py: hǎo kàn
+  tone: 34
+  set: 3
+  also:
+    - nice-looking
+    - good (of a movie, book, TV show etc)
+    - embarrassed
+    - humiliated
+  memo: fixme
+
 inside:
   cn: 里
   tone: 3
