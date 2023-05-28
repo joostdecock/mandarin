@@ -28,3 +28,12 @@ to play soccer:
   set: 3
   memo: fixme
 
+to run:
+  cn: 跑步
+  py: pǎo bù
+  tone: 34
+  set: 3
+  also:
+    - to jog
+  memo: fixme
+

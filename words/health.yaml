@@ -35,3 +35,11 @@ medical:
     - to treat
   memo: |
     Person isolated in a room, much like you'd expect from a person with a <b>medical</b> condition.
+
+to fall ill:
+  cn: 生病 
+  py: shēng bìng
+  tone: 14
+  set: 3
+  memo: fixme
+

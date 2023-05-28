@@ -168,6 +168,15 @@ day of a month:
     This looks a bit like those displays at the cash register showing you the <b>number</b> or price.
     You can also see the paper for the receipt feeding through the printer at the bottom.
 
+every:
+  cn: 每
+  py: měi
+  tone: 3
+  set: 3
+  also:
+    - each
+  memo: fixme
+
 expensive: 
   cn: 贵
   py: guì
@@ -241,6 +250,16 @@ not few:
     - a lot
   memo: |
     Not few. Like, it's just <a href="/少3">few</a> with <a href="/不4">not</a> in front of it.
+
+often:
+  cn: 常常
+  py: cháng cháng
+  tone: 22
+  set: 3
+  also:
+    - frequently
+    - usually
+  memo: fixme
 
 only:
   cn: 只

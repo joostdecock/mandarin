@@ -208,6 +208,13 @@ day of the month:
     - classidier for number of people
   memo: fixme
 
+early morning:
+  cn: 早上
+  py: zǎo shang
+  tone: 30
+  set: 3
+  memo: fixme
+
 evening:
   cn: 晚上
   py: wǎn shang
