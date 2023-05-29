@@ -1,7 +1,7 @@
 import { useSound } from 'use-sound'
 import { useEffect, useState } from 'react'
 
-const PlayButton = ({ word='404', children, slug, autoPlay=false }) => {
+const PlayButton = ({ word='404', children, autoPlay=false }) => {
   const [play, obj] = useSound(`/audio/${word}.mp3`)
   const [autoPlayedWord, setAutoPlayedWord] = useState(false)
 

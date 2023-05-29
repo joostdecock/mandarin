@@ -50,6 +50,7 @@ university:
   cn: 大学
   py: dà xué
   tone: 42
+  set: 3
   also:
     - college
   memo: fixme

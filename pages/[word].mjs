@@ -20,9 +20,15 @@ const pickRandomNext = (app) => {
 
   const key = Math.floor(Math.random()*lists[list].length)
 
-  return key
+  console.log({list, more: app.settings.more,  less: app.settings.less, lo: app.lessOften, mo: app.moreOften })
+
+  const result = key
     ? { ...en[lists[list][key]], source: list }
     : pickRandomNext(app)
+
+  console.log({ result })
+
+  return result
 } 
 const getNext = (current, app) => {
   const next = pickRandomNext(app)
@@ -30,7 +36,7 @@ const getNext = (current, app) => {
   else return [ next, '/']
 }
 
-const WordPage = (props) => <WordTrainer getNext={getNext} {...props} />
+const WordPage = (props) => <WordTrainer getNext={getNext} slug={props.slug} />
 
 export default WordPage
 
@@ -42,6 +48,7 @@ export default WordPage
  */
 export async function getStaticProps({ params }) {
   const props = await jsonLoader(params.word)
+  console.log(props)
 
   return { props }
 }

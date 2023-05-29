@@ -33,55 +33,43 @@ const TrafficLights = ({ source, picks }) => (
   </div>
 )
 
-const WordTrainer = ({ 
-  getNext,
-  cn,
-  en,
-  py,
-  tone,
-  type,
-  memo,
-  also,
-  slug,
-}) => {
+const WordTrainer = ({ getNext, type }) => {
 
+  const app = useApp()
   const router = useRouter()
   const [ loading, setLoading ] = useState(false)
   const [ show, setShow ] = useState(false)
-  const [ next, setNext ] = useState(false)
-  const [ upcoming, setUpcoming ] = useState([])
-  const [ source, setSource ] = useState('random')
+  const [ current, setCurrent ] = useState(false)
   const [ swiped, setSwiped ] = useState(false)
 
-  useEffect(() => {
-    const getReady = async () => {
-      if (upcoming.length < Q) {
-        const newUpcoming = [...upcoming.slice(1)]
-        while (newUpcoming.length < Q) {
-          const newWord = await getNext(slug, app)
-          newUpcoming.push(newWord)
-        }
-        setUpcoming(newUpcoming)
-      }
-    }
-    getReady()
-    app.addPick()
-    setLoading(false)
-  }, [ slug ])
-
   // Swipe left triggers this
-  const nextWord = (dir=false) => {
+  const nextWord = async (dir=false) => {
     if (dir) setSwiped(dir)
     else setSwiped(false)
     setLoading(true)
     if (show) setShow(false)
-    const [next, prefix] = upcoming[0] 
-    setUpcoming(upcoming.slice(1))
-    const to = (type === 'cn')
-      ? next.cn+next.tone
-      : next[type]
-    router.push(prefix+asSlug(to))
+    const newCurrent = await getNext(current[0], app)
+    setCurrent(newCurrent)
+    setLoading(false)
   }
+
+  useEffect(() => {
+    if (!current) nextWord(false, false)
+    setLoading(false)
+  }, [])
+
+  if (!current[0]) return <p>loading</p>
+
+  const { 
+    cn,
+    en,
+    py,
+    tone,
+    memo,
+    also,
+    source,
+  } = current[0]
+  const modes = { en, cn, py }
 
   // Swipe right triggers this
   const revealMemo = () => setShow(true)
@@ -98,8 +86,6 @@ const WordTrainer = ({
     nextWord('up')
   }
 
-  const modes = { en, cn, py }
-  const app = useApp()
 
   return (
     <Page 
@@ -110,8 +96,6 @@ const WordTrainer = ({
       onSwipedRight={revealMemo}
       onSwipedDown={swipeDownHandler}
       onSwipedUp={swipeUpHandler}
-      less={app.less}
-      more={app.more}
     >
       <div className="max-w-xl h-screen flex flex-col items-center justify-center px-4 gap-4 m-auto">
         {loading ? null : <TrafficLights source={source} picks={app.picks}/>}
@@ -120,7 +104,7 @@ const WordTrainer = ({
             ? <Spinner className={`w-24 h-24 ${swiped === 'up' ? 'text-success' : ''} ${swiped === 'down' ? 'text-error' : ''} `} />
             : (
               <>
-                <PlayButton word={cn} autoPlay={app.settings?.autoPlay} slug={slug}>
+                <PlayButton word={cn} autoPlay={app.settings?.autoPlay} >
                   {type === 'cn' && <span className="block text-4xl opacity-50">{[...''+tone].map(ch => ch).join(' ')}</span>}
                   {modes[type]}
                   {app.settings?.cnpy && type === 'cn' && <span className="block text-4xl opacity-50 pt-2">{py}</span>}

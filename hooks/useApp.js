@@ -40,24 +40,26 @@ function useApp(full = true) {
 
   // Add a work to the show less often list
   const showLessOften = (word) => {
-    const newLessOften = { ...lessOften }
-    newLessOften[word] = word
-    setLessOften(newLessOften)
     if (moreOften[word]) {
       const newMoreOften = {...moreOften}
       delete newMoreOften[word]
       setMoreOften(newMoreOften)
+    } else {
+      const newLessOften = { ...lessOften }
+      newLessOften[word] = word
+      setLessOften(newLessOften)
     }
   }
   // Swipe up triggers this
   const showMoreOften = (word) => {
-    const newMoreOften = { ...moreOften }
-    newMoreOften[word] = word
-    setMoreOften(newMoreOften)
     if (lessOften[word]) {
       const newLessOften = {...lessOften}
       delete newLessOften[word]
       setLessOften(newLessOften)
+    } else {
+      const newMoreOften = { ...moreOften }
+      newMoreOften[word] = word
+      setMoreOften(newMoreOften)
     }
   }
   // Increases picks counter

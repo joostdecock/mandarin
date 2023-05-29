@@ -32,6 +32,7 @@ euro:
   cn: 欧元
   py: Ōu yuán
   tone: 12
+  set: 3
   memo: This character for Europe + the character for currency = Euro
 
 instance:

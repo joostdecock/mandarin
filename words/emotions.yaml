@@ -69,6 +69,7 @@ mood:
   cn: 心情 
   py: xīn qíng
   tone: 12
+  set: 3
   also:
     - frame of mind
   memo: Symbol for heart + symbol for feeling = mood
