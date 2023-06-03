@@ -74,7 +74,7 @@ const WordTrainer = ({ getNext, type }) => {
   // Swipe right triggers this
   const revealMemo = () => setShow(true)
 
-  // Swipe down triggers this
+  // Swipe down triggers this (not used as swipe down reloads)
   const swipeDownHandler = () => {
     app.showLessOften(en)
     nextWord('down')
@@ -94,7 +94,6 @@ const WordTrainer = ({ getNext, type }) => {
       layout={Layout} 
       onSwipedLeft={nextWord} 
       onSwipedRight={revealMemo}
-      onSwipedDown={swipeDownHandler}
       onSwipedUp={swipeUpHandler}
     >
       <div className="max-w-xl h-screen flex flex-col items-center justify-center px-4 gap-4 m-auto">
@@ -144,6 +143,10 @@ const WordTrainer = ({ getNext, type }) => {
               className="btn btn-secondary btn-wide btn-lg mt-8 lg:block btn-outline border-2 hidden"
               onClick={nextWord}
             >next</button>
+            <button 
+              className="btn btn-success btn-wide btn-lg mt-8 border-2 absolute bottom-16 lg:relative lg:bottom-auto"
+              onClick={swipeDownHandler}
+            >Show less often</button>
           </>
         )}
       </div> 
