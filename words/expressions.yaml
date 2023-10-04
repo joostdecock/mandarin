@@ -28,6 +28,16 @@ because:
     - reason
   memo: This person is being kept in a box. Why? <b>Because</b>
 
+like this:
+  cn: 这么着
+  py: zhè me zhe
+  set: 3
+  tone: 400
+  also:
+    - this
+    - in this way
+  memo: This is <b>like this</b> plus 着 which indicates an action in progress
+
 nice to meet you:
   cn: 认识你很高兴
   py: rèn shi nǐ hěn gāo xìng

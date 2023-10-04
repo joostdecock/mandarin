@@ -40,6 +40,17 @@ bright:
   memo: |
     This is a person posing with one of those graduation flat heads on. Clearly a <b>bright</b> person.
 
+busy:
+  cn: 忙
+  tone: 2
+  py: máng
+  set: 3
+  also:
+    - hurriedly
+    - to hurry
+    - to rush
+  memo: This person left in a <b>hurry</b> because their coat is not longer on the coat hanger but their pot of food is still on the stove.
+
 common:
   cn: 普通
   tone: 31
@@ -110,6 +121,18 @@ inside:
     This looks like a hood ornament on a fancy car.
     That hood ornament goes on the hood, and it tells you what's <b>inside</b> the hood (or at least the brand of the <b>internal</b> combustion engine)
 
+long: 
+  cn: 长
+  py: cháng
+  set: 3
+  tone: 2
+  also:
+    - length
+    - forever
+    - always
+    - constantly
+  memo: What you see here is the ocean. The horizon, the way the things are reflected in the water. So convey <b>length</b>, <b>forever</b>, <b>always</b>, or <b>constantly</b> arguably an ocean is a pretty good pictogram.
+
 new:
   cn: 新
   py: xīn
@@ -138,6 +161,19 @@ pretty:
     - beautiful
   set: 2
   memo: Symbol for <a href="/漂">elegant</a> plus symbol for <a href="/亮">bright</a> = <b>pretty</b> or <b>beautiful</b>.
+
+really:
+  cn: 真
+  py: zhēn
+  set: 3
+  tone: 1
+  also:
+    - truly
+    - indeed
+    - real
+    - 'true'
+    - genuine
+  memo: This looks so grounded and summetrical, it is <b>indeed</b> <b>true</b>
 
 small:
   cn: 小
@@ -170,3 +206,16 @@ tall:
     - loud
   memo: This person is so **tall** their head almost touches the ceiling fan
 
+tired:
+  cn: 累
+  py: lèi
+  set: 3
+  tone: 4
+  also:
+    - weary
+    - to strain
+    - to wear out
+    - to work hard
+  memo: |
+    This looks like an Xmas tree on a road. That thing at the top if your rear-view mirror.
+    When you're driving and trees start appearing in the middle of the road, you are probably very <b>tired</b> and need to take a break because you're been working hard.

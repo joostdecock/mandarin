@@ -1,3 +1,16 @@
+to announce:
+  cn: 报
+  py: bào 
+  set: 3
+  tone: 4
+  also:
+    - to inform
+    - report
+    - newspettern
+    - recompense
+    - revenge
+  memo: Looks like a little stall with a bell to ring to read an announcement from the lectern
+
 to answer:
   cn: 答
   py: dā
@@ -193,6 +206,19 @@ to do:
     - writings or works
   memo: |
     The right part of this looks like a side of a house, and then on the left there's a person who is there <b>to do</b> something.
+
+to deliver:
+  cn: 送
+  py: sòng
+  set: 3
+  tone: 4
+  also:
+    - to carry
+    - to give (as a presnet)
+    - to present (with)
+    - to see off
+    - to send
+  memo: This looks like a person with one of them transporter thingies on which is a sheep or something else they have to <b>deliver</b>
 
 to eat:
   cn: 吃饭
@@ -390,6 +416,17 @@ to like:
   set: 1
   memo: (<em>happiness character</em> + <em>joyous character</em>) = like.
 
+to listen:
+  cn: 听
+  py: tīng 
+  set: 3
+  tone: 1
+  also:
+    - to hear
+    - to obey
+    - a can (loanword from English 'tin')
+  memo: Looks like a tent with one of those high tables for receptions in front of it, and there's a speaker mounted on a pole so you can <b>listen</b> to the speeches.
+
 to live:
   cn: 住
   py: zhù
@@ -465,6 +502,17 @@ to make a telephone call:
     The last two characters mean <a href="/电话44">telephone</a>
     The left character means <a href="打3">to hit</a>
     So this is just as in <b>hit the phones</b> which is a turn of phrase in English too.
+
+to measure:
+  cn: 丈
+  py:  zhàng 
+  set: 3
+  tone: 4
+  also:
+    - measure of length (ten Chinese feet, or 3.3m)
+    - husband
+    - polite way to call an older male
+  memo: Clearly this is some dude measuring how high this beam is
 
 to not be:
   cn: 非

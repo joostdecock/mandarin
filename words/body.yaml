@@ -21,6 +21,15 @@ brain:
     - head
     - essence
   memo: Best I can think of is this looks a bit like a nearly-headless knight who's helmet is hanging down their side. The X marks the head.
+breast:
+  cn: 奶
+  py: nǎi 
+  set: 3
+  tone: 3
+  also:
+    - milk
+    - to breastfeed
+  memo: We can see it's related to female, then there's this nice curve that could be a breast. No idea what those jaggedy things on the right are though.
 
 butt:
   cn: 屁股 

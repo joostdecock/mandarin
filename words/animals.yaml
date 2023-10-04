@@ -12,6 +12,17 @@ cat:
   set: 2
   memo: A guy in a sombrero hat is slumped against the wall sleeping while his <b>cat</b> sits behind the window
 
+cow: 
+  cn: 牛
+  py: niú
+  set: 3
+  tone: 2
+  also:
+    - ox
+    - bull
+    - awesome (slang)
+  memo: It sounds like a <b>cow</b> sounds, and it has one horn because this is both cow and bull/ox
+
 crow:
   cn: 乌 
   py: wū

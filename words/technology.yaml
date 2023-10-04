@@ -28,6 +28,15 @@ electric:
     - electricity
     - electrical
 
+newspaper: 
+  cn: 报纸
+  py: bào zhǐ 
+  set: 3
+  tone: 43
+  also:
+    - newsprint
+  memo: This is <b>to announce</b> plus <b>paper</b>
+
 movie:
   cn: 电影
   tone: 43

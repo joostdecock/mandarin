@@ -221,6 +221,13 @@ hotpot:
   set: 1
   memo: <a href="/火">fire character</a> plus <a href="/锅">pot character</a> = <b>hotpot</b>
 
+milk (from a cow):
+  cn: 牛奶
+  py: niú nǎi
+  set: 3
+  tone: 23
+  memo: <b>cow</b> + <b>milk</b> is cow's milk
+  
 pancake:
   cn: 煎饼
   py: jiān bǐng
@@ -265,6 +272,17 @@ restaurant (2):
   also:
     - hotel
   memo: fixme
+
+rice:
+  cn: 米
+  py: mǐ
+  set: 3
+  tone: 3
+  also:
+    - meter (unit)
+  memo: |
+    This is a little <b>rice</b> stalk rooting its way to the surface and sprouting there.
+    That arrow not only points the way for the plant to grow, it's also a good reminder this also means <b>meter</b>
 
 roast duck:
   cn: 烤鸭

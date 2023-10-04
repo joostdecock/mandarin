@@ -7,6 +7,15 @@ classmate:
     This is the <b>same</b> character on the left and the <b>study</b> character on the right.
     Together, they for <b>classmate</b>.
 
+paper:
+  cn: 纸
+  py: zhǐ 
+  set: 3
+  tone: 3
+  also:
+    - classifier for documents, letters, ...
+  memo: Crumpled up paper on the left, folder paper on the right
+
 school:
   cn: 学校
   tone: 24

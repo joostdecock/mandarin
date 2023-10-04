@@ -42,6 +42,19 @@ below:
     The left character means down, and so together they are <b>below</b> or <b>under</b>
     The left character is easy to remember if you take the horizontal line as the base, everything is below it (compare with above)
 
+
+beside: 
+  cn: 旁
+  py: páng 
+  set: 3
+  tone: 2
+  also:
+    - one side
+    - other
+    - side
+    - self
+  memo: This is some guy carrying a large serving try over his head, and we can see his <b>side</b>
+    
 between:
   cn: 间
   py: jiān
@@ -111,6 +124,17 @@ in front:
   memo: |
     This is the character for <a href="/前2">front</a> followed by the suffix that is used for all locations. So <b>in front</b> or <b>ahead</b>
 
+lateral:
+  cn: 旁边
+  py: páng biān
+  set: 3
+  tone: 21
+  also:
+    - side
+    - to the side
+    - beside
+  memo: Side plus side again is lateral/beside/to the side or just side
+
 left side:
   cn: 左边 
   py: zuǒ bian
@@ -139,6 +163,19 @@ right side:
     - rigth
     - to the right (of)
   memo: West + Side = Left
+
+side:
+  cn: 边
+  py: biān
+  set: 3
+  tone: 1
+  also:
+    - edge
+    - margin
+    - border
+    - boundary
+    - simuntaneously
+  memo: This is one of those transporter thingies, but this time it's not to say we are delivering something but rather to say this is the <b>side</b> because it is. Also margin, border, boundary, which all makes sense I hope.
 
 south:
   cn: 南

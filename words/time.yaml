@@ -396,6 +396,20 @@ o'clock:
     - classifier for items
   memo: We're going to have to agree that this looks like a point, dot, or speck.
 
+once:
+  cn: 一下
+  py: yī xià
+  set: 3
+  tone: 14
+  also:
+    - (used after a verb) give it a go
+    - to do (something for a bit to give it a try)
+    - one time
+    - in a while
+    - all of a sudden
+    - all at once
+  memo: one plus later
+
 period:
   cn: 时候
   py: shí hou

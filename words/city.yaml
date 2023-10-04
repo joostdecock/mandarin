@@ -1,3 +1,16 @@
+between:
+  cn: 间
+  py: jiān
+  set: 3
+  tone: 1
+  also:
+    - among
+    - within a definite time or space
+    - room
+    - section of a room or lateral space between two pairs of pillars
+    - claddifier for rooms
+  memo: Looks a bit like top-down view or floor plan of a <b>room</b>
+
 building:
   cn: 馆
   tone: 3
@@ -55,6 +68,17 @@ direction:
   memo: |
     This is the **way**. So if you can somehow see a Mandalorian helmet in this, you're good.
 
+house:
+  cn: 房
+  py: fáng
+  set: 3
+  tone: 2
+  also:
+    - room
+    - branch of extended family
+    - classifier for family members
+  memo: This looks like a (sturdy) room over one's head. So a <b>house</b> or perhaps a <b>room</b>
+
 merchant:
   cn: 商
   tone: 1
@@ -75,6 +99,13 @@ neighbor:
     Character for <a href="/邻">adjacent</a> plus character for <a href="/居">to reside</a> = <b>neighbor</b>
   also:
     - next door
+
+room: 
+  cn: 房间
+  py: fáng jiān
+  set: 3
+  tone: 21
+  memo: <b>house</b> plus <b>room</b>
 
 shop:
   cn: 商店

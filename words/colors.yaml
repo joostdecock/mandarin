@@ -40,6 +40,46 @@ color:
     It's also look/appearance/sex so obviously not 爸爸 related.
     Maybe you can see a pair for (very) funky sunglasses in this?
 
+color(2):
+  cn: 颜色
+  py: yán sè
+  set: 3
+  tone: 24
+  also:
+    - countenance
+    - appearance
+    - facial expressions
+    - pigment
+    - dyestuff
+  memo: This looks like two people. Sounds like they are Janssen & Janssen (from the TinTin comic) and those guys need some <b>color</b>
+
+pink: 
+  cn: 粉
+  py: fěn
+  set: 3
+  tone: 3
+  also:
+    - power
+    - face powder (make-up)
+    - food prepared from starch
+    - noodles or paste made from any kind of flour
+    - whitewash
+    - white
+    - pink
+  memo: This is both <b>white</b> and <b>pink</b>, is also associated with (make-up) powder and starch. Lots of feminin vibes, hence why that's clearly a woman in a dress on the right perhaps cooking some food prepared from starch?
+
+pink (the color):
+  cn: 粉色
+  py: fěn sè
+  set: 3
+  tone: 34
+  also:
+    - white
+    - eroric
+    - beautiful woman
+    - powdered (make-up)
+  memo: Pink + Color = the color pink, or pink
+
 red:
   cn: 红
   tone: 2
@@ -54,4 +94,12 @@ red:
     - revolutionary
     - bonus
 
+red (the color):
+  cn: 红色
+  py: hóng sè
+  tone: 24
+  set: 3
+  also:
+    - revolutionary
+  memo: Red + Color = the color red, or red
 

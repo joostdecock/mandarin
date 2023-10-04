@@ -272,6 +272,20 @@ only:
     - just
   memo: We're following a truck on the highway and we're <b>only</b> leaving one stripe between us. Not good.
 
+so much:
+  cn: 这么
+  py: zhè me
+  set: 3
+  tone: 40
+  also:
+    - this much
+    - how much?
+    - this way
+    - like this
+  memo: |
+    Literally <b>this</b> plus that all-purpose suffice for <b>what</b> (么)
+    Together this-what is this much, or so much.
+
 two (only for two exists such a thing):
   cn: 两
   tone: 3
