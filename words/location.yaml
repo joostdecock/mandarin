@@ -154,6 +154,37 @@ north:
     Bei is easy enough to remember thanks to Beijing being the capital in the North.
     As for the character, it's mostly made up of straight lines which is how things then to cristalize when frozen, which is way more common in the <b>North</b>
 
+on top:
+  cn: 上
+  py: shàng
+  set: 3
+  tone: 4
+  also:
+    - upon
+    - above
+    - upper
+    - previous
+    - first (for multiple)
+    - to climb
+    - to get onto
+    - to go up
+    - to attend (class or school)
+  memo: We have a base line and then something <b>on top</b> of it
+
+outside:
+  cn: 外
+  py: wài
+  set: 3
+  tone: 4
+  memo: Looks like a jetski parked against a wall <b>outside</b>
+
+outside(2):
+  cn: 外面
+  py: wài mian
+  set: 3
+  tone: 40
+  memo: This is <b>outside</b> plus <b>side</b>, so outside.
+
 right side: 
   cn: 右边 
   py: yòu bian

@@ -5,6 +5,13 @@ again:
   set: 1
   memo: This is clearly a drone about to take off <b>again</b>.
 
+excuse me: 
+  cn: 不好意思
+  py: bù hǎo yì si
+  set: 3
+  tone: 4340
+  memo: Not good idea somethow means excuse me. I guess it makes sense
+
 excuse me(, may I ask... ?):
   cn: 请问
   tone: 34

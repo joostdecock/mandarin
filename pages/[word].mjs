@@ -1,42 +1,53 @@
+import Page from 'components/wrappers/page.js'
+import useApp from 'hooks/useApp.js'
+import Layout from 'components/layouts/bare'
 import paths from 'prebuild/slugs.mjs'
 import words from 'prebuild/words.mjs'
 import jsonLoader from 'scripts/loader.mjs'
-import WordTrainer from 'components/trainer.js'
+import PlayButton from 'components/audio.mjs'
+import Link from 'next/link'
+import { asSlug } from 'scripts/utils.mjs'
 
 const en = {}
 for (const i in words) en[words[i].en] = words[i]
 
-const pickRandomNext = (app) => {
-  let list = 'random'
-  const lists = {
-    random: Object.keys(en),
-    less: app.lessOften || [],
-    more: app.moreOften || [],
-  }
-  
-  const rand = Math.random()*100
-  if (rand < app.settings.more) list = 'more'
-  else if (rand < (parseInt(app.settings.more) + parseInt(app.settings.less))) list = 'less'
+const WordPage = ({ cn, tone, py, set, memo, also, en, cat, slug, type }) => {
+  const app = useApp()
+  const modes = { en, cn, py }
 
-  const key = Math.floor(Math.random()*lists[list].length)
-
-  console.log({list, more: app.settings.more,  less: app.settings.less, lo: app.lessOften, mo: app.moreOften })
-
-  const result = key
-    ? { ...en[lists[list][key]], source: list }
-    : pickRandomNext(app)
-
-  console.log({ result })
-
-  return result
-} 
-const getNext = (current, app) => {
-  const next = pickRandomNext(app)
-  if (next === current) return getNext(current, app)
-  else return [ next, '/']
+  return (
+    <Page 
+      app={app} 
+      title="Welcome to mandarin.joost.at" 
+      layout={Layout} 
+    >
+      <h1 className="text-center text-5xl break-all mt-24">
+        <PlayButton word={cn} autoPlay={app.settings?.autoPlay}>
+          {type === 'cn' && <span className="block text-xl opacity-50">{[...''+tone].map(ch => ch).join(' ')}</span>}
+          {modes[type]}
+          {app.settings?.cnpy && type === 'cn' && <span className="block text-xl opacity-50 pt-2">{py}</span>}
+          {app.settings?.cnpy && type === 'py' && <span className="block text-xl opacity-50 pt-2">{cn}</span>}
+        </PlayButton>
+        <div className="flex flex-row gap-8 items-center mt-2 justify-center">
+          {type !== 'cn' && <Link className="block text-xl text-secondary underline" href={cn+tone}>{cn}</Link>}
+          {type !== 'py' && <Link className="block text-xl text-secondary underline" href={asSlug(py)}>{py}</Link>}
+          {type !== 'en' && <Link className="block text-xl text-secondary underline" href={asSlug(en)}>{en}</Link>}
+        </div>
+      </h1>
+      <div className="text-sm text-center mdx">
+        {memo.split("\n").map((line, i) => <span key={i} className="block" dangerouslySetInnerHTML={{__html: line}} />)}
+        {also && (
+          <>
+            <span className="mt-3 block font-bold">Also:</span>
+            <ul>
+            {also.map(alt => <li key={alt}>{alt}</li>)}
+            </ul>
+          </>
+        )}
+      </div>
+    </Page>
+  )
 }
-
-const WordPage = (props) => <WordTrainer getNext={getNext} slug={props.slug} />
 
 export default WordPage
 
@@ -48,7 +59,6 @@ export default WordPage
  */
 export async function getStaticProps({ params }) {
   const props = await jsonLoader(params.word)
-  console.log(props)
 
   return { props }
 }

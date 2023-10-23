@@ -7,6 +7,15 @@ clothes:
     On the left we see what looks like a pattern part, with notches and darts and a welt pocket.
     On the right, we hav a coat hanger or display cabinet for <b>clothes</b>
 
+item:
+  cn: 件
+  py: jiàn 
+  set: 3
+  tone: 4
+  also: 
+    - component
+    - measure word for clothes
+  memo: Looks like a laundry line with some <b>item<b>s of clothing on them
 
 wristwatch:
   cn: 手表

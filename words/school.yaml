@@ -6,6 +6,21 @@ classmate:
   memo: |
     This is the <b>same</b> character on the left and the <b>study</b> character on the right.
     Together, they for <b>classmate</b>.
+classroom:
+  cn: 教室
+  py: jiào shì
+  set: 3
+  tone: 44
+  memo: teach + room, makes sense
+
+exam:
+  cn: 考试
+  py: kǎo shì
+  set: 3
+  tone: 34
+  also:
+    - to take an exam
+  memo: To test plus to test. It's an exam. 
 
 paper:
   cn: 纸

@@ -10,16 +10,6 @@ company:
     - incorporated
   memo: fixme
 
-correct:
-  cn: 对
-  tone: 4
-  py: duì
-  set: 1
-  memo: |
-    See that little piece falling down? 
-    That's because this character dislocated its shoulder from padding itself on the back for being so correct. 
-    Party guy is also waving his tie around to celebrate.
-
 department:
   cn: 系
   tone: 4
@@ -34,6 +24,18 @@ euro:
   tone: 12
   set: 3
   memo: This character for Europe + the character for currency = Euro
+
+firm:
+  cn: 公司
+  py: gōng sī
+  set: 3
+  tone: 11
+  also:
+    - business
+    - company
+    - corporation
+    - incorporated
+  memo: This is public/collectively owned and to manage
 
 instance:
   cn: 故
@@ -71,6 +73,18 @@ mobile phone:
   py: shǒu jī
   set: 2
   memo: Hand (left) and machine (right). Hand machine. Mobile phone. Makes sense.
+
+office:
+  cn: 厅
+  py: tīng
+  set: 3
+  tone: 1
+  also:
+    - (reception) hall
+    - living room
+    - office
+    - provincial government department
+  memo: Looks like a building with one of them high tables in it for a <b>reception hall</b> or <b>office</b>
 
 problem:
   cn: 问题 

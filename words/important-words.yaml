@@ -79,6 +79,45 @@ can (numeric):
     Like a quantified version of can. I can do 20 pushups
     There's two <a href="/七">7</a> symbols on the right, which indicates somebody is keeping count of how many pushups you <b>can</b> do.
 
+can(2):
+  cn: 可
+  py: kě
+  set: 3
+  tone: 3
+  also:
+    - may
+    - able to
+    - to approve
+    - to permit
+    - to suit
+    - certainly (for emphasis)
+    - very
+  memo: Turns out you <b>can</b> just order at the drive-thru
+
+correct:
+  cn: 对
+  py: duì
+  set: 3
+  tone: 4
+  also:
+    - right
+    - couple
+    - pair
+    - towards
+    - at
+    - for
+    - to face
+    - opposite
+    - to treat (someone in a certain way)
+    - to match together
+    - to adjust
+    - to fit
+    - to suit
+    - to answer
+    - to reply
+    - measure work for couple
+  memo: "All of the couple stuff is easy because it sounds like 'duo'. And being along is kinda sad, so it also means <b>correct</b> or <b>right</b>"
+
 extremely:
   cn: 太
   py: tài
@@ -155,35 +194,6 @@ however:
     - (used for emphasis) indeed
   memo: fixme
 
-if:
-  cn: 如果
-  py: rú guǒ
-  tone: 23
-  set: 3
-  also:
-    - in case
-    - in the event that
-  memo: fixme
-  
-is:
-  cn: 是
-  tone: 4
-  py: shì
-  set: 1
-  also:
-    - are
-    - to be
-  memo: |
-    Why is that box levitating over that table?
-    Is it magic? Is it not subject to gravity?
-    Or has it simply transcended into a state where it just <b>is</b> and these questions <b>are</b> foolish. Just let it <b>be</b>.
-it:
-  cn: 它
-  py: tā
-  tone: 1
-  set: 1
-  memo: fixme
-
 how about:
   cn: 怎么样 
   py: zěn me yàng
@@ -222,6 +232,77 @@ how many (over 10):
     The duō part is the perfect symbol because it represents a duo
     The shao part is more tricky. It's the symbol for small with an extra line under it.
     Let's say the extra line indicates it is not small, as this is used to enquire about higher amounts than 10.
+
+if:
+  cn: 如果
+  py: rú guǒ
+  tone: 23
+  set: 3
+  also:
+    - in case
+    - in the event that
+  memo: fixme
+  
+is:
+  cn: 是
+  tone: 4
+  py: shì
+  set: 1
+  also:
+    - are
+    - to be
+  memo: |
+    Why is that box levitating over that table?
+    Is it magic? Is it not subject to gravity?
+    Or has it simply transcended into a state where it just <b>is</b> and these questions <b>are</b> foolish. Just let it <b>be</b>.
+it:
+  cn: 它
+  py: tā
+  tone: 1
+  set: 1
+  memo: fixme
+
+just(emphasis):
+  cn: 就
+  py: jiù
+  set: 3
+  tone: 4
+  also:
+    - at once
+    - right away
+    - only
+    - as early as
+    - already
+    - as soon as
+    - then
+    - in that case
+    - as many as
+    - even if
+    - to approach
+    - to move towards
+    - to undertake
+    - to engage in
+    - to suffer
+    - subjected to
+    - to accomplish
+    - to take advantage of
+    - to go with (of food)
+    - with regard to
+    - concerning
+  memo: This means so many things, and is a complicated character so <b>just</b> go with it
+
+may:
+  cn: 可以
+  py: kě yǐ
+  set: 3
+  tone: 33
+  also: 
+    - can
+    - possible
+    - able to
+    - not bad
+    - pretty good
+  memo: This is can plus according to, so <b>can</b> or <b>possible</b> is <b>pretty good</b>
 
 no:
   cn: 没

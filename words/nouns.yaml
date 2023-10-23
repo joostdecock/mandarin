@@ -1,0 +1,69 @@
+gate:
+  cn: 门
+  py: mén 
+  set: 3
+  tone: 2
+  also:
+    - door
+    - gateway
+    - doorway
+    - opening
+    - valve
+    - switch
+    - way to do something
+    - knack
+    - family
+    - house
+    - (religious) sect
+    - school (of thought)
+    - class
+    - category
+    - measure word for large guns, lessons, subjects, branches of technology
+    - suffix (-gate) for scandal (derived from watergate)
+  memo: I mean, look at it. It's clearly a door.
+
+idea:
+  cn: 意思
+  py: yì si
+  set: 3
+  tone: 40
+  also:
+    - opinion
+    - meaning
+    - wish
+    - desire
+    - interest
+    - fun
+    - token of appreciation/affection
+    - to give as a small token
+    - to do something as a gesture of goodwill
+  memo: This is <b>thought</b> plus <b>consider</b> 
+
+strip:
+  cn: 条
+  py: tiáo
+  set: 3
+  tone: 2
+  also:
+    - item
+    - article
+    - clause (of law or treaty)
+    - measure word for long things (ribbon, river, road, trousers, ...)
+  memo: We got that table view with a pot on top and it's the one line at the top left doing the work saying this is <b>strip</b>
+
+thought:
+  cn: 意
+  py: yì
+  set: 3
+  tone: 4
+  also:
+    - idea
+    - meaning
+    - to thing
+    - wish
+    - desire
+    - intention
+    - to expect
+    - to anticipate
+  memo: This looks like an over with a pot on the stove which is probably getting burnt because somebody just had a <b>thought</b> or <b>idea</b> and now they're behind their computer
+

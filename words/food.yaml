@@ -79,6 +79,17 @@ cake:
     - pastry
   memo: This obviously somebody checking the over to see how their <b>cake</b>, <b>cookies</b>, or <b>patry</b> is going.
 
+canteen:
+  cn: 餐厅
+  py: cān tīng
+  set: 3
+  tone: 11
+  also: 
+    - dining hall
+    - dining room
+    - restaurant
+  memo: Food + reception hall = canteen
+
 (cooked) rice:
   cn: 米饭
   tone: 34
@@ -160,6 +171,13 @@ egg:
     The yoke is trying to break out of the shell because I guess this egg was fertilized 
     and that yoke is now a chick.
 
+fish:
+  cn: 鱼
+  py: yú
+  set: 3
+  tone: 2
+  memo: This looks like a fish in a fryer because I guess fish & chips?
+
 fire: 
   cn: 火
   tone: 3
@@ -221,13 +239,40 @@ hotpot:
   set: 1
   memo: <a href="/火">fire character</a> plus <a href="/锅">pot character</a> = <b>hotpot</b>
 
+meal:
+  cn: 餐
+  py: cān
+  set: 3
+  tone: 1
+  also:
+    - to eat
+    - measure word for meals
+  memo: The can sound is easy enough to remember as canned food is a thing, but this charcter is very complex. Maybe it looks a bit like a can with a can opener on top? Maybe?
+
 milk (from a cow):
   cn: 牛奶
   py: niú nǎi
   set: 3
   tone: 23
   memo: <b>cow</b> + <b>milk</b> is cow's milk
-  
+
+mutton:
+  cn: 羊肉
+  py: yáng ròu
+  set: 3
+  tone: 24
+  also:
+    - goat meat
+    - sheep meat
+  memo: This is sheep/goat + meat
+
+noodles: 
+  cn: 面条
+  py: miàn tiáo
+  set: 3
+  tone: 42
+  memo: noodles + strip (long thing), so noodles
+
 pancake:
   cn: 煎饼
   py: jiān bǐng

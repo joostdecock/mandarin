@@ -23,6 +23,16 @@ calm:
     - ampere
   memo: Looks like a girl symbol, so a chick, under one of them heating lamps. So it sits still and quiet
 
+cheerful:
+  cn: 乐
+  py: lè
+  set: 3
+  tone: 4
+  also:
+    - happy
+    - to laugh
+  memo: This looks like we're heading to McDonalds Drive-Thru which would make some people <b>happy</b>
+
 feeling:
   cn: 情 
   py: qíng
@@ -64,6 +74,35 @@ joyous:
     One the right is some dude holding a chair over his head, 
     the left person is swinging what I assume is their necktie around. 
     Obviously this is a pretty wild party, and there's a lot of joy here.
+
+merry:
+  cn: 快乐
+  py: kuài lè
+  set: 3
+  tone: 44
+  also:
+    - happy
+    - commonly used as the 'happy' in 'happy birthday'
+  memo: <b>pleasant</b> plus <b>happy</b> is more happy
+
+mistake:
+  cn: 错
+  py: cuò 
+  set: 3
+  tone: 4
+  also:
+    - wrong
+    - bad
+    - interlocking
+    - complex
+    - to grind
+    - to polish
+    - to alternate
+    - to stagger
+    - to miss
+    - to let slip
+    - to evate
+    - to inlay with gold or silver
 
 mood:
   cn: 心情 

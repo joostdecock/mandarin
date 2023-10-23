@@ -21,6 +21,12 @@ building:
   memo: |
     This looks like a bunch of housing units stacked on top of each other with a roof over them.
     And on the left I guess we see a construction crane. This is a <b>building</b>.
+bus:
+  cn: 公共汽车
+  py: gōng gòng qì chē
+  set: 3
+  tone: 1441
+  memo: public public steam vehicle. You know, the bus.
 
 cinema:
   cn: 电影院
@@ -99,6 +105,19 @@ neighbor:
     Character for <a href="/邻">adjacent</a> plus character for <a href="/居">to reside</a> = <b>neighbor</b>
   also:
     - next door
+
+road:
+  cn: 路
+  py: lù
+  set: 3
+  tone: 4
+  also: 
+    - journey
+    - route
+    - line (bus, ...)
+    - sort
+    - kind
+  memo: Looks like someone waiting at the bus stop besides the road
 
 room: 
   cn: 房间

@@ -62,6 +62,17 @@ common:
     - average
   memo: Word for general + <a href="/通">classifier</a> is still general/common/ordinary
 
+correct:
+  cn: 不错
+  py: bù cuò
+  set: 3
+  tone: 44
+  also: 
+    - right
+    - not bad
+    - pretty good
+  memo: Not a mistake, or not wrong.
+
 cute:
   cn: 可爱
   py: kě ài
@@ -82,6 +93,18 @@ elegant:
   memo: |
     At the bottom we have the symbol for small, but there's a lot going on on top of it.
     So it's small but on top of that there's all sorts of intricate stuff. So <b>elegant</b>.
+
+far:
+  cn: 远
+  py: yuǎn 
+  set: 3
+  tone: 3
+  also:
+    - distant
+    - remote
+    - by far (when comparing makes it more intense)
+    - much (lower etc)
+  memo: A guy is studying Pi wondering how <b>far</b> these digits keep going.
 
 general:
   cn: 普
@@ -162,6 +185,26 @@ pretty:
   set: 2
   memo: Symbol for <a href="/漂">elegant</a> plus symbol for <a href="/亮">bright</a> = <b>pretty</b> or <b>beautiful</b>.
 
+rapid:
+  cn: 快
+  py: kuài
+  set: 3
+  tone: 4
+  also:
+    - quick
+    - speed
+    - rate
+    - soon
+    - almost
+    - to make haste
+    - clever
+    - sharp (of knives or wits)
+    - forthright
+    - plainspoken
+    - pleased
+    - pleasant
+  memo: Some dude standing next to a flipchart rapidly telling it like it is in a clever and plainspoken way
+
 really:
   cn: 真
   py: zhēn
@@ -174,6 +217,13 @@ really:
     - 'true'
     - genuine
   memo: This looks so grounded and summetrical, it is <b>indeed</b> <b>true</b>
+
+slow:
+  cn: 慢
+  py: màn 
+  set: 3
+  tone: 4
+  memo: Carrying this stack of boxes plus that coathanger makes you walk slow.
 
 small:
   cn: 小

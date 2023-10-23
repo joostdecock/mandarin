@@ -33,13 +33,13 @@ const TrafficLights = ({ source, picks }) => (
   </div>
 )
 
-const WordTrainer = ({ getNext, type }) => {
+const WordTrainer = ({ getNext, type, preload=false }) => {
 
   const app = useApp()
   const router = useRouter()
   const [ loading, setLoading ] = useState(false)
   const [ show, setShow ] = useState(false)
-  const [ current, setCurrent ] = useState(false)
+  const [ current, setCurrent ] = useState(preload)
   const [ swiped, setSwiped ] = useState(false)
 
   // Swipe left triggers this

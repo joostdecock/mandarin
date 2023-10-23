@@ -127,6 +127,20 @@ to call:
     That looks like a person operating one of those mechanical morse code switches. 
     Because that's how they used to make calls.
 
+to check:
+  cn: 考
+  py: kǎo 
+  set: 3
+  tone: 3
+  also:
+    - to verify
+    - to test
+    - to examine
+    - to take an exam
+    - to take an entrance exam for
+    - deceased father
+  memo: Looks like a receipt that someone has circled something on <b>to check</b> or <b>to verify</b>
+
 to climb a mountain:
   cn: 爬山
   tone: 21
@@ -168,6 +182,24 @@ to come out:
     When people tell you come out, they might follow it up with 
     <em>with your hands in the air</em> and that's what's going on here.
 
+to consider:
+  cn: 思
+  py: sī
+  set: 4
+  tone: 1
+  also: 
+    - to think
+  memo: Looks like an over which is the kind of thing you stare at while <b>thinking</b> as you <b>consider</b> whether food is ready
+
+to continue:
+  cn: 绍 
+  py: shào
+  set: 3
+  tone: 4
+  also:
+    - to carry on
+  memo: This thing is not letting some roadblock stop it. It will jump over it to <b>continue</b> and <b>carry on</b>
+
 to cook:
   cn: 做饭
   set: 3
@@ -190,7 +222,7 @@ to cross:
     - to get along
     - excessively
     - too-
-  memo: fixme
+  memo: Dude on the right is going to <b>go over</b> the dude on the left for some readon.
 
 to do:
   cn: 作
@@ -242,7 +274,7 @@ to exercise:
     - motion
     - movement
     - campaign
-  memo: fixme
+  memo: These look like two of those blocky things they make you climb over in gym class <b>to excercise</b>
 
 to explain:
   cn: 讲
@@ -351,7 +383,26 @@ to hear (something being said):
     - one hears (that)
     - hearsay
     - listening and speaking
-  memo: fixme
+  memo: To hear and to speak is to hear something being said
+
+to help:
+  cn: 帮
+  py: bāng
+  set: 3
+  tone: 1
+  also:
+    - to assist
+    - to support
+    - hired (as a worker)
+    - side (of a boat)
+    - outer layer
+    - upper (of a shoe)
+    - group
+    - gang
+    - clique
+    - party
+    - secret society
+  memo: "Turns out that 'bang bang Lucky Luke', is just 'help help Lucky Luke' which makes perfect sense"
 
 to hit:
   cn: 打
@@ -391,6 +442,30 @@ to hope:
   memo: |
     The left looks a bit like shooting star, which when you see one you can <b>wish for</b> things.
     The right has a squished work at the bottom, a month at the right, and so perhaps it represents the <b>hope</b> that there's more <b>to desire</b> than just work all the time.
+
+to introduce:
+  cn: 介
+  py: jiè
+  tone: 4
+  set: 3
+  also: 
+    - to lie between
+    - between
+    - shell
+    - armor
+  memo: I guess <b>to lie between</b> is easy to remember here and shell is also somewhat close.
+
+to present:
+  cn: 介绍
+  py: jiè shào
+  set: 3
+  tone: 44
+  also:
+    - to introduce
+    - to give a presentation
+    - to present (someone for a job or so)
+    - introduction
+  memo: This is to introduce + to continue. Which I guess is to present because you start with an introduction and then continue
 
 to know:
   cn: 知道
@@ -558,6 +633,24 @@ to open:
     Or like one of them chunky buttons you press to <b>start</b> something.
     Or like one of the knobs on a stove that you <b>turn on</b> when you want <b>to boil</b> something.
 
+to pass through:
+  cn: 经
+  py: jīng
+  set: 3
+  tone: 1
+  also:
+    - classics
+    - sacred book
+    - scripture
+    - to undergo
+    - to bear
+    - to endure
+    - warp (textile)
+    - longiture
+    - menstruation
+    - abbreviation for economics
+  memo: This guy is going through a lot, he's got work that's dragging him down and something chasing him from the left
+
 to practice:
   cn: 习  
   tone: 2
@@ -569,6 +662,18 @@ to practice:
   memo: |
     You would need <b>to practice</b> to make a square from these lines.
     Not often used on its own, typically goes with another word.
+
+to prepare:
+  cn: 准备
+  py: zhǔn bèi
+  set: 3
+  tone: 34
+  also:
+    - preparation
+    - to intend
+    - to be about to
+    - reserve (fund)
+  memo: This is one of those pita meat cones and a fryer because somebody is about <b>to prepare</b> some food.
 
 to raise:
   cn: 起
@@ -606,7 +711,7 @@ to recognize:
     - understanding
     - awareness
     - cognition
-  memo: fixme
+  memo: I try to remember this as person plus to be, so knowhing who that is, or <b>to recognize</b>
 
 to reply: 
   cn: 回答
@@ -638,6 +743,22 @@ to read:
     - reading
   memo: |
     There's a person looking down at a pile of papers here as this is <b>to read</b>.
+     
+to receive:
+  cn: 接
+  py: jiē
+  set: 3
+  tone: 1
+  also:
+    - to answer (the phone)
+    - to meet or welcome someone
+    - to connect
+    - to catch
+    - to join
+    - to extend
+    - to take one's turn on duty
+    - to take over from someone
+  memo: Person at the bottom right is carrying this heavy pot which the person on the left is about <b>to receive</b>
 
 to return:
   cn: 回
@@ -761,6 +882,15 @@ to see:
     - to catch sight of
   memo: Tell me that does not look like the scope of a gun. Like, the thing you see through. 
 
+to send:
+  cn: 送给
+  py: sòng gěi
+  set: 3
+  tone: 43
+  also:
+    - to give as a presnet
+  memo: First character is <b>to deliver</b> and second is <b>to</b> so <b>to send</b>
+
 to sit:
   cn: 坐
   set: 3
@@ -829,7 +959,7 @@ to study (2):
   also:
     - to read
     - reading of word / pronounciation
-  memo: fixme
+  memo: Another dude sitting at a desk looking at a stack of books when what he should do is <b>to study</b>
 
 to succeed:
   cn: 成
@@ -859,7 +989,19 @@ to teach:
   py: jiāo
   tone: 1
   set: 3
-  memo: fixme
+  memo: Someone is tied up on a torture rack and the person on the left is going <b>to teach</b> them a lesson
+
+to test:
+  cn: 试 
+  py: shì
+  set: 3
+  tone: 4
+  also:
+    - to try
+    - experiment
+    - examination
+    - test
+  memo: It looks a bit wonky because this is just a test or experiment
 
 to think:
   cn: 觉得
@@ -882,7 +1024,39 @@ to transform:
     - rebellion
   memo: We see one of them vats you get baptized in against your will and one kid struggling to rebel against this.
 
+to use:
+  cn: 以
+  py: yǐ
+  set: 3
+  tone: 3
+  also:
+    - by means of
+    - according to
+    - in order to
+    - because of
+    - at (a certain date or place)
+  memo: I see a calendar with a X marking a spot
+
 to walk:
+  cn: 走 
+  py: zǒu
+  set: 3
+  tone: 3
+  also:
+    - to go
+    - to run
+    - to move (of a vehicle)
+    - to visit
+    - to leave
+    - to go away
+    - to die (euphamism)
+    - from
+    - through
+    - away (in compound verbs)
+    - to change (shape, form, meaning, ...)
+  memo: It's a foot. To walk.
+
+to walk(2):
   cn: 走路 
   py: zǒu lù
   set: 3

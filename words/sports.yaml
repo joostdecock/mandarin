@@ -5,6 +5,15 @@ ball:
   set: 1
   memo: I feel they could have made this easier, but I guess it could look like a ball rack with those shelves on the left.
 
+bicycle:
+  cn: 自行车
+  py: zì xíng chē
+  set: 3
+  tone: 421
+  also:
+    - bike
+  memo: this is self + advance + vehicle. So bike, makes sense.
+
 soccer:
   cn: 足球
   tone: 22

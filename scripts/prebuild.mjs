@@ -88,7 +88,11 @@ export const prebuildWords = async () => {
       slugs.push('/'+asSlug(info.py))
       if (info.also) {
         for (const alt of info.also) {
-          imports[alt] = { ...info, slug: asSlug(alt), type: 'en', alt: info.en }
+          try {
+            imports[alt] = { ...info, slug: asSlug(alt), type: 'en', alt: info.en }
+          } catch (err) {
+            console.log({err, info})
+          }
         }
       }
       // Check for memo
