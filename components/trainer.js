@@ -50,6 +50,7 @@ const WordTrainer = ({ getNext, type, preload=false }) => {
     if (show) setShow(false)
     const newCurrent = await getNext(current[0], app)
     setCurrent(newCurrent)
+    app.addPick()
     setLoading(false)
   }
 
@@ -78,12 +79,14 @@ const WordTrainer = ({ getNext, type, preload=false }) => {
   const swipeDownHandler = () => {
     app.showLessOften(en)
     nextWord('down')
+    app.addPick()
   }
 
   // Swipe up triggers this
   const swipeUpHandler = () => {
     app.showMoreOften(en)
     nextWord('up')
+    app.addPick()
   }
 
 
@@ -104,16 +107,16 @@ const WordTrainer = ({ getNext, type, preload=false }) => {
             : (
               <>
                 <PlayButton word={cn} autoPlay={app.settings?.autoPlay} >
-                  {type === 'cn' && <span className="block text-4xl opacity-50">{[...''+tone].map(ch => ch).join(' ')}</span>}
+                  {type === 'cn' && <span className="block text-xl opacity-50">{[...''+tone].map(ch => ch).join(' ')}</span>}
                   {modes[type]}
-                  {app.settings?.cnpy && type === 'cn' && <span className="block text-4xl opacity-50 pt-2">{py}</span>}
-                  {app.settings?.cnpy && type === 'py' && <span className="block text-4xl opacity-50 pt-2">{cn}</span>}
+                  {app.settings?.cnpy && type === 'cn' && <span className="block text-xl opacity-50 pt-2">{py}</span>}
+                  {app.settings?.cnpy && type === 'py' && <span className="block text-xl opacity-50 pt-2">{cn}</span>}
                 </PlayButton>
                 {show && (
-                  <div className="flex flex-row gap-8 items-center mt-2 justify-center">
-                    {type !== 'cn' && <Link className="block text-4xl text-secondary underline" href={cn+tone}>{cn}</Link>}
-                    {type !== 'py' && <Link className="block text-4xl text-secondary underline" href={asSlug(py)}>{py}</Link>}
-                    {type !== 'en' && <Link className="block text-4xl text-secondary underline" href={asSlug(en)}>{en}</Link>}
+                  <div className="flex flex-col lg:flex-row gap-2 lg:gap-8 items-center mt-2 justify-center">
+                    {type !== 'cn' && <Link className="block text-xl text-secondary underline" href={cn+tone}>{cn}</Link>}
+                    {type !== 'py' && <Link className="block text-xl text-secondary underline" href={asSlug(py)}>{py}</Link>}
+                    {type !== 'en' && <Link className="block text-xl text-secondary underline" href={asSlug(en)}>{en}</Link>}
                   </div>
                 )}
               </>

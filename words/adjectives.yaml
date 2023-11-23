@@ -156,6 +156,17 @@ long:
     - constantly
   memo: What you see here is the ocean. The horizon, the way the things are reflected in the water. So convey <b>length</b>, <b>forever</b>, <b>always</b>, or <b>constantly</b> arguably an ocean is a pretty good pictogram.
 
+interesting:
+  cn: 有意思
+  py: yǒu yì si
+  tone: 340
+  set: 3
+  also:
+    - meaningful
+    - fun
+    - enjoyable
+  memo: fixm
+
 new:
   cn: 新
   py: xīn
