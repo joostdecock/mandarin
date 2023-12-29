@@ -102,6 +102,29 @@ to be born:
     Like a full spool of thread that has the beginning stuck to it with some tape.
     This is a new thing <b>being born</b> in its <b>raw</b> state, ready to <b>grow</b>
 
+to bring:
+  cn: 带
+  py: dài
+  set: 3
+  tone: 4
+  also:
+    - band
+    - belt
+    - girdle
+    - ribbon
+    - tire
+    - area
+    - zone
+    - region
+    - to wear
+    - to carry
+    - to take along
+    - to bear (i.e. to have)
+    - to lead
+    - to look after
+    - to raise
+  memo: fixme
+
 to buy:
   cn: 买
   tone: 3
@@ -454,6 +477,18 @@ to introduce:
     - shell
     - armor
   memo: I guess <b>to lie between</b> is easy to remember here and shell is also somewhat close.
+
+to play:
+  cn: 玩
+  py: wán
+  set: 3
+  tone: 2
+  also:
+    - to have fun
+    - to trifle with
+    - toy
+    - something used for amusement
+  memo: fixme
 
 to present:
   cn: 介绍
@@ -1097,6 +1132,23 @@ to want (2):
     - to wish
     - to think
     - to miss (sb or sth)
+
+to wash:
+  cn: 洗
+  py: xǐ
+  set: 3
+  tone: 3
+  also:
+    - to bathe
+    - to develop (a photo)
+  memo: fixme
+
+to wash dishes:
+  cn: 洗碗
+  py: xǐ wǎn
+  set: 3
+  tone: 33
+  memo: to wash + bowl
 
 to watch: 
   cn: 观

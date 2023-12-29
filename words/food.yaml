@@ -59,6 +59,15 @@ bowl:
     - trophy cup
     - measure word for cups of something (like coffee)
 
+bowl(2):
+  cn: 碗
+  py: wǎn
+  tone: 3
+  set: 3
+  also:
+    - cup
+  memo: fixme
+
 bread:
   cn: 面包
   tone: 41

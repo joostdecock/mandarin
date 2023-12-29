@@ -8,6 +8,14 @@ adjacent:
   also:
     - close to
     - neighbor
+better:
+  cn: 更好
+  py: gèng hǎo
+  tone: 43
+  set: 3
+  also:
+    - more
+  memo: fixme
 
 bewildering:
   cn: 怪 
@@ -50,6 +58,21 @@ busy:
     - to hurry
     - to rush
   memo: This person left in a <b>hurry</b> because their coat is not longer on the coat hanger but their pot of food is still on the stove.
+
+certainly:
+  cn: 一定
+  py: yī dìng
+  set: 3
+  tone: 14
+  also:
+    - surely
+    - necessarily
+    - fixed
+    - a certain (extent etc)
+    - given
+    - particular
+    - must
+  memo: fixme
 
 common:
   cn: 普通
@@ -166,6 +189,19 @@ interesting:
     - fun
     - enjoyable
   memo: fixm
+
+meaning:
+  cn: 意味
+  py: yì wèi
+  set: 3
+  tone: 44
+  also:
+    - implication
+    - flavor
+    - overtone
+    - to mean
+    - to imply
+  memo: fixme
 
 new:
   cn: 新

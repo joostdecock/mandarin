@@ -494,6 +494,13 @@ recent:
     - shortest (of routes)
   memo: Most + near/close to = recently
 
+sometimes:
+  cn: 有时候
+  py: yǒu shí hou
+  tone: 320
+  set: 4
+  memo: fixme
+
 this year:
   cn: 今年
   tone: 12

@@ -1,21 +1,3 @@
-di yi / di er = the first, the second
-you shi hou = sometimes
-
-zhi you zui hao
-zhi you geng hao
-qi zi xing che = riding bicycle
-cheng se = orange
-
-wan1 = to play
-yi3 wei2 = think (as in a response, I tought it was x but it's y)
-dai4 = to bring
-you yong chi = swimming pool
-y ding = for sure, certainly
-xi  = wash
-wan = bown
-xi wan = wash dishes
-jian3 fa3 = subtraction
-cong = from
 na2 zou3 = take away
 jie2 guo3 = result
 zen3 yang4 = how (like zenme yang)
@@ -37,4 +19,32 @@ ding = top (of a mountain)
 jing se = view (eg: from a mountain) (sounds like djing)
 dai = bring
 hua = spend (time or money)
-
+kan dao = jan jian
+shu = tree
+wo = nest
+zhen zai = in the process of?
+jiu hui le
+dui = to
+yi ding = surely
+wanr = play
+jin zhang = nervous
+qiong = poor (only for when people have no money)
+wang le = forgot
+dai = bring
+wei = hello (like on telephone)
+jia you = cheer on (goooooo) (add oil)
+deng = to wait
+zhao = to look for
+shiqing = things (not material)
+bai = white
+hei = black 
+ma (at the end of the sentence) can be mei you when using a result complement (like wan for finish)
+hai mei = not yet (hai = still)
+shen dan jie = Xmas
+zhong yu ming bai le = finally understand
+dong = understand
+wo mei ting dong = I didn't understand
+dao3 = to reach, to arrive
+gong yu = appartment
+yao shi = keys
+xin hao = connection / signal

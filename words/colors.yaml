@@ -53,6 +53,13 @@ color(2):
     - dyestuff
   memo: This looks like two people. Sounds like they are Janssen & Janssen (from the TinTin comic) and those guys need some <b>color</b>
 
+orange:
+  cn: 橙子
+  py: chéng zi
+  tone: 20
+  set: 3
+  memo: fixme
+
 pink: 
   cn: 粉
   py: fěn
