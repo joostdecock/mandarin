@@ -1,3 +1,12 @@
+colleague:
+  cn: 同事
+  py: tóng shì
+  set: 3
+  tone: 24
+  also:
+    - co-worker
+  memo: fixme
+
 company:
   cn: 公司
   py: gōng sī

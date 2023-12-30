@@ -131,6 +131,13 @@ delicious:
     <a href="/好">good</a> + <a href="/吃">to eat</a> = <b>delicious</b>
     You know it makes sense
 
+dining hall:
+  cn: 食堂
+  py: shí táng
+  set: 3
+  tone: 22
+  memo: fixme
+
 dish:
   cn: 菜
   tone: 4

@@ -37,6 +37,15 @@ clock:
     I can't help but notice that little hammer on the left that's going to start moving back and forth as your alarm goes off.
     It will push that little lever on the left against the thing on the right that probably has a good ring to it.
 
+doorway:
+  cn: 门口
+  py: mén kǒu
+  set: 3
+  tone: 23
+  also:
+    - gate
+  memo: fixme
+
 house:
   cn: 房
   py: fáng

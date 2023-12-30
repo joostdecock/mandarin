@@ -87,6 +87,15 @@ pink (the color):
     - powdered (make-up)
   memo: Pink + Color = the color pink, or pink
 
+purple:
+  cn: 紫色 
+  py: zǐ sè
+  set: 3
+  tone: 34
+  also:
+    - violet
+  memo: fixme
+
 red:
   cn: 红
   tone: 2

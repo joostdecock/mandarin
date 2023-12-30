@@ -20,6 +20,19 @@ to answer:
     - to agree
   memo: This sort of funnel shape seems to imply that we'll all end up on the same page. So we agree.
 
+to arrive:
+  cn: 到
+  py: dào
+  set: 3
+  tone: 4
+  also:
+    - to (a place)
+    - until (a time)
+    - up to
+    - to go
+    - verb complement denoting completion or result of an action
+  memo: fixme
+
 to ask (2):
   cn: 问
   tone: 4
@@ -45,15 +58,14 @@ to be aware:
 
 please:
   cn: 请
-  tone: 3
-  set: 2
   py: qǐng
+  set: 2
+  tone: 3
   also:
     - to invite
     - to treat (to a meal or something)
     - to request
-  memo: |
-    This is the character of the Qing dynasty, with a character on the left that bows their head and says <b>please</b>
+  memo: This is the character of the Qing dynasty, with a character on the left that bows their head and says <b>please</b>
 
 to arrive:
   cn: 到
@@ -624,6 +636,19 @@ to measure:
     - polite way to call an older male
   memo: Clearly this is some dude measuring how high this beam is
 
+to need:
+  cn: 需要 
+  py: xū yào
+  set: 3
+  tone: 14
+  also:
+    - to want
+    - to demand
+    - to require
+    - requirement
+    - need
+  memo: fixme
+
 to not be:
   cn: 非
   tone: 1
@@ -757,6 +782,18 @@ to reply:
     - to answer
     - the answer
   memo: to return + answer = to reply or just to answer (or the answer)
+
+to require:
+  cn: 需
+  py: xū
+  set: 3
+  tone: 1
+  also:
+    - to need
+    - to want
+    - necessity
+    - need
+  memo: fixme
 
 to ride (an animal or bike):
   cn: 骑

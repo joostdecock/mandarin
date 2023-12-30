@@ -1,3 +1,10 @@
+beer:
+  cn: 啤酒
+  py: pí jiǔ
+  set: 3
+  tone: 23
+  memo: fixme
+
 coffee:
   cn: 咖啡
   tone: 11

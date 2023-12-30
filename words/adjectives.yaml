@@ -106,6 +106,27 @@ cute:
     - lovely
   memo: fixme
 
+different:
+  cn: 不同
+  py: bù tóng
+  set: 3
+  tone: 42
+  also:
+    - distinct
+    - not the same
+    - not alike
+  memo: fixme
+
+easy:
+  cn: 容易
+  py: róng yì
+  set: 3
+  tone: 24
+  also:
+    - likely
+    - liable (to)
+  memo: fixme
+
 elegant:
   cn: 漂
   tone: 4
@@ -152,6 +173,19 @@ good-looking:
     - good (of a movie, book, TV show etc)
     - embarrassed
     - humiliated
+  memo: fixme
+
+handsome:
+  cn: 帅
+  py: shuài
+  set: 3
+  tone: 4
+  also:
+    - graceful
+    - smart
+    - commander in chief
+    - (coll.) cool!
+    - sweet!
   memo: fixme
 
 inside:
@@ -264,6 +298,19 @@ really:
     - 'true'
     - genuine
   memo: This looks so grounded and summetrical, it is <b>indeed</b> <b>true</b>
+
+similar:
+  cn: 同
+  py: tóng
+  set: 3
+  tone: 2
+  also:
+    - like
+    - same
+    - together
+    - alike
+    - with
+  memo: fixme
 
 slow:
   cn: 慢

@@ -182,6 +182,18 @@ a period of time:
     A month symbol on the right which looks like a calendar.
     On the left, more calendar with a box drawn around <b>a period of time</b>
 
+before:
+  cn: 以前
+  py: yǐ qián
+  tone: 32
+  set: 3
+  also:
+    - formerly
+    - previous
+    - ago
+    - in the past
+  memo: fixme
+
 birthday:
   cn: 生日
   py: shēng rì
@@ -309,6 +321,13 @@ how big:
     - to go over
     - to pass by
   memo: to pass time + to go = in the past
+
+last year:
+  cn: 去年
+  py: qù nián
+  set: 3
+  tone: 42
+  memo: fixme
 
 late:
   cn: 晚

@@ -85,6 +85,16 @@ house:
     - classifier for family members
   memo: This looks like a (sturdy) room over one's head. So a <b>house</b> or perhaps a <b>room</b>
 
+house(2):
+  cn: 房子
+  py: fáng zi
+  set: 3
+  tone: 20
+  also: 
+    - building (single- or two-story)
+    - apartment
+    - room
+
 merchant:
   cn: 商
   tone: 1

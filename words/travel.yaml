@@ -129,6 +129,13 @@ to catch a plane:
   set: 3
   memo: To take a seat + airplane = to take/catch a plane
 
+train:
+  cn: 火车
+  py: huǒ chē
+  set: 3
+  tone: 31
+  memo: fixme
+
 trip:
   cn: 旅游 
   py: lǚ yóu
