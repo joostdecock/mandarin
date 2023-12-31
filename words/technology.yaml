@@ -28,14 +28,14 @@ electric:
     - electricity
     - electrical
 
-newspaper: 
-  cn: 报纸
-  py: bào zhǐ 
+internet:
+  cn: 网络
+  py: wǎng luò
   set: 3
-  tone: 43
+  tone: 34
+  memo: fixme
   also:
-    - newsprint
-  memo: This is <b>to announce</b> plus <b>paper</b>
+    - network (computing, transport, ...)
 
 movie:
   cn: 电影
@@ -46,6 +46,40 @@ movie:
     Character for <a href="/影">picture, film</a> plus character for <a href="/电">electric<a> is <b>movie</b>
   also:
     - film
+
+network:
+  cn: 网
+  py: wǎng
+  set: 3
+  tone: 3
+  also:
+    - net
+  memo: fixme
+
+newspaper: 
+  cn: 报纸
+  py: bào zhǐ 
+  set: 3
+  tone: 43
+  also:
+    - newsprint
+  memo: This is <b>to announce</b> plus <b>paper</b>
+
+online:
+  cn: 网上
+  py: wǎng shàng
+  set: 3
+  tone: 34
+  memo: Net + on top/upon = online
+
+online friend:
+  cn: 网友
+  py: wǎng yǒu
+  set: 3
+  tone: 33
+  also:
+    - internet user
+  memo: fixme
 
 picture:
   cn: 影
@@ -85,3 +119,27 @@ television:
     On the left, we have the symbol on the left for everything <a href="/电4">electric</a>
     On the right we have a character that includes a small version of <a href="/观1">to watch</a>
     So something electric and watching it = television
+
+the internet:
+  cn: 互联网
+  py: hù lián wǎng
+  set: 3
+  tone: 423
+  memo: fixme
+
+web page:
+  cn: 网页
+  py: wǎng yè
+  set: 3
+  tone: 34
+  memo: fixme
+
+website:
+  cn: 网站
+  py: wǎng zhàn
+  set: 3
+  tone: 32
+  also:
+    - network station
+    - node
+  memo: fixme

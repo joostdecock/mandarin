@@ -20,19 +20,6 @@ to answer:
     - to agree
   memo: This sort of funnel shape seems to imply that we'll all end up on the same page. So we agree.
 
-to arrive:
-  cn: 到
-  py: dào
-  set: 3
-  tone: 4
-  also:
-    - to (a place)
-    - until (a time)
-    - up to
-    - to go
-    - verb complement denoting completion or result of an action
-  memo: fixme
-
 to ask (2):
   cn: 问
   tone: 4
@@ -217,6 +204,15 @@ to come out:
     When people tell you come out, they might follow it up with 
     <em>with your hands in the air</em> and that's what's going on here.
 
+to complete:
+  cn: 完成
+  py: wán chéng
+  set: 3
+  tone: 22
+  also:
+    - to accomplish
+  memo: fixme
+
 to consider:
   cn: 思
   py: sī
@@ -325,6 +321,18 @@ to explain:
     - speech
     - lecture
   memo: Person standing in front of a flipboard explaining something
+
+to finish:
+  cn: 完
+  py: wán
+  set: 3
+  tone: 2
+  also:
+    - to be over
+    - whole
+    - complete
+    - entire
+  memo: fixme
 
 to finish class:
   cn: 下课
