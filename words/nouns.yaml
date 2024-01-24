@@ -46,6 +46,31 @@ idea:
     - to do something as a gesture of goodwill
   memo: This is <b>thought</b> plus <b>consider</b> 
 
+result:
+  cn: 结果
+  py: jié guǒ
+  set: 3
+  tone: 23
+  also:
+    - outcome
+    - conclusion
+    - in the end
+    - as a result
+    - to kill
+    - to dispatch
+  memo: fixme
+
+question:
+  cn: 问题
+  py: wèn tí
+  set: 3
+  tone: 42
+  also:
+    - problem
+    - issue
+    - topic
+  memo: fixme
+
 strip:
   cn: 条
   py: tiáo

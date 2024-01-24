@@ -458,6 +458,15 @@ who:
     But that person on the right is behind one of them screens after which you go to get dressed you know?
     So this really says <b>who</b> is behind that screen?
 
+why:
+  cn: 怎样
+  py: zěn yàng
+  set: 3
+  tone: 34
+  also:
+    - how
+  memo: fixme
+
 with:
   cn: 跟
   py: gēn 

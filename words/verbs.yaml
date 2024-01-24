@@ -824,6 +824,7 @@ to read:
   memo: |
     There's a person looking down at a pile of papers here as this is <b>to read</b>.
      
+
 to receive:
   cn: 接
   py: jiē
@@ -839,6 +840,16 @@ to receive:
     - to take one's turn on duty
     - to take over from someone
   memo: Person at the bottom right is carrying this heavy pot which the person on the left is about <b>to receive</b>
+
+to reply:
+  cn: 回答
+  py: huí dá
+  set: 3
+  tone: 22
+  also:
+    - to answer
+    - the answer
+  memo: fixme
 
 to return:
   cn: 回
@@ -1064,6 +1075,13 @@ to take a plane:
   set: 3
   memo: to take a seat + plane = to take a plane / to catch a plane
 
+to take away:
+  cn: 拿走
+  py: ná zǒu
+  set: 3
+  tone: 23
+  memo: fixme
+
 to teach:
   cn: 教
   py: jiāo
@@ -1103,6 +1121,15 @@ to transform:
     - to vary
     - rebellion
   memo: We see one of them vats you get baptized in against your will and one kid struggling to rebel against this.
+    
+to understand:
+  cn: 懂
+  py: dǒng
+  set: 3
+  tone: 3
+  also:
+    - to comprehend
+  memo: fixme
 
 to use:
   cn: 以
