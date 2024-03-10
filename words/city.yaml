@@ -2,7 +2,7 @@ apartment building:
   cn: 公寓
   py: gōng yù 
   tone: 14
-  set: 3
+  set: 4
   also:
     - block of flats
   memo: publicly owned + residence
@@ -63,7 +63,7 @@ direction:
   cn: 道
   py: dào
   tone: 4
-  set: 3
+  set: 4
   also:
     - way
     - road

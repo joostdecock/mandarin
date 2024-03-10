@@ -100,7 +100,7 @@ a moment ago:
   cn: 才
   py: zài
   tone: 4
-  set: 3
+  set: 4
   also:
     - just now
     - not until
@@ -111,7 +111,7 @@ after:
   cn: 然后
   py: rán hòu
   tone: 24
-  set: 3
+  set: 4
   also:
     - then (afterwards)
     - after that
@@ -121,7 +121,7 @@ after:
 after(2):
   cn: 以后
   py: yǐ hòu
-  set: 3
+  set: 4
   tone: 34
   also:
     - later
@@ -152,7 +152,7 @@ age:
 already:
   cn: 已
   py: yǐ
-  set: 3
+  set: 4
   tone: 3
   also:
     - to stop
@@ -163,7 +163,7 @@ already:
 already (2):
   cn: 已经
   py: yǐ jīng
-  set: 3
+  set: 4
   tone: 31
   memo: already + to pass through is again, <b>already</b>
 
@@ -171,7 +171,7 @@ at once:
   cn: 就
   py: jiù
   tone: 4
-  set: 3
+  set: 4
   memo: fixme
   also:
     - right away
@@ -199,7 +199,7 @@ at once:
 a period of time:
   cn: 期
   py: qī
-  set: 3
+  set: 2
   tone: 1
   also:
     - phase
@@ -319,7 +319,7 @@ evening:
 every day:
   cn: 天天
   py: tiān tiān
-  set: 3
+  set: 4
   tone: 11
   memo: day day, or every day
 
@@ -343,7 +343,7 @@ how big:
   cn: 过去 
   py: guò qù
   tone: 44
-  set: 3
+  set: 4
   also:
     - former
     - previous
@@ -354,7 +354,7 @@ how big:
 last year:
   cn: 去年
   py: qù nián
-  set: 3
+  set: 4
   tone: 42
   memo: fixme
 
@@ -506,7 +506,7 @@ o'clock:
 once:
   cn: 一下
   py: yī xià
-  set: 3
+  set: 4
   tone: 14
   also:
     - (used after a verb) give it a go
@@ -531,7 +531,7 @@ period:
 recent:
   cn: 最近
   py: zuì jìn
-  set: 3
+  set: 4
   tone: 44
   also:
     - recently

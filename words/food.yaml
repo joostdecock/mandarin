@@ -63,7 +63,7 @@ bowl(2):
   cn: 碗
   py: wǎn
   tone: 3
-  set: 3
+  set: 4
   also:
     - cup
   memo: fixme
@@ -134,7 +134,7 @@ delicious:
 dining hall:
   cn: 食堂
   py: shí táng
-  set: 3
+  set: 4
   tone: 22
   memo: fixme
 
@@ -151,7 +151,7 @@ dumpling:
   cn: 饺子
   py: jiǎo zi
   tone: 30
-  set: 3
+  set: 4
   also:
     - pot-sticker (type of dumpling)
   memo: |
@@ -293,7 +293,7 @@ pancake:
   cn: 煎饼
   py: jiān bǐng
   tone: 10
-  set: 3
+  set: 4
   memo: |
     The left character is <a href="/煎1">to pan fry"</a>
     The right character is <a href="饼0">(round flat) cake, cookie, or pastry</a>
@@ -370,7 +370,7 @@ strawberry:
   cn: 草莓
   py: cǎo méi
   tone: 32
-  set: 3
+  set: 4
   also:
     - hickey / love bite
   memo: 草is berry and 草is straw so together they are strawberry
@@ -379,7 +379,7 @@ to pan fry:
   cn: 煎
   py: jiān
   tone: 1
-  set: 3
+  set: 4
   also:
     - to sauté
   memo: |

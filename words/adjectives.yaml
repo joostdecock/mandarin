@@ -13,7 +13,7 @@ better:
   cn: 更好
   py: gèng hǎo
   tone: 43
-  set: 3
+  set: 4
   also:
     - more
   memo: fixme
@@ -22,7 +22,7 @@ bewildering:
   cn: 怪 
   py: guài
   tone: 4
-  set: 3
+  set: 4
   also:
     - odd
     - strange
@@ -86,7 +86,7 @@ cute:
   cn: 可爱
   py: kě ài
   tone: 34
-  set: 3
+  set: 4
   also:
     - adorable
     - lovely
@@ -95,7 +95,7 @@ cute:
 different:
   cn: 不同
   py: bù tóng
-  set: 3
+  set: 4
   tone: 42
   also:
     - distinct
@@ -107,7 +107,7 @@ dirty:
   cn: 脏
   py: zāng
   tone: 1
-  set: 3
+  set: 4
   also:
     - filthy
   memo: fixme
@@ -115,7 +115,7 @@ dirty:
 easy:
   cn: 容易
   py: róng yì
-  set: 3
+  set: 4
   tone: 24
   also:
     - likely
@@ -148,7 +148,7 @@ far:
 foreign:
   cn: 外国
   py: wài guó
-  set: 3
+  set: 4
   tone: 42
   memo: fixme
 
@@ -180,7 +180,7 @@ good-looking:
 handsome:
   cn: 帅
   py: shuài
-  set: 3
+  set: 4
   tone: 4
   also:
     - graceful
@@ -193,7 +193,7 @@ handsome:
 inferior:
   cn: 差
   py: chà
-  set: 3
+  set: 4
   tone: 4
   also:
     - to differ from
@@ -231,7 +231,7 @@ interesting:
   cn: 有意思
   py: yǒu yì si
   tone: 340
-  set: 3
+  set: 4
   also:
     - meaningful
     - fun
@@ -241,7 +241,7 @@ interesting:
 meaning:
   cn: 意味
   py: yì wèi
-  set: 3
+  set: 4
   tone: 44
   also:
     - implication
@@ -254,7 +254,7 @@ meaning:
 nervous:
   cn: 紧张
   py: jǐn zhāng
-  set: 3
+  set: 4
   tone: 31
   also:
     - keyed up
@@ -278,7 +278,7 @@ odd:
   cn: 奇怪
   py: qí guài
   tone: 24
-  set: 3
+  set: 4
   also:
     - strange
     - to marvel
@@ -288,7 +288,7 @@ odd:
 poor:
   cn: 穷
   py: qióng
-  set: 3
+  set: 4
   tone: 2
   also:
     - destitute
@@ -344,7 +344,7 @@ really:
 similar:
   cn: 同
   py: tóng
-  set: 3
+  set: 4
   tone: 2
   also:
     - like
@@ -372,7 +372,7 @@ strange:
   cn: 奇
   py: qí
   tone: 2
-  set: 3
+  set: 4
   also:
     - odd
     - weird
@@ -385,7 +385,7 @@ surely:
   cn: 一定
   py: yī dìng
   tone: 14
-  set: 3
+  set: 4
   also:
     - certainly
     - necessarily

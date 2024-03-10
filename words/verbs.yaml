@@ -1,7 +1,7 @@
 to add:
   cn: 加 
   py: jiā 
-  set: 3
+  set: 4
   tone: 1
   also:
     - plus
@@ -12,7 +12,7 @@ to add:
 to add oil:
   cn: 加油
   py: jiā yóu
-  set: 3
+  set: 4
   tone: 12
   also:
     - to top up with gas
@@ -40,7 +40,7 @@ to answer:
   cn: 答
   py: dā
   tone: 1
-  set: 3
+  set: 4
   also:
     - to agree
   memo: This sort of funnel shape seems to imply that we'll all end up on the same page. So we agree.
@@ -62,7 +62,7 @@ to ask (2):
 to bathe:
   cn: 洗澡
   py: xǐ zǎo
-  set: 3
+  set: 4
   tone: 33
   also:
     - to take a shower
@@ -71,7 +71,7 @@ to bathe:
 to be aware:
   cn: 知
   py: zhī
-  set: 3
+  set: 4
   tone: 1
   also:
     - to know
@@ -138,7 +138,7 @@ to be born:
 to bring:
   cn: 带
   py: dài
-  set: 3
+  set: 4
   tone: 4
   also:
     - band
@@ -186,7 +186,7 @@ to call:
 to check:
   cn: 考
   py: kǎo 
-  set: 3
+  set: 4
   tone: 3
   also:
     - to verify
@@ -207,7 +207,7 @@ to climb a mountain:
 to come:
   cn: 来
   py: lái
-  set: 3
+  set: 1
   tone: 2
   also:
     - to arrive
@@ -222,7 +222,7 @@ to come:
 to come back:
   cn: 回来 
   py: huí lai
-  set: 3
+  set: 4
   tone: 20
   memo: |
     To <a href="/回2">return</a> + to <a href="/来2">come</a> = to <b>come back</b>
@@ -241,7 +241,7 @@ to come out:
 to complete:
   cn: 完成
   py: wán chéng
-  set: 3
+  set: 4
   tone: 22
   also:
     - to accomplish
@@ -259,7 +259,7 @@ to consider:
 to continue:
   cn: 绍 
   py: shào
-  set: 3
+  set: 4
   tone: 4
   also:
     - to carry on
@@ -278,7 +278,7 @@ to cross:
   cn: 过
   py: guò
   tone: 4
-  set: 3
+  set: 4
   also:
     - to go over
     - to pass (time)
@@ -292,7 +292,7 @@ to cross:
 to dance(1):
   cn: 舞
   py: wǔ
-  set: 3
+  set: 4
   tone: 3
   memo: fixme
   also:
@@ -302,7 +302,7 @@ to dance(1):
 to dance(2):
   cn: 跳舞
   py: tiào wǔ
-  set: 3
+  set: 4
   tone: 43
   memo: to jump + to dance
 
@@ -337,7 +337,7 @@ to deliver:
 to draw out:
   cn: 抽
   py: chōu 
-  set: 3
+  set: 4
   tone: 1
   also:
     - to pull out from in between
@@ -374,7 +374,7 @@ to explain:
   cn: 讲
   py: jiǎng
   tone: 3
-  set: 3
+  set: 4
   also: 
     - to speak
     - to negotiate
@@ -414,7 +414,7 @@ to finish class:
 to forget:
   cn: 忘
   py: wàng 
-  set: 3
+  set: 4
   tone: 4
   also:
     - to overlook
@@ -434,7 +434,7 @@ to guard:
   cn: 卫
   py: wèi
   tone: 4
-  set: 3
+  set: 4
   also:
     - to protect
     - to defend
@@ -486,7 +486,7 @@ to hear (something being said):
   cn: 听说
   py: tīng shuō
   tone: 11
-  set: 3
+  set: 4
   also: 
     - one hears (that)
     - hearsay
@@ -496,7 +496,7 @@ to hear (something being said):
 to help:
   cn: 帮
   py: bāng
-  set: 3
+  set: 4
   tone: 1
   also:
     - to assist
@@ -555,7 +555,7 @@ to introduce:
   cn: 介
   py: jiè
   tone: 4
-  set: 3
+  set: 4
   also: 
     - to lie between
     - between
@@ -566,7 +566,7 @@ to introduce:
 to invite to dinner:
   cn: 请客
   py: qǐng kè 
-  set: 3
+  set: 4
   tone: 34
   also:
     - to give a dinner party
@@ -577,7 +577,7 @@ to invite to dinner:
 to jump:
   cn: 跳
   py: tiào
-  set: 3
+  set: 4
   tone: 4
   also:
     - to hop
@@ -664,7 +664,7 @@ to look for:
   cn: 找
   py: zhǎo 
   tone: 3
-  set: 3
+  set: 4
   also:
     - to try to find
     - to call on sb
@@ -714,7 +714,7 @@ to make a telephone call:
 to measure:
   cn: 丈
   py:  zhàng 
-  set: 3
+  set: 4
   tone: 4
   also:
     - measure of length (ten Chinese feet, or 3.3m)
@@ -725,7 +725,7 @@ to measure:
 to need:
   cn: 需要 
   py: xū yào
-  set: 3
+  set: 4
   tone: 14
   also:
     - to want
@@ -782,7 +782,7 @@ to open:
 to pass through:
   cn: 经
   py: jīng
-  set: 3
+  set: 4
   tone: 1
   also:
     - classics
@@ -837,7 +837,7 @@ to practice(1):
 to practice(2):
   cn: 练习
   py: liàn xí
-  set: 3
+  set: 4
   tone: 42
   also:
     - excercise
@@ -848,7 +848,7 @@ to practice(2):
 to prepare:
   cn: 准备
   py: zhǔn bèi
-  set: 3
+  set: 4
   tone: 34
   also:
     - preparation
@@ -860,7 +860,7 @@ to prepare:
 to present:
   cn: 介绍
   py: jiè shào
-  set: 3
+  set: 4
   tone: 44
   also:
     - to introduce
@@ -920,7 +920,7 @@ to reply:
 to require:
   cn: 需
   py: xū
-  set: 3
+  set: 4
   tone: 1
   also:
     - to need
@@ -933,7 +933,7 @@ to ride (an animal or bike):
   cn: 骑
   py: qí
   tone: 2
-  set: 3
+  set: 4
   also:
     - to sit astride
     - measure word for saddle-horses
@@ -954,7 +954,7 @@ to read:
 to receive:
   cn: 接
   py: jiē
-  set: 3
+  set: 4
   tone: 1
   also:
     - to answer (the phone)
@@ -1013,7 +1013,7 @@ to rest:
 to ride (a bike or animal):
   cn: 骑
   py: qí
-  set: 3
+  set: 4
   tone: 2
   also:
     - to sit astride
@@ -1025,7 +1025,7 @@ to ride (a bike or animal):
 to ride:
   cn: 乘
   py: chéng
-  set: 3
+  set: 4
   tone: 2
   also:
     - to mount
@@ -1039,7 +1039,7 @@ to ride:
 to rise:
   cn: 兴
   py: xīng 
-  set: 3
+  set: 4
   tone: 1
   also:
     - to flourish
@@ -1103,7 +1103,7 @@ to set:
   cn: 定
   py: dìng
   tone: 4
-  set: 3
+  set: 4
   also:
     - to fix
     - to determine
@@ -1114,7 +1114,7 @@ to set:
 to sing:
   cn: 唱
   py: chàng 
-  set: 3
+  set: 4
   tone: 4
   also:
     - to call loudly
@@ -1124,7 +1124,7 @@ to sing:
 to sing a song:
   cn: 唱歌
   py: chàng gē
-  set: 3
+  set: 4
   tone: 41
   memo: to sing + song
 
@@ -1161,7 +1161,7 @@ to spread:
   cn: 张
   py: zhāng
   tone: 1
-  set: 3
+  set: 4
   also:
     - to open up
     - sheet of paper
@@ -1182,7 +1182,7 @@ to strive:
   cn: 努力
   py: nǔ lì
   tone: 34
-  set: 3
+  set: 4
   also:
     - great effort
     - to try hard
@@ -1202,7 +1202,7 @@ to study (2):
   cn: 读
   py: dú
   tone: 2
-  set: 3
+  set: 4
   also:
     - to read
     - reading of word / pronounciation
@@ -1212,7 +1212,7 @@ to succeed:
   cn: 成
   py: chéng
   tone: 2
-  set: 3
+  set: 4
   also:
     - to finish
     - to complete
@@ -1234,7 +1234,7 @@ to take a plane:
 to take away:
   cn: 拿走
   py: ná zǒu
-  set: 3
+  set: 4
   tone: 23
   memo: fixme
 
@@ -1248,7 +1248,7 @@ to teach:
 to test:
   cn: 试 
   py: shì
-  set: 3
+  set: 4
   tone: 4
   also:
     - to try
@@ -1270,7 +1270,7 @@ to transform:
   cn: 变
   py: biàn
   tone: 4
-  set: 3
+  set: 4
   also:
     - to change
     - to become different
@@ -1282,14 +1282,14 @@ to transform:
 to try to find the time to:
   cn: 抽时间
   py: chōu shí jiān
-  set: 3
+  set: 4
   tone: 121
   memo: to draw out + time
 
 to understand:
   cn: 懂
   py: dǒng
-  set: 3
+  set: 4
   tone: 3
   also:
     - to comprehend
@@ -1298,14 +1298,14 @@ to understand:
 to understand what one is reading or watching:
   cn: 看懂
   py: kàn dǒng
-  set: 3
+  set: 4
   tone: 43
   memo: Watch + understand
 
 to use:
   cn: 以
   py: yǐ
-  set: 3
+  set: 4
   tone: 3
   also:
     - by means of
@@ -1379,7 +1379,7 @@ to want (2):
 to wash:
   cn: 洗
   py: xǐ
-  set: 3
+  set: 4
   tone: 3
   also:
     - to bathe
@@ -1389,7 +1389,7 @@ to wash:
 to wash dishes:
   cn: 洗碗
   py: xǐ wǎn
-  set: 3
+  set: 4
   tone: 33
   memo: to wash + bowl
 

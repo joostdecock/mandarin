@@ -144,7 +144,7 @@ for:
   cn: 为
   py: wèi 
   tone: 4
-  set: 3
+  set: 4
   also:
     - because of
     - to
@@ -154,7 +154,7 @@ from:
   cn: 从
   py: cóng
   tone: 2
-  set: 3
+  set: 4
   also:
     - via
     - passing through
@@ -198,7 +198,7 @@ however:
   cn: 可是
   py: kě shì
   tone: 34
-  set: 3
+  set: 4
   also:
     - but
     - (used for emphasis) indeed
@@ -247,7 +247,7 @@ if:
   cn: 如果
   py: rú guǒ
   tone: 23
-  set: 3
+  set: 4
   also:
     - in case
     - in the event that
@@ -277,7 +277,7 @@ it:
 just(emphasis):
   cn: 就
   py: jiù
-  set: 3
+  set: 4
   tone: 4
   also:
     - at once
@@ -363,7 +363,7 @@ so:
 still:
   cn: 还
   py: hái
-  set: 3
+  set: 4
   tone: 2
   also:
     - still in progress
@@ -484,7 +484,7 @@ who:
 why:
   cn: 怎样
   py: zěn yàng
-  set: 3
+  set: 4
   tone: 34
   also:
     - how

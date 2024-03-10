@@ -111,7 +111,7 @@ order:
   cn: 第
   py: di
   tone: 4
-  set: 3
+  set: 4
   also:
     - rank
     - prefix indicating ordinal number (first, second, nr 5)
@@ -123,7 +123,7 @@ first:
   cn: 第一
   py: di yi
   tone: 41
-  set: 3
+  set: 4
   also:
     - number one
     - primary
@@ -133,7 +133,7 @@ second:
   cn: 第二
   py: di èr
   tone: 41
-  set: 3
+  set: 4
   also:
     - number two
     - secondary
@@ -144,7 +144,7 @@ third:
   cn: 第一
   py: di yi
   tone: 41
-  set: 3
+  set: 4
   also:
     - number one
     - primary
@@ -153,7 +153,7 @@ third:
 a few:
   cn: 一些
   py: yī xiē
-  set: 3
+  set: 4
   tone: 11
   memo: one + few
   also:
@@ -164,7 +164,7 @@ a little (erhua variant):
   cn: 一点儿 
   py: yī diǎn r
   tone: 130
-  set: 3
+  set: 4
   also: 
     - a bit
     - a little
@@ -180,7 +180,7 @@ a little (non-erhua variant):
   cn: 一点
   py: yī diǎn
   tone: 13
-  set: 3
+  set: 4
   also: 
     - a bit
     - a little
@@ -289,7 +289,7 @@ many:
 frequently:
   cn: 经常
   py: jīng cháng
-  set: 3
+  set: 4
   tone: 12
   also:
     - constantly
@@ -321,7 +321,7 @@ most:
 not few:
   cn: 不少
   py: bù shǎo
-  set: 3
+  set: 4
   tone: 43
   also:
     - many
@@ -333,7 +333,7 @@ often:
   cn: 常常
   py: cháng cháng
   tone: 22
-  set: 3
+  set: 4
   also:
     - frequently
     - usually
@@ -353,7 +353,7 @@ only:
 several:
   cn: 几个
   py: jǐ ge
-  set: 3
+  set: 4
   tone: 30
   also:
     - a few
@@ -363,7 +363,7 @@ several:
 so much:
   cn: 这么
   py: zhè me
-  set: 3
+  set: 4
   tone: 40
   also:
     - this much
@@ -377,14 +377,14 @@ so much:
 some:
   cn: 有的
   py: yǒu de 
-  set: 3
+  set: 4
   tone: 30
   memo: fixme
 
 subtraction:
   cn: 减法
   py: jiǎn fǎ
-  set: 3
+  set: 4
   tone: 33
   memo: fixme
 
