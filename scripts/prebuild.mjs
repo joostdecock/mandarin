@@ -100,7 +100,7 @@ export const prebuildWords = async () => {
       // Check for tone
       if (typeof info.tone === 'undefined') console.log(`Missing tone for ${key}`)
       // Check for MP3 
-      if (!mp3s.includes(info.cn+'.mp3')) console.log(`Missing audio for ${info.cn}`)
+      if (!mp3s.includes(info.cn+'.mp3') && !info.r) console.log(`Missing audio for ${info.cn}`)
     }
   }
   fs.writeFileSync(

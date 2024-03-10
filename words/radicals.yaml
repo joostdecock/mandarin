@@ -1,0 +1,395 @@
+one: 
+  r: 1
+  cn: 一
+  py: yī
+  set: 4
+  tone: 1
+  memo: How else do you draw one?
+
+line:
+  r: 2
+  cn: 丨
+  py: shù
+  set: 4
+  tone: 4
+  memo: How else do you draw a line?
+
+dot:
+  r: 3
+  cn: 丶
+  py: diǎn
+  set: 4
+  tone: 3
+  memo: a dot is a little swipe because brush strokes
+
+slash:
+  r: 4
+  cn: 丿
+  py: piě
+  set: 4
+  tone: 3
+  memo: Bit more like a backslash, but ok
+
+second:
+  r: 5
+  cn: 乙
+  py: yǐ
+  set: 4
+  tone: 4
+  memo: Looks pretty much like a western number 2
+
+hook:
+  r: 6
+  cn: 亅
+  py: gōu
+  set: 4
+  tone: 1
+  memo: Looks like a fishing hook indeed
+
+two:
+  r: 7
+  cn: 二
+  py: èr
+  set: 4
+  tone: 4
+  memo: fixme
+
+lid:
+  r: 8
+  cn: 亠
+  py: tóu
+  tone: 2
+  set: 4
+  memo: Looks like a lid, that's for sure
+
+person:
+  r: 9
+  cn: 人
+  py: rén
+  tone: 2
+  set: 4
+  memo: Looks like a person with two long legs walking
+
+legs:
+  r: 10
+  cn: 儿
+  py: ér
+  tone: 2
+  set: 4
+  memo: More of a frontal view of the legs, with one foot to the side the way models pose
+
+enter:
+  r: 11
+  cn: 入
+  py: rù
+  tone: 4
+  set: 4
+  memo: Looks like spread legs, which is a rather inviting pose
+
+eight:
+  r: 12
+  cn: 八
+  py: bā
+  tone: 1
+  set: 4
+  memo: Depending on the font, this either looks like cleavage, or crossed legs. Neither means '8' but an eight on its side looks a bit like boobs, so there's that
+
+down box:
+  r: 13
+  cn: 冂
+  py: jiǒng
+  tone: 3
+  set: 4
+  memo: This looks like a box with the opening downwards, so down box
+
+cover:
+  r: 14
+  cn: 冖
+  py: mì
+  tone: 4
+  set: 4
+  memo: Looks like a cover, but no handle, so not a lid
+
+ice:
+  r: 15
+  cn: 冫
+  py: bīng
+  tone: 1
+  set: 4
+  memo: Looks like water droplets, frozen. So ice
+
+table:
+  r: 16
+  cn: 几
+  py: jī
+  tone: 1
+  set: 4
+  memo: Looks like a side table alright
+
+open box:
+  r: 17
+  cn: 凵
+  py: qǔ
+  tone: 3
+  set: 4
+  memo: Very much looks like an open box
+
+knife:
+  r: 18
+  cn: 刀
+  py: dāo
+  tone: 1
+  set: 4
+  memo: Not really seeing this as a knife. More like an italic pi character, and italian pie is pizza, which requires a knife to cut
+
+power:
+  r: 19
+  cn: 力
+  py: lì
+  tone: 4
+  set: 4
+  memo: Looks a bit like the knife radical, but the vertical stroke crosses through the line because it's so powerful
+
+wrap:
+  r: 20
+  cn: 勹
+  py: bāo
+  tone: 1
+  set: 4
+  memo: One needs a bit of imagination, but there are no intersections here, just lines going around each other, like wrapping
+
+ladle:
+  r: 21
+  cn: 匕
+  py: ladle
+  tone: 3
+  set: 4
+  memo: You see a pot and the line in it is the ladle, because you have to stir and toss the rice while using your ladle
+
+right open box:
+  r: 22
+  cn: 匚
+  py: fāng
+  tone: 1 
+  set: 4
+  memo: This is indeed very much a box that is open on the right side
+
+hiding enclosure:
+  r: 23
+  cn: 匸
+  py: xǐ
+  tone: 3
+  set: 4
+  memo: This is almost exactly like right open box, but the line is not a corner, but rather there's a roof supported by a wall, which shows this is a (hiding) enclosure
+
+ten:
+  r: 24
+  cn: 十
+  py: shí
+  tone: 2
+  set: 4
+  memo: Perfectly logical way to write 10
+
+divination:
+  r: 25
+  cn: 卜
+  py: bǔ
+  tone: 3
+  set: 4
+  memo: Divination is some Harry Potter style shit, which is why it sounds like booooo and looks like wand
+
+seal:
+  r: 26
+  cn: 卩
+  py: jié
+  tone: 2
+  set: 4
+  memo: Looks like one of those hooked sticks they use to club seals to death. I don't make the rules.
+
+cliff:
+  r: 27
+  cn: 厂
+  py: hàn
+  tone: 4
+  set: 4
+  memo: Perfect drawing of a cliff. No notes.
+
+private:
+  r: 28
+  cn: 厶
+  py: 厶
+  tone: 1 
+  set: 4
+  memo: It's sort of closed, but there is an opening to get in. Like a private event.
+
+again:
+  r: 29
+  cn: 又
+  py: 又
+  tone: 4 
+  set: 4
+  memo: Draw an X when it happens, then add a line to it when it happens again
+
+mouth:
+  r: 30
+  cn: 口
+  py: 口
+  tone: 3 
+  set: 4
+  memo: It is simplistic, certainly. But it's a mouth alright
+
+enclosure:
+  r: 31
+  cn: 囗
+  py: wéi
+  tone: 2 
+  set: 4
+  memo: That is not a mouth, that is an enclosure. It's clearly bigger.
+
+earth:
+  r: 32
+  cn: 土
+  py: tǔ
+  tone: 3
+  set: 4
+  memo: They could not use a horizontal line, that was already taken. So the thing you plant a cross in.
+
+scholar:
+  r: 33
+  cn: 士
+  py: 士
+  tone: 4 
+  set: 4
+  memo: This looks a lot like earth, but it has its horizontal lines inverted. Focussing less on the base (or basics) and more on higher lines (of thought), like a scholar would
+
+go:
+  r: 34
+  cn: 夂
+  py: zhī
+  tone: 1
+  set: 4
+  memo: This is again (which already has person legs in it) plus an extra vertical stroke on the left. Look at him go again.
+
+go slowly:
+  r: 35
+  cn: 夊
+  py: suī
+  tone: 1
+  set: 4
+  memo: The go radical is much more vertically compressed, like hunched over because it's going fast. This is going slow.
+
+night:
+  r: 37
+  cn: 夕
+  py: xī
+  tone: 1
+  set: 4
+  memo: If you squint, this looks like a telescope that you use to study the night sky
+
+woman:
+  r: 38
+  cn: 女
+  py: nǚ
+  tone: 3
+  set: 4
+  memo: It is clear from the way her legs are joined at the knees that this woman can't take long strides like the person radical. I blame tight skirts.
+
+child:
+  r: 39
+  cn: 子
+  py: zǐ
+  tone: 3 
+  set: 4
+  memo: We see the same horizontal stroke as in woman, but we don't see anything clearly identifying the gender as this is still a child.
+
+roof:
+  r: 40
+  cn: 宀
+  py: mián
+  tone: 2
+  set: 4
+  memo: Easy enough, it's a rood. The trick is to not confuse this with lid
+
+inch:
+  r: 41
+  cn: 寸
+  py: cùn
+  tone: 4
+  set: 4
+  memo: Seriously? Inch!? Inch is a radical? I guess so. It's almost like a 10, with an extra stroke to make it clear that it's nothing like a 10 because imperial measurements make no sense whatsoever.
+
+small:
+  r: 42
+  cn: 小
+  py: xiǎo
+  tone: 3
+  set: 4
+  memo: This is a little periscope peaking up. In comparison to the ocean, a submarine is small
+
+lame:
+  r: 3
+  cn: 尢
+  py: yóu
+  tone: 2
+  set: 4
+  memo: Not sure what to make of this. It's like a squished semi-broker power radical. Lame.
+
+corpse:
+  r: 44
+  cn: 尸
+  py: shī
+  tone: 1
+  set: 4
+  memo: This is one of those flags they plant at a crimescene when they find a corpse
+
+sprout:
+  r: 45
+  cn: 屮
+  py: 屮
+  tone: 4 
+  set: 4
+  memo: A bit trident-looking, but sure. Sprout can work.
+
+mountain:
+  r: 46
+  cn: 山
+  py: shān
+  tone: 1
+  set: 4
+  memo: A bit of an abstract representation of a mountain, but it works
+
+river:
+  r: 47
+  cn: 川
+  py: chuān
+  tone: 1
+  set: 4
+  memo: This is a good way to draw a river. 5 stars. No notes.
+
+work:
+  r: 48
+  cn: 工
+  py: gōng
+  tone: 1
+  set: 4
+  memo: Using an I-beam for work is a pretty iconic way to go. Smart.
+
+oneself:
+  r: 49
+  cn: 己
+  py: jǐ
+  tone: 3
+  set: 4
+  memo: Oneself is complicated and hard to pin donw. Traces of inverted 5 showing dyslexia and a preference for primes.
+
+towel:
+  r: 50
+  cn: 巾
+  py: 巾
+  tone: 1 
+  set: 4
+  memo: Douglas Adams would approve. Towel hanging over rack. Makes sense.
+
+
+
+
