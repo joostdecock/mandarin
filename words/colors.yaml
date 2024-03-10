@@ -119,3 +119,31 @@ red (the color):
     - revolutionary
   memo: Red + Color = the color red, or red
 
+white:
+  cn: 白
+  py: bái 
+  set: 3
+  tone: 2
+  also:
+    - snowy
+    - pure
+    - bright
+    - empty
+    - blank
+    - plain
+    - clear
+    - to make clear
+    - in vain
+    - gratuitous
+    - free of charge
+    - reactionary
+    - anti-communist
+    - funeral
+    - to stare coldly
+    - to write wrong character
+    - to state
+    - to explain
+    - vernacular
+    - spoken lines in opera
+  memo: It looks so plain and boring, it has to be white
+

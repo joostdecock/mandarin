@@ -1,3 +1,12 @@
+apartment building:
+  cn: 公寓
+  py: gōng yù 
+  tone: 14
+  set: 3
+  also:
+    - block of flats
+  memo: publicly owned + residence
+
 between:
   cn: 间
   py: jiān
@@ -21,6 +30,7 @@ building:
   memo: |
     This looks like a bunch of housing units stacked on top of each other with a roof over them.
     And on the left I guess we see a construction crane. This is a <b>building</b>.
+
 bus:
   cn: 公共汽车
   py: gōng gòng qì chē
@@ -94,6 +104,7 @@ house(2):
     - building (single- or two-story)
     - apartment
     - room
+  memo: fixme
 
 merchant:
   cn: 商
@@ -115,6 +126,17 @@ neighbor:
     Character for <a href="/邻">adjacent</a> plus character for <a href="/居">to reside</a> = <b>neighbor</b>
   also:
     - next door
+
+residence:
+  cn: 寓
+  py: yù
+  set: 3
+  tone: 4
+  also:
+    - to reside
+    - to imply
+    - to contain
+  memo: roof radical
 
 road:
   cn: 路

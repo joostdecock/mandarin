@@ -39,6 +39,7 @@ dog:
   set: 2
   memo: A guy in a sombrero hat is slumped against the wall sleeping while his <b>dog</b> stands guard
   
+
 duck:
   cn: 鸭
   tone: 1
@@ -48,6 +49,15 @@ duck:
     A duck is also a <b>male sex worker</b> (slang) and if that's not a paddle to pleasantly whip the customer on the right with, then I don't know what is.
   also:
     - male sex worker (slang)
+
+fox:
+  cn: 狐狸
+  py: hú li
+  set: 3
+  tone: 20
+  also:
+    - sly and treacherous person
+  memo: fixme
 
 measure word for animals:
   cn: 只

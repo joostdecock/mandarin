@@ -8,6 +8,7 @@ adjacent:
   also:
     - close to
     - neighbor
+
 better:
   cn: 更好
   py: gèng hǎo
@@ -59,21 +60,6 @@ busy:
     - to rush
   memo: This person left in a <b>hurry</b> because their coat is not longer on the coat hanger but their pot of food is still on the stove.
 
-certainly:
-  cn: 一定
-  py: yī dìng
-  set: 3
-  tone: 14
-  also:
-    - surely
-    - necessarily
-    - fixed
-    - a certain (extent etc)
-    - given
-    - particular
-    - must
-  memo: fixme
-
 common:
   cn: 普通
   tone: 31
@@ -117,6 +103,15 @@ different:
     - not alike
   memo: fixme
 
+dirty:
+  cn: 脏
+  py: zāng
+  tone: 1
+  set: 3
+  also:
+    - filthy
+  memo: fixme
+
 easy:
   cn: 容易
   py: róng yì
@@ -149,6 +144,13 @@ far:
     - by far (when comparing makes it more intense)
     - much (lower etc)
   memo: A guy is studying Pi wondering how <b>far</b> these digits keep going.
+
+foreign:
+  cn: 外国
+  py: wài guó
+  set: 3
+  tone: 42
+  memo: fixme
 
 general:
   cn: 普
@@ -186,6 +188,18 @@ handsome:
     - commander in chief
     - (coll.) cool!
     - sweet!
+  memo: fixme
+
+inferior:
+  cn: 差
+  py: chà
+  set: 3
+  tone: 4
+  also:
+    - to differ from
+    - to fall short of
+    - lacking
+    - wrong
   memo: fixme
 
 inside:
@@ -237,6 +251,20 @@ meaning:
     - to imply
   memo: fixme
 
+nervous:
+  cn: 紧张
+  py: jǐn zhāng
+  set: 3
+  tone: 31
+  also:
+    - keyed up
+    - intense
+    - tense
+    - strained
+    - in short supply
+    - scarce
+  memo: fixme
+
 new:
   cn: 新
   py: xīn
@@ -256,6 +284,20 @@ odd:
     - to marvel
     - to be baffled
   memo: strange + strange again = also strange
+
+poor:
+  cn: 穷
+  py: qióng
+  set: 3
+  tone: 2
+  also:
+    - destitute
+    - to use up
+    - to exhause
+    - thoroughly
+    - extremely
+    - persistently and pointlessly
+  memo: fixme
 
 pretty:
   cn:  漂亮
@@ -338,6 +380,21 @@ strange:
     - surprisingly
     - unusually
   memo: Looks a bit like a driver looking out their window while a small person stands on their roof which is <b>odd</b> to say the least.
+
+surely:
+  cn: 一定
+  py: yī dìng
+  tone: 14
+  set: 3
+  also:
+    - certainly
+    - necessarily
+    - fixed
+    - a certain (extent etc)
+    - given
+    - particular
+    - must
+  memo: one + to set/to fix = surely  
 
 tall:
   cn: 高

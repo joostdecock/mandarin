@@ -1,9 +1,27 @@
+affair:
+  cn: 事情
+  py: shì qíng
+  set: 3
+  tone: 42
+  also:
+    - matter
+    - thing (not material)
+    - business
+  memo: thing + feeling = non-material thing
+
 dream:
   cn: 梦
   py: mèng
   set: 3
   tone: 4
   memo: fixme
+
+foreigner:
+  cn: 外国人
+  py: wài guó rén
+  set: 3
+  tone: 422
+  memo: foreign + person
 
 gate:
   cn: 门
@@ -29,6 +47,16 @@ gate:
     - suffix (-gate) for scandal (derived from watergate)
   memo: I mean, look at it. It's clearly a door.
 
+guest:
+  cn: 客
+  py: kè
+  set: 3
+  tone: 4
+  also:
+    - customer
+    - visitor
+  memo: roof radical
+
 idea:
   cn: 意思
   py: yì si
@@ -45,6 +73,81 @@ idea:
     - to give as a small token
     - to do something as a gesture of goodwill
   memo: This is <b>thought</b> plus <b>consider</b> 
+
+instance:
+  cn: 故
+  py: gù
+  tone: 4
+  set: 3
+  also:
+    - happening
+    - reason
+    - cause
+    - intentional
+    - former
+    - old
+    - friend
+    - therefore
+    - hence
+    - (of people) to die, dead
+  memo: fixme
+
+key:
+  cn: 钥匙
+  py: yào shi
+  set: 3
+  tone: 40
+  memo: fixme
+
+landscape:
+  cn: 景色
+  py: jǐng sè
+  set: 3
+  tone: 34
+  also:
+    - scenery
+    - scene
+    - view
+  memo: scenery + look/appearance
+
+music:
+  cn: 乐
+  py: yuè
+  set: 3
+  tone: 4
+  memo: fixme
+
+nest:
+  cn: 窝
+  py: wō
+  set: 3
+  tone: 1
+  also: 
+    - pit or hollow on the human body
+    - lair
+    - den
+    - place
+    - to harbor or shelter
+    - to hold in check
+    - to bend
+    - classifier for litters and broods
+  memo: roof radical - fixme
+
+oil:
+  cn: 油
+  py: yóu 
+  set: 3
+  tone: 2
+  also:
+    - fat
+    - grease
+    - petroleum
+    - to apply tung oil, paint or varnish
+    - oily
+    - greasy
+    - glib
+    - cunning
+  memo: water radical plus a deep fryer basket = oil
 
 result:
   cn: 结果
@@ -71,6 +174,42 @@ question:
     - topic
   memo: fixme
 
+scenery:
+  cn: 景
+  py: jǐng
+  set: 3
+  tone: 3
+  also:
+    - bright
+    - circumstance
+  memo: fixme
+
+signal:
+  cn: 信号
+  py: xìn hào
+  set: 3
+  tone: 44
+  memo: mail + number = signal
+
+song:
+  cn: 歌
+  py: gē
+  tone: 1
+  set: 3
+  also:
+    - to sing
+  memo: fixme
+
+story:
+  cn: 故事
+  py: gù shi
+  tone: 40
+  set: 3
+  also:
+    - tale
+    - narrative
+  memo: happening + thing = story
+
 strip:
   cn: 条
   py: tiáo
@@ -82,6 +221,18 @@ strip:
     - clause (of law or treaty)
     - measure word for long things (ribbon, river, road, trousers, ...)
   memo: We got that table view with a pot on top and it's the one line at the top left doing the work saying this is <b>strip</b>
+
+thing:
+  cn: 事
+  py: shì
+  tone: 4
+  set: 3
+  also: 
+    - matter
+    - item
+    - work
+    - affair
+  memo: fixme
 
 thought:
   cn: 意
@@ -99,3 +250,32 @@ thought:
     - to anticipate
   memo: This looks like an over with a pot on the stove which is probably getting burnt because somebody just had a <b>thought</b> or <b>idea</b> and now they're behind their computer
 
+top:
+  cn: 顶
+  py: dǐng 
+  set: 3
+  tone: 3
+  also: 
+    - apex
+    - crown of the head
+    - roof
+    - most
+    - to carry on the head
+    - to push to the top
+    - to go against
+    - to replace
+    - to substitute
+    - to be subjected to (an aerial bombing, hailstorm etc)
+    - (slang) to "bump" a forum thread to raise its profile
+    - classifier for headwear, hats, veils etc
+  memo: Both characters emphasise the top with a horizontal stroke
+
+tree:
+  cn: 树
+  py: shù
+  set: 3
+  tone: 4
+  also:
+    - to cultivate
+    - to set up
+  memo: tree radical with happy guy

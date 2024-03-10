@@ -140,6 +140,16 @@ each:
   memo: |
     Looks a bit like a conveyor belt where **each** item is the same
 
+for:
+  cn: 为
+  py: wèi 
+  tone: 4
+  set: 3
+  also:
+    - because of
+    - to
+  memo: fixme
+
 from:
   cn: 从
   py: cóng
@@ -243,6 +253,7 @@ if:
     - in the event that
   memo: fixme
   
+
 is:
   cn: 是
   tone: 4
@@ -255,6 +266,7 @@ is:
     Why is that box levitating over that table?
     Is it magic? Is it not subject to gravity?
     Or has it simply transcended into a state where it just <b>is</b> and these questions <b>are</b> foolish. Just let it <b>be</b>.
+
 it:
   cn: 它
   py: tā
@@ -336,6 +348,17 @@ not:
     Poor arrow smashed so hard into that wall one of its arms broke off. 
     This is <b>not</b> the way to go, clearly.
     How it works: Every other verb apart from 有 is negated with 不. It is pretty much equivalent to “not” or “don't” in English.
+
+so:
+  cn: 所以
+  py: suǒ yǐ
+  tone: 33
+  set: 3
+  also:
+    - therefore
+    - as a result
+    - the reason why
+  memo: fixme
 
 still:
   cn: 还

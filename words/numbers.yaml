@@ -150,6 +150,16 @@ third:
     - primary
   memo: fixme
 
+a few:
+  cn: 一些
+  py: yī xiē
+  set: 3
+  tone: 11
+  memo: one + few
+  also:
+    - some
+    - a little
+
 a little (erhua variant):
   cn: 一点儿 
   py: yī diǎn r
@@ -232,7 +242,7 @@ expensive:
   memo: |
     Looks like a person walking around with a very elaborate hat on. Perhaps some sort of kind or pope hat? Looks <b>expensive</b>
 
-few:
+few(1):
   cn: 少
   py: shǎo
   set: 3
@@ -247,6 +257,17 @@ few:
     This is the symbol for <a href="小3">little</a> whith an trendline under it.
     It means, <b>few</b>, <b>less</b> and so unlike little it's used in comparison or relative.
     So that's what that trendline is for.
+
+few(2):
+  cn: 些
+  py: xiē 
+  set: 3
+  tone: 1
+  also:
+    - some
+    - several
+    - measure work for a small amount or number, but greater than 1
+  memo: fixme
 
 many:
   cn: 多
@@ -264,6 +285,20 @@ many:
   memo: |
     Sounds like duo, which is what we see here.
     Also the general quantity vibes matches well with the repetition on display.
+
+frequently:
+  cn: 经常
+  py: jīng cháng
+  set: 3
+  tone: 12
+  also:
+    - constantly
+    - regularly
+    - often
+    - day-to-day
+    - everyday
+    - daily
+  memo: fixme
 
 money:
   cn: 钱
@@ -315,6 +350,16 @@ only:
     - just
   memo: We're following a truck on the highway and we're <b>only</b> leaving one stripe between us. Not good.
 
+several:
+  cn: 几个
+  py: jǐ ge
+  set: 3
+  tone: 30
+  also:
+    - a few
+    - how many
+  memo: fixme
+
 so much:
   cn: 这么
   py: zhè me
@@ -328,6 +373,13 @@ so much:
   memo: |
     Literally <b>this</b> plus that all-purpose suffice for <b>what</b> (么)
     Together this-what is this much, or so much.
+
+some:
+  cn: 有的
+  py: yǒu de 
+  set: 3
+  tone: 30
+  memo: fixme
 
 subtraction:
   cn: 减法

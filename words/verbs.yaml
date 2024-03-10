@@ -1,3 +1,28 @@
+to add:
+  cn: 加 
+  py: jiā 
+  set: 3
+  tone: 1
+  also:
+    - plus
+    - to apply (restrictions) to (somebody)
+    - to give (support) to (something)
+  memo: fixme
+
+to add oil:
+  cn: 加油
+  py: jiā yóu
+  set: 3
+  tone: 12
+  also:
+    - to top up with gas
+    - to refuel
+    - to accelerate
+    - to step on the gas
+    - to make an extra effort
+    - to cheer somebody on
+  memo: to add + oil  
+
 to announce:
   cn: 报
   py: bào 
@@ -33,6 +58,15 @@ to ask (2):
   memo: |
     This is clearly a QR-code which is what you use if you have questions <b>to ask</b>.
     I mean, it will take you to a website with more info at least.
+
+to bathe:
+  cn: 洗澡
+  py: xǐ zǎo
+  set: 3
+  tone: 33
+  also:
+    - to take a shower
+  memo: fixme
 
 to be aware:
   cn: 知
@@ -255,6 +289,23 @@ to cross:
     - too-
   memo: Dude on the right is going to <b>go over</b> the dude on the left for some readon.
 
+to dance(1):
+  cn: 舞
+  py: wǔ
+  set: 3
+  tone: 3
+  memo: fixme
+  also:
+    - to wield
+    - to brandish
+
+to dance(2):
+  cn: 跳舞
+  py: tiào wǔ
+  set: 3
+  tone: 43
+  memo: to jump + to dance
+
 to do:
   cn: 作
   tone: 4
@@ -282,6 +333,18 @@ to deliver:
     - to see off
     - to send
   memo: This looks like a person with one of them transporter thingies on which is a sheep or something else they have to <b>deliver</b>
+
+to draw out:
+  cn: 抽
+  py: chōu 
+  set: 3
+  tone: 1
+  also:
+    - to pull out from in between
+    - to remove part of the whole
+    - (of certain plants) to sprout or bud
+    - to whip or thrash
+  memo: fixme
 
 to eat:
   cn: 吃饭
@@ -347,6 +410,7 @@ to finish class:
     That left character represents the end of things. We see the finish line and we're heading to it.
     The right part is a teacher at a whiteboard. So to finish class.
     
+
 to forget:
   cn: 忘
   py: wàng 
@@ -377,6 +441,7 @@ to guard:
     - health
   memo: Looks a bit like a very stylized guard with a helmet looking towards the right
   
+
 to go:
   cn: 去
   tone: 4
@@ -498,29 +563,28 @@ to introduce:
     - armor
   memo: I guess <b>to lie between</b> is easy to remember here and shell is also somewhat close.
 
-to play:
-  cn: 玩
-  py: wán
+to invite to dinner:
+  cn: 请客
+  py: qǐng kè 
   set: 3
-  tone: 2
+  tone: 34
   also:
-    - to have fun
-    - to trifle with
-    - toy
-    - something used for amusement
-  memo: fixme
+    - to give a dinner party
+    - to entertain guests
+    - in general to say 'my treat' 
+  memo: fixme    
 
-to present:
-  cn: 介绍
-  py: jiè shào
+to jump:
+  cn: 跳
+  py: tiào
   set: 3
-  tone: 44
+  tone: 4
   also:
-    - to introduce
-    - to give a presentation
-    - to present (someone for a job or so)
-    - introduction
-  memo: This is to introduce + to continue. Which I guess is to present because you start with an introduction and then continue
+    - to hop
+    - to skip over
+    - to bounce
+    - to palpitate
+  memo: fixme
 
 to know:
   cn: 知道
@@ -595,6 +659,20 @@ to look:
   memo: |
     This looks like a tree falling down on a house. So <b>Watch out!</b>
     But also just <b>to look</b> and a bunch of variants.
+
+to look for:
+  cn: 找
+  py: zhǎo 
+  tone: 3
+  set: 3
+  also:
+    - to try to find
+    - to call on sb
+    - to find
+    - to seek
+    - to return
+    - to give change
+  memo: fixme
 
 to make:
   cn: 做
@@ -719,7 +797,32 @@ to pass through:
     - abbreviation for economics
   memo: This guy is going through a lot, he's got work that's dragging him down and something chasing him from the left
 
-to practice:
+to play(1):
+  cn: 玩
+  py: wán
+  set: 3
+  tone: 2
+  also:
+    - to have fun
+    - to trifle with
+    - toy
+    - something used for amusement
+    - to keep something for entertainment
+  memo: fixme
+
+to play(2):
+  cn: 玩儿
+  py: wán r
+  set: 3
+  tone: 20
+  also:
+    - to have fun
+    - to hang out
+  memo: to play + R
+
+
+
+to practice(1):
   cn: 习  
   tone: 2
   py: xí
@@ -730,6 +833,17 @@ to practice:
   memo: |
     You would need <b>to practice</b> to make a square from these lines.
     Not often used on its own, typically goes with another word.
+
+to practice(2):
+  cn: 练习
+  py: liàn xí
+  set: 3
+  tone: 42
+  also:
+    - excercise
+    - drill
+    - practice
+  memo: practice + practice
 
 to prepare:
   cn: 准备
@@ -742,6 +856,18 @@ to prepare:
     - to be about to
     - reserve (fund)
   memo: This is one of those pita meat cones and a fryer because somebody is about <b>to prepare</b> some food.
+
+to present:
+  cn: 介绍
+  py: jiè shào
+  set: 3
+  tone: 44
+  also:
+    - to introduce
+    - to give a presentation
+    - to present (someone for a job or so)
+    - introduction
+  memo: This is to introduce + to continue. Which I guess is to present because you start with an introduction and then continue
 
 to raise:
   cn: 起
@@ -841,15 +967,6 @@ to receive:
     - to take over from someone
   memo: Person at the bottom right is carrying this heavy pot which the person on the left is about <b>to receive</b>
 
-to reply:
-  cn: 回答
-  py: huí dá
-  set: 3
-  tone: 22
-  also:
-    - to answer
-    - the answer
-  memo: fixme
 
 to return:
   cn: 回
@@ -982,6 +1099,35 @@ to send:
     - to give as a presnet
   memo: First character is <b>to deliver</b> and second is <b>to</b> so <b>to send</b>
 
+to set:
+  cn: 定
+  py: dìng
+  tone: 4
+  set: 3
+  also:
+    - to fix
+    - to determine
+    - to decide
+    - to order
+  memo: Looks a bit like a foot, so firmly planted feet = to fix one's position
+
+to sing:
+  cn: 唱
+  py: chàng 
+  set: 3
+  tone: 4
+  also:
+    - to call loudly
+    - to chant
+  memo: Look at all them loudspeakers
+
+to sing a song:
+  cn: 唱歌
+  py: chàng gē
+  set: 3
+  tone: 41
+  memo: to sing + song
+
 to sit:
   cn: 坐
   set: 3
@@ -1031,6 +1177,16 @@ to start:
     - to begin
   memo: |
     Before we <b>start</b>, we must have pie (on the left) and only then can we start hammering things (on the right)
+
+to strive:
+  cn: 努力
+  py: nǔ lì
+  tone: 34
+  set: 3
+  also:
+    - great effort
+    - to try hard
+  memo: fixme
 
 to study (1):
   cn: 学习
@@ -1122,6 +1278,14 @@ to transform:
     - rebellion
   memo: We see one of them vats you get baptized in against your will and one kid struggling to rebel against this.
     
+
+to try to find the time to:
+  cn: 抽时间
+  py: chōu shí jiān
+  set: 3
+  tone: 121
+  memo: to draw out + time
+
 to understand:
   cn: 懂
   py: dǒng
@@ -1130,6 +1294,13 @@ to understand:
   also:
     - to comprehend
   memo: fixme
+
+to understand what one is reading or watching:
+  cn: 看懂
+  py: kàn dǒng
+  set: 3
+  tone: 43
+  memo: Watch + understand
 
 to use:
   cn: 以
@@ -1247,6 +1418,7 @@ to work:
   memo: |
     Character for <a href="/工1">work</a> plus character for <a href="/作4">to do<a> makes <b>to work</b>
                 
+
 to wrap:
   cn: 包
   tone: 1

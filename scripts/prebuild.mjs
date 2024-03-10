@@ -75,21 +75,21 @@ export const prebuildWords = async () => {
       categories[category].push(info)
       sets[info.set].push(info)
       // English
-      imports[info.en] = { ...info, slug: asSlug(info.en), type: 'en' }
-      slugs.push('/'+asSlug(info.en))
+      imports[info.en] = { ...info, slug: asSlug(['en'], info), type: 'en' }
+      slugs.push('/'+asSlug(['en'], info))
       // Chinese
-      if (!info.cn) console.log(info)
-      imports[info.cn+info.tone] = { ...info, slug: asSlug(info.cn+info.tone), type: 'cn' }
-      slugs.push('/'+asSlug(info.cn+info.tone))
-      mandarin.push(asSlug(info.cn+info.tone))
+      if (typeof info.cn === 'undefined') console.log('No CN:', info)
+      imports[info.cn+info.tone] = { ...info, slug: asSlug(['en', 'tone'], info), type: 'cn' }
+      slugs.push('/'+asSlug(['cn', 'tone'], info))
+      mandarin.push(asSlug(['cn', 'tone'], info))
       // Pinyin
-      if (!info.py) console.log(info)
-      imports[info.py] = { ...info, slug: asSlug(info.py), type: 'py' }
-      slugs.push('/'+asSlug(info.py))
+      if (!info.py) console.log('No PY:', info)
+      imports[info.py] = { ...info, slug: asSlug(['py'], info), type: 'py' }
+      slugs.push('/'+asSlug(['py'], info))
       if (info.also) {
         for (const alt of info.also) {
           try {
-            imports[alt] = { ...info, slug: asSlug(alt), type: 'en', alt: info.en }
+            imports[alt] = { ...info, slug: asSlug(alt, info), type: 'en', alt: info.en }
           } catch (err) {
             console.log({err, info})
           }
