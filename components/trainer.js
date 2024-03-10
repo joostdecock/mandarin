@@ -100,7 +100,6 @@ const WordTrainer = ({ getNext, type, preload=false }) => {
       onSwipedUp={swipeUpHandler}
     >
       <div className="max-w-xl h-screen flex flex-col items-center justify-center px-4 gap-4 m-auto">
-        {loading ? null : <TrafficLights source={source} picks={app.picks}/>}
         <h1 className="text-center text-7xl break-all">
           {loading
             ? <Spinner className={`w-24 h-24 ${swiped === 'up' ? 'text-success' : ''} ${swiped === 'down' ? 'text-error' : ''} `} />
@@ -146,10 +145,6 @@ const WordTrainer = ({ getNext, type, preload=false }) => {
               className="btn btn-secondary btn-wide btn-lg mt-8 lg:block btn-outline border-2 hidden"
               onClick={nextWord}
             >next</button>
-            <button 
-              className="btn btn-success btn-wide btn-lg mt-8 border-2 absolute bottom-16 lg:relative lg:bottom-auto"
-              onClick={swipeDownHandler}
-            >Show less often</button>
           </>
         )}
       </div> 
