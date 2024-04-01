@@ -183,5 +183,19 @@ jin zi = silver?
 yin zi = gold?
 kun = trapped / sleepy
 
+yi yang = same
+yi jai = one plus (phone brand)
+dou = steep
+
+bao mu = baby sitter
+gei 
+zhi lu = trip
+jin = measure of weight (500g)
+yin liao = drinks
+ji wei jiu = coktail
+cao3 = grass
+cao4 = fuck/shit (as an expression, but not really a curse. More like OMG)
+jia = home
+an jia = settle (as in, this is where I'll live)
 
 

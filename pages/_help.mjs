@@ -9,6 +9,13 @@ import Bg from 'components/bg.js'
 import DownIcon from 'components/icons/down.js'
 
 const tutors = {
+  irina: {
+    url: 'https://preply.com/en/tutor/3077419',
+    about: [
+      'Irina is a friendly and highly motivated teacher who really enjoys teaching, and it shows.',
+      'I tend to learn better when I know why things are a certain way, and Irina always makes sure to explain.'
+    ]
+  },
   jing: {
     url: 'https://preply.com/en/tutor/1545267',
     about: [
@@ -76,7 +83,7 @@ const HelpPage = () => {
               <span className='block text-base-300 text-sm pt-1 pb-3'>Use this when you are confident you know the word.</span>
             </li>
             <li>
-              <b>The <code className="border px-2 py-1 bg-base-200 rounded-lg">Show notes</code> button reveals the notes and translation</b>
+              <b>The <code className="border px-2 py-1 bg-base-200 rounded-lg">Show memo</code> button reveals the notes and translation</b>
               <span className='block text-base-300 text-sm pt-1 pb-3'>Use this when you are not sure you know the word.</span>
             </li>
             <li>

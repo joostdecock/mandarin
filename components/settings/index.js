@@ -7,7 +7,6 @@ const Settings = ({ app }) => [
   <AutoPlay app={app} />,
   <CnPy app={app} />,
   <CnTone app={app} />,
-  <Less app={app} />,
 ]
 
 export default Settings
