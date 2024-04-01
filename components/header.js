@@ -58,7 +58,7 @@ const Header = ({ app, setSearch }) => {
               {app.primaryMenu ? <CloseIcon /> : <MenuIcon />}
             </button>
             <div className="hidden lg:flex flex-row gap-4 items-center">
-              <NavBtn href="/train" txt="Start training" />
+              <NavBtn href="/_train" txt="Start training" />
               <NavBtn href="/_list" txt="All words" />
               <NavBtn href="/_cat" txt="Categories" />
               <NavBtn href="/_set" txt="Sets" />

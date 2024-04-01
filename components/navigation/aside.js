@@ -20,7 +20,7 @@ export const Menu = () => (
       <li><PageLink href="/_set" txt="Sets"/></li>
     </ul>
     <h2>Practice random words</h2>
-    <Link href={`/train`}>
+    <Link href={`/_train`}>
       <button className="btn btn-secondary w-full my-4">Start here</button>
     </Link> 
   </>

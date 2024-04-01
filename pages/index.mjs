@@ -49,7 +49,7 @@ const HomePage = () => {
         <div className="w-64 flex flex-col gap-8">
           <div>
           <DownIcon className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20 animate-bounce w-full m-auto"/>
-          <Link href="/train">
+          <Link href="/_train">
             <button className="btn btn-primary btn-lg w-full">
               Start learning
             </button>

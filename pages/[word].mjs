@@ -35,7 +35,10 @@ const WordPage = ({ cn, tone, py, set, memo, also, en, cat, slug, type }) => {
         </div>
       </h1>
       <div className="text-sm text-center mdx">
-        {memo.split("\n").map((line, i) => <span key={i} className="block" dangerouslySetInnerHTML={{__html: line}} />)}
+        {typeof memo === 'string' 
+          ? memo.split("\n").map((line, i) => <span key={i} className="block" dangerouslySetInnerHTML={{__html: line}} />)
+          : null
+        }
         {also && (
           <>
             <span className="mt-3 block font-bold">Also:</span>

@@ -79,7 +79,7 @@ export const prebuildWords = async () => {
       slugs.push('/'+asSlug(['en'], info))
       // Chinese
       if (typeof info.cn === 'undefined') console.log('No CN:', info)
-      imports[info.cn+info.tone] = { ...info, slug: asSlug(['en', 'tone'], info), type: 'cn' }
+      imports[info.cn+info.tone] = { ...info, slug: asSlug(['cn', 'tone'], info), type: 'cn' }
       slugs.push('/'+asSlug(['cn', 'tone'], info))
       mandarin.push(asSlug(['cn', 'tone'], info))
       // Pinyin
