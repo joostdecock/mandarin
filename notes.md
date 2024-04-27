@@ -198,4 +198,181 @@ cao4 = fuck/shit (as an expression, but not really a curse. More like OMG)
 jia = home
 an jia = settle (as in, this is where I'll live)
 
+she xiang tou = camera
+hai mei = not yet
+jing chang = often
+jian bing = pancake
+nan zhang = south
+chuzu = rent (chuzuche = taxi)
+chu zu she = di (synonym)
+sai che = traffic jam (I think?) 
+luxing juhua = travel plan
+
+mei yuan = US dollar
+ou yuan = Euro
+ying bang = GB Pound
+ri yuan = Japanese Yes
+lubu = RU ruble
+tai zhu = Thai baht
+
+yun4 dong4 = excercise
+
+she4 xiang4 tou2 = webcam / survaillance camera
+hai2 mei2 = 还没 = not yet
+ba1 zi4 hai2 mei2 yi1 pie3 = (lit: there is not even the firstt stroke of the character 八) = things have not even begin to take shape = no sign of success yet
+
+jing1 chang2 = frequently, often
+zi4 ji3 = along, one your own
+
+pian1 pang2 = 偏旁 = the left- and right-side of a split Chinese character, often the key (radical) and phonetic
+ji1 wei3 jiu3 = cocktail = 鸡尾酒  (load word)
+yin3 liao4 = drink, beverage = 饮料 
+
+ti1 = to kick
+pao3 = to run
+tiao4 = to jump
+
+nan2 fang1 = south
+bei3 fang1 = north
+
+da3 biao3 = meter (as in a taxi)
+fa1 piao4 = receipt
+gao1 tie3 = TGV
+lu3 xing2 ji4 hua4 = travel plan = 旅行计划
+
+xia4 che = get of a car or bus
+chang che = get on a car or bus
+
+zhan4 = station
+huo3 che1 zhan4 = HST station
+jiu4 hao3 = (just? I think, not sure (or 'it's ok', this will be useful)
+
+zhuan = transfer (both as in money, and as in transferring to a different method of transportation)
+
+xiaoxin = careful
+
+jie3 jue2 = to fix (a problem)
+hai = still
+ji4hua4 = plan
+yi he yuan = summer palace (in Beijing)
+gong yuan = park
+xiao hai = children
+ke neng ba = maybe
+huo zhe = or
+chu PLACE zou ji lu che = what bus do I take to go to PLACE
+
+qiantian = the day before yesterday
+zuotian = yesterday
+jintian = today
+mingtian = tomorrow
+houtian = the day after tomorrow
+
+qiannian = the year before last year
+qunian = last year
+jinnian = this year
+mingnian = next year
+hounian = the year after next year
+
+shang ge yue = last month
+zhe ge yue = this month
+xia ge yue = next month
+
+shang ge xing qi = last week
+zhe ge xing qi = this week
+xia ge xing qi = last week
+
+zhi fu bao = alipay
+soa je li = scan here (sao = scan)
+soa hao le = scan is ok
+
+zhan = bus stop / station
+
+goa de di tu = Google maps but for China
+
+chu PLACE zai na ge zhan xia? What stop do you get off for pace?
+
+yao = 1 but only in phone numbers, bus numbers, IP addresses, ...
+below 100 say the number (81 = ba she yi) 
+above 100, say the digits (812 = ba yao er)
+
+dao = arrive at
+gao su = to tell/ask
+gao su wo yi sheng = tell me, ping me, let me know
+jiao = ask
+yan ke yi sheng = eye doctor
+
+yong = to use
+ke yi yong wei xin ma? (can I use wechat (pay)?)
+ke yi yong xiang xin maa? (can I use cash)
+
+ji jia qi = (taxi) meter
+fa piao = receipt
+binguan = hotel
+xia che = get off a car or bus
+ting che = stop a car of bus
+gei = give
+qian = money
+xiao xin = careful
+zuo (che) = to take a car of bus
+ji = how many/much
+lu = way/road/path
+dao = arrive/reach/get to
+hai = still/also
+you = have/there be
+zhan = bus stop
+gaosu = tell
+sheng = voice/sound
+
+(wo she) dan1 shen1 = single (no partner)
+hu zhao = passport
+zhong yao = important
+fang ka = room card
+xin yong ka = credit dard
+zhang = measure word for credit card (or paper and so on)
+
+qian zheng = visa (not the credit card)
+mian qian = visa-exempt
+mian fei = free of charge (no need to pay)
+mian = no need
+
+yu ding = reserve/book
+ding = reserve/book (shorter)
+xing = family name
+qing wen, nin gui xing = the most polite way to ask for someone's (last) name
+
+he yiyi = irina's real name
+
+yi yang = same
+wo de quan ming she joost de cock
+qing = please
+shao deng = wait a moment
+qing shao deng = please wait a moment (more formal)
+qing deng ixia = please wait a moment (less formal)
+
+wo yuding le fangjian = I have booked a room
+ban yi xia ru zhu = I want to check in (more or less, common phrase)
+
+kong = empty / unoccupied
+cha4 = bad
+cha2 = to check
+
+zao can = breakfast (= zao fan)
+quan = coupon
+xing li = luggage
+fu wu = service
+fu wu yuan = waiter
+yuan = walker
+yue kuai yue hao = the sooner the better
+dian ti = elevator or escalator (electric ladder)
+ti (zi) = ladder (also informally used to mean VPN)
+fu ti = escalator (hold rail ladder)
+
+piao wu fu wu = ticket service
+mian fei = free (of charge)
+
+
+
+ 
+
+
 
