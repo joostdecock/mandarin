@@ -191,6 +191,17 @@ a little (non-erhua variant):
     Then we have the character for <a href="/点3">point or drop</a>.
     One drop of something = <b>a little</b>
 
+any:
+  cn: 任何
+  py: rèn hé
+  tone: 42
+  set: 4
+  also:
+    - whatever
+    - whichever
+    - whatsoever
+  memo: fixme
+
 chunk:
   cn: 块
   tone: 4
@@ -349,6 +360,17 @@ only:
     - merely
     - just
   memo: We're following a truck on the highway and we're <b>only</b> leaving one stripe between us. Not good.
+
+other:
+  cn: 另
+  py: lìng
+  tone: 4
+  set: 4
+  also:
+    - another
+    - separate
+    - separately
+  memo: fixm
 
 several:
   cn: 几个

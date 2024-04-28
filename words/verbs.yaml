@@ -88,6 +88,18 @@ please:
     - to request
   memo: This is the character of the Qing dynasty, with a character on the left that bows their head and says <b>please</b>
 
+to agree:
+  cn: 订
+  py: dìng
+  tone: 4
+  set: 4
+  also:
+    - to conclude
+    - to draw up
+    - to subscribe to (a newsletter, ...)
+    - to order 
+  memo: fixme
+
 to arrive:
   cn: 到
   py: dào
@@ -247,6 +259,17 @@ to complete:
     - to accomplish
   memo: fixme
 
+to compute:
+  cn: 算
+  py: suàn
+  tone: 4
+  set: 4
+  also:
+    - to regard as
+    - to figure
+    - to calculate
+  memo: fixme
+
 to consider:
   cn: 思
   py: sī
@@ -264,6 +287,16 @@ to continue:
   also:
     - to carry on
   memo: This thing is not letting some roadblock stop it. It will jump over it to <b>continue</b> and <b>carry on</b>
+
+to continue (2):
+  cn: 继续
+  py: jì xù
+  tone: 44
+  set: 4
+  also:
+    - to proceed with
+    - to go on with
+  memo: fixme
 
 to cook:
   cn: 做饭
@@ -457,6 +490,26 @@ to go:
   memo: |
     The <a href="/云">cloud</a> character with an extra line means <b>to go</b>.
     The only think that can draw a line on top a cloud is an airplane. And they are always going places.
+
+to go for a walk:
+  cn: 散步
+  py: sàn bù
+  tone: 44
+  set: 4
+  also:
+    - to take a walk
+  memo: fixme
+
+to go online:
+  cn: 上网
+  py: shàng wǎng
+  tone: 43
+  set: 4 
+  also:
+    - to connect to the internet
+    - to be uploaded (of a file)
+    - to move in close to the net (in badminton, tennis, ...)
+  memo: on top + net = to go online
 
 to go out:
   cn: 出去
@@ -797,6 +850,15 @@ to pass through:
     - abbreviation for economics
   memo: This guy is going through a lot, he's got work that's dragging him down and something chasing him from the left
 
+to place an order:
+  cn: 预订
+  py: yù dìng
+  tone: 44
+  set: 4
+  also:
+    - to book ahead
+  memo: fixme
+
 to play(1):
   cn: 玩
   py: wán
@@ -819,8 +881,6 @@ to play(2):
     - to have fun
     - to hang out
   memo: to play + R
-
-
 
 to practice(1):
   cn: 习  
@@ -1178,6 +1238,13 @@ to start:
   memo: |
     Before we <b>start</b>, we must have pie (on the left) and only then can we start hammering things (on the right)
 
+to stay:
+  cn: 待
+  py: dài
+  tone: 4
+  set: 4
+  memo: fixme
+
 to strive:
   cn: 努力
   py: nǔ lì
@@ -1447,3 +1514,14 @@ to write:
   memo: |
     Nobody writes anymore, but this is clearly paper snaking out of a printer.
     Because that is what we use <b>to write</b> these days.
+
+to yield:
+  cn: 让
+  py: ràng
+  tone: 4
+  set: 4
+  also:
+    - to permit
+    - to let somebody do something
+    - to have somebody do something
+    - to make somebody (feel good etc)

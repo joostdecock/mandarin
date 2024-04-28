@@ -287,6 +287,15 @@ day of the month:
     - classidier for number of people
   memo: fixme
 
+duration (long):
+  cn: 久
+  py: jiǔ
+  tone: 3
+  set: 4
+  also:
+    - (long) duration of time
+  memo: fixme
+
 early:
   cn: 早
   py: zǎo
@@ -323,6 +332,13 @@ every day:
   tone: 11
   memo: day day, or every day
 
+for how long:
+  cn: 多长时间
+  py: duo chang shi jian
+  tone: 1221
+  set: 4
+  memo: how long + time
+
 hour:
   cn: 小时 
   py: xiǎo shí
@@ -338,6 +354,13 @@ how big:
   also:
     - How old are you (for children only)
   memo: You know the character for big, and the first one is <a href="/多">many/much/often/how</a>
+
+how long (time):
+  cn: 多久
+  py: duō jiǔ
+  tone: 13
+  set: 4
+  memo: fixme
 
 (in the) past:
   cn: 过去 
@@ -368,7 +391,6 @@ late:
     - night
   memo: |
     This person's eyes are all big (probably from drugs to stay away) their hair is a mess and they're leaning against a wall because it's too late in the night
-
     
 later:
   cn: 下

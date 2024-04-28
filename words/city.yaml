@@ -127,6 +127,16 @@ neighbor:
   also:
     - next door
 
+other people:
+  cn: 别人
+  py: bié rén
+  tone: 22
+  set: 4
+  also:
+    - others
+    - other person
+  memo: fixme
+  
 residence:
   cn: 寓
   py: yù
@@ -168,3 +178,11 @@ shop:
     The left is <a href="/商">merchant</a> because a <b>shop</b> without somebody running it is not help to us.
   also:
     - store
+
+someone else:
+  cn: 另一个人
+  py: lìng yī gè rén
+  tone: 4142
+  set: 4
+  memo: fixme
+

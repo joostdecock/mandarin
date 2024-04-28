@@ -15,6 +15,25 @@ dream:
   set: 3
   tone: 4
   memo: fixme
+      
+festival:
+  cn: 节
+  py: jié
+  tone: 2
+  set: 4
+  also:
+    - holiday
+    - node
+    - joint
+    - section
+    - segment
+    - part
+    - to economize
+    - to save
+    - to abridge
+    - moral integrity
+    - classifier for segments, e.g. lessons, train wagons, biblical verses
+  memo: Looks a bit like a shingle someone put up on the renaissance fair (festival) but this has so many meanings it's hard to cover them.
 
 foreigner:
   cn: 外国人
@@ -133,6 +152,15 @@ nest:
     - classifier for litters and broods
   memo: roof radical - fixme
 
+net:
+  cn: 网
+  py: wǎng
+  tone: 3
+  set: 4
+  also: 
+    - network
+  memo: If this does not look like a net, what does?
+
 oil:
   cn: 油
   py: yóu 
@@ -183,6 +211,13 @@ scenery:
     - bright
     - circumstance
   memo: fixme
+
+shoe:
+  cn: 鞋
+  py: xié
+  tone: 2
+  set: 4
+  memo: Looks maybe a bit like a shoe rack, at least the part on the right
 
 signal:
   cn: 信号

@@ -28,6 +28,93 @@ because:
     - reason
   memo: This person is being kept in a box. Why? <b>Because</b>
 
+forget about it:
+  cn: 算了
+  py: suàn le 
+  tone: 40
+  set: 4
+  also:
+    - let it be
+    - let it pass
+  memo: fixme
+
+I heard right:
+  cn: 我听对了
+  py: wǒ tīng duì le
+  tone: 3140
+  set: 4
+  memo: Me + heard + right + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
+
+I heard wrong:
+  cn: 我听错了
+  py: wǒ tīng cuò le
+  tone: 3140
+  set: 4
+  memo: Me + heard + wrong + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
+
+I said it right:
+  cn: 我说对了
+  py: wǒ shuō duì le
+  tone: 3140
+  set: 4
+  memo: Me + speak + right + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
+
+I said it wrong:
+  cn: 我说错了
+  py: wǒ shuō cuò le
+  tone: 3140
+  set: 4
+  memo: Me + speak + wrong + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
+
+I saw it right:
+  cn: 我看对了
+  py: wǒ kàn duì le
+  tone: 3440
+  set: 4
+  memo: Me + see + right + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
+
+I saw it wrong:
+  cn: 我看错了
+  py: wǒ kàn cuò le
+  tone: 3440
+  set: 4
+  memo: Me + see + wrong + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
+
+I was right:
+  cn: 我对了
+  py: wǒ duì le
+  tone: 340
+  set: 4
+  memo: Me + right + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
+
+I was wrong:
+  cn: 我错了
+  py: wǒ cuò le
+  tone: 340
+  set: 4
+  memo: Me + wrong + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
+
+let me look for it (1):
+  cn: 让我找找
+  py: ràng wǒ zhǎo zhǎo
+  tone: 4333
+  set: 4
+  memo: This pattern also works with other verbs
+
+let me look for it (2):
+  cn: 让我找一找
+  py: ràng wǒ zhǎo yī zhǎo
+  tone: 43313
+  set: 4
+  memo: This pattern also works with other verbs
+
+let me look for it (3):
+  cn: 让我找一下
+  py: ràng wǒ zhǎo yī xià
+  tone: 43314
+  set: 4
+  memo: This pattern also works with other verbs
+
 like this:
   cn: 这么着
   py: zhè me zhe
@@ -37,6 +124,12 @@ like this:
     - this
     - in this way
   memo: This is <b>like this</b> plus 着 which indicates an action in progress
+
+long time no see:
+  cn:  好久不见
+  py: hǎo jiǔ bu jiàn
+  tone: 3304
+  memo: fixme
 
 nice to meet you:
   cn: 认识你很高兴
@@ -68,6 +161,13 @@ too expensive:
   set: 3
   tone: 440
   memo: Greatest/Highest + Expensive + Intensifier = Too expensive!
+
+to stay home:
+  cn: 代在家
+  py: dài zài jiā
+  tone: 441
+  set: 4
+  memo: fixme
 
 vast crowd:
   cn: 人山人海 

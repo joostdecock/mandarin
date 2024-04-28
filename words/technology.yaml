@@ -108,6 +108,13 @@ photograph:
     - picture
   memo: to reflect + slice = picture. Makes sense
 
+screen:
+  cn: 屏幕
+  py: píng mù
+  tone: 24
+  set: 4
+  memo: fixme
+
 television:
   cn: 电视 
   py: diàn shì

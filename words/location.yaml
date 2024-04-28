@@ -154,6 +154,13 @@ north:
     Bei is easy enough to remember thanks to Beijing being the capital in the North.
     As for the character, it's mostly made up of straight lines which is how things then to cristalize when frozen, which is way more common in the <b>North</b>
 
+online:
+  cn: 网上
+  py: wǎng shàng
+  tone: 34
+  set: 4
+  memo: op top + the net = online
+
 on top:
   cn: 上
   py: shàng

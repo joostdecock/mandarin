@@ -35,6 +35,15 @@ bewildering:
     - rather
   memo: Person tied up about to be impaled. It's all rather bewildering.
 
+boring:
+  cn: 没有意思
+  py: méi yǒu yì si
+  tone: 2340
+  set: 4
+  also:
+    - of no interest
+  memo: fixme
+  
 bright:
   cn: 亮
   tone: 4
@@ -146,6 +155,17 @@ far:
   memo: A guy is studying Pi wondering how <b>far</b> these digits keep going.
 
 foreign:
+  cn: 外
+  py: wài
+  set: 4
+  tone: 4
+  also:
+    - outside
+    - in addition
+    - external
+  memo: fixme
+
+foreign country:
   cn: 外国
   py: wài guó
   set: 4
@@ -215,6 +235,28 @@ inside:
     This looks like a hood ornament on a fancy car.
     That hood ornament goes on the hood, and it tells you what's <b>inside</b> the hood (or at least the brand of the <b>internal</b> combustion engine)
 
+interesting:
+  cn: 有意思
+  py: yǒu yì si
+  tone: 340
+  set: 0
+  also:
+    - meaningful
+    - enjoyable
+    - fun
+  memo: fixme
+
+interesting:
+  cn: 有意思
+  py: yǒu yì si
+  tone: 340
+  set: 4
+  also:
+    - meaningful
+    - fun
+    - enjoyable
+  memo: fixm
+
 long: 
   cn: 长
   py: cháng
@@ -227,16 +269,6 @@ long:
     - constantly
   memo: What you see here is the ocean. The horizon, the way the things are reflected in the water. So convey <b>length</b>, <b>forever</b>, <b>always</b>, or <b>constantly</b> arguably an ocean is a pretty good pictogram.
 
-interesting:
-  cn: 有意思
-  py: yǒu yì si
-  tone: 340
-  set: 4
-  also:
-    - meaningful
-    - fun
-    - enjoyable
-  memo: fixm
 
 meaning:
   cn: 意味

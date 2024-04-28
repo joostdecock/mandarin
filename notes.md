@@ -1,54 +1,4 @@
-ling: other/another
-dai zai jia: to stay at home
-ji xu: continue
-hao jiu bu jian: long time no see
-duo jiu: how long (time)
-bu cuo: not bad (good)
-cuo is opposite of dui
-xian = practice different fonts
-jue de = to think
-yi si = meaning
-mei (you) yi si = no meaning (boring)
-suan le = forget about it
-bie ren = other people
-ling yi ge ren = one (other person)
-zhao = to look for
-ding = book (good to know, this one)
 jie = measure word for class
-ren he = any, anything
-een he shi qing = nothing, no things
-ta bu xain zuo ren he shi wing
-ke shi = dan shi
-wai = foreign
-wang = net
-shang wang = go on the internet
-
-ping mu = screen
-ji xu = go on
-jiu = period of time
-duo jiu = how long?
-duo chang shi jian = how long? 
-cuo = wrong
-wo cuo le = I was wrong
-wo ting cuo le = I heard wrong
-wo shuo cuo le = I said it wrong
-wo kan cuo le = I saw it wrong
-wo kan dui le = I saw it correct (swapping dui/cuo works for all of these)
-suan le = nevermind / forget about it
-ling i ge ren = another person
-zhao = to look for
-rang = let
-xin = heart
-san bu = go for a walk
-xie = shoes
-
-rang wo zhao zhao = let me look for it
-rang wo zhao yi zhao = let me look for it
-tang wo zhao yi xia = let me look for it
-(these three variations work with other verbs too)
-
-jie = measure word for lessons / class
-yi jie ke = one lesson
 
 di fang = place
 yi ge di fang = a place
@@ -370,9 +320,25 @@ fu ti = escalator (hold rail ladder)
 piao wu fu wu = ticket service
 mian fei = free (of charge)
 
+ba1 sai4 luo2 na4 = Barcelona
+shenme difang = where
+man gu = Bangkok
+yin du mi xi ya
 
+shi A hai shi B = is it A or B?
+zhe xie = these
+na xie = those
+na xie = which (different tone)
 
- 
+you lan = sight seeing (for famous places, and so on)
 
+cong A dao B = to arrive in B from A
+cong A lai dao B = to arrive in B coming from A (emphasis on arriving FROM a)
+cong A dao B = from A to B (as time, like from 6 o'clock to 9 o'clock)
+cong A hui B = from A back to B
+cong A hui dao B = from A arrived back to B (emphasis on the fact you have already arrived at B)
+
+geng = more (used when comparing A to B)
+dang ran ke yi = of course you can
 
 
