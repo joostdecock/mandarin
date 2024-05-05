@@ -341,4 +341,56 @@ cong A hui dao B = from A arrived back to B (emphasis on the fact you have alrea
 geng = more (used when comparing A to B)
 dang ran ke yi = of course you can
 
+zui jin = recently
+zai shu zhong guo qian = before going to China
+shi qing = things (more literal than dongxi)
+verb + wan = finish. che wan = finished eating, he wan = finish(ed) drinking
+tiao = measure word for shun ze & ku ze (shirts and pants)
+yin hang = bank
+chao shi = supermarket
+yi yuan = hospital
+xi wang = to hope
+you2 ju2 = 
+ming xin pian = post card
+huo che zhan = train station
+shang chang = shopping mall (long store)
+guang jie = walk ? shop? Not sure
+xi shou jian = toilet (bathroom)
+ce suo = toilet 
+fang jian = room
+fang ka = room (key) card
 
+Yi zhi zou = straight ahead / keep straight
+wang = to go
+wang zuo = go left
+wang qian = go straight
+wang you = go right
+yi zhi zou ran ho wang zuo = go straight, then turn left
+
+wang zuo guai = turn left
+wang you guai = turn right
+
+liang tiao jie = second street (tiao is measure word for streets)
+
+diyi = the fist
+lu kou = crossing (road + mount/entrance)
+
+qian bian = ahead / in front of
+dui mian = opposite (like, across the street)
+ma lu = road (horse + road)
+zai ma lu dui mian = it's across the road
+zuo bian = on the left
+you bian = on the right
+zai (ma) lu de you bian = it's on the right side of the road
+pang bian = next to
+zhi jian = between
+
+dong = east 
+nan = south
+xi = west
+bei = north
+
+zuo = left
+you = right
+qian = front
+hou = behind
