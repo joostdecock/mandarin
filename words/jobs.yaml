@@ -7,3 +7,10 @@ driver:
     Dude on the left is clearly in his car. See also <a href="/可乐">cola</a>
     On the right, we've got a gas pump. So this is a <b>driver</b>.
     You can tell because he's wearing a hat like a chauffeur.
+
+lawyer:
+  cn: 律师
+  py: lǜ shī
+  tone: 41
+  set: 4
+

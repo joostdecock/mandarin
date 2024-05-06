@@ -177,6 +177,14 @@ oil:
     - cunning
   memo: water radical plus a deep fryer basket = oil
 
+present:
+  cn: 礼物
+  py: lǐ wù
+  tone: 34
+  set: 4
+  also:
+    - gift
+
 result:
   cn: 结果
   py: jié guǒ
@@ -190,6 +198,12 @@ result:
     - to kill
     - to dispatch
   memo: fixme
+
+shoe:
+  cn: 鞋
+  py: xié 
+  tone: 2
+  set: 4
 
 question:
   cn: 问题

@@ -39,6 +39,17 @@ and:
     On the right there's a wardrobe, on the left there's a bar with a coat hanger on it.
     These things clearly go together. They form a <b>union</b> of wardrobe <b>and</b> coat hangers.
 
+any:
+  cn: 任何 
+  py: rèn hé 
+  tone: 42
+  set: 4
+  also:
+    - whatever
+    - whichever
+    - whatsoever
+  memo: fixme
+
 both:
   cn: 都
   py: dōu

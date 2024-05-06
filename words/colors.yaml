@@ -53,11 +53,30 @@ color(2):
     - dyestuff
   memo: This looks like two people. Sounds like they are Janssen & Janssen (from the TinTin comic) and those guys need some <b>color</b>
 
+green:
+  cn: 绿 
+  py: lǜ
+  tone: 4
+  set: 4
+
+green (the color):
+  cn: 绿色
+  py: lǜ sè
+  tone: 44
+  set: 4
+
 orange:
   cn: 橙子
   py: chéng zi
   tone: 20
   set: 3
+  memo: fixme
+
+orange (the color):
+  cn: 橙色
+  py: chéng sè
+  tone: 24
+  set: 4
   memo: fixme
 
 pink: 
@@ -88,12 +107,22 @@ pink (the color):
   memo: Pink + Color = the color pink, or pink
 
 purple:
+  cn: 紫 
+  py: zǐ
+  set: 4
+  tone: 3
+  also:
+    - violet
+    - amethyst
+  memo: fixme
+
+purple (the color):
   cn: 紫色 
   py: zǐ sè
   set: 3
   tone: 34
   also:
-    - violet
+    - violet (the color)
   memo: fixme
 
 red:
@@ -146,4 +175,13 @@ white:
     - vernacular
     - spoken lines in opera
   memo: It looks so plain and boring, it has to be white
+
+white (the color):
+  cn: 白色
+  py: bái sè 
+  set: 4
+  tone: 24
+  also:
+    - anti-communist
+  memo: It looks so plain and boring, it has to be white + color 
 

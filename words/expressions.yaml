@@ -11,6 +11,18 @@ again:
     - anyway (used for emphasis)
   memo: Looks like the lid on this pot came loose <b>again</b>
 
+any place works for me:
+  cn: 人和地方多可以
+  py: rén hé dì fang duō kě yǐ
+  tone: 2240133
+  set: 4
+
+any time works for me:
+  cn: 人和时间多可以
+  py: rén hé shí jiān duō kě yǐ
+  tone: 2221133
+  set: 4
+
 asking for confirmation:
   cn: 对吗
   py: duì ma
@@ -129,6 +141,13 @@ long time no see:
   cn:  好久不见
   py: hǎo jiǔ bu jiàn
   tone: 3304
+  memo: fixme
+
+more and more:
+  cn: 越来越 
+  py: yuè lái yuè
+  tone: 424
+  set: 4
   memo: fixme
 
 nice to meet you:

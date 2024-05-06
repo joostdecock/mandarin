@@ -137,6 +137,18 @@ other people:
     - other person
   memo: fixme
   
+place:
+  cn: 地方 
+  py: dì fang
+  tone: 40
+  set: 4
+  also:
+    - area
+    - space
+    - room
+    - territory
+  memo: fixme
+
 residence:
   cn: 寓
   py: yù

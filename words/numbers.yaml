@@ -297,6 +297,18 @@ many:
     Sounds like duo, which is what we see here.
     Also the general quantity vibes matches well with the repetition on display.
 
+first:
+  cn: 先
+  py: xiān
+  tone: 1
+  set: 4
+  also:
+    - early
+    - prior
+    - formater
+    - in advance
+  memo: fixme
+
 frequently:
   cn: 经常
   py: jīng cháng

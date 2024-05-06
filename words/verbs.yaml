@@ -418,6 +418,28 @@ to explain:
     - lecture
   memo: Person standing in front of a flipboard explaining something
 
+to find (1):
+  cn: 找着
+  py: zhǎo zháo
+  tone: 32
+  set: 4
+  memo: to look for + to touch
+
+to find (2):
+  cn: 找一着
+  py: zhǎo yī zháo
+  tone: 312
+  set: 4
+  memo: to look for + 1 + to touch
+
+to find (3):
+  cn: 找一下
+  py: zhǎo yī xià
+  tone: 314
+  set: 4
+  memo: "to look for + suffix that after verb means 'to give it a go'"
+
+
 to finish:
   cn: 完
   py: wán
@@ -520,6 +542,14 @@ to go out:
     On the left we have <a href="/出1">to come out</a>
     On the right we have <a href="/去4">to go</a>
     Together them make <b>to go out</b>
+
+to gossip:
+  cn: 聊天
+  py: liáo tiān
+  tone: 21
+  set: 4
+  also:
+    - to chat
 
 to have:
   cn: 有
@@ -1311,6 +1341,16 @@ to teach:
   tone: 1
   set: 3
   memo: Someone is tied up on a torture rack and the person on the left is going <b>to teach</b> them a lesson
+
+to tell:
+  cn: 告诉
+  py: gào su
+  tone: 40
+  set: 4
+  also:
+    - to inform
+    - to let you know
+  memo: fixme
 
 to test:
   cn: 试 

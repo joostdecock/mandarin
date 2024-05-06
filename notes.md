@@ -1,74 +1,5 @@
-jie = measure word for class
-
-di fang = place
-yi ge di fang = a place
-xian = first
-xian shen = mister (first born)
-
-chu san bu = take a walk
-
-fa ren = frustrating
-
-gao su ni = tell you
-wo neng ting jian ni = I can hear you
-jie = measure word for classes (only for class)
-ge when used for classes refers to the _type_ of class. Whereas jie refers to the _amount_ of classes.
-
-ren he = any
-ren he shi jian dou ke yi = any time works for me
-di fang = place
-ren he di fang dou ke yi = any place works for me
-xin = heart
-yi si = meaning (has heart in it)
-lu = green (color)
-lu shi = lawyer
-chu san bu = go for a walk (bu = steps)
-ni jin tian zou le duo shao bu = how many
-dui = to/for
-wei = for (especially for someone, like buying a present)
-
-li wu = present
-wo wei ni mai le yi ge li wu = I bought a present for you
-xie2 = shoe
-ying weng ying yu = english
-weng = yu
-
-xian = first
-yi xie = some
-
-hua hua er = to paint / to draw (double use = the activity or hobby. Single hua is the verb)
-hua = painting / drawing (this is the noun variant)
-fu = measure word for paintings
-
-xia qi = to play chess (put chest pieces down, that's why there's xia)
-liao tian = chat(ting)
-
-he ni liao tian = chat with you (he implies me _and_ you, he = with)
-
-rong yi = easy
-
-yue lai yue (noun) = better and better
-suan le = nevermind
-
-zhao zhoa = zhao yi zhao = zhao ixia
-di fang = place
-ren he di fang = any place
-ren he ji jian = any time 
-ren he ji jian duo keji = any time is ok
-
-lu = green (like the cookies)
-lu she = lawyer (sounds like loesje)
-
-xieng = first
-xian chi fan = eat first
-dui = for
-
-hua hua = to draw (as a hobby)
-gao su tie lu = 
-
 wang shang = be online
 shang wang = go online
-liao tian = chat (both face to face, or online)
 you xi = game
 you xi ji = game console
 
@@ -359,6 +290,37 @@ xi shou jian = toilet (bathroom)
 ce suo = toilet 
 fang jian = room
 fang ka = room (key) card
+
+jie = to pick up
+chufa = start off
+
+zou wan = zou tian wan shang (yesterday evening, but shorter)
+jin wan = jin tian wan shang (this evening, but shorter)
+ming wan = ming tian wan shang (tomorrow evening, but shorter)
+
+jin zou = jin tian zou shang (this morning, but shorter)
+ming zou = ming tian zou shang (tomorrow evening, but shorter)
+
+canguan = to visit
+dao = to arrive
+jiu dao = then arrive
+fujin = nearby
+anpai = arrange (also as noun, arrangement meaning plans, schedule) (also used as 'ask to do' from a person of authority (teacher, boss, parent))...
+chu chai = business trip
+guang = to stroll
+gong yuan = park
+guang gong yuan = stroll in the park
+haowanr = interesting
+youming = famous
+gouwu = shopping
+jie = street
+you sheme anpai = I have plans
+mei you shenme anpai = I don't have plans
+chu fa = start off (time)
+fan yi = translator
+dao you = (tourist) guide
+
+
 
 Yi zhi zou = straight ahead / keep straight
 wang = to go
