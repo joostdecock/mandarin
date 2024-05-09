@@ -356,3 +356,66 @@ zuo = left
 you = right
 qian = front
 hou = behind
+
+chao shi = supermarket
+hongludeng = traffic light (green / red / light)
+youju = post office
+fujin = nearby
+dao = to arrive
+cesuo zai nar = where is the toilet
+xishou jian = bathroom
+jia you zhen = gas station
+tou = head, but used as the top of the street
+yi zhi zou dao tou = go straight until you arrive at the top of the street
+yinghang = bank
+tu shu guan = library
+wang nan zou = go south
+
+
+wen2 = smell
+wen3 = kiss
+wen4 = ask
+
+lie = strong (alcohol)
+tai lie le = too strong (alcohol)
+zhen zhu = bubble
+nai = milk
+zhenzhu nai cha = bubble tea
+geng = like more / prefer
+
+jiao tong = transportation
+gong jiao che = public transport car (bus)
+yi yang = the same
+di fang = place
+huan4 = to transfer/change
+zhangai = info sign with bus times (zhan is station, so only for stations)
+
+hanzi = character
+ci = vocabulary (word)
+shoupiaoyuan = conductor (sell ticket person)
+fuwuyuan = waiter (serve you person)
+
+didier (subway) uses lines
+yi hao xian = line 1 (first line)
+xing2 = ok
+
+wang + place fnagxiang = towards this pace / in that direction
+name = not sure what this means
+name mafan = too complicated
+mafan = trouble
+dei = have to
+
+huan che = dao che = zhuan che = to change/transfer
+zhida + place = direct connection
+zhe fei = by airplane
+
+Areas for hotel in Guilin:
+qi xing chu
+xiu feng qu
+
+chabuduo = same but different / almost
+6 june = birthday 
+
+
+
+
