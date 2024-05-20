@@ -109,6 +109,16 @@ canteen:
     On the right is something that looks like the symbol for <a href="/火">fire</a>
     Since rice is the default meal in China, and fire cooks it, this is <b>cooked rice</b> (as in, the dish, not the raw material)
 
+crayfish:
+  cn: 小龙虾
+  py: xiǎo lóng xiā
+  set: 4
+  tone: 321
+  also:
+    - lanoustine
+    - chicken lobster
+  memo: fixme
+
 cup:
   cn: 杯子
   tone: 10

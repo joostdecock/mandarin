@@ -1,22 +1,3 @@
-wang shang = be online
-shang wang = go online
-you xi = game
-you xi ji = game console
-guang jie = go shopping
-gou wu = go shopping
-xi zhuang = suit / western style clothes 西装
-wai tao = coat / jacket 外套
-西装外套 = suit jacket
-手提包 = shou ti bao = (hand)bag, hold-all
-皮鞋 = pí xié = leather shoes
-小龙虾 = xiǎo lóng xiā = crayfish / langoustine /chicken lobster
-罗氏虾 = 罗氏虾 = shrimp / prawn
-生蚝 = Shēngháo = oysters
-哈 = hā = laughter / yawn
-哈哈 = haha
-哈哈哈 = hahaha
-hahaha
-哈哈,是的 = 哈哈,是的 = haha, yes
 few shuao wo de chu = painting my kitchen
 you diar = in front of adjective
 yi diar = in front of noun 
@@ -54,7 +35,6 @@ yi yang = same
 yi jai = one plus (phone brand)
 dou = steep
 bao mu = baby sitter
-gei 
 zhi lu = trip
 jin = measure of weight (500g)
 yin liao = drinks
@@ -334,3 +314,62 @@ Areas for hotel in Guilin:
 qi xing chu
 xiu feng qu
 chabuduo = same but different / almost
+kaihui = to have a meeting
+verb + wan = finish action
+cheng shi = city
+jin = close
+juan = far
+na ge = which one
+pianyi = cheap
+nage hao chi chi na ge = I will eat whichever is best
+hao wan = good/interesting for places (not people)
+adj + (dao) she + adj, jiu she tai adj le = adj1 is good, but adj2 is bad (she's cure but too short)
+sjouju = receipt (same as fapiao)
+dabiao = meter (taxi)
+hai shi = or (for questions)
+huo zhe = or (for statements)
+gong she = high speed train (but not as high speed as gao tier)
+wan can = wan fan
+kongjie = air host
+xiao zhuo ban = tray (on airplane)
+fang xia xiao zhuo ban = put your tray down (on airplane)
+cheng zhi = organge juice
+fu fei = gei qian = pay?
+ling + something = in addition 
+xiuxishi = lounche (airport)
+exiang = carriage (train)
+gongying = to supply / to serve
+gongcan = to serve food
+yingye = open (as a business)
+yihuir = in a moment
+tuiche = cart (tui = push)
+kuangquanshui = mineral water
+yigong = the total
+yigong duo shoa tien = how much for all in total
+he fan = he is box, so boxed meal
+369 (329)
+
+hun li = wedding
+hai shi = or
+can jia hun li = to attend a wedding
+sui ran = always
+kuai le = happy
+xing li = luggage
+xiang = trunk
+sijin = silk scarf
+tiao = measure word for scarf/pants
+dai = to bring
+si chou = silk
+chenyi = shirt
+pianyi = cheap
+yong = use
+xinyong ka = credit card
+xinyong = credit
+dangran = of course
+neng yong xinyong ka ma? = Can I use a credit card
+neng yong xian jn ma? = Can I use cash
+xian jin = cash (I think)
+
+
+
+

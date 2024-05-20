@@ -44,6 +44,13 @@ feeling:
     - situation
   memo: Looks like a person feeling up another thing to check how it's feeling
 
+haha:
+  cn: 哈哈
+  py: hā hā
+  set: 4
+  tone: 11
+  memo: fixme
+
 happiness:
   cn: 喜
   tone: 3

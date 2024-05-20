@@ -42,6 +42,15 @@ foreigner:
   tone: 422
   memo: foreign + person
 
+game:
+  cn: 游戏
+  py: yóu xì
+  set: 4
+  tone: 24
+  also:
+    - to play
+  memo: fixme
+     
 gate:
   cn: 门
   py: mén 
@@ -328,3 +337,12 @@ tree:
     - to cultivate
     - to set up
   memo: tree radical with happy guy
+
+video game:
+  cn: 游戏机
+  py: yóu xì jī
+  set: 4
+  tone: 241
+  also:
+    - game console
+  memo: video game + machine

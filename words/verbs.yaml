@@ -1201,6 +1201,13 @@ to set:
     - to order
   memo: Looks a bit like a foot, so firmly planted feet = to fix one's position
 
+to shop:
+  cn: 购物
+  py: gòu wù
+  set: 4
+  tone: 44
+  memo: fixme
+
 to sing:
   cn: 唱
   py: chàng 
@@ -1327,6 +1334,16 @@ to take a plane:
   tone: 411
   set: 3
   memo: to take a seat + plane = to take a plane / to catch a plane
+
+to take a walk:
+  cn: 逛街
+  py:  guàng jiē 
+  set: 4
+  tone: 12
+  also:
+    - to stroll down the street
+    - to window-shop
+  memo: fixme
 
 to take away:
   cn: 拿走

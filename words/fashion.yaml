@@ -7,6 +7,15 @@ clothes:
     On the left we see what looks like a pattern part, with notches and darts and a welt pocket.
     On the right, we hav a coat hanger or display cabinet for <b>clothes</b>
 
+handbag:
+  cn: 手提包
+  py: shǒu tí bāo 
+  set: 4
+  tone: 321
+  also:
+    - hold-all
+  memo: fixme
+
 item:
   cn: 件
   py: jiàn 
@@ -16,6 +25,31 @@ item:
     - component
     - measure word for clothes
   memo: Looks like a laundry line with some <b>item<b>s of clothing on them
+
+jacket:
+  cn:  外套 
+  py: wài tào
+  set: 4
+  tone: 44
+  also:
+    - jacket
+  memo: fixme
+
+leather shoes:
+  cn: 皮鞋
+  py: pí xié
+  set: 4
+  tone: 22
+  memo: fixme
+
+suit:
+  cn: 西装 
+  py: xī zhuāng 
+  set: 4
+  tone: 11
+  also:
+    - Western-style clothes
+  memo: fixme
 
 wristwatch:
   cn: 手表
