@@ -51,6 +51,7 @@ game:
     - to play
   memo: fixme
      
+
 gate:
   cn: 门
   py: mén 
@@ -74,6 +75,13 @@ gate:
     - measure word for large guns, lessons, subjects, branches of technology
     - suffix (-gate) for scandal (derived from watergate)
   memo: I mean, look at it. It's clearly a door.
+
+gold:
+  cn: 金子
+  py: jīn zi
+  set: 4
+  tone: 10
+  memo: fixme
 
 guest:
   cn: 客
@@ -248,6 +256,13 @@ signal:
   set: 3
   tone: 44
   memo: mail + number = signal
+
+silver:
+  cn: 银子
+  py: yín zi 
+  set: 4
+  tone: 20
+  memo: fixme
 
 song:
   cn: 歌

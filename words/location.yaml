@@ -145,7 +145,7 @@ left side:
     - to the left (of)
   memo: East + Side = Left
 
-north:
+north(1):
   cn: 北
   py: běi
   tone: 3
@@ -153,6 +153,15 @@ north:
   memo: |
     Bei is easy enough to remember thanks to Beijing being the capital in the North.
     As for the character, it's mostly made up of straight lines which is how things then to cristalize when frozen, which is way more common in the <b>North</b>
+     
+north(2):
+  cn: 北方
+  py: běi fāng
+  set: 4
+  tone: 31
+  also:
+    - the northern part of a country (the North)
+    - China north of the yellow river
 
 online:
   cn: 网上
@@ -215,7 +224,7 @@ side:
     - simuntaneously
   memo: This is one of those transporter thingies, but this time it's not to say we are delivering something but rather to say this is the <b>side</b> because it is. Also margin, border, boundary, which all makes sense I hope.
 
-south:
+south(1):
   cn: 南
   py: nán
   tone: 2
@@ -223,6 +232,16 @@ south:
   memo: |
     Looks like a bundle (or box) with a sheep in it.
     We all know sheep are mostly a thing from New Zealand, which is <b>South</b> of pretty much everything.
+
+south(2):
+  cn: 南方
+  py: nán fāng
+  set: 4
+  tone: 21
+  also:
+    - the South
+    - the southern part of the country
+  memo: South + direction
 
 west:
   cn: 西

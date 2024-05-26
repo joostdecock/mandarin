@@ -170,6 +170,13 @@ to bring:
     - to raise
   memo: fixme
 
+to brush your teeth:
+  cn: 刷牙
+  py: shuā yá
+  tone: 12
+  set: 4
+  memo: fixme
+
 to buy:
   cn: 买
   tone: 3
@@ -249,6 +256,18 @@ to come out:
   memo: | 
     When people tell you come out, they might follow it up with 
     <em>with your hands in the air</em> and that's what's going on here.
+
+to compare:
+  cn: 比
+  py: bǐ
+  set: 4
+  tone: 3
+  also:
+    - particle used for comparison and '-er than', eg, A bǐ B
+    - to contracts
+    - to gesture (with hands)
+    - ratio
+  memo: fixme
 
 to complete:
   cn: 完成
@@ -388,6 +407,20 @@ to eat:
     - to have a meal
     - to make a living
   memo: eat + meail = to eat a meal
+
+to escape:
+  cn: 跑
+  py: pǎo
+  set: 4
+  tone: 3
+  also:
+    - to run (although 跑步 is better for running as in jogging)
+    - to run away
+    - to run around (on errands etc)
+    - to leak or evaporate (of a gas or liquid)
+    - away (as a verb compliment)
+    - off
+  memo: fixme
 
 to exercise:
   cn: 运动
@@ -1057,6 +1090,12 @@ to receive:
     - to take over from someone
   memo: Person at the bottom right is carrying this heavy pot which the person on the left is about <b>to receive</b>
 
+to rent:
+  cn: 出租
+  py: chū zū
+  set: 4
+  tone: 11
+  memo: fixme
 
 to return:
   cn: 回
@@ -1200,6 +1239,15 @@ to set:
     - to decide
     - to order
   memo: Looks a bit like a foot, so firmly planted feet = to fix one's position
+
+to settle down:
+  cn: 安家
+  py: ān jiā
+  set: 4 
+  tone: 11
+  also:
+    - to set up a home
+  memo: fixme
 
 to shop:
   cn: 购物
@@ -1516,6 +1564,12 @@ to wash dishes:
   set: 4
   tone: 33
   memo: to wash + bowl
+
+to wash your face:
+  cn: 洗脸
+  py: xǐ liǎn
+  set: 4
+  memo: fixme
 
 to watch: 
   cn: 观

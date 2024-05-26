@@ -148,7 +148,7 @@ more and more:
   py: yuè lái yuè
   tone: 424
   set: 4
-  memo: fixme
+  memo: Used as 越来越 + adjective
 
 nice to meet you:
   cn: 认识你很高兴
@@ -156,6 +156,22 @@ nice to meet you:
   tone: 403314
   set: 3
   memo: to meet + you + very + happy = nice to meet you
+
+no sign of success yet:
+  cn: 八字还没一撇
+  py: bā zì hái méi yī piě
+  set: 4
+  tone: 142213
+  also:
+    - Things have not even bnegun to take shape
+  memo: lit. There is not even the first stroke of the character 八
+
+not yet:
+  cn: 还没
+  py: hái méi
+  set: 4
+  tone: 22
+  memo: fixme
 
 so so:
   cn: 还可以  

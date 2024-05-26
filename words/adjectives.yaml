@@ -112,6 +112,18 @@ different:
     - not alike
   memo: fixme
 
+difficult:
+  cn: 难
+  py: nán
+  set: 4
+  tone: 2
+  also:
+    - difficult to
+    - problem
+    - difficulty
+    - not good
+  memo: fixme
+
 dirty:
   cn: 脏
   py: zāng
@@ -210,6 +222,13 @@ handsome:
     - sweet!
   memo: fixme
 
+high speed:
+  cn: 高速
+  py: gāo sù
+  set: 4
+  tone: 14
+  memo: fixme
+
 inferior:
   cn: 差
   py: chà
@@ -239,23 +258,12 @@ interesting:
   cn: 有意思
   py: yǒu yì si
   tone: 340
-  set: 0
-  also:
-    - meaningful
-    - enjoyable
-    - fun
-  memo: fixme
-
-interesting:
-  cn: 有意思
-  py: yǒu yì si
-  tone: 340
   set: 4
   also:
     - meaningful
     - fun
     - enjoyable
-  memo: fixm
+  memo: fixme
 
 long: 
   cn: 长
@@ -373,6 +381,18 @@ really:
     - genuine
   memo: This looks so grounded and summetrical, it is <b>indeed</b> <b>true</b>
 
+same: 
+  py: 一样
+  cn: yī yàng
+  set: 4
+  tone: 14
+  also:
+    - like
+    - equal to
+    - the same as
+    - just like
+  memo: fixme
+
 similar:
   cn: 同
   py: tóng
@@ -384,6 +404,20 @@ similar:
     - together
     - alike
     - with
+  memo: fixme
+
+
+sleepy:
+  cn: 困
+  py: kùn
+  set: 4
+  also:
+    - to trap
+    - to surruond
+    - tired (alternative to 累)
+    - hard-pressed
+    - stranded
+    - destitute
   memo: fixme
 
 slow:
@@ -452,3 +486,4 @@ tired:
   memo: |
     This looks like an Xmas tree on a road. That thing at the top if your rear-view mirror.
     When you're driving and trees start appearing in the middle of the road, you are probably very <b>tired</b> and need to take a break because you're been working hard.
+

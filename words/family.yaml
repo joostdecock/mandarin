@@ -64,6 +64,15 @@ home:
     Since it's a grown-up and a child, this is not a couple.
     This is a parent and child, in other words a <b>family</b> in their <b>home</b>.
 
+housekeeper:
+  cn: 保姆 
+  py: bǎo mǔ
+  set: 4
+  tone: 33
+  also:
+    - nanny
+  memo: fixme
+
 husband:
   cn: 丈夫
   py: zhàng fu
@@ -87,6 +96,7 @@ mama:
     The left part of this sign is also used in the symbol for <em>good</em>.
     The right looks like an ATM machine. 
     Because you know mama is your best ATM. 
+
 man:
   cn: 夫
   py: fū
@@ -105,6 +115,16 @@ older brother:
   memo: |
     This is the symbol for <a href="/儿">son</a> carrying a big box.
     So clearly this is the older brother. That box is heavy after all.
+
+other people:
+  cn: 别人
+  py: bié rén
+  set: 4
+  tone: 22
+  also:
+    - others
+    - other person
+  memo: fixme
 
 papa:
   cn: 爸爸

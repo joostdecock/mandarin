@@ -1,81 +1,5 @@
-few shuao wo de chu = painting my kitchen
-you diar = in front of adjective
 yi diar = in front of noun 
-yi dian = after verb (he yi dian)
-rong yi = easy
-nan = difficult
-yue lai yue + adj = more and more / increasingly
-rang he = any
-di fang = place
-xi lian = wash face
-shua ya = brush teeth
-ran ho = then
-xia ban = after work
-shang ban = go to work
-geng + adj = to compare (geng duo)
-A bi B adj = compare structure
-gao su = high speed
-gao su tie lu = high speed railway/train 
-goa tie: high speed train (shorter)
-piao = ticket
-zhang = measure words for tickets/papers/flat stuff/table
-yi zhang gao tie piao = high speed ticket
-liao tian = chat
-bie ren = other people
-zi ji = self/alone
-guan chang = square
-you yi si = fun (has meaning)
-she xiang tou = camera
-lian ge xing qi = 2 weeks
-liang zhou = 2 weeks (so much shorter, so people prefer it)
-jin zi = silver?
-yin zi = gold?
-kun = trapped / sleepy
-yi yang = same
-yi jai = one plus (phone brand)
-dou = steep
-bao mu = baby sitter
-zhi lu = trip
-jin = measure of weight (500g)
-yin liao = drinks
-ji wei jiu = coktail
-cao3 = grass
-cao4 = fuck/shit (as an expression, but not really a curse. More like OMG)
-jia = home
-an jia = settle (as in, this is where I'll live)
-she xiang tou = camera
-hai mei = not yet
-jing chang = often
-jian bing = pancake
-nan zhang = south
-chuzu = rent (chuzuche = taxi)
-chu zu she = di (synonym)
-sai che = traffic jam (I think?) 
-luxing juhua = travel plan
-mei yuan = US dollar
-ou yuan = Euro
-ying bang = GB Pound
-ri yuan = Japanese Yes
-lubu = RU ruble
-tai zhu = Thai baht
-yun4 dong4 = excercise
-she4 xiang4 tou2 = webcam / survaillance camera
-hai2 mei2 = 还没 = not yet
-ba1 zi4 hai2 mei2 yi1 pie3 = (lit: there is not even the firstt stroke of the character 八) = things have not even begin to take shape = no sign of success yet
-jing1 chang2 = frequently, often
-zi4 ji3 = along, one your own
-pian1 pang2 = 偏旁 = the left- and right-side of a split Chinese character, often the key (radical) and phonetic
-ji1 wei3 jiu3 = cocktail = 鸡尾酒  (load word)
-yin3 liao4 = drink, beverage = 饮料 
-ti1 = to kick
-pao3 = to run
-tiao4 = to jump
-nan2 fang1 = south
-bei3 fang1 = north
-da3 biao3 = meter (as in a taxi)
-fa1 piao4 = receipt
-gao1 tie3 = TGV
-lu3 xing2 ji4 hua4 = travel plan = 旅行计划
+
 xia4 che = get of a car or bus
 chang che = get on a car or bus
 zhan4 = station
@@ -348,7 +272,7 @@ yigong = the total
 yigong duo shoa tien = how much for all in total
 he fan = he is box, so boxed meal
 369 (329)
-
+          
 hun li = wedding
 hai shi = or
 can jia hun li = to attend a wedding
@@ -369,7 +293,52 @@ dangran = of course
 neng yong xinyong ka ma? = Can I use a credit card
 neng yong xian jn ma? = Can I use cash
 xian jin = cash (I think)
+tai (gui) = more expensive 
+zui (gui( = most expensive
 
+tang = soup
+lei = type
+jiu = for a long time
+chang2 = taste
+wan3 = bowl (also measure word?)
+yi ge wan = 1 bowl, when bowl is the noun
+zhushi = stable food (the basics like rice, noodles, ...)
+lai something = better than yao something (for food and drinks)
+xian zhe yang ba = everything is ok (as a resopnse to 'do you want anything else')
+
+zai (as in zai lai): once more, ance again. Useful, look it up.
+te se cai = specialties
+ni you shenme te se cai ma? What are your specialties?
+suannai = yogurt
+xuebi = Sprite (lemonde)
+chang wen de = neat (no ice in drink)
+cui = hasten
+jiezhang = pay the bill
+mai dan = pay the bill
+mashang = sth that will happen soon, right away
+
+suan = sour
+tian = sweet
+ku = bitter
+la = spicy
+xian2 = salty
+xian1 = umami
+
+shaor = spoon
+shaozi = spoon (what people in the South say)
+yi fu dao cha = a knife and fork (fu is for matching pairs)
+yi shuang kuai zi = chopsticks
+yi xie canjinzhi / yi xie zhi jin = 1 napkin
+
+
+
+
+
+
+
+Questions:
+
+Tell me again what apps I should download (for maps, for search, for ...)
 
 
 

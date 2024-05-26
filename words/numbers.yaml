@@ -332,6 +332,18 @@ money:
     - coin
   memo: Person window shopping, thingking about how much <b>money</b> to spend
 
+more:
+  cn: 更
+  py: gèng 
+  set: 4
+  tone: 4
+  also:
+    - even more
+    - further
+    - still
+    - still more
+  memo: Can by used with an adjective. Eg, 更好 (more good) = better
+
 most:
   cn: 最
   py: zuì
@@ -383,6 +395,16 @@ other:
     - separate
     - separately
   memo: fixm
+
+pound (500g):
+  cn: 斤
+  py: jīn 
+  set: 4
+  tone: 1
+  also:
+    - catty
+    - 600g in Taiwan it seems
+  memo: fixme
 
 several:
   cn: 几个

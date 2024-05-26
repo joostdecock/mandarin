@@ -141,6 +141,15 @@ web page:
   tone: 34
   memo: fixme
 
+web cam:
+  cn: 摄像头
+  py: shè xiàng tóu
+  set: 4
+  tone: 442
+  also:
+    - surveillance camera
+  memo: fixme
+
 website:
   cn: 网站
   py: wǎng zhàn

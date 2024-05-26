@@ -1,3 +1,21 @@
+a little (before noun):
+  cn: 有点
+  py: yǒu diǎn
+  set: 4
+  tone: 33
+  memo: This is a little, to be used before a noun
+
+a little (after verb):
+  cn: 一点
+  py: yī diǎn
+  set: 4
+  tone: 13
+  also:
+    - a little
+    - one dot
+    - one point
+  memo: A little, as to be used before verb. Also 1 + dot.
+
 also:
   cn: 也
   tone: 3

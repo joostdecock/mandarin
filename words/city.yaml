@@ -84,6 +84,13 @@ direction:
   memo: |
     This is the **way**. So if you can somehow see a Mandalorian helmet in this, you're good.
 
+high speed rail:
+  cn: 高铁
+  py: gāo tiě
+  set: 4
+  tone: 13
+  memo: Sounds a bit like Gautier, short for gāo sù tiě lù
+
 house:
   cn: 房
   py: fáng
@@ -137,6 +144,7 @@ other people:
     - other person
   memo: fixme
   
+
 place:
   cn: 地方 
   py: dì fang
@@ -147,6 +155,24 @@ place:
     - space
     - room
     - territory
+  memo: fixme
+
+public square:
+  cn: 广场
+  py: guǎng chǎng
+  set: 4
+  tone: 33
+  also:
+    - plaza
+  memo: fixme
+
+railroad:
+  cn: 铁路
+  cn: tiě lù
+  set: 4
+  tone: 34
+  also:
+    - railway
   memo: fixme
 
 residence:
@@ -196,5 +222,23 @@ someone else:
   py: lìng yī gè rén
   tone: 4142
   set: 4
+  memo: fixme
+
+ticket:
+  cn: 票
+  py: piào 
+  set: 4
+  tone: 4
+  also:
+    - ballot
+    - banknote
+    - person held for ransom
+    - measure word for groups, batches, business transactions
+
+traffic jam:
+  cn: 塞车
+  py: sāi chē
+  set: 4
+  tone: 11
   memo: fixme
 

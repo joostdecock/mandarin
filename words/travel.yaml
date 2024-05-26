@@ -9,11 +9,26 @@ airport:
     Not sure what this machine does though.
     场 (field) where you can practically see the tractor tracks in this field
     Machine field is a pretty great name for airport.
+
+Euro (currencE):
+  cn: 欧元
+  py: Ōu yuán
+  set: 4
+  tone: 12
+  memo: fixme
+
 europe:
   cn: 欧洲
   py: Ōu zhōu
   tone: 11
   set: 3
+  memo: fixme
+
+GB Pound:
+  cn: 英镑
+  py: Yīng bàng
+  set: 4
+  tone: 14
   memo: fixme
 
 japan:
@@ -51,6 +66,13 @@ chinese language:
     The left symbol is Han, for the <a href="https://en.wikipedia.org/wiki/Han_dynasty">Han dynasty</a>.
     The right symbold is <a href="/语">speech</a>.
     The language of an important Chinese dynasty is obviously, the <b>chinese language</b> or <b>mandarin</b>.
+
+Japanese Yen:
+  cn: R日
+  py: Rì yuán
+  set: 4
+  tone: 42
+  memo: fixme
 
 language:
   cn: 话
@@ -91,6 +113,16 @@ mandarin:
     The word for <a href="/普通">common</b> and the word for <a href="/话">language</a>.
     Together they may <b>mandarin</b> because that's the one language we care about.
 
+receipt:
+  cn: 发票
+  py: fā piào
+  set: 4
+  tone: 14
+  also:
+    - invoice
+    - bill
+  memo: fixme
+
 road:
   cn: 路
   py: lù 
@@ -104,6 +136,13 @@ road:
     - kind
   memo: Looks like a kid with a kite and a suitcase, going on a journey
 
+Russian Ruble:
+  cn: 卢布
+  py: lú bù
+  set: 4
+  tone: 24
+  memo: fixme
+
 speech:
   cn: 语
   tone: 3
@@ -113,6 +152,7 @@ speech:
     This looks almost exactly like the <a href="/话">language</a> character, and it's meaning is very similar.
     This is <b>dialect</b>, or <b>speech</b>, or also <b>language</b> depending on context.
     Essentially, this is the same as language, but slightly different. Like a <b>dialect</b>.
+
 taxi:
   cn: 出租车
   py: chū zū chē
@@ -122,12 +162,26 @@ taxi:
     - rental car (in Taiwan)
   memo: fixme
 
+Thai Baht:
+  cn: 泰铢
+  py: Tài zhū
+  set: 4
+  tone: 41
+  memo: fixme
+
 to catch a plane:
   cn: 坐飞机
   py: zuò fēi jī
   tone: 411
   set: 3
   memo: To take a seat + airplane = to take/catch a plane
+
+to run the meter (in a taxi):
+  cn: 打表
+  py: dǎ biǎo 
+  set: 4
+  tone: 33
+  nemo: to hit + meter
 
 train:
   cn: 火车
@@ -147,6 +201,13 @@ trip:
     - travel
     - tour
   memo: fixme
+
+US Dollar:
+  cn: 美元
+  py: Měi yuán
+  set: 4
+  tone: 32
+  memo: US + money
 
 word:
   cn: 字

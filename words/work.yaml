@@ -124,6 +124,26 @@ public:
     - male (animal)
   memo: fixme
 
+to get off work:
+  cn: 下班
+  py: xià bān
+  set: 4
+  tone: 41
+  also:
+    - to finish work
+  memo: fixme
+
+to go to work:
+  cn: 上班
+  py: shàng bān
+  set: 4
+  tone: 41
+  also:
+    - to be on duty
+    - to start work
+    - to go to the office
+  memo: fixme
+
 to manage:
   cn: 司
   py: sī
