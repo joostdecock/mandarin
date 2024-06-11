@@ -29,7 +29,36 @@ dream:
   set: 3
   tone: 4
   memo: fixme
-      
+
+elevator:
+  cn: 电梯
+  py: diàn tī
+  set: 5
+  tone: 41
+  also:
+    - escalator
+  memo: electric + ladder
+
+employee:
+  cn: 员
+  py: yuán
+  set: 5
+  tone: 2
+  also:
+    - member
+    - person
+  memo: Looks like a guy carrying something, like an employee would
+
+escalator:
+  cn: 扶梯
+  py: fú tī
+  set: 5
+  tone: 21
+  also:
+    - staircase
+    - ladder
+  memo: fu (to support with the hand) + ti (ladder)
+
 festival:
   cn: 节
   py: jié
@@ -65,7 +94,6 @@ game:
     - to play
   memo: fixme
      
-
 gate:
   cn: 门
   py: mén 
@@ -149,6 +177,14 @@ key:
   tone: 40
   memo: fixme
 
+ladder:
+  cn: 梯 
+  py: tī (ze)
+  set: 5
+  also: 
+    - stairs
+  memo: Also informally used for VPN (ti ze)
+
 landscape:
   cn: 景色
   py: jǐng sè
@@ -159,6 +195,13 @@ landscape:
     - scene
     - view
   memo: scenery + look/appearance
+
+luggage:
+  cn: 行李
+  py: xíng li
+  set: 5
+  tone: 20
+  memo: fixme
 
 music:
   cn: 乐
@@ -400,3 +443,27 @@ video game:
   also:
     - game console
   memo: video game + machine
+
+voucher:
+  cn: 券
+  py:  quàn 
+  set: 5
+  tone: 4
+  also:
+    - coupon
+    - bond (esp. when it has 2 halves, each holding 1)
+    - contract
+    - deed
+    - certificate
+
+waiter:
+  cn: 服务员
+  py: fú wù yuán
+  set: 5
+  tone: 242
+  also:
+    - waitress
+    - atendant
+    - customer service staff
+  memo: to serve + employee
+

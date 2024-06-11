@@ -1,24 +1,3 @@
-shao deng = wait a moment
-qing shao deng = please wait a moment (more formal)
-qing deng ixia = please wait a moment (less formal)
-wo yuding le fangjian = I have booked a room
-ban yi xia ru zhu = I want to check in (more or less, common phrase)
-kong = empty / unoccupied
-cha4 = bad
-cha2 = to check
-zao can = breakfast (= zao fan)
-quan = coupon
-xing li = luggage
-fu wu = service
-fu wu yuan = waiter
-yuan = walker
-yue kuai yue hao = the sooner the better
-dian ti = elevator or escalator (electric ladder)
-ti (zi) = ladder (also informally used to mean VPN)
-fu ti = escalator (hold rail ladder)
-piao wu fu wu = ticket service
-mian fei = free (of charge)
----
 ba1 sai4 luo2 na4 = Barcelona
 shenme difang = where
 man gu = Bangkok

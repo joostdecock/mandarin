@@ -216,7 +216,7 @@ to call:
     That looks like a person operating one of those mechanical morse code switches. 
     Because that's how they used to make calls.
 
-to check:
+to check (1):
   cn: 考
   py: kǎo 
   set: 4
@@ -229,6 +229,19 @@ to check:
     - to take an entrance exam for
     - deceased father
   memo: Looks like a receipt that someone has circled something on <b>to check</b> or <b>to verify</b>
+
+to check (2):
+  cn: 查
+  py: chá
+  set: 5
+  tone: 2
+  also:
+    - to research
+    - to investigate
+    - to examine
+    - to refer to
+    - to look up
+  memo: fixme
 
 to climb a mountain:
   cn: 爬山
@@ -521,7 +534,6 @@ to finish class:
 
     That left character represents the end of things. We see the finish line and we're heading to it.
     The right part is a teacher at a whiteboard. So to finish class.
-    
 
 to forget:
   cn: 忘
@@ -1288,6 +1300,15 @@ to send:
   also:
     - to give as a presnet
   memo: First character is <b>to deliver</b> and second is <b>to</b> so <b>to send</b>
+
+to serve:
+  cn: 服务
+  py: fú wù
+  set: 5
+  tone: 24
+  also:
+    - service
+  memo: fixme
 
 to set:
   cn: 定

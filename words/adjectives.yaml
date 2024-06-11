@@ -163,6 +163,17 @@ elegant:
     At the bottom we have the symbol for small, but there's a lot going on on top of it.
     So it's small but on top of that there's all sorts of intricate stuff. So <b>elegant</b>.
 
+empty:
+  cn: 空
+  py: kōng
+  set: 5
+  tone: 1
+  also:
+    - air
+    - sky
+    - in vain
+  memo: fixme
+
 far:
   cn: 远
   py: yuǎn 
@@ -258,6 +269,7 @@ inferior:
     - to fall short of
     - lacking
     - wrong
+    - bad
   memo: fixme
 
 inside:

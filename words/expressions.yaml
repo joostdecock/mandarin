@@ -50,6 +50,12 @@ forget about it:
     - let it pass
   memo: fixme
 
+I have booked a room:
+  cn: 我预定了房间
+  py: wǒ yù dìng le fáng jiān
+  set: 5
+  memo: fixme
+
 I heard right:
   cn: 我听对了
   py: wǒ tīng duì le
@@ -105,6 +111,12 @@ I was wrong:
   tone: 340
   set: 4
   memo: Me + wrong + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
+
+I want to check in:
+  cn: 我办一下入住
+  py: wǒ bàn yī xià rù zhù
+  set: 5
+  memo: fixme
 
 let me know:
   cn: 告诉我一声
@@ -183,6 +195,14 @@ not yet:
   set: 5
   tone: 22
   memo: fixme
+
+please wait a moment (more formal):
+ cn: 请稍等
+ py: qǐng shāo děng
+ set: 5
+ tone: 313
+ memo: fixme
+
 scan here:
   cn: 扫这里
   py: sǎo zhèlǐ
@@ -205,6 +225,13 @@ the first time:
   also:
     - fist
     - number one
+  memo: fixme
+
+the sooner the better:
+  cn: 越快越好
+  py: yuè kuài yuè hǎo
+  set: 5
+  tone: 2223
   memo: fixme
 
 too expensive:
@@ -236,6 +263,13 @@ wait a moment:
  set: 5
  tone: 13
  memo: fixme
+
+wait a moment (less formal):
+  cn: 等一下
+  py: děng yī xià
+  set: 5
+  tone: 314
+  memo: fixme
 
 why:
   cn: 为什么

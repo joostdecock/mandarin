@@ -46,6 +46,20 @@ banana:
     The one on the right is banana on its own too.
     It doesn't really look like a banana, more like a box of bananas with some more on the ground
 
+breakfast (1):
+  cn: 早饭
+  py: zǎo fàn
+  set: 5
+  tone: 34
+  memo: fixme
+
+breakfast (2):
+  cn: 早餐 
+  py: zǎo cān
+  set: 5
+  tone: 31
+  memo: fixme
+
 bowl:
   cn: 杯
   tone: 1
