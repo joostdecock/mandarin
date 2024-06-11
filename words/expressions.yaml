@@ -106,6 +106,16 @@ I was wrong:
   set: 4
   memo: Me + wrong + was. You can replace right/wrong in these types of expressions (duì/对 vs cuò/错).
 
+let me know:
+  cn: 告诉我一声
+  py: gàosù wǒ yīshēng
+  set: 5
+  tone: 44311
+  also:
+    - tell me
+    - ping me
+  memo: fixme
+
 let me look for it (1):
   cn: 让我找找
   py: ràng wǒ zhǎo zhǎo
@@ -172,6 +182,12 @@ not yet:
   set: 4
   tone: 22
   memo: fixme
+scan here:
+  cn: 扫这里
+  py: sǎo zhèlǐ
+  set: 5
+  tone: 344
+  memo: fixme
 
 so so:
   cn: 还可以  
@@ -213,6 +229,8 @@ vast crowd:
     - multitude
   memo: people mountain, people sea = many many people
 
+what bus do I take to go to X:
+  cn: 
 why:
   cn: 为什么
   py: wèi shén me

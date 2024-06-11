@@ -9,6 +9,20 @@ affair:
     - business
   memo: thing + feeling = non-material thing
 
+child(1):
+  cn: 小孩
+  py: xiǎo hái
+  set: 4
+  tone: 32
+  memo: fixme
+
+child(2):
+  cn: 孩子
+  py: hái zi
+  set: 4
+  tone: 20
+  memo: fixme
+
 dream:
   cn: 梦
   py: mèng
@@ -194,6 +208,13 @@ oil:
     - cunning
   memo: water radical plus a deep fryer basket = oil
 
+park:
+  cn: 公园
+  py: gōng yuán 
+  set: 4
+  tone: 12
+  memo: Like a public park
+
 present:
   cn: 礼物
   py: lǐ wù
@@ -215,12 +236,6 @@ result:
     - to kill
     - to dispatch
   memo: fixme
-
-shoe:
-  cn: 鞋
-  py: xié 
-  tone: 2
-  set: 4
 
 question:
   cn: 问题
@@ -271,6 +286,30 @@ song:
   set: 3
   also:
     - to sing
+  memo: fixme
+
+sound:
+  cn: 声
+  py: shēng
+  set: 5
+  tone: 1
+  also:
+    - voice
+    - tone
+    - noise
+    - measure word for sounds
+
+station:
+  cn: 站
+  py: zhàn
+  set: 4
+  tone: 4
+  also:
+    - to stand
+    - to hold
+    - to stop
+    - branch of a company or org
+    - website
   memo: fixme
 
 story:

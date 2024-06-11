@@ -168,7 +168,7 @@ public square:
 
 railroad:
   cn: 铁路
-  cn: tiě lù
+  py: tiě lù
   set: 4
   tone: 34
   also:
@@ -234,6 +234,31 @@ ticket:
     - banknote
     - person held for ransom
     - measure word for groups, batches, business transactions
+
+to get off the bus:
+  cn: 下车
+  py: xià chē
+  set: 4
+  tone: 41
+  also:
+    - to get off/out the train, car, etc
+  memo: fixme
+
+to get on the bus:
+  cn: 上车
+  py: shàng chē
+  set: 4
+  tone: 41
+  also:
+    - to get on/into the train, car, etc
+  memo: fixme
+
+to take a bus:
+  cn: 坐车
+  py: zuò chē
+  set: 5
+  tone: 41
+  memo: fixme
 
 traffic jam:
   cn: 塞车

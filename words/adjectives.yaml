@@ -69,6 +69,15 @@ busy:
     - to rush
   memo: This person left in a <b>hurry</b> because their coat is not longer on the coat hanger but their pot of food is still on the stove.
 
+careful:
+  cn: 小心 
+  py: xiǎo xīn
+  set: 4
+  tone: 31
+  also:
+    - to take care
+  memo: small + heart
+
 common:
   cn: 普通
   tone: 31
@@ -227,6 +236,16 @@ high speed:
   py: gāo sù
   set: 4
   tone: 14
+  memo: fixme
+
+important:
+  cn: 重要
+  py: zhòng yào
+  set: 5
+  tone: 44
+  also:
+    - significant
+    - major
   memo: fixme
 
 inferior:
@@ -433,6 +452,18 @@ small:
   py: xiǎo
   set: 1
   memo: This looks like a periscope peaking out through a <b>small</b> opening.
+
+steep: 
+  cn: 陡
+  py: dǒu
+  set: 4
+  tone: 3
+  also:
+    - prcipitous
+    - abrubtly
+    - sudenly
+    - unexpectedly
+  memo: fixme
 
 strange:
   cn: 奇

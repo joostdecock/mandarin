@@ -10,6 +10,33 @@ airport:
     场 (field) where you can practically see the tractor tracks in this field
     Machine field is a pretty great name for airport.
 
+chinese:
+  cn: 中文
+  tone: 12
+  py: zhōngwén
+  set: 2
+  memo: |
+    <a href="/中">middle</a> + <a href="/文">language</a> is of course <b>chinese</b>
+
+chinese language:
+  cn: 汉语
+  tone: 43
+  py: hànyǔ
+  set: 2
+  also:
+    - mandarin
+  memo: |
+    The left symbol is Han, for the <a href="https://en.wikipedia.org/wiki/Han_dynasty">Han dynasty</a>.
+    The right symbold is <a href="/语">speech</a>.
+    The language of an important Chinese dynasty is obviously, the <b>chinese language</b> or <b>mandarin</b>.
+
+credit card:
+  cn: 信用卡
+  py: xìn yòng kǎ
+  set: 5
+  tone: 443
+  memo: fixme
+
 Euro (currencE):
   cn: 欧元
   py: Ōu yuán
@@ -31,6 +58,16 @@ GB Pound:
   tone: 14
   memo: fixme
 
+hotel:
+  cn: 宾馆
+  py: bīn guǎn
+  set: 5
+  tone: 13
+  also:
+    - guesthouse
+    - lodge
+  memo: fixme
+
 japan:
   cn: 日本
   tone: 43
@@ -46,26 +83,6 @@ japanese:
   set: 2
   memo: |
     <a href="/日">sun<a> + <a href="/本">language</a> is <b>Japanese</b>, aka the language of <em>the land of the rising sun</em>.
-
-chinese:
-  cn: 中文
-  tone: 12
-  py: zhōngwén
-  set: 2
-  memo: |
-    <a href="/中">middle</a> + <a href="/文">language</a> is of course <b>chinese</b>
-
-chinese language:
-  cn: 汉语
-  tone: 43
-  py: hànyǔ
-  set: 2
-  also:
-    - mandarin
-  memo: |
-    The left symbol is Han, for the <a href="https://en.wikipedia.org/wiki/Han_dynasty">Han dynasty</a>.
-    The right symbold is <a href="/语">speech</a>.
-    The language of an important Chinese dynasty is obviously, the <b>chinese language</b> or <b>mandarin</b>.
 
 Japanese Yen:
   cn: R日
@@ -113,6 +130,13 @@ mandarin:
     The word for <a href="/普通">common</b> and the word for <a href="/话">language</a>.
     Together they may <b>mandarin</b> because that's the one language we care about.
 
+passport:
+  cn: 护照
+  py: hù zhào
+  set: 5
+  tone: 44
+  memo: fixme
+
 receipt:
   cn: 发票
   py: fā piào
@@ -136,6 +160,13 @@ road:
     - kind
   memo: Looks like a kid with a kite and a suitcase, going on a journey
 
+room card:
+  cn: 房卡
+  py: fáng kǎ
+  set: 5
+  tone: 23
+  memo: room + card
+
 Russian Ruble:
   cn: 卢布
   py: lú bù
@@ -153,13 +184,36 @@ speech:
     This is <b>dialect</b>, or <b>speech</b>, or also <b>language</b> depending on context.
     Essentially, this is the same as language, but slightly different. Like a <b>dialect</b>.
 
-taxi:
+Summer Palace in Beijing:
+  cn: 颐和园
+  py: yí hé yuán
+  set: 4
+  tone: 222
+  memo: fixme
+
+taxi(1):
   cn: 出租车
   py: chū zū chē
   tone: 111
   set: 3
   also:
     - rental car (in Taiwan)
+  memo: fixme
+
+taxi(2):
+  cn: 的士
+  py:  dí shì 
+  set: 4
+  tone: 24
+  memo: Loanword, originates from Hong Kong
+
+taxi meter:
+  cn: 计价器 
+  py: jì jià qì
+  set: 5
+  tone: 444
+  also:
+    - fare meter
   memo: fixme
 
 Thai Baht:
@@ -190,6 +244,13 @@ train:
   tone: 31
   memo: fixme
 
+travel plan:
+  cn: 旅行计划
+  py: Lǚxíng jìhuà
+  set: 4
+  tone: 3244
+  memo: fixme
+
 trip:
   cn: 旅游 
   py: lǚ yóu
@@ -208,6 +269,22 @@ US Dollar:
   set: 4
   tone: 32
   memo: US + money
+
+visa:
+  cn: 签证
+  py: qiān zhèng
+  set: 5
+  tone: 14
+  also:
+    - certificate
+    - to certify
+
+visa-exempt:
+  cn: 免签
+  py: miǎn qiān
+  set: 5
+  tone: 31
+  memo: fixme
 
 word:
   cn: 字

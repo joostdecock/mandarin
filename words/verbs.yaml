@@ -59,6 +59,20 @@ to ask (2):
     This is clearly a QR-code which is what you use if you have questions <b>to ask</b>.
     I mean, it will take you to a website with more info at least.
 
+to avert:
+  cn: 免
+  py: miǎn
+  tone: 3
+  set: 5
+  also:
+    - no need
+    - to excuse someone
+    - to exempt
+    - to remove or dismiss from officve
+    - to avoid
+    - to escape 
+    - to be prohibited
+
 to bathe:
   cn: 洗澡
   py: xǐ zǎo
@@ -325,6 +339,16 @@ to cook:
   also:
     - To prepare a meal
   memo: To make + meal = to cook
+
+to copy:
+  cn: 描
+  py: miáo
+  set: 5
+  tone: 2
+  also:
+    - to depict
+    - to trace (a drawing)
+    - to touch up
 
 to cross:
   cn: 过
@@ -922,6 +946,13 @@ to place an order:
     - to book ahead
   memo: fixme
 
+to plan:
+  cn: 计划
+  py: jì huà
+  set: 4
+  tone: 22
+  memo: fixme
+
 to play(1):
   cn: 玩
   py: wán
@@ -991,6 +1022,17 @@ to present:
     - to present (someone for a job or so)
     - introduction
   memo: This is to introduce + to continue. Which I guess is to present because you start with an introduction and then continue
+
+to pull over:
+  cn: 停车
+  py: tíng chē
+  set: 5
+  tnoe: 21
+  also:
+    - to park
+    - to stop working (of a machine)
+    - to stall
+  memo: fixme
 
 to raise:
   cn: 起
@@ -1095,6 +1137,18 @@ to rent:
   py: chū zū
   set: 4
   tone: 11
+  memo: fixme
+
+to resolve:
+  cn: 解决
+  py: jiě jué
+  set: 4
+  tone: 32
+  also:
+    - to settle (a dispute)
+    - to solve
+    - to dispose of
+    - to dispatch
   memo: fixme
 
 to return:
@@ -1210,6 +1264,13 @@ to run:
     - to change (shape/form/meaning)
   memo: This looks a lot like foot but instead of the big toe there's a hood ornament indicating the open rout
 
+to scan:
+  cn: 扫描 
+  py: sǎo miáo
+  set: 5
+  tone: 32
+  memo: fixme
+
 to see:
   cn: 看见
   tone: 4
@@ -1238,6 +1299,7 @@ to set:
     - to determine
     - to decide
     - to order
+    - to book
   memo: Looks a bit like a foot, so firmly planted feet = to fix one's position
 
 to settle down:
@@ -1376,6 +1438,13 @@ to succeed:
     - one tenth
   memo: This is a mash-up between high-fiving and slapping the roof of a car and that's pretty good for <b>to succeed</b>
 
+to sweep:
+  cn: 扫
+  py: sǎo
+  set: 5
+  tone: 3
+  memo: fixme
+
 to take a plane:
   cn: 坐飞机
   py: zuò fēi jī
@@ -1438,6 +1507,17 @@ to think:
     - to feel
   memo: fixme
 
+to transfer:
+  cn: 转
+  py: zhuǎn
+  set: 4
+  tone: 3
+  also:
+    - to turn
+    - to change direction
+    - to forward (mail)
+  memo: This is both as in money, email, ... as in transferring to a different method of transportation
+
 to transform:
   cn: 变
   py: biàn
@@ -1449,7 +1529,6 @@ to transform:
     - to vary
     - rebellion
   memo: We see one of them vats you get baptized in against your will and one kid struggling to rebel against this.
-    
 
 to try to find the time to:
   cn: 抽时间
@@ -1474,7 +1553,7 @@ to understand what one is reading or watching:
   tone: 43
   memo: Watch + understand
 
-to use:
+to use(1):
   cn: 以
   py: yǐ
   set: 4
@@ -1486,6 +1565,21 @@ to use:
     - because of
     - at (a certain date or place)
   memo: I see a calendar with a X marking a spot
+
+to use(2):
+  cn: 用
+  py: yòng
+  set: 5
+  tone: 4
+  also:
+    - to employ
+    - to have to
+    - to eat or drink
+    - expense or outlay
+    - usefulness
+    - hence
+    - therefore
+  memo: fixme
 
 to walk:
   cn: 走 

@@ -1,3 +1,10 @@
+alipay:
+  cn: zhe fu bao
+  py: Zhīfùbǎo
+  set: 5
+  tone: 143
+  memo: fixme
+
 car:
   cn: 车
   py: chē

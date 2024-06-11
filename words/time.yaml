@@ -374,6 +374,13 @@ how long (time):
     - to pass by
   memo: to pass time + to go = in the past
 
+last month:
+  cn: 上个月
+  py: shàng gè yuè
+  set: 4
+  tone: 444
+  memo: fixme
+
 last year:
   cn: 去年
   py: qù nián
@@ -477,6 +484,13 @@ next:
     - public or open
     - wise
 
+next year:
+  cn: 明年
+  py: míng nián
+  set: 4
+  tone: 22
+  memo: fixme
+
 noon:
   cn: 中午
   set: 3
@@ -569,6 +583,34 @@ sometimes:
   py: yǒu shí hou
   tone: 320
   set: 4
+  memo: fixme
+
+the day before yesterday:
+  cn: 前天
+  py: qián tiān
+  set: 4
+  tone: 21
+  memo: fixme
+
+the year after next year:
+  cn: 后年
+  py: hòu nián
+  set: 4
+  tone: 24
+  memo: fixme
+
+the year before last year:
+  cn: 前年
+  py: qián nián
+  set: 4
+  tone: 22
+  memo: fixme
+
+this month:
+  cn: 这个月
+  py: zhè gè yuè
+  set: 4
+  tone: 444
   memo: fixme
 
 this year:

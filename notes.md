@@ -1,87 +1,3 @@
-yi diar = in front of noun 
-
-xia4 che = get of a car or bus
-chang che = get on a car or bus
-zhan4 = station
-huo3 che1 zhan4 = HST station
-jiu4 hao3 = (just? I think, not sure (or 'it's ok', this will be useful)
-zhuan = transfer (both as in money, and as in transferring to a different method of transportation)
-xiaoxin = careful
-jie3 jue2 = to fix (a problem)
-hai = still
-ji4hua4 = plan
-yi he yuan = summer palace (in Beijing)
-gong yuan = park
-xiao hai = children
-ke neng ba = maybe
-huo zhe = or
-chu PLACE zou ji lu che = what bus do I take to go to PLACE
-qiantian = the day before yesterday
-zuotian = yesterday
-jintian = today
-mingtian = tomorrow
-houtian = the day after tomorrow
-qiannian = the year before last year
-qunian = last year
-jinnian = this year
-mingnian = next year
-hounian = the year after next year
-shang ge yue = last month
-zhe ge yue = this month
-xia ge yue = next month
-shang ge xing qi = last week
-zhe ge xing qi = this week
-xia ge xing qi = last week
-zhi fu bao = alipay
-soa je li = scan here (sao = scan)
-soa hao le = scan is ok
-zhan = bus stop / station
-goa de di tu = Google maps but for China
-chu PLACE zai na ge zhan xia? What stop do you get off for pace?
-yao = 1 but only in phone numbers, bus numbers, IP addresses, ...
-below 100 say the number (81 = ba she yi) 
-above 100, say the digits (812 = ba yao er)
-dao = arrive at
-gao su = to tell/ask
-gao su wo yi sheng = tell me, ping me, let me know
-jiao = ask
-yan ke yi sheng = eye doctor
-yong = to use
-ke yi yong wei xin ma? (can I use wechat (pay)?)
-ke yi yong xiang xin maa? (can I use cash)
-ji jia qi = (taxi) meter
-fa piao = receipt
-binguan = hotel
-xia che = get off a car or bus
-ting che = stop a car of bus
-gei = give
-qian = money
-xiao xin = careful
-zuo (che) = to take a car of bus
-ji = how many/much
-lu = way/road/path
-dao = arrive/reach/get to
-hai = still/also
-you = have/there be
-zhan = bus stop
-gaosu = tell
-sheng = voice/sound
-(wo she) dan1 shen1 = single (no partner)
-hu zhao = passport
-zhong yao = important
-fang ka = room card
-xin yong ka = credit dard
-zhang = measure word for credit card (or paper and so on)
-qian zheng = visa (not the credit card)
-mian qian = visa-exempt
-mian fei = free of charge (no need to pay)
-mian = no need
-yu ding = reserve/book
-ding = reserve/book (shorter)
-xing = family name
-qing wen, nin gui xing = the most polite way to ask for someone's (last) name
-he yiyi = irina's real name
-yi yang = same
 wo de quan ming she joost de cock
 qing = please
 shao deng = wait a moment
@@ -104,6 +20,7 @@ ti (zi) = ladder (also informally used to mean VPN)
 fu ti = escalator (hold rail ladder)
 piao wu fu wu = ticket service
 mian fei = free (of charge)
+---
 ba1 sai4 luo2 na4 = Barcelona
 shenme difang = where
 man gu = Bangkok
@@ -155,6 +72,7 @@ guang = to stroll
 gong yuan = park
 guang gong yuan = stroll in the park
 haowanr = interesting
+---
 youming = famous
 gouwu = shopping
 jie = street
@@ -191,6 +109,7 @@ zuo = left
 you = right
 qian = front
 hou = behind
+<<<<<<< Updated upstream
 chao shi = supermarket
 hongludeng = traffic light (green / red / light)
 youju = post office
@@ -205,6 +124,7 @@ yinghang = bank
 tu shu guan = library
 wang nan zou = go south
 wen2 = smell
+---
 wen3 = kiss
 wen4 = ask
 lie = strong (alcohol)
@@ -256,6 +176,7 @@ gong she = high speed train (but not as high speed as gao tier)
 wan can = wan fan
 kongjie = air host
 xiao zhuo ban = tray (on airplane)
+---
 fang xia xiao zhuo ban = put your tray down (on airplane)
 cheng zhi = organge juice
 fu fei = gei qian = pay?
@@ -271,8 +192,6 @@ kuangquanshui = mineral water
 yigong = the total
 yigong duo shoa tien = how much for all in total
 he fan = he is box, so boxed meal
-369 (329)
-          
 hun li = wedding
 hai shi = or
 can jia hun li = to attend a wedding
@@ -295,7 +214,6 @@ neng yong xian jn ma? = Can I use cash
 xian jin = cash (I think)
 tai (gui) = more expensive 
 zui (gui( = most expensive
-
 tang = soup
 lei = type
 jiu = for a long time
@@ -305,40 +223,50 @@ yi ge wan = 1 bowl, when bowl is the noun
 zhushi = stable food (the basics like rice, noodles, ...)
 lai something = better than yao something (for food and drinks)
 xian zhe yang ba = everything is ok (as a resopnse to 'do you want anything else')
-
 zai (as in zai lai): once more, ance again. Useful, look it up.
 te se cai = specialties
 ni you shenme te se cai ma? What are your specialties?
 suannai = yogurt
 xuebi = Sprite (lemonde)
+---
 chang wen de = neat (no ice in drink)
 cui = hasten
 jiezhang = pay the bill
 mai dan = pay the bill
 mashang = sth that will happen soon, right away
-
 suan = sour
 tian = sweet
 ku = bitter
 la = spicy
 xian2 = salty
 xian1 = umami
-
 shaor = spoon
 shaozi = spoon (what people in the South say)
 yi fu dao cha = a knife and fork (fu is for matching pairs)
 yi shuang kuai zi = chopsticks
 yi xie canjinzhi / yi xie zhi jin = 1 napkin
-
-
-
-
-
-
-
-Questions:
-
-Tell me again what apps I should download (for maps, for search, for ...)
-
-
-
+fang jia = holiday
+kuzi = pants
+shi shi = to try
+chuan = try on / put on
+shi chuan = try on
+hao4 = size
+xiao hao = S (size)
+da hao = L (size)
+zhong hao = M (size)
+ma3 = size 
+heshi = suitable
+jai da = XL
+cha cha L = XXL
+you dianr + adj = typically with a negative adjective
+adj + yi dianr = not negative
+dazhe = discount
+da bu dazhe = is a discount available?
+da ji zhe = how much is the discount?
+da ba zhe = 80% of the price
+zji fu bao = Alipay
+keyi yong zhe fu bao ma? = Can I use AliPay?
+sao = to scan
+zhoa zhoa = to go look
+huan ying xia ci zai lai = welcome to come back next time
+423

@@ -120,7 +120,9 @@ oneself:
   tone: 43
   set: 3
   memo: self + self = oneself
-
+  also:
+    - one's own
+    - on your own
 
 part:
   cn: 股

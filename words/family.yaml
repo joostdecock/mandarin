@@ -137,6 +137,15 @@ papa:
      It's upside-down becase ironing is mama's job. 
      Fixing the iron with a hammer though, totally papa's job.
 
+single:
+  cn: 单身
+  py: dān shēn
+  set: 5
+  tone: 11
+  also: 
+    - unmarried
+  memo: fixme
+
 son (base character):
   cn: 儿
   tone: 2
