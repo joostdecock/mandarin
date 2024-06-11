@@ -12,7 +12,7 @@ affair:
 child(1):
   cn: 小孩
   py: xiǎo hái
-  set: 4
+  set: 5
   tone: 32
   memo: fixme
 
@@ -211,7 +211,7 @@ oil:
 park:
   cn: 公园
   py: gōng yuán 
-  set: 4
+  set: 5
   tone: 12
   memo: Like a public park
 
@@ -219,7 +219,7 @@ present:
   cn: 礼物
   py: lǐ wù
   tone: 34
-  set: 4
+  set: 5
   also:
     - gift
 
@@ -302,7 +302,7 @@ sound:
 station:
   cn: 站
   py: zhàn
-  set: 4
+  set: 5
   tone: 4
   also:
     - to stand

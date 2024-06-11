@@ -1,5 +1,3 @@
-wo de quan ming she joost de cock
-qing = please
 shao deng = wait a moment
 qing shao deng = please wait a moment (more formal)
 qing deng ixia = please wait a moment (less formal)

@@ -67,7 +67,7 @@ home:
 housekeeper:
   cn: 保姆 
   py: bǎo mǔ
-  set: 4
+  set: 5
   tone: 33
   also:
     - nanny

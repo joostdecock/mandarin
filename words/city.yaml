@@ -87,7 +87,7 @@ direction:
 high speed rail:
   cn: 高铁
   py: gāo tiě
-  set: 4
+  set: 5
   tone: 13
   memo: Sounds a bit like Gautier, short for gāo sù tiě lù
 
@@ -160,7 +160,7 @@ place:
 public square:
   cn: 广场
   py: guǎng chǎng
-  set: 4
+  set: 5
   tone: 33
   also:
     - plaza
@@ -169,7 +169,7 @@ public square:
 railroad:
   cn: 铁路
   py: tiě lù
-  set: 4
+  set: 5
   tone: 34
   also:
     - railway
@@ -227,7 +227,7 @@ someone else:
 ticket:
   cn: 票
   py: piào 
-  set: 4
+  set: 5
   tone: 4
   also:
     - ballot
@@ -238,7 +238,7 @@ ticket:
 to get off the bus:
   cn: 下车
   py: xià chē
-  set: 4
+  set: 5
   tone: 41
   also:
     - to get off/out the train, car, etc
@@ -247,7 +247,7 @@ to get off the bus:
 to get on the bus:
   cn: 上车
   py: shàng chē
-  set: 4
+  set: 5
   tone: 41
   also:
     - to get on/into the train, car, etc
@@ -263,7 +263,7 @@ to take a bus:
 traffic jam:
   cn: 塞车
   py: sāi chē
-  set: 4
+  set: 5
   tone: 11
   memo: fixme
 

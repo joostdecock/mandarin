@@ -588,21 +588,21 @@ sometimes:
 the day before yesterday:
   cn: 前天
   py: qián tiān
-  set: 4
+  set: 5
   tone: 21
   memo: fixme
 
 the year after next year:
   cn: 后年
   py: hòu nián
-  set: 4
+  set: 5
   tone: 24
   memo: fixme
 
 the year before last year:
   cn: 前年
   py: qián nián
-  set: 4
+  set: 5
   tone: 22
   memo: fixme
 

@@ -72,7 +72,7 @@ busy:
 careful:
   cn: 小心 
   py: xiǎo xīn
-  set: 4
+  set: 5
   tone: 31
   also:
     - to take care
@@ -124,7 +124,7 @@ different:
 difficult:
   cn: 难
   py: nán
-  set: 4
+  set: 5
   tone: 2
   also:
     - difficult to
@@ -234,7 +234,7 @@ handsome:
 high speed:
   cn: 高速
   py: gāo sù
-  set: 4
+  set: 5
   tone: 14
   memo: fixme
 
@@ -251,7 +251,7 @@ important:
 inferior:
   cn: 差
   py: chà
-  set: 4
+  set: 5
   tone: 4
   also:
     - to differ from
@@ -456,7 +456,7 @@ small:
 steep: 
   cn: 陡
   py: dǒu
-  set: 4
+  set: 5
   tone: 3
   also:
     - prcipitous
@@ -469,7 +469,7 @@ strange:
   cn: 奇
   py: qí
   tone: 2
-  set: 4
+  set: 5
   also:
     - odd
     - weird
@@ -482,7 +482,7 @@ surely:
   cn: 一定
   py: yī dìng
   tone: 14
-  set: 4
+  set: 5
   also:
     - certainly
     - necessarily

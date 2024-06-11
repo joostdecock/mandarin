@@ -151,6 +151,7 @@ long time no see:
   cn:  好久不见
   py: hǎo jiǔ bu jiàn
   tone: 3304
+  set: 5
   memo: fixme
 
 more and more:
@@ -170,7 +171,7 @@ nice to meet you:
 no sign of success yet:
   cn: 八字还没一撇
   py: bā zì hái méi yī piě
-  set: 4
+  set: 5
   tone: 142213
   also:
     - Things have not even bnegun to take shape
@@ -179,7 +180,7 @@ no sign of success yet:
 not yet:
   cn: 还没
   py: hái méi
-  set: 4
+  set: 5
   tone: 22
   memo: fixme
 scan here:
@@ -229,8 +230,13 @@ vast crowd:
     - multitude
   memo: people mountain, people sea = many many people
 
-what bus do I take to go to X:
-  cn: 
+wait a moment:
+ cn: 稍等
+ py: shāo děng
+ set: 5
+ tone: 13
+ memo: fixme
+
 why:
   cn: 为什么
   py: wèi shén me

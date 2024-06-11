@@ -40,7 +40,7 @@ credit card:
 Euro (currencE):
   cn: 欧元
   py: Ōu yuán
-  set: 4
+  set: 5
   tone: 12
   memo: fixme
 
@@ -54,7 +54,7 @@ europe:
 GB Pound:
   cn: 英镑
   py: Yīng bàng
-  set: 4
+  set: 5
   tone: 14
   memo: fixme
 
@@ -87,7 +87,7 @@ japanese:
 Japanese Yen:
   cn: R日
   py: Rì yuán
-  set: 4
+  set: 5
   tone: 42
   memo: fixme
 
@@ -170,7 +170,7 @@ room card:
 Russian Ruble:
   cn: 卢布
   py: lú bù
-  set: 4
+  set: 5
   tone: 24
   memo: fixme
 
@@ -187,7 +187,7 @@ speech:
 Summer Palace in Beijing:
   cn: 颐和园
   py: yí hé yuán
-  set: 4
+  set: 5
   tone: 222
   memo: fixme
 
@@ -203,7 +203,7 @@ taxi(1):
 taxi(2):
   cn: 的士
   py:  dí shì 
-  set: 4
+  set: 5
   tone: 24
   memo: Loanword, originates from Hong Kong
 
@@ -219,7 +219,7 @@ taxi meter:
 Thai Baht:
   cn: 泰铢
   py: Tài zhū
-  set: 4
+  set: 5
   tone: 41
   memo: fixme
 
@@ -266,7 +266,7 @@ trip:
 US Dollar:
   cn: 美元
   py: Měi yuán
-  set: 4
+  set: 5
   tone: 32
   memo: US + money
 
