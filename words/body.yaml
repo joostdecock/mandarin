@@ -86,6 +86,28 @@ hand:
     I guess this looks a bit like the way a small child would draw a hand? 
     Personally, I find it looks more like a cross-section of a cuff link, which is also close to the hand.
 
+head:
+  cn: 头
+  py: tóu
+  set: 5
+  tone: 2
+  also:
+    - hair style
+    - the top
+    - end
+    - beginning or end
+    - a stub
+    - remnant
+    - chief
+    - boss
+    - side
+    - aspect
+    - first
+    - leading
+    - measure word for pigs of lifestock
+    - used to indicate the end/top of the street
+  memo: fixme
+
 heart:
   cn: 心
   tone: 1

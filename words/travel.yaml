@@ -51,37 +51,6 @@ europe:
   set: 3
   memo: fixme
 
-from A to B:
-  cn: 从A到B
-  py: Cóng A dào B
-  set: 5
-  tone: 24
-  also:
-    - from A to B (place)
-    - from A to B (time)
-  memo: fixme
-
-from A to B (emphasis):
-  cn: 从A来到B
-  py: Cóng A lái dào B
-  set: 5
-  tone: 224
-  memo: emphasis on arriving FROM A
-
-from A back to B:
-  cn: 从A回B
-  py: Cóng A huí B
-  set: 5
-  tone: 22
-  memo: fixme
-
-from A back to B (amphasis):
-  cn: 从A回到B
-  py: Cóng A huí dào B
-  set: 5
-  tone: 322
-  memo: Emphasis on the fact that you have already arrived in B
-
 GB Pound:
   cn: 英镑
   py: Yīng bàng
@@ -97,29 +66,6 @@ hotel:
   also:
     - guesthouse
     - lodge
-  memo: fixme
-
-japan:
-  cn: 日本
-  tone: 43
-  py: rì běn
-  set: 2
-  memo: |
-    <a href="/日">sun<a> + <a href="/本">source</a> and now you know why <b>Japan</b> is called <em>the land of the rising sun</em>.
-
-japanese:
-  cn: 日语
-  tone: 43
-  py: rì yǔ
-  set: 2
-  memo: |
-    <a href="/日">sun<a> + <a href="/本">language</a> is <b>Japanese</b>, aka the language of <em>the land of the rising sun</em>.
-
-Japanese Yen:
-  cn: R日
-  py: Rì yuán
-  set: 5
-  tone: 42
   memo: fixme
 
 language:
@@ -198,13 +144,6 @@ room card:
   tone: 23
   memo: room + card
 
-Russian Ruble:
-  cn: 卢布
-  py: lú bù
-  set: 5
-  tone: 24
-  memo: fixme
-
 sightseeing:
   cn: 游览
   py: yóu lǎn
@@ -224,7 +163,7 @@ speech:
     This is <b>dialect</b>, or <b>speech</b>, or also <b>language</b> depending on context.
     Essentially, this is the same as language, but slightly different. Like a <b>dialect</b>.
 
-Summer Palace in Beijing:
+summer palace in beijing:
   cn: 颐和园
   py: yí hé yuán
   set: 5
@@ -254,13 +193,6 @@ taxi meter:
   tone: 444
   also:
     - fare meter
-  memo: fixme
-
-Thai Baht:
-  cn: 泰铢
-  py: Tài zhū
-  set: 5
-  tone: 41
   memo: fixme
 
 to catch a plane:
@@ -303,13 +235,6 @@ trip:
     - tour
   memo: fixme
 
-US Dollar:
-  cn: 美元
-  py: Měi yuán
-  set: 5
-  tone: 32
-  memo: US + money
-
 visa:
   cn: 签证
   py: qiān zhèng
@@ -326,15 +251,3 @@ visa-exempt:
   tone: 31
   memo: fixme
 
-word:
-  cn: 字
-  tone: 4
-  py: zì
-  set: 2
-  memo: |
-    In Chinese we try to cram as much as possible in a single character/word.
-    Here you see a character being made, with the press to cram all that info in shown at the top.
-  also:
-    - letter
-    - symbol
-    - character

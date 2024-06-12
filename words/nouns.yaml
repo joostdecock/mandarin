@@ -36,6 +36,15 @@ child(2):
   tone: 20
   memo: fixme
 
+crossing:
+  cn: 路口 
+  py: lù kǒu
+  set: 5
+  tone: 43
+  also:
+    - intersection (of roads)
+  memo: road + opening
+
 dream:
   cn: 梦
   py: mèng
@@ -148,6 +157,16 @@ guest:
     - visitor
   memo: roof radical
 
+guidebook:
+  cn: 导游
+  py: dǎo yóu
+  set: 5
+  tone: 32
+  also:
+    - tour guide
+    - to conduct a tour
+  memo: fixme
+
 idea:
   cn: 意思
   py: yì si
@@ -198,6 +217,16 @@ ladder:
     - stairs
   memo: Also informally used for VPN (ti ze)
 
+lamp:
+  cn: 灯
+  py: dēng
+  set: 5
+  tone: 1
+  also:
+    - light
+    - lantern
+  memo: fixme
+
 landscape:
   cn: 景色
   py: jǐng sè
@@ -226,6 +255,13 @@ letter:
     - at random
   memo: fixme
 
+library:
+  cn: 图书馆
+  py: tú shū guǎn
+  set: 5
+  tone: 213
+  memo: to seek + book + building
+
 luggage:
   cn: 行李
   py: xíng li
@@ -250,6 +286,18 @@ music:
   set: 3
   tone: 4
   memo: fixme
+
+name:
+  cn: 名
+  py: míng
+  set: 5
+  tone: 2
+  also:
+    - noun
+    - place (as in ranking)
+    - famous
+    - measure word for people
+  memo: someone wearing a name tag
 
 nest:
   cn: 窝
@@ -340,6 +388,15 @@ result:
     - to dispatch
   memo: fixme
 
+road:
+  cn: 马路
+  py: mǎ lù
+  set: 5
+  tone: 34
+  also:
+    - street
+  memo: horse + street
+
 question:
   cn: 问题
   py: wèn tí
@@ -425,6 +482,13 @@ story:
     - narrative
   memo: happening + thing = story
 
+street:
+  cn: 街
+  py: jiē
+  set: 5
+  tone: 1
+  memo: fixme
+
 strip:
   cn: 条
   py: tiáo
@@ -485,6 +549,13 @@ top:
     - classifier for headwear, hats, veils etc
   memo: Both characters emphasise the top with a horizontal stroke
 
+traffic light:
+  cn: 红绿灯
+  py: hóng lǜ dēng
+  set: 5
+  tone: 241
+  memo: red + green + light
+
 tree:
   cn: 树
   py: shù
@@ -526,4 +597,18 @@ waiter:
     - atendant
     - customer service staff
   memo: to serve + employee
+
+word:
+  cn: 字
+  tone: 4
+  py: zì
+  set: 2
+  memo: |
+    In Chinese we try to cram as much as possible in a single character/word.
+    Here you see a character being made, with the press to cram all that info in shown at the top.
+  also:
+    - letter
+    - symbol
+    - character
+
 

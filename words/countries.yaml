@@ -14,7 +14,7 @@ belgium:
     ok so compare-profit-time does not make much sense, but it's just because Bĭ-lì-shí sounds like Be-lgi-um. 
     or it would if you were used to speaking chinese.
 
-China:
+china:
   cn: 中国
   tone: 12
   py: Zhōng guó
@@ -33,21 +33,21 @@ continent:
     - island in a river
   memo: Looks a bit like a road marking and lanes mergin. Continental is a tire brand so perhaps that's a good way to remember this?
 
-Europe:
+europe:
   cn: 欧洲
   py: Ōu zhōu
   tone: 11
   set: 3
   memo: Symbol for Europe + symbol for continent = Europe
 
-France:
+france:
   cn: 法国
   tone: 32
   py: Fǎ guó
   set: 2
   memo: That left character looks a bit like the Eifel tower, so kinda perfect
 
-Germany:
+germany:
   cn: 德国
   tone: 22
   py: Dé guó
@@ -58,7 +58,7 @@ Germany:
     Right? 
     Right!?
 
-Ireland:
+ireland:
   cn: 爱尔兰
   tone: 432
   py: Ài ěr lán
@@ -70,7 +70,44 @@ Ireland:
     尔 (thus/so) ěr
     兰 (orchid) lán (often used as a substitute for <em>land</em>)
 
-USA:
+japan:
+  cn: 日本
+  tone: 43
+  py: rì běn
+  set: 2
+  memo: |
+    <a href="/日">sun<a> + <a href="/本">source</a> and now you know why <b>Japan</b> is called <em>the land of the rising sun</em>.
+
+japanese:
+  cn: 日语
+  tone: 43
+  py: rì yǔ
+  set: 2
+  memo: |
+    <a href="/日">sun<a> + <a href="/本">language</a> is <b>Japanese</b>, aka the language of <em>the land of the rising sun</em>.
+
+japanese yen:
+  cn: R日
+  py: Rì yuán
+  set: 5
+  tone: 42
+  memo: fixme
+
+russian ruble:
+  cn: 卢布
+  py: lú bù
+  set: 5
+  tone: 24
+  memo: fixme
+
+thai baht:
+  cn: 泰铢
+  py: Tài zhū
+  set: 5
+  tone: 41
+  memo: fixme
+
+usa:
   cn: 美国
   tone: 32
   py: Měi guó
@@ -83,4 +120,12 @@ USA:
     Because most countries have three branches of government; judicial, legislative, and executive
 
     Don't ask me why USA is <em>nice country</em>. I assume its sarcasm.
+
+us dollar:
+  cn: 美元
+  py: Měi yuán
+  set: 5
+  tone: 32
+  memo: US + money
+
 

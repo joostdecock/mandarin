@@ -8,6 +8,18 @@ above:
     The left character means on top, and so together they are <b>above</b> or <b>on top of</b>
     The left character is easy to remember if you take the horizontal line as the base, everything is on top of it (compare with below)
 
+across:
+  cn: 对面 
+  py: duì miàn
+  set: 5
+  tone: 44
+  also:
+    - across the street
+    - opposite
+    - directly in front
+    - to be face to face
+  memo: fixme
+
 back:
   cn: 后
   set: 3
@@ -42,7 +54,6 @@ below:
     The left character means down, and so together they are <b>below</b> or <b>under</b>
     The left character is easy to remember if you take the horizontal line as the base, everything is below it (compare with above)
 
-
 beside: 
   cn: 旁
   py: páng 
@@ -55,7 +66,7 @@ beside:
     - self
   memo: This is some guy carrying a large serving try over his head, and we can see his <b>side</b>
     
-between:
+between (1):
   cn: 间
   py: jiān
   tone: 1
@@ -66,6 +77,16 @@ between:
     - room
     - classifier for rooms
     - section of a room or lateral space between two pairs of pillars
+  memo: fixme
+
+between (2):
+  cn: 之间
+  py: zhī jiān 
+  tone: 11
+  set: 5
+  also: 
+    - among
+    - inter-
   memo: fixme
 
 east:
@@ -95,6 +116,37 @@ far:
     It sounds like the character for money.
     It is **Far** because that money is used for trade. Not locally.
 
+from A to B:
+  cn: 从A到B
+  py: Cóng A dào B
+  set: 5
+  tone: 24
+  also:
+    - from A to B (place)
+    - from A to B (time)
+  memo: fixme
+
+from A to B (emphasis):
+  cn: 从A来到B
+  py: Cóng A lái dào B
+  set: 5
+  tone: 224
+  memo: emphasis on arriving FROM A
+
+from A back to B:
+  cn: 从A回B
+  py: Cóng A huí B
+  set: 5
+  tone: 22
+  memo: fixme
+
+from A back to B (amphasis):
+  cn: 从A回到B
+  py: Cóng A huí dào B
+  set: 5
+  tone: 322
+  memo: Emphasis on the fact that you have already arrived in B
+
 front:
   cn: 前
   tone: 2
@@ -112,6 +164,36 @@ front:
     - formerly
   memo: This is the <b>front</b> of a screen
 
+go left:
+  cn: 往左 
+  py: wǎng zuǒ
+  set: 5
+  tone: 33
+  memo: to go + left
+
+go right:
+  cn: 往右
+  py: wǎng yòu
+  set: 5
+  tone: 34
+  memo: to go + right
+
+go straight:
+  cn: 往前
+  py: wǎng qián
+  set: 5
+  tone: 32
+  also:
+    - to move forwards
+  memo: to go + straight
+
+go straight ahead:
+  cn: 一直走
+  py: Yīzhí zǒu
+  set: 5
+  tone: 123
+  memo: straight + walk
+
 in front:
   cn: 前面
   tone: 24
@@ -123,6 +205,16 @@ in front:
     - above
   memo: |
     This is the character for <a href="/前2">front</a> followed by the suffix that is used for all locations. So <b>in front</b> or <b>ahead</b>
+
+in front of:
+  cn: 前边
+  py: qián bian
+  set: 5
+  tone: 20
+  also:
+    - front
+    - the front side
+  memo: front + side
 
 lateral:
   cn: 旁边
@@ -242,6 +334,20 @@ south(2):
     - the South
     - the southern part of the country
   memo: South + direction
+
+turn left:
+  cn: 往左拐
+  py: wǎng zuǒ guǎi
+  set: 5
+  tone: 333
+  memo: to go + left + to turn
+
+turn right:
+  cn: 往右拐
+  py: wǎng yòu guǎi
+  set: 5
+  tone: 343
+  memo: to go + right + to turn
 
 west:
   cn: 西

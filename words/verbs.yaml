@@ -615,7 +615,6 @@ to guard:
     - health
   memo: Looks a bit like a very stylized guard with a helmet looking towards the right
   
-
 to go:
   cn: 去
   tone: 4
@@ -639,6 +638,19 @@ to go for a walk:
   set: 4
   also:
     - to take a walk
+  memo: fixme
+
+to go in a direction:
+  cn: 往
+  py: wǎng
+  set: 5
+  tone: 3
+  also:
+    - to
+    - towards
+    - bound for
+    - past
+    - previous
   memo: fixme
 
 to go online:
@@ -1349,6 +1361,23 @@ to see:
     - to catch sight of
   memo: Tell me that does not look like the scope of a gun. Like, the thing you see through. 
 
+to seek:
+  cn: 图
+  py: tú
+  set: 5
+  tone: 2
+  also:
+    - diagram
+    - picture
+    - drawing
+    - chart
+    - map
+    - to plan
+    - to scheme
+    - to attempt
+    - to pursue
+  memo: fixme
+
 to send:
   cn: 送给
   py: sòng gěi
@@ -1434,6 +1463,21 @@ to sleep:
   memo: |
     On the right, we have the symbol for see (the eye) that is getting covered.
     That in itself tells you this is <b>sleep</b> but on the left, there's also a pocketspring as you'd find in a mattress.
+
+to smell:
+  cn: 闻
+  py: wén
+  set: 5
+  tone: 2
+  also:
+    - to hear
+    - news
+    - well-known
+    - famous
+    - reputation
+    - fame
+    - to sniff at
+  memo: fixme
 
 to speak: 
   cn: 说
@@ -1626,12 +1670,39 @@ to transform:
     - rebellion
   memo: We see one of them vats you get baptized in against your will and one kid struggling to rebel against this.
 
+to translate:
+  cn: 翻译
+  py: fān yì
+  set: 5
+  tone: 14
+  also:
+    - to interpret
+    - translator
+    - interpreter
+    - translation
+    - interpretation
+  memo: fixme
+
 to try to find the time to:
   cn: 抽时间
   py: chōu shí jiān
   set: 4
   tone: 121
   memo: to draw out + time
+
+to turn:
+  cn: 拐
+  py: guǎi
+  set: 5
+  tone: 3
+  also:
+    - to kidnap
+    - to swindle
+    - to misappropriate
+    - walking stick
+    - crutch
+    - seven (used in place of 七)
+  memo: fixme
 
 to understand:
   cn: 懂
