@@ -313,6 +313,13 @@ noodles:
   tone: 42
   memo: noodles + strip (long thing), so noodles
 
+nuts:
+  cn: 坚果
+  py: jiān guǒ
+  set: 5
+  tone: 13
+  memo: fixme
+
 pancake:
   cn: 煎饼
   py: jiān bǐng

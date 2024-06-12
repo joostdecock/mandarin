@@ -1,4 +1,4 @@
-classifier for an activity:
+measure word for an activity:
   cn: 通
   tone: 1
   py: tōng 
@@ -74,6 +74,27 @@ question particle for yes/no questions:
   py: ma
   set: 1
   memo: Person looking at the ATM with the suspense of <em>will it work or not?</em> (yes/no answer).
+
+related to a company:
+  cn: 行
+  py: háng
+  set: 5
+  tone: 2
+  also:
+    - a row
+    - series
+    - age order (of brothers)
+    - profession
+    - professional
+
+related to money:
+  cn: 银 
+  py: yín 
+  set: 5
+  tone: 2
+  also:
+    - silver
+    - silver-coloured
 
 some:
   cn: 些

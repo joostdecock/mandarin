@@ -114,6 +114,18 @@ to agree:
     - to order 
   memo: fixme
 
+to arrange:
+  cn: 安排
+  py: ān pái
+  set: 5
+  tone: 12
+  also:
+    - to plan
+    - to set up
+    - arrangements
+    - plans
+  memo: fixme
+
 to arrive:
   cn: 到
   py: dào
@@ -423,6 +435,44 @@ to deliver:
     - to send
   memo: This looks like a person with one of them transporter thingies on which is a sheep or something else they have to <b>deliver</b>
 
+to develop:
+  cn: 发
+  py: fā
+  set: 5
+  tone: 1
+  also:
+    - to send out
+    - to show (one's feelings)
+    - to issue
+    - to develop
+    - to make a bundle of money
+    - classifier for rounds (gunshots)
+  memo: fixme
+
+to divide:
+  cn: 解
+  py: jiě
+  set: 5
+  tone: 3
+  also:
+    - to break up
+    - to split
+    - to seperate
+    - to dissolve
+    - to solve
+    - to melt
+    - to remove
+    - to untie
+    - to loosen
+    - to open
+    - to emancipate
+    - to explain
+    - to understand
+    - to know
+    - a solution
+    - a dissection
+  memo: fixme
+
 to draw out:
   cn: 抽
   py: chōu 
@@ -520,7 +570,7 @@ to finish:
     - whole
     - complete
     - entire
-  memo: fixme
+  memo: Can be used as verb+完, to indicate the action is over/complete
 
 to finish class:
   cn: 下课
@@ -601,6 +651,13 @@ to go online:
     - to be uploaded (of a file)
     - to move in close to the net (in badminton, tennis, ...)
   memo: on top + net = to go online
+
+to go on a business trip:
+  cn: 出差
+  py: chū chāi
+  set: 5
+  tone: 11
+  memo: to go out + mission
 
 to go out:
   cn: 出去
@@ -1406,6 +1463,15 @@ to start:
   memo: |
     Before we <b>start</b>, we must have pie (on the left) and only then can we start hammering things (on the right)
 
+to start (on a journey):
+  cn: 出发
+  py: chū fā
+  set: 5
+  tone: 32
+  also: 
+    - to set off
+  memo: to go out + to develop
+
 to stay:
   cn: 待
   py: dài
@@ -1421,6 +1487,15 @@ to strive:
   also:
     - great effort
     - to try hard
+  memo: fixme
+
+to stroll:
+  cn: 逛
+  py: guàng
+  set: 5
+  tone: 4
+  also:
+    - to visit
   memo: fixme
 
 to study (1):
@@ -1600,6 +1675,16 @@ to use(2):
     - usefulness
     - hence
     - therefore
+  memo: fixme
+
+to visit:
+  cn: 参观
+  py: cān guān
+  set: 5
+  tone: 11
+  also:
+    - to look around
+    - to tour
   memo: fixme
 
 to walk:

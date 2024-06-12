@@ -606,6 +606,22 @@ the year before last year:
   tone: 22
   memo: fixme
 
+this evening:
+  cn: 今晚
+  py: jīn wǎn
+  set: 5
+  tone: 13
+  also:
+    - tonight
+  memo: short for 今天晚上
+
+this morning:
+  cn: 今早
+  py: jīn zǎo
+  set: 5
+  tone: 13
+  memo: short for 今天早上
+
 this month:
   cn: 这个月
   py: zhè gè yuè
@@ -669,6 +685,20 @@ tomorrow:
   memo: |
     <a href="/明">>next</a> + <a href="天">day</a> = <b>tomorrow</b>
     `
+tomorrow evening:
+  cn: 明晚
+  py: míng wǎn
+  set: 5
+  tone: 23
+  memo: short for 明天晚上
+
+tomorrow morning:
+  cn: 明早
+  py: míng zǎo
+  set: 5
+  tone: 23
+  memo: short for 明天早上
+
 week:
   cn: 星期
   tone: 12
@@ -763,3 +793,12 @@ yesterday:
   memo: |
     On the right we have <a href="/天">day</a> which is a nice reminder this has something to do with days.
     The left thing makes it <b>yesterday</b>. It looks a bit like it's waving goodbye and moving to the left with those drag lines.
+
+yesterday evening:
+  cn: 昨晚
+  py: zuó wǎn
+  set: 5
+  tone: 23
+  also:
+    - last night
+  memo: short for 昨天晚上

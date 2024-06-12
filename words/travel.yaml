@@ -51,6 +51,37 @@ europe:
   set: 3
   memo: fixme
 
+from A to B:
+  cn: 从A到B
+  py: Cóng A dào B
+  set: 5
+  tone: 24
+  also:
+    - from A to B (place)
+    - from A to B (time)
+  memo: fixme
+
+from A to B (emphasis):
+  cn: 从A来到B
+  py: Cóng A lái dào B
+  set: 5
+  tone: 224
+  memo: emphasis on arriving FROM A
+
+from A back to B:
+  cn: 从A回B
+  py: Cóng A huí B
+  set: 5
+  tone: 22
+  memo: fixme
+
+from A back to B (amphasis):
+  cn: 从A回到B
+  py: Cóng A huí dào B
+  set: 5
+  tone: 322
+  memo: Emphasis on the fact that you have already arrived in B
+
 GB Pound:
   cn: 英镑
   py: Yīng bàng
@@ -173,6 +204,15 @@ Russian Ruble:
   set: 5
   tone: 24
   memo: fixme
+
+sightseeing:
+  cn: 游览
+  py: yóu lǎn
+  set: 5
+  tone: 23
+  also:
+    - to tour
+    - to visit
 
 speech:
   cn: 语

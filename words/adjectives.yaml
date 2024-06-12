@@ -285,7 +285,7 @@ inside:
     This looks like a hood ornament on a fancy car.
     That hood ornament goes on the hood, and it tells you what's <b>inside</b> the hood (or at least the brand of the <b>internal</b> combustion engine)
 
-interesting:
+interesting (1):
   cn: 有意思
   py: yǒu yì si
   tone: 340
@@ -294,6 +294,16 @@ interesting:
     - meaningful
     - fun
     - enjoyable
+  memo: fixme
+
+interesting (2):
+  cn: 好玩儿
+  py: hǎo wán r
+  set: 5
+  tone: 320
+  also:
+    - delightful
+    - amusing
   memo: fixme
 
 long: 
@@ -308,7 +318,6 @@ long:
     - constantly
   memo: What you see here is the ocean. The horizon, the way the things are reflected in the water. So convey <b>length</b>, <b>forever</b>, <b>always</b>, or <b>constantly</b> arguably an ocean is a pretty good pictogram.
 
-
 meaning:
   cn: 意味
   py: yì wèi
@@ -321,6 +330,16 @@ meaning:
     - to mean
     - to imply
   memo: fixme
+
+nearby:
+  cn: 附近
+  py: fù jìn
+  set: 5
+  tone: 44
+  also:
+    - (in the) vincinity
+    - neighboring
+    - next to
 
 nervous:
   cn: 紧张

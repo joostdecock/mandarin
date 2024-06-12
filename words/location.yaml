@@ -252,3 +252,10 @@ west:
     - Abbreviation for Spain
     - Spanish
   memo: It looks just like an alcoholic beverage, but it's even simpler and dumbed down because, you know, the <b>west</b>
+
+what place (where):
+  cn: 什么地方
+  py: shén me dì fang
+  set: 5
+  tone: 2040
+  memo: what + place

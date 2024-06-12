@@ -9,6 +9,19 @@ affair:
     - business
   memo: thing + feeling = non-material thing
 
+card:
+  cn: 卡
+  py: kǎ
+  set: 5
+  tone: 3
+  also:
+    - to stop
+    - to block
+    - calorie
+    - cassette
+    - slow (in computing, informal)
+  memo: ka = card
+
 child(1):
   cn: 小孩
   py: xiǎo hái
@@ -196,11 +209,39 @@ landscape:
     - view
   memo: scenery + look/appearance
 
+letter:
+  cn: 信
+  py: xìn
+  set: 5
+  tone: 4
+  also:
+    - mail
+    - to trust
+    - to believe
+    - to profess fait in
+    - truthful
+    - confidence
+    - trust
+    - at will
+    - at random
+  memo: fixme
+
 luggage:
   cn: 行李
   py: xíng li
   set: 5
   tone: 20
+  memo: fixme
+
+mission:
+  cn: 差
+  py: chāi
+  set: 5
+  tone: 1
+  also:
+    - to send
+    - to commission
+    - messenger
   memo: fixme
 
 music:
@@ -257,6 +298,25 @@ park:
   set: 5
   tone: 12
   memo: Like a public park
+
+place:
+  cn: 所
+  py: suǒ
+  set: 5
+  tone: 3
+  also:
+    - actually
+    - measure word for houses, small building, institutions, etc
+    - that which
+    - particle introducing a relative clause or passive
+  memo: fixme
+
+postcard:
+  cn: 明信片
+  py: míng xìn piàn
+  set: 5
+  tone: 244
+  memo: public/open + letter + one-sided
 
 present:
   cn: 礼物
@@ -374,7 +434,7 @@ strip:
     - item
     - article
     - clause (of law or treaty)
-    - measure word for long things (ribbon, river, road, trousers, ...)
+    - measure word for long things (ribbon, river, road, trousers, shirts, ...)
   memo: We got that table view with a pot on top and it's the one line at the top left doing the work saying this is <b>strip</b>
 
 thing:

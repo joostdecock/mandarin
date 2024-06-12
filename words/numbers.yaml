@@ -412,6 +412,26 @@ several:
     - how many
   memo: fixme
 
+slice:
+  cn: 片
+  py: piàn
+  set: 5
+  tone: 4
+  also:
+    - thin piece
+    - flake
+    - film
+    - TV play
+    - to slice
+    - to carve thin
+    - partial
+    - incomplete
+    - one-sided
+    - measure word for slices, tables, tracts of land, area of water
+    - measure word for CDs, movies, etc
+    - when used with numberal -yi, measure word for scenario, schene, feeling, atmosphere, sound, etc
+  memo: fixme
+
 so much:
   cn: 这么
   py: zhè me

@@ -7,6 +7,13 @@ apartment building:
     - block of flats
   memo: publicly owned + residence
 
+bank:
+  cn: 银行
+  py: yín háng
+  set: 5
+  tone: 22
+  memo: related to money + relating to company / profession
+
 between:
   cn: 间
   py: jiān
@@ -113,6 +120,19 @@ house(2):
     - room
   memo: fixme
 
+mall:
+  cn: 商场 
+  py: shāng chǎng
+  set: 5
+  tone: 13
+  also:
+    - shopping mall
+    - shopping center
+    - department store
+    - emporium
+    - the business world
+  memo: long + store
+
 merchant:
   cn: 商
   tone: 1
@@ -144,7 +164,6 @@ other people:
     - other person
   memo: fixme
   
-
 place:
   cn: 地方 
   py: dì fang
@@ -155,6 +174,13 @@ place:
     - space
     - room
     - territory
+  memo: fixme
+
+post office:
+  cn: 邮局
+  py: yóu jú
+  set: 5
+  tone: 22
   memo: fixme
 
 public square:
@@ -206,6 +232,13 @@ room:
   tone: 21
   memo: <b>house</b> plus <b>room</b>
 
+room card (in a hotel):
+  cn: 房卡
+  py: fáng kǎ
+  set: 5
+  tone: 23
+  memo: fixme
+
 shop:
   cn: 商店
   tone: 14
@@ -222,6 +255,13 @@ someone else:
   py: lìng yī gè rén
   tone: 4142
   set: 4
+  memo: fixme
+
+supermarket:
+  cn: 超市
+  py: chāo shì
+  set: 5
+  tone: 14
   memo: fixme
 
 ticket:
@@ -259,6 +299,34 @@ to take a bus:
   set: 5
   tone: 41
   memo: fixme
+
+toilet (1): 
+  cn: 洗手间 
+  py: xǐ shǒu jiān
+  set: 5
+  tone: 331
+  also:
+    - lavatory
+    - washroom
+  memo: to wash + hand + room
+
+toilet (2): 
+  cn: 厕所
+  py: cè suǒ
+  set: 5
+  tone: 43
+  also:
+    - lavatory
+  memo: toilet + place
+
+toilet (3): 
+  cn: 厕
+  py: cè
+  set: 5
+  tone: 4
+  also:
+    - lavatory
+  memo: not typically used on its own
 
 traffic jam:
   cn: 塞车

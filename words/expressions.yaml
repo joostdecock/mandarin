@@ -118,6 +118,13 @@ I want to check in:
   set: 5
   memo: fixme
 
+Is it A or is it B:
+  cn: 是A还是B
+  py: Shì A háishì B?
+  set: 5
+  tone: 424
+  memo: Is A Oris B
+
 let me know:
   cn: 告诉我一声
   py: gàosù wǒ yīshēng
@@ -196,6 +203,13 @@ not yet:
   tone: 22
   memo: fixme
 
+of course you can:
+  cn: 当然可以
+  py: Dāngrán kěyǐ
+  set: 5
+  tone: 1233
+  memo: of course + can
+
 please wait a moment (more formal):
  cn: 请稍等
  py: qǐng shāo děng
@@ -233,6 +247,13 @@ the sooner the better:
   set: 5
   tone: 2223
   memo: fixme
+
+these nuts:
+  cn: 这些坚果
+  py: 这些坚果
+  set: 5
+  tone: 4113
+  memo: dees nuts
 
 too expensive:
   cn: 太贵了
