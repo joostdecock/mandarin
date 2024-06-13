@@ -228,6 +228,22 @@ to call:
     That looks like a person operating one of those mechanical morse code switches. 
     Because that's how they used to make calls.
 
+to change transport (1):
+  cn: 转车
+  py: zhuǎn chē
+  set: 5
+  tone: 31
+  also:
+    - to transfer
+  memo: to transfer + vehicle
+
+to change transport (2):
+  cn: 倒车
+  py: dǎo chē
+  set: 5
+  tone: 31
+  memo: to change + vehicle
+
 to check (1):
   cn: 考
   py: kǎo 
@@ -509,6 +525,18 @@ to escape:
     - off
   memo: fixme
 
+to exchange:
+  cn: 换
+  py: huàn
+  set: 5
+  tone: 4
+  also:
+    - to change (clothes and such)
+    - to substitute
+    - to switch
+    - to convert (currency)
+  memo: fixme
+
 to exercise:
   cn: 运动
   py: yùn dòng
@@ -537,6 +565,21 @@ to explain:
     - speech
     - lecture
   memo: Person standing in front of a flipboard explaining something
+
+to fall:
+  cn: 倒
+  py: dǎo
+  set: 5
+  tone: 3
+  also:
+    - to collapse
+    - to overthrow
+    - to fail
+    - to go bankrupt
+    - to change (trains or buses)
+    - to move around
+    - to resell at a profit
+  memo: fixme
 
 to find (1):
   cn: 找着
@@ -585,6 +628,13 @@ to finish class:
     That left character represents the end of things. We see the finish line and we're heading to it.
     The right part is a teacher at a whiteboard. So to finish class.
 
+to fly:
+  cn: 飞
+  py: fēi
+  set: 5
+  tone: 1
+  memo: fixme
+
 to forget:
   cn: 忘
   py: wàng 
@@ -615,7 +665,7 @@ to guard:
     - health
   memo: Looks a bit like a very stylized guard with a helmet looking towards the right
   
-to go:
+to go (1):
   cn: 去
   tone: 4
   py: qù
@@ -630,6 +680,32 @@ to go:
   memo: |
     The <a href="/云">cloud</a> character with an extra line means <b>to go</b>.
     The only think that can draw a line on top a cloud is an airplane. And they are always going places.
+
+to go (2):
+  cn: 行
+  py: xíng
+  set: 5
+  tone: 2
+  also:
+    - to walk
+    - to travel
+    - to visit
+    - a visit
+    - temporary
+    - makeshift
+    - current
+    - in circulation
+    - to do
+    - to perform
+    - capable
+    - competent
+    - effective
+    - all right
+    - OK!
+    - will do
+    - behavior
+    - conduct
+  memo: fixme
 
 to go for a walk:
   cn: 散步
@@ -652,6 +728,15 @@ to go in a direction:
     - past
     - previous
   memo: fixme
+
+to go nonstop to:
+  cn: 直达
+  py: zhí dá
+  set: 5
+  tone: 22
+  also:
+    - nonstop
+  memo: straight + to reach
 
 to go online:
   cn: 上网
@@ -760,6 +845,15 @@ to hit:
     The right looks like a punching bag hanging from the ceiling.
     Both of these are used <b>to hit</b> or <b>to strike</b>
 
+to hold a meeting:
+  cn: 开会
+  py: kāi huì
+  set: 5
+  tone: 14
+  also:
+    - to attend a meeting
+  memo: fixme
+
 to hope:
   cn: 希望
   tone: 14
@@ -784,6 +878,22 @@ to introduce:
     - armor
   memo: I guess <b>to lie between</b> is easy to remember here and shell is also somewhat close.
 
+to invert:
+  cn: 倒
+  py: dào
+  set: 5
+  tone: 4
+  also:
+    - to place upside down
+    - to pour
+    - to throw out
+    - to move backwards
+    - however
+    - actually
+    - as a matter of fact
+    - contrary to expectation
+  memo: fixme
+
 to invite to dinner:
   cn: 请客
   py: qǐng kè 
@@ -806,6 +916,16 @@ to jump:
     - to bounce
     - to palpitate
   memo: fixme
+
+to kiss:
+  cn: 吻
+  py: wěn
+  set: 5
+  tone: 3
+  also:
+    - kiss
+    - mouth
+  memo: mouth radical + something else
 
 to know:
   cn: 知道
@@ -1137,6 +1257,18 @@ to raise:
   memo: |
     This is cold air coming in from the right, and as it is heated by the radiator on the left, it rises.
     So that's how you can <b>raise</b> air upwards. By heating it.
+
+to reach:
+  cn: 达
+  py: dá
+  set: 5
+  tone: 2
+  also:
+    - to attain
+    - to amount to
+    - to communcate
+    - eminent
+  memo: fixme
 
 to recognize:
   cn: 认识

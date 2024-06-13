@@ -9,6 +9,19 @@ adjacent:
     - close to
     - neighbor
 
+almost:
+  cn: 差不多
+  py: chà bu duō
+  set: 5
+  tone: 401
+  also:
+    - nearly
+    - more or less
+    - about the same
+    - good enough
+    - not bad
+  memo: lacking + not + many
+
 better:
   cn: 更好
   py: gèng hǎo
@@ -69,6 +82,25 @@ busy:
     - to rush
   memo: This person left in a <b>hurry</b> because their coat is not longer on the coat hanger but their pot of food is still on the stove.
 
+secondary:
+  cn: 次
+  py: cì
+  set: 5
+  tone: 4
+  also:
+    - next in sequence
+    - the second (day, time, etc)
+    - vice-
+    - sub-
+    - infra-
+    - inferior quality
+    - substandard
+    - order
+    - sequence
+    - hypo- (from chemistry)
+    - measure word for enumerated events, time
+  memo: fixme
+
 careful:
   cn: 小心 
   py: xiǎo xīn
@@ -77,6 +109,17 @@ careful:
   also:
     - to take care
   memo: small + heart
+
+cheap:
+  cn: 便宜
+  py: pián yi
+  set: 5
+  tone: 20
+  also:
+    - inexpensive
+    - small advantages
+    - to let someone off lightly
+  memo: fixme
 
 common:
   cn: 普通
@@ -268,6 +311,18 @@ important:
     - major
   memo: fixme
 
+inconvenient:
+  cn: 麻烦
+  py: má fan
+  set: 5
+  tone: 20
+  also:
+    - troublesome
+    - annoying
+    - to trouble or bother someone
+    - to get someone in trouble
+  memo: fixme
+
 inferior:
   cn: 差
   py: chà
@@ -293,6 +348,22 @@ inside:
   memo: |
     This looks like a hood ornament on a fancy car.
     That hood ornament goes on the hood, and it tells you what's <b>inside</b> the hood (or at least the brand of the <b>internal</b> combustion engine)
+
+intense:
+  cn: 烈
+  py: liè
+  set: 5
+  tone: 4
+  also:
+    - ardent
+    - fierce
+    - stern
+    - upright
+    - to give one's life for a noble cause
+    - exploits
+    - achievements
+    - strong (as in alcohol)
+  memo: fixme
 
 interesting (1):
   cn: 有意思

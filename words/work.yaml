@@ -110,6 +110,17 @@ mobile phone:
   set: 2
   memo: Hand (left) and machine (right). Hand machine. Mobile phone. Makes sense.
 
+must:
+  cn: 得 
+  py: děi
+  set: 5
+  tone: 3
+  also:
+    - to have to
+    - ought to
+    - to need to
+  memo: fixme
+
 office:
   cn: 厅
   py: tīng

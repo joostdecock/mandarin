@@ -162,6 +162,26 @@ dining hall:
   tone: 22
   memo: fixme
 
+dinner(1):
+  cn: 晚饭
+  py: wǎn fàn
+  set: 5
+  tone: 34
+  also:
+    - evening meal
+    - supper
+  memo: evening + meal
+
+dinner(2):
+  cn: 晚餐
+  py: wǎn cān
+  set: 5
+  tone: 31
+  also:
+    - evening meal
+    - supper
+  memo: evening + meal
+
 dish:
   cn: 菜
   tone: 4

@@ -1,3 +1,13 @@
+air hostess:
+  cn: 空姐 
+  py: kōng jiě
+  set: 5
+  tone: 13
+  also:
+    - sterardess
+    - female flight attendant
+  memo: air + sister
+
 affair:
   cn: 事情
   py: shì qíng
@@ -22,6 +32,19 @@ card:
     - slow (in computing, informal)
   memo: ka = card
 
+character:
+  cn: 字
+  tone: 4
+  py: zì
+  set: 2
+  memo: |
+    In Chinese we try to cram as much as possible in a single character/word.
+    Here you see a character being made, with the press to cram all that info in shown at the top.
+  also:
+    - letter
+    - symbol
+    - word
+
 child(1):
   cn: 小孩
   py: xiǎo hái
@@ -34,6 +57,22 @@ child(2):
   py: hái zi
   set: 4
   tone: 20
+  memo: fixme
+
+chinese character:
+  cn: 汉字
+  py: Hàn zì
+  set: 5
+  tone: 44
+  memo: fixme
+
+city:
+  cn: 城市
+  py: chéng shì
+  set: 5
+  tone: 24
+  also: 
+    - town
   memo: fixme
 
 crossing:
@@ -262,6 +301,17 @@ library:
   tone: 213
   memo: to seek + book + building
 
+line:
+  cn: 线
+  py: xiàn
+  set: 5
+  tone: 4
+  also:
+    - thread
+    - string
+    - wire
+  memo: fixme
+
 luggage:
   cn: 行李
   py: xíng li
@@ -347,6 +397,15 @@ park:
   tone: 12
   memo: Like a public park
 
+pearl:
+  cn: 珍珠
+  py: zhēn zhū
+  set: 5
+  tone: 11
+  also:
+    - bubble, as in bubble tea
+  memo: fixme
+
 place:
   cn: 所
   py: suǒ
@@ -373,6 +432,15 @@ present:
   set: 5
   also:
     - gift
+
+public transport vehicle:
+  cn: 公交车
+  py: gōng jiāo chē
+  set: 5
+  tone: 111
+  also:
+    - town bus
+  memo: public + transport + vehicle
 
 result:
   cn: 结果
@@ -501,6 +569,15 @@ strip:
     - measure word for long things (ribbon, river, road, trousers, shirts, ...)
   memo: We got that table view with a pot on top and it's the one line at the top left doing the work saying this is <b>strip</b>
 
+subway:
+  cn: 地铁
+  py: dì tiě
+  set: 5
+  tone: 43
+  also:
+    - metro
+  memo: fixme
+
 thing:
   cn: 事
   py: shì
@@ -529,6 +606,20 @@ thought:
     - to anticipate
   memo: This looks like an over with a pot on the stove which is probably getting burnt because somebody just had a <b>thought</b> or <b>idea</b> and now they're behind their computer
 
+ticket collector:
+  cn: 收票员
+  py: shōu piào yuán
+  set: 5
+  tone: 142
+  memo: fixme
+
+ticket seller:
+  cn: 售票员
+  py: shòu piào yuán
+  set: 5
+  tone: 442
+  memo: fixme
+
 top:
   cn: 顶
   py: dǐng 
@@ -555,6 +646,18 @@ traffic light:
   set: 5
   tone: 241
   memo: red + green + light
+
+transportation:
+  cn: 交通
+  py: jiāo tōng
+  set: 5
+  tone: 11
+  also:
+    - to be connected
+    - traffic
+    - communications
+    - liaison
+  memo: fixme
 
 tree:
   cn: 树
@@ -599,16 +702,12 @@ waiter:
   memo: to serve + employee
 
 word:
-  cn: 字
-  tone: 4
-  py: zì
-  set: 2
-  memo: |
-    In Chinese we try to cram as much as possible in a single character/word.
-    Here you see a character being made, with the press to cram all that info in shown at the top.
+  cn: 词
+  py: cí
+  set: 5
+  tone: 2
   also:
-    - letter
-    - symbol
-    - character
-
-
+    - statement
+    - speech
+    - lyrics
+    - classical Chinese poem

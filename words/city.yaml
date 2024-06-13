@@ -38,12 +38,19 @@ building:
     This looks like a bunch of housing units stacked on top of each other with a roof over them.
     And on the left I guess we see a construction crane. This is a <b>building</b>.
 
-bus:
+bus(1):
   cn: 公共汽车
   py: gōng gòng qì chē
   set: 3
   tone: 1441
   memo: public public steam vehicle. You know, the bus.
+
+bus(2):
+  cn: 公车
+  py: gōng chē
+  set: 5
+  tone: 11
+  memo: short for 公共汽车
 
 cinema:
   cn: 电影院

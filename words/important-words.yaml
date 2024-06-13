@@ -390,7 +390,7 @@ of course:
     - without doubt
   memo: fixme
 
-or:
+or (for statements):
   cn: 或者
   py: huò zhě
   set: 5
@@ -399,6 +399,16 @@ or:
     - possibly
     - maybe
     - perhaps
+  memo: fixme
+
+or (for questions):
+  cn: 还是
+  py: hái shì
+  set: 5
+  tone: 24
+  also:
+    - still
+    - nevertheless
   memo: fixme
 
 so:
@@ -454,6 +464,13 @@ that:
   also:
     - those
     - then (in that case)
+
+that one:
+  cn: 那个
+  py: nà ge
+  set: 5
+  tone: 40
+  memo: fixme
 
 there:
   cn: 那儿
@@ -542,6 +559,16 @@ which:
     On the left, it's more squarish, with spikes.
     On the right, it's round and smooth, almost like breasts.
     <b>which</b> would you choose? And why is it the one on the right?
+
+which one:
+  cn: 哪个
+  py: nǎ ge
+  set: 5
+  tone: 30
+  also:
+    - which
+    - who
+  memo: fixme
 
 which ones:
   cn: 哪些
