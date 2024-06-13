@@ -19,6 +19,51 @@ affair:
     - business
   memo: thing + feeling = non-material thing
 
+bill:
+  cn: 单
+  py: dān
+  set: 5
+  tone: 1
+  also:
+    - list
+    - form
+    - single
+    - only
+    - sole
+    - odd number
+  memo: fixme
+
+boxed meal:
+  cn: 盒饭
+  py: hé fàn
+  set: 5
+  tone: 24
+  memo: small box / case + meal
+
+candy:
+  cn: 糖 
+  py: táng
+  set: 5
+  tone: 2
+  also:
+    - sugar
+    - sweets
+  memo: fixme
+
+case:
+  cn: 盒
+  py: hé
+  set: 5
+  tone: 2
+  memo: fixme
+
+cash:
+  cn: 现金
+  py: xiàn jīn
+  set: 5
+  tone: 41
+  memo: fixme
+
 card:
   cn: 卡
   py: kǎ
@@ -31,6 +76,23 @@ card:
     - cassette
     - slow (in computing, informal)
   memo: ka = card
+
+cart:
+  cn: 推车
+  py: tuī chē
+  set: 5
+  tone: 11
+  also:
+    - trolley
+    - to push a cart
+  memo: fixme
+
+carriage:
+  cn: 车厢 
+  py: chē xiāng
+  set: 5
+  tone: 11
+  memo: fixme
 
 character:
   cn: 字
@@ -74,6 +136,24 @@ city:
   also: 
     - town
   memo: fixme
+
+credit:
+  cn: 信用
+  py: xìn yòng
+  set: 5
+  tone: 44
+  also:
+    - to trust
+    - tristworthiness
+    - creditworthiness
+  memo: fixme
+
+credit card:
+  cn: 信用卡
+  py: xìn yòng kǎ
+  set: 5
+  tone: 443
+  memo: credit + card
 
 crossing:
   cn: 路口 
@@ -312,6 +392,15 @@ line:
     - wire
   memo: fixme
 
+lounge (airport):
+  cn: 休息室
+  py: xiū xī shì
+  set: 5
+  tone: 114
+  also:
+    - lobby
+  memo: fixme
+
 luggage:
   cn: 行李
   py: xíng li
@@ -527,6 +616,17 @@ sound:
     - noise
     - measure word for sounds
 
+soup:
+  cn: 汤
+  py: tāng
+  set: 5
+  tone: 1
+  also:
+    - hot or boiline water
+    - concoction of medical herbs
+    - water in which something was boiled
+  memo: fixme
+
 station:
   cn: 站
   py: zhàn
@@ -669,6 +769,30 @@ tree:
     - to set up
   memo: tree radical with happy guy
 
+trunk:
+  cn: 箱
+  py: xiāng
+  set: 5
+  tone: 1
+  also:
+    - box
+    - chest
+  memo: fixme
+
+type:
+  cn: 类
+  py: lèi
+  set: 5
+  tone: 4
+  also:
+    - kind
+    - class
+    - category
+    - similar
+    - like
+    - to resemble
+  memo: fixme
+
 video game:
   cn: 游戏机
   py: yóu xì jī
@@ -700,6 +824,27 @@ waiter:
     - atendant
     - customer service staff
   memo: to serve + employee
+
+wedding:
+  cn: 婚礼
+  py: hūn lǐ
+  set: 5
+  tone: 13
+  also:
+    - wedding ceremony
+  memo: fixme
+
+weight:
+  cn: 码
+  py: mǎ
+  set: 5
+  tone: 3
+  also:
+    - number
+    - code
+    - to pile
+    - to stack
+    - measure word for length or distance, happenings
 
 word:
   cn: 词

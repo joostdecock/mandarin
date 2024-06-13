@@ -173,6 +173,29 @@ to be born:
     Like a full spool of thread that has the beginning stuck to it with some tape.
     This is a new thing <b>being born</b> in its <b>raw</b> state, ready to <b>grow</b>
 
+to break:
+  cn: 折
+  py: zhé
+  set: 5
+  tone: 2
+  also:
+    - to fracture
+    - to snap
+    - to suffer loss
+    - to bend
+    - to twist
+    - to turn
+    - to change direction
+    - convinced
+    - to convert into (currency)
+    - discount
+    - rebate
+    - tenth (in price)
+    - classifier for theatrical scenes
+    - to fold
+    - accounts book
+  memo: fixme
+
 to bring:
   cn: 带
   py: dài
@@ -438,6 +461,15 @@ to do:
   memo: |
     The right part of this looks like a side of a house, and then on the left there's a person who is there <b>to do</b> something.
 
+to do buisiness:
+  cn: 营业
+  py: yíng yè
+  set: 5
+  tone: 24
+  also:
+    - to trade
+  memo: fixme
+
 to deliver:
   cn: 送
   py: sòng
@@ -654,6 +686,13 @@ to get out of bed:
     - to get up
   memo: To get up + bed = To get out of bed
 
+to give a discount:
+  cn: 打折
+  py: dǎ zhé
+  set: 5
+  tone: 32
+  memo: fixme
+
 to guard:
   cn: 卫
   py: wèi
@@ -774,6 +813,19 @@ to gossip:
   also:
     - to chat
 
+to hasten:
+  cn: 催
+  py: cuī
+  set: 5
+  tone: 1
+  also:
+    - to urge
+    - to press
+    - to prompt
+    - to rush someone
+    - to expedite
+  memo: fixme
+
 to have:
   cn: 有
   tone: 3
@@ -787,6 +839,13 @@ to have:
   memo: |
     What's show here is a roof over your head. Which is a nice thing to <b>have</b>.
     Note that to negate to have, we use 没, not 不
+
+to have a holiday:
+  cn: 放假
+  py: fàng jià
+  set: 5
+  tone: 44
+  memo: fixme
 
 to hear (something being said):
   cn: 听说
@@ -1119,6 +1178,31 @@ to open:
     I guess this looks a bit like a top down view of a cardboard box that is <b>open</b>
     Or like one of them chunky buttons you press to <b>start</b> something.
     Or like one of the knobs on a stove that you <b>turn on</b> when you want <b>to boil</b> something.
+
+to pay:
+  cn: 付费
+  py: fù fèi
+  set: 5
+  tone: 44
+  also:
+    - to cover the costs
+  memo: fixme
+
+to pay the bill:
+  cn: 结账
+  py: jié zhàng
+  set: 5
+  tone: 24
+  also:
+    - to settle accounts
+  memo: fixme
+
+to pay the restaurant bill:
+  cn: 买单
+  py: mǎi dān
+  set: 5
+  tone: 31
+  memo: buy + bill
 
 to pass through:
   cn: 经
@@ -1710,11 +1794,23 @@ to succeed:
     - one tenth
   memo: This is a mash-up between high-fiving and slapping the roof of a car and that's pretty good for <b>to succeed</b>
 
+to supply:
+  cn: 供应
+  py: gōng yìng
+  set: 5
+  tone: 14
+  also:
+    - to provide
+    - to offer
+  memo: fixme
+
 to sweep:
   cn: 扫
   py: sǎo
   set: 5
   tone: 3
+  also:
+    - to scan (as when paying via QR code)
   memo: fixme
 
 to take a plane:
@@ -1813,6 +1909,15 @@ to translate:
     - interpreter
     - translation
     - interpretation
+  memo: fixme
+
+to try on clothes:
+  cn: 试穿 
+  py: shì chuān
+  set: 5
+  tone: 41
+  also:
+    - fitting ritual
   memo: fixme
 
 to try to find the time to:
@@ -1986,6 +2091,22 @@ to watch:
     We've got party guy swinging his tie around, together with the symbol for see. 
     It's a sight to watch, that's for sure.
 
+to wear:
+  cn: 穿
+  py: chuān
+  set: 5
+  tone: 1
+  also:
+    - to put on
+    - to dress
+    - to bore through
+    - to pierce
+    - to perforate
+    - to penetrate
+    - to pass through
+    - to thread
+  memo: fixme
+
 to work: 
   cn: 工作
   py: gōng zuò
@@ -1998,7 +2119,6 @@ to work:
     - task
   memo: |
     Character for <a href="/工1">work</a> plus character for <a href="/作4">to do<a> makes <b>to work</b>
-                
 
 to wrap:
   cn: 包

@@ -46,6 +46,43 @@ cola:
     I mean sure, the bendy straw is upside down. 
     But don't forget that China is on the other side of the world, so it kinda makes sense that way?
 
+juice:
+  cn: 汁
+  py: zhī
+  set: 5
+  tone: 1
+  memo: fixme
+
+neat (no ice in drink):
+  cn: 常温的
+  py: cháng wēn de
+  set: 5
+  tone: 210
+  memo: room temp + de
+
+orange juice:
+  cn: 橙汁
+  py: chéng zhī
+  set: 5
+  tone: 21
+  memo: orange + juice
+
+room temperature:
+  cn: 常温
+  py: cháng wēn
+  set: 5
+  tone: 21
+  also:
+    - ordinary temperatures
+  memo: fixme
+
+sprite:
+  cn: 雪碧
+  py: xuě bì
+  set: 5
+  tone: 34
+  memo: fixme
+
 to drink:
   cn: 喝
   tone: 1

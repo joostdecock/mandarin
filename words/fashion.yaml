@@ -42,6 +42,13 @@ leather shoes:
   tone: 22
   memo: fixme
 
+shirt:
+  cn: 衬衣
+  py: chèn yī
+  set: 5
+  tone: 41
+  memo: fixme
+
 suit:
   cn: 西装 
   py: xī zhuāng 
@@ -49,6 +56,15 @@ suit:
   tone: 11
   also:
     - Western-style clothes
+  memo: fixme
+
+trousers:
+  cn: 裤子
+  py: kù zi
+  set: 5
+  tone: 40
+  also:
+    - pants
   memo: fixme
 
 wristwatch:

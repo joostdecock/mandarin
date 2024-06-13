@@ -3,6 +3,12 @@ again:
   tone: 4
   py: zài
   set: 1
+  also:
+    - once more
+    - re-
+    - second
+    - another
+    - then (after something, not until then)
   memo: This is clearly a drone about to take off <b>again</b>.
 
 excuse me: 

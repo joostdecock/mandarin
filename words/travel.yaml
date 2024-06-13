@@ -10,6 +10,13 @@ airport:
     场 (field) where you can practically see the tractor tracks in this field
     Machine field is a pretty great name for airport.
 
+alipay:
+  cn: 支付宝 
+  py: Zhī fù bǎo
+  set: 5
+  tone: 143
+  memo: fixme
+
 chinese:
   cn: 中文
   tone: 12

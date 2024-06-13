@@ -191,6 +191,15 @@ a little (non-erhua variant):
     Then we have the character for <a href="/点3">point or drop</a>.
     One drop of something = <b>a little</b>
 
+altogether:
+  cn: 一共
+  py: yī gòng
+  set: 5
+  tone: 14
+  also:
+    - total
+  memo: fixme
+
 chunk:
   cn: 块
   tone: 4

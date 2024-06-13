@@ -536,7 +536,6 @@ similar:
     - with
   memo: fixme
 
-
 sleepy:
   cn: 困
   py: kùn
@@ -601,6 +600,16 @@ strange:
     - surprisingly
     - unusually
   memo: Looks a bit like a driver looking out their window while a small person stands on their roof which is <b>odd</b> to say the least.
+
+suitable:
+  cn: 合适
+  py: hé shì
+  set: 5
+  tone: 24
+  also:
+    - fitting
+    - appropriate
+  memo: fixme
 
 surely:
   cn: 一定

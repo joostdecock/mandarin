@@ -46,6 +46,19 @@ banana:
     The one on the right is banana on its own too.
     It doesn't really look like a banana, more like a box of bananas with some more on the ground
 
+bitter:
+  cn: 苦
+  py: kǔ
+  set: 5
+  tone: 3
+  also:
+    - hardship
+    - pain
+    - to suffer
+    - to bring suffering to
+    - painstakingly
+  memo: fixme
+
 breakfast (1):
   cn: 早饭
   py: zǎo fàn
@@ -112,6 +125,13 @@ canteen:
     - dining room
     - restaurant
   memo: Food + reception hall = canteen
+
+chopsticks:
+  cn: 筷子
+  py: kuài zi
+  set: 5
+  tone: 40
+  memo: fixme
 
 (cooked) rice:
   cn: 米饭
@@ -299,6 +319,15 @@ hotpot:
   set: 1
   memo: <a href="/火">fire character</a> plus <a href="/锅">pot character</a> = <b>hotpot</b>
 
+main food:
+  cn: 主食
+  py: zhǔ shí
+  set: 5
+  tone: 32
+  also:
+    - stable (rice and noodles)
+  memo: fixme
+
 meal:
   cn: 餐
   py: cān
@@ -349,6 +378,14 @@ pancake:
     The left character is <a href="/煎1">to pan fry"</a>
     The right character is <a href="饼0">(round flat) cake, cookie, or pastry</a>
     Together, they make pan + cake, or <b>pancake</b>
+
+paper napkin:
+  cn: 餐巾纸
+  py: cān jīn zhǐ
+  set: 5
+  tone: 113
+  memo: fixme
+
 pot:
   cn: 锅
   tone: 1
@@ -404,6 +441,33 @@ roast duck:
   memo: |
     On the left we have a squished fire + old symbol. And an old fire (embers) is where you <b>roast</b> things on.
     On the right we have the character for <a href="/鸭">duck</a>
+     
+salty:
+  cn: 咸
+  py: xián
+  set: 5
+  tone: 2
+  also:
+    - salted
+    - stingy
+    - miserly
+  memo: fixme
+
+sour:
+  cn: 酸
+  py: suān
+  set: 5
+  tone: 1
+  also:
+    - tart
+    - sick at heart
+    - grieved
+    - sore
+    - aching
+    - pedantic
+    - impractical
+    - an acid
+  memo: fixme
 
 spicy:
   cn: 辣
@@ -417,6 +481,15 @@ spicy:
     The thing on the right arguably also looks a bit like a spice mill.
     Two difference spice mills = spicy
 
+spoon:
+  cn: 勺
+  py: sháo
+  set: 5
+  tone: 2
+  also:
+    - ladle
+  memo: fixme
+
 strawberry:
   cn: 草莓
   py: cǎo méi
@@ -425,6 +498,22 @@ strawberry:
   also:
     - hickey / love bite
   memo: 草is berry and 草is straw so together they are strawberry
+
+sweet:
+  cn: 甜
+  py: tián
+  set: 5
+  tone: 2
+  memo: fixme
+
+taste:
+  cn: 味
+  py: wèi
+  set: 5
+  tone: 4
+  also:
+    - smell
+  memo: fixme
 
 to pan fry:
   cn: 煎
@@ -436,4 +525,18 @@ to pan fry:
   memo: |
     We see a grill here with an extraction fan above it, clearly a kictchen setup.
     There is a pan on the left, and things are being fried in it.
+
+umami:
+  cn: 鲜味
+  py: xiān wèi
+  set: 5
+  tone: 14
+  memo: fresh + taste
+
+yogurt:
+  cn: 酸奶
+  py: suān nǎi
+  set: 5
+  tone: 13
+  memo: sour + milk
 
