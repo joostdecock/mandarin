@@ -5,7 +5,6 @@ import Layout from 'components/layouts/bare'
 import WebLink from 'components/web-link'
 import PageLink from 'components/page-link'
 import Link from 'next/link'
-import Bg from 'components/bg.js'
 import DownIcon from 'components/icons/down.js'
 
 const AboutPage = () => {

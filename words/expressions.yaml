@@ -54,6 +54,7 @@ I have booked a room:
   cn: 我预定了房间
   py: wǒ yù dìng le fáng jiān
   set: 5
+  tone: 344021
   memo: fixme
 
 I heard right:
@@ -116,6 +117,7 @@ I want to check in:
   cn: 我办一下入住
   py: wǒ bàn yī xià rù zhù
   set: 5
+  tone: 341444
   memo: fixme
 
 Is it A or is it B:

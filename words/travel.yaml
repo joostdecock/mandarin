@@ -12,7 +12,7 @@ airport:
 
 alipay:
   cn: 支付宝 
-  py: Zhī fù bǎo
+  py: zhī fù bǎo
   set: 5
   tone: 143
   memo: fixme

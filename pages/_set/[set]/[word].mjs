@@ -43,7 +43,7 @@ export async function getStaticPaths(all) {
   const paths = []
   for (const set in sets) {
     for (const word of sets[set]) {
-      paths.push(`/_set/${set}/${word.cn}${word.tone}`)
+      paths.push(`/_set/${set}/${asSlug(word.cn + word.tone)}`)
       paths.push(`/_set/${set}/${asSlug(word.py)}`)
       paths.push(`/_set/${set}/${asSlug(word.en)}`)
     }

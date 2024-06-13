@@ -1312,7 +1312,7 @@ to pull over:
   cn: 停车
   py: tíng chē
   set: 5
-  tnoe: 21
+  tone: 21
   also:
     - to park
     - to stop working (of a machine)
@@ -2077,6 +2077,7 @@ to wash your face:
   cn: 洗脸
   py: xǐ liǎn
   set: 4
+  tone: 33
   memo: fixme
 
 to watch: 

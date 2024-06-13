@@ -512,8 +512,8 @@ really:
   memo: This looks so grounded and summetrical, it is <b>indeed</b> <b>true</b>
 
 same: 
-  py: 一样
-  cn: yī yàng
+  cn: 一样
+  py: yī yàng
   set: 4
   tone: 14
   also:
@@ -540,6 +540,7 @@ sleepy:
   cn: 困
   py: kùn
   set: 4
+  tone: 4
   also:
     - to trap
     - to surruond
