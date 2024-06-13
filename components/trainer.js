@@ -11,7 +11,7 @@ import { Spinner } from 'components/spinner.mjs'
 const TranslationButton = ({ target, word }) => (
   <Link href={asSlug(word[target])}>
     <button className={
-      `btn btn-sm mx-2 btn-secondary ${target === word.type ? 'btn-ghost' : 'btn-link'}`
+      `btn btn-sm mx-2 btn-primary ${target === word.type ? 'btn-ghost' : 'btn-link'}`
     }>{target}</button>
   </Link>
 )
@@ -138,11 +138,11 @@ const WordTrainer = ({ getNext, type, preload=false }) => {
           <>
             <button 
               onClick={() => setShow(!show)}
-              className="btn btn-secondary btn-link hidden lg:block"
+              className="btn btn-primary btn-link hidden lg:block"
             >{show ? 'Hide' : 'Show'} memo
             </button>
             <button 
-              className="btn btn-secondary btn-wide btn-lg mt-8 lg:block btn-outline border-2 hidden"
+              className="btn btn-primary btn-wide btn-lg mt-8 lg:block btn-outline border-2 hidden"
               onClick={nextWord}
             >next</button>
           </>

@@ -9,15 +9,15 @@ module.exports = {
   'base-300': colors.neutral['500'],
   'base-content': colors.neutral['700'],
 
-  primary: colors.pink['400'],
-  'primary-focus': colors.fuchsia['400'],
+  primary: colors.red['600'],
+  'primary-focus': colors.red['700'],
   'primary-content': colors.yellow['200'],
 
-  secondary: colors.violet['400'],
-  'secondary-focus': colors.violet['700'],
-  'secondary-content': colors.violet['50'],
+  secondary: colors.sky['500'],
+  'secondary-focus': colors.sky['600'],
+  'secondary-content': colors.yellow['200'],
 
-  accent: colors.yellow['300'],
+  accent: colors.green['400'],
   'accent-focus': colors.pink['300'],
   'accent-content': colors.pink['50'],
 

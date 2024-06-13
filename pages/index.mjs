@@ -5,7 +5,6 @@ import Layout from 'components/layouts/bare'
 import WebLink from 'components/web-link'
 import PageLink from 'components/page-link'
 import Link from 'next/link'
-import Bg from 'components/bg.js'
 import DownIcon from 'components/icons/down.js'
 import words from 'prebuild/words.mjs'
 
@@ -31,16 +30,16 @@ const HomePage = () => {
         <meta property="og:locale" content="en_US" key="locale" />
         <meta property="og:site_name" content="mandarin.joost.at" key="site" />
       </Head>
-      <Bg className="m-0 p-0 w-full h-screen flex flex-col items-center justify-around" theme={app.theme}>
+      <div className="m-0 p-0 w-full h-screen flex flex-col items-center justify-around bg-base-100">
         <div>
           <h1
-            className={`font-black text-center text-primary-content text-7xl  `}
+            className={`font-black text-center text-primary text-7xl  `}
             style={{ textShadow: '5px 5px 15px #00000066' }}
           >
             普通话
           </h1>
           <h2
-            className={`font-black text-center border-0 text-primary-content text-3xl`}
+            className={`font-black text-center border-0 text-primary text-3xl`}
             style={{ textShadow: '5px 5px 15px #00000066' }}
           >
             Mandarin Chinese
@@ -68,7 +67,7 @@ const HomePage = () => {
           How hard can it be?
           <span className="block text-sm opacity-50 lg:text-xl xl:text-2xl">( famous last words )</span>
         </p>
-      </Bg>
+      </div>
     </Page>
   )
 }

@@ -9,8 +9,8 @@ module.exports = {
   'base-300': colors.neutral['500'],
   'base-content': colors.neutral['300'],
 
-  primary: colors.violet['600'],
-  'primary-focus': colors.violet['600'],
+  primary: colors.red['700'],
+  'primary-focus': colors.red['700'],
   'primary-content': colors.yellow['200'],
 
   secondary: colors.pink['400'],
