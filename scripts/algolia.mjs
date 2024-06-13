@@ -37,7 +37,8 @@ const indexWordList = async () => {
   console.log(`🗂️  Indexing list of words to Algolia`)
 
   // Index to Algolia
-  await index.clearObjects()
+  try {
+
   await index
     .saveObjects(words.map(word => ({
       en: word.en,
@@ -48,8 +49,10 @@ const indexWordList = async () => {
       memo: word.memo,
       objectID: word.cn+word.tone
     })))
-    .then(() => null)
-    .catch((err) => console.log(err))
+  }
+  catch (err) {
+    console.log(err)
+  }
 }
 
 const run = async () => {
