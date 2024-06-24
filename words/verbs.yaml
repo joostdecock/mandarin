@@ -59,6 +59,15 @@ to ask (2):
     This is clearly a QR-code which is what you use if you have questions <b>to ask</b>.
     I mean, it will take you to a website with more info at least.
 
+to attend:
+  cn: 光临
+  py: guāng lín
+  set: 5
+  tone: 12
+  also:
+    - to honor with one's presence 
+  memo: fixme
+
 to avert:
   cn: 免
   py: miǎn
@@ -157,6 +166,16 @@ to attend class:
     The character on the right looks like a teacher standing at a whiteboard.
     So together, to attend class.
 
+to be at ease:
+  cn: 安心
+  py: ānxīn
+  set: 5
+  tone: 11
+  also:
+    - relieved
+    - put one's mind at rest
+  memo: safe/calm + heart
+
 to be born:
   cn: 生
   tone: 1
@@ -217,6 +236,19 @@ to bring:
     - to lead
     - to look after
     - to raise
+  memo: fixme
+
+to brush:
+  cn: 刷
+  py: shuā 
+  set: 5
+  tone: 1
+  also:
+    - to paint
+    - to daub
+    - to paste up
+    - to skip class
+    - to fire from a job
   memo: fixme
 
 to brush your teeth:
@@ -925,6 +957,26 @@ to hope:
     The left looks a bit like shooting star, which when you see one you can <b>wish for</b> things.
     The right has a squished work at the bottom, a month at the right, and so perhaps it represents the <b>hope</b> that there's more <b>to desire</b> than just work all the time.
 
+to install:
+  cn: 安
+  py: ān
+  set: 5
+  tone: 1
+  also:
+    - safe
+    - secure
+    - peace
+    - quiet
+    - calm
+    - content
+    - satisfied
+    - still
+    - to fit
+    - to pacify
+    - to fix
+    - to harbor
+    - peace
+
 to introduce:
   cn: 介
   py: jiè
@@ -1179,13 +1231,23 @@ to open:
     Or like one of them chunky buttons you press to <b>start</b> something.
     Or like one of the knobs on a stove that you <b>turn on</b> when you want <b>to boil</b> something.
 
-to pay:
+to pay(1):
   cn: 付费
   py: fù fèi
   set: 5
   tone: 44
   also:
     - to cover the costs
+  memo: fixme
+
+to pay(2):
+  cn: 付款
+  py: fù kuǎn
+  set: 5
+  tone: 42
+  also:
+    - to pay a sum of money
+    - payment
   memo: fixme
 
 to pay the bill:
@@ -1695,12 +1757,26 @@ to smell:
     - to sniff at
   memo: fixme
 
-to speak: 
+to speak(1): 
   cn: 说
   tone: 1
   py: shuō
   set: 2
   memo: This is a person behind a lectern with two microphones. Clearly this person is expected to <b>speak</b>
+
+to speak(2):
+  cn: 说话
+  py: shuō huà
+  set: 5
+  tone: 14
+  also: 
+    - to say
+    - to talk
+    - to gossip
+    - to tell stories
+    - talk
+    - word
+  memo: fixme
 
 to spread:
   cn: 张
@@ -2120,6 +2196,13 @@ to work:
     - task
   memo: |
     Character for <a href="/工1">work</a> plus character for <a href="/作4">to do<a> makes <b>to work</b>
+
+to worry:
+  cn: 担心
+  py: dānxīn
+  set: 5
+  tone: 11
+  memo: burden + heart
 
 to wrap:
   cn: 包

@@ -121,7 +121,7 @@ must:
     - to need to
   memo: fixme
 
-office:
+office(1):
   cn: 厅
   py: tīng
   set: 3
@@ -132,6 +132,15 @@ office:
     - office
     - provincial government department
   memo: Looks like a building with one of them high tables in it for a <b>reception hall</b> or <b>office</b>
+
+office(2):
+  cn: 办公室
+  py: bàngōngshì
+  set: 5
+  tone: 414
+  also:
+    - bureau
+  memo: fixme
 
 opthalmologist:
   cn: 眼科医生

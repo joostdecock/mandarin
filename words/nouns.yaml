@@ -40,6 +40,21 @@ boxed meal:
   tone: 24
   memo: small box / case + meal
 
+burden:
+  cn: 担
+  py: dān
+  set: 5
+  tone: 1
+  also:
+    - load
+    - to carry
+    - to undertake
+    - responsibility
+    - to shoulder
+    - to take a responsibilty
+    - shoulder-pole load
+  memo: fixme
+
 candy:
   cn: 糖 
   py: táng
@@ -286,7 +301,7 @@ guidebook:
     - to conduct a tour
   memo: fixme
 
-idea:
+idea(1):
   cn: 意思
   py: yì si
   set: 3
@@ -302,6 +317,16 @@ idea:
     - to give as a small token
     - to do something as a gesture of goodwill
   memo: This is <b>thought</b> plus <b>consider</b> 
+
+idea(2):
+  cn: 主意
+  py: zhǔ yi
+  set: 5
+  tone: 30
+  also:
+    - idea
+    - decision
+  memo: fixme
 
 instance:
   cn: 故
@@ -357,6 +382,18 @@ landscape:
     - scene
     - view
   memo: scenery + look/appearance
+
+layer:
+  cn: 层
+  py: céng
+  set: 5
+  tone: 2
+  also:
+    - level
+    - floor
+    - storey
+    - stratum
+  memo: fixme
 
 letter:
   cn: 信
@@ -780,7 +817,7 @@ trunk:
     - chest
   memo: fixme
 
-type:
+type(1):
   cn: 类
   py: lèi
   set: 5
@@ -792,6 +829,18 @@ type:
     - similar
     - like
     - to resemble
+  memo: fixme
+
+type(2):
+  cn: 种
+  py: zhǒng 
+  set: 5
+  tone: 3
+  also:
+    - seed
+    - species
+    - kind
+    - measure word for types, kinds, sorts
   memo: fixme
 
 video game:

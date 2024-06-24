@@ -531,6 +531,15 @@ very:
   memo: |
     Character for <a href="/非1">to not be</a> plus character for <a href="常2">always</a> makes for <b>unusual</b>, <b>extraordinary</b>, or just <b>very (much)</b>
 
+we:
+  cn: 咱们
+  py: zán men
+  set: 5
+  tone: 20
+  also: 
+    - we or us, including both the speaker and the one(s) spoken to
+  memo: fixme
+
 what:
   cn: 什么
   tone: 20

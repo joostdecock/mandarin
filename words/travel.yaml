@@ -160,6 +160,13 @@ sightseeing:
     - to tour
     - to visit
 
+special price:
+  cn: 特价
+  py: tè jià
+  set: 5
+  tone: 44
+  memo: fixme
+
 speech:
   cn: 语
   tone: 3

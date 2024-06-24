@@ -386,6 +386,13 @@ paper napkin:
   tone: 113
   memo: fixme
 
+pizza:
+  cn: 比萨
+  py: bǐ sà
+  set: 5
+  tone: 34
+  memo: fixme
+
 pot:
   cn: 锅
   tone: 1
