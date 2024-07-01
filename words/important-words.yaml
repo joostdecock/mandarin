@@ -82,6 +82,19 @@ both:
   memo: |
     On the right, it looks (a bit) like two boobs. Don't you want to admire <b>both</b> of them <b>entirely</b>?
 
+but:
+  cn: 不过
+  py: bùguò
+  set: 5
+  tone: 44
+  also:
+    - however
+    - only
+    - no more than
+    - only
+    - merely
+    - mere
+
 can:
   cn: 会
   tone: 4
@@ -409,6 +422,16 @@ or (for questions):
   also:
     - still
     - nevertheless
+  memo: fixme
+
+should:
+  cn: 应该
+  py: yīnggāi
+  set: 5
+  tone: 11
+  also:
+    - must
+    - ought to
   memo: fixme
 
 so:

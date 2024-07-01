@@ -152,6 +152,15 @@ city:
     - town
   memo: fixme
 
+coach:
+  cn: 教练
+  py: jiàoliàn
+  set: 5
+  tone: 44
+  also:
+    - instructor
+    - to condition
+
 credit:
   cn: 信用
   py: xìn yòng
@@ -234,6 +243,13 @@ festival:
     - classifier for segments, e.g. lessons, train wagons, biblical verses
   memo: Looks a bit like a shingle someone put up on the renaissance fair (festival) but this has so many meanings it's hard to cover them.
 
+fitness:
+  cn: 健身
+  py: jiànshēn
+  set: 5
+  tone: 41
+  memo: fixme
+
 foreigner:
   cn: 外国人
   py: wài guó rén
@@ -299,6 +315,17 @@ guidebook:
   also:
     - tour guide
     - to conduct a tour
+  memo: fixme
+
+height:
+  cn: 个子
+  py: gèzi
+  set: 5
+  tone: 4
+  also:
+    - stature
+    - size
+    - build
   memo: fixme
 
 idea(1):

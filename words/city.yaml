@@ -161,6 +161,13 @@ neighbor:
   also:
     - next door
 
+office building:
+  cn: 办公楼
+  py: bàngōng lóu
+  set: 5
+  tone: 412
+  memo: fixme
+
 other people:
   cn: 别人
   py: bié rén

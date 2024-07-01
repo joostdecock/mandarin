@@ -48,13 +48,24 @@ bewildering:
     - rather
   memo: Person tied up about to be impaled. It's all rather bewildering.
 
-boring:
+boring(1):
   cn: 没有意思
   py: méi yǒu yì si
   tone: 2340
   set: 4
   also:
     - of no interest
+  memo: fixme
+
+boring(2):
+  cn: 无聊
+  py: wúliáo
+  set: 5
+  tone: 22
+  also:
+    - bored
+    - silly
+    - stupid
   memo: fixme
 
 bright:
@@ -521,6 +532,17 @@ same:
     - equal to
     - the same as
     - just like
+  memo: fixme
+
+short:
+  cn: 矮
+  py: ǎi
+  set: 5
+  tone: 3
+  also:
+    - low
+    - low in grade
+    - low in rank
   memo: fixme
 
 similar:
