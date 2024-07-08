@@ -30,4 +30,29 @@ ni [verb] mei [verb] guo = did you or not
 loa gong = husband (sorry)
 yitian = before
 romantic = langman
-ZZZ
+
+ci = measure word for times
+shang ge xing xi = last week
+yi qian = before
+hai mei = not
+hangguo paocai = kim chi?
+waimai = order take away (why am I (cooking))
+
+yong = to use
+jia = measure word for places of business
+dianfanboa = rice cooker
+paizi = brand
+you ming = famous
+wei dao = taste
+wen chi lai = smells like ?
+chi chi lai (hen hao) = tastes (good
+kan chi lai (hen hao) = looks good
+ting chi lay = sounds good
+liulian = durian
+moxige = mexico
+ding waimai = order takeout
+jiao waimai = order takeout (more popular as ding also means booking whereas jiao just means order)
+wang zhang = website (zhang as in measure word for ticket)
+
+
+ 
