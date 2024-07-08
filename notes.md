@@ -54,5 +54,30 @@ ding waimai = order takeout
 jiao waimai = order takeout (more popular as ding also means booking whereas jiao just means order)
 wang zhang = website (zhang as in measure word for ticket)
 
+hue yi = meeting
+kai hue = meeting
+jianpuzhai = cambodia
+chao shi = supermarket
+mi = rice
+gongjin = kilogram
+dai = measure word for package(s)
+ru guo = if
+man = slow
+nanning = is where hihi is now
+dong che = high speed train
+gaotie = higher speed train
+duche = traffic jam
+jing chang = often
+cheng she = city
+you ming = famous
+ru xiang sui su = when in Rome (not literally, but same meaning)
+hua fu bing = waffle
+tebie = very/most/special
+hai mei = not yet
+hai .... ne = really cute begging please style
+waimai = take away (outside + sell)
+tebie = most / super fei chang
+
+
 
  
